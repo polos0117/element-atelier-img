@@ -1,0 +1,25 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Wide horizontal background illustration for a website header, 3:2, no people, no text, no lettering, no logo. Polished 2.5D game key-art style with clean linework and soft dimensional shading, calm composition with an open, uncluttered lower half where UI cards will sit; subtle depth, gentle light.\nSCENE: the mouth of a mine tunnel in a forest — wooden support beams, rails leading into a warm-lit gallery, an ore cart with raw iron, copper and glittering salt-white crystals, ferns and mossy rocks, soft green daylight filtering through trees, a hanging oil lantern.",
+ "usage": {
+  "input_tokens": 134,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 134
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 477
+ },
+ "seconds": 20.712,
+ "date": "2026-10-30",
+ "file": "backgrounds/room-forest.webp",
+ "theme": "forest",
+ "png_sha256": "d81ae99edae0a292e960b326b414811563f1fd7e3f36b5412e59a8f52d975526",
+ "note": "공간 배경 — lib/room.css 가 맨 아래 겹에 깐다. 도트 공방의 그리기(images/generations)와 같은 열쇠로 받은 가로 그림"
+}

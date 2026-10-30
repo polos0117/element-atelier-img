@@ -1,0 +1,25 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Wide horizontal background illustration for a website header, 3:2, no people, no text, no lettering, no logo. Polished 2.5D game key-art style with clean linework and soft dimensional shading, calm composition with an open, uncluttered lower half where UI cards will sit; subtle depth, gentle light.\nSCENE: a bright daytime chemistry laboratory — tall windows with morning sun, glass flasks, beakers and a glass distillation set on a clean white bench catching the light, a large periodic-table poster blurred on the back wall with no readable letters, pale pink and sky-blue reflections, dust motes in the sunbeam.",
+ "usage": {
+  "input_tokens": 141,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 141
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 484
+ },
+ "seconds": 18.997,
+ "date": "2026-10-30",
+ "file": "backgrounds/room-sunlit.webp",
+ "theme": "sunlit",
+ "png_sha256": "706aee64e6cd3da6a2648554d5612e2b9d994f84727999dbe401e90d0f4c580b",
+ "note": "공간 배경 — lib/room.css 가 맨 아래 겹에 깐다. 도트 공방의 그리기(images/generations)와 같은 열쇠로 받은 가로 그림"
+}

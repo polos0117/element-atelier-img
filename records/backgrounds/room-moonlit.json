@@ -1,0 +1,25 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Wide horizontal background illustration for a website header, 3:2, no people, no text, no lettering, no logo. Polished 2.5D game key-art style with clean linework and soft dimensional shading, calm composition with an open, uncluttered lower half where UI cards will sit; subtle depth, gentle light.\nSCENE: the inside of a hilltop observatory at night, the dome slit open to a deep indigo starry sky with the Milky Way, a large brass refractor telescope on its mount, soft pink and cyan instrument lights on a desk, a faint violet nebula glow through the opening.",
+ "usage": {
+  "input_tokens": 137,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 137
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 480
+ },
+ "seconds": 19.054,
+ "date": "2026-10-30",
+ "file": "backgrounds/room-moonlit.webp",
+ "theme": "moonlit",
+ "png_sha256": "96a088a7829d5363cfbf5e912320f0be128b0c8fda4161a11d7927036d1fb24e",
+ "note": "공간 배경 — lib/room.css 가 맨 아래 겹에 깐다. 도트 공방의 그리기(images/generations)와 같은 열쇠로 받은 가로 그림"
+}
