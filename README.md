@@ -9,7 +9,7 @@ img/<카드>_<세계>_<화풍>_f.webp       세계 그림. 1024×1536 (2:3). 세
 img/<카드>_<화풍>_f_casualN.webp      일상컷 N — 세계를 안 탄다
 img/<카드>_<화풍>_f_extraN.webp       특별컷 N (선택)
 img/thumb/<같은 이름>                 목록용(긴 변 512, webp 72). 워크플로가 만든다
-records/<카드>/<세계>-ui.json         어떻게 만들었나 — 생성기의 "기록 내보내기" JSON 그대로
+records/<카드>/<세계>-ui.json         어떻게 만들었나 — 생성기의 "기록 내보내기" JSON 그대로(기본 화풍 밖은 <세계>.<화풍>-ui.json)
 records/<카드>/casualN-ui.json        일상컷의 기록
 ```
 
