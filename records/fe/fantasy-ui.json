@@ -5,28 +5,55 @@
  "world": "fantasy",
  "style": "game_cgi",
  "styleVersion": "v1",
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "ember"
+  },
+  "silhouette": {
+   "body": "broad_strong",
+   "hair": "long_wavy",
+   "hair_color": "iron_grey"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
  "file": "fe_fantasy_game_cgi_f.webp",
- "source": "생성기 조립(lib/prompt-element.js build) 그대로 — 화풍 game_cgi 채택 뒤 첫 그림(2026-10-30). 메카는 화풍 비교 때 뽑은 장(같은 지시문)",
- "prompt": "CONCEPT: the personification of the element Iron (철) itself — the sovereign of the Iron Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Iron (Fe) to carry in her design and the scene: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood. Palette: iron grey, steel silver, rust orange, ember red, black soot.\nWORLD — FANTASY: a fantasy kingdom of smiths: a mountain fortress built around a great forge, rivers of molten iron glowing in channels, hammered-iron gates, anvils as altars, iron filings drawn into patterns by magic magnetism, ember sparks in the air. Costume and setting belong to that fantasy world: period cloth, metal ornament and regalia built from the traits above, subtle magical glow along the patterns; no modern material, no machinery.\nSTYLE: High-end stylized game CGI with coherent three-dimensional anatomy, physically convincing costume and prop construction, clean materials and dramatic production lighting. Preserve a designed character-art finish rather than live-action texture.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no text, no lettering, no numbers, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "prompt": "CONCEPT: the personification of the element Iron (철) itself — the sovereign of the Iron Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Iron (Fe) to carry in her design and the scene: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood. Palette: iron grey, steel silver, rust orange, ember red, black soot.\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\nSILHOUETTE: broad-shouldered and strong build; long wavy hair; iron-grey hair with a brushed-steel sheen.\nFACE (her own structure, not the style's default face): long face; narrow upturned eyes; sharp angled brows; straight narrow nose; thin long lips; ember-orange eyes.\nWORLD — FANTASY: a fantasy kingdom of smiths: a mountain fortress built around a great forge, rivers of molten iron glowing in channels, hammered-iron gates, anvils as altars, iron filings drawn into patterns by magic magnetism, ember sparks in the air. COSTUME (fantasy): a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns. No corset, no bustle, no Victorian tailoring, no modern material, no machinery. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise.\nSTYLE: High-end stylized game CGI with coherent three-dimensional anatomy, physically convincing costume and prop construction, clean materials and dramatic production lighting. Preserve a designed character-art finish rather than live-action texture.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no text, no lettering, no numbers, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-10-31",
+ "source": "생성기 조립 그대로 — 철나라 판타지·스팀펑크 다시 뽑기(2026-10-31): 세계마다 옷 뼈대·과감 노출·빛, 세계마다 머리·얼굴형·눈. 가문주는 가문마다 장면 변주",
  "generation": {
   "model": "gpt-image-2.5-sunburst",
   "size": "1024x1536",
   "quality": "medium",
   "usage": {
-   "input_tokens": 431,
+   "input_tokens": 689,
    "input_tokens_details": {
     "image_tokens": 0,
-    "text_tokens": 431
+    "text_tokens": 689
    },
    "output_tokens": 343,
    "output_tokens_details": {
     "image_tokens": 343,
     "text_tokens": 0
    },
-   "total_tokens": 774
+   "total_tokens": 1032
   },
-  "seconds": 23.129,
-  "png_sha256": "b640702d8c9849ae0940d47d607a0289dacca8ddbb9a5256d017a7d727043567"
- },
- "date": "2026-10-30"
+  "seconds": 20.838,
+  "png_sha256": "5c2e24b99ca3e187116570907749cd39e4d3790e22c7f57c0748b57ad7649cc4"
+ }
 }
