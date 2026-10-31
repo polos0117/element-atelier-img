@@ -1,32 +1,59 @@
 {
  "atelier": "element",
  "card": "fe-steel-nail",
+ "tier": "citizen",
  "world": "mecha",
- "slot": "mecha",
  "style": "game_keyart",
  "styleVersion": "v1",
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "narrow_upturned",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "steel_blue"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "voluminous",
+   "hair_color": "dark_iron"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
  "file": "fe-steel-nail_mecha_game_keyart_f.webp",
- "source": "시안 — 저장소를 만들기 전(2026-10-30) 손으로 쓴 지시문. 설계표(traits·worlds)의 바탕이 됐다",
- "prompt": "CONCEPT: a citizen of the Iron Nation — the nation of the element of tools, weapons and blood: heavy, grounded, industrious. Each citizen is a personification of one substance or use of that element.\nCITIZEN: NAIL (the future). A female personification character with a steel nail as her motif — the nail reimagined as a woman in a construction worker's hard-surface suit that carries its materials, colors, shape and motifs: brushed steel grey, a flat round nail-head as a helmet disc or hair crown, a tall slim pointed silhouette, rivet and bolt details, hazard-orange accents. She does NOT hold a nail; it is not a separate object. Both hands are ordinary human hands and hold nothing.\nERA: THE FUTURE, year 2080 — an orbital construction site above Earth: steel trusses of a space habitat under assembly, the curve of the planet and a thin blue atmosphere below, a welding robot arm in the distance, hard sunlight and deep shadow of space. Her suit is practical near-future engineering gear (sealed, with a small helmet ring), not fantasy and not a battle mecha.\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no creature, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "prompt": "CONCEPT: a citizen of the Iron Nation, of the Steel House. A female personification character with a steel nail — a flat round head on a tall slim pointed shaft as her motif — the object reimagined as a woman in cloth and ornament that carry its materials, colors, shape and motifs. She does NOT hold, carry or wield the object; it is not a separate object. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Iron (Fe) to carry in her design and the scene: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood. Palette: iron grey, steel silver, rust orange, ember red, black soot.\nHOUSE TRAITS of Steel: polished mirror-bright steel, straight hard lines, tempered blue-grey edges, rivets and girders; the strong, dependable side of iron. Palette: brushed steel silver, tempered blue, graphite black, a single ember-orange accent.\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\nSILHOUETTE: athletic build; voluminous hair; dark wrought-iron grey hair.\nFACE (her own structure, not the style's default face): round face; narrow upturned eyes; thick straight brows; straight narrow nose; thin long lips; steel-blue eyes.\nWORLD — MECHA: year 2150, an orbital iron foundry over a red-dust asteroid: molten metal pouring in zero gravity into glowing molds, magnetic rails, stars and a distant sun, hard rim light. The flat round nail-head as a helmet disc, a tall slim pointed silhouette, rivet and bolt details, hazard-orange accents; practical engineering gear, an orbital construction site above Earth. MECHA DESIGN: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. heavy dark-iron plating with brushed-steel edges, visible rivets and I-beam girder shapes in the pauldrons and greaves, a magnetic field drawn as hovering iron-filing arcs and a halo of orbiting shards, forge-orange glow lines along the seams, a rusted patina band across one shoulder, a back unit shaped like a blast-furnace crown. Her object leads the mecha design — its silhouette and parts must read at first glance in the plates, binders, helmet and back unit.\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no text, no lettering, no numbers, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-10-31",
+ "source": "생성기 조립 그대로 — 철나라 주민 첫 묶음(2026-10-31, 기본 화풍 2.5D). 머리색은 물건 재질, 머리·얼굴형·눈은 가문주와 다르게, 옷은 물건이 먼저. 메모가 없는 세계는 장면 변주로 배경을 갈랐다",
  "generation": {
   "model": "gpt-image-2.5-sunburst",
   "size": "1024x1536",
   "quality": "medium",
   "usage": {
-   "input_tokens": 434,
+   "input_tokens": 876,
    "input_tokens_details": {
     "image_tokens": 0,
-    "text_tokens": 434
+    "text_tokens": 876
    },
    "output_tokens": 343,
    "output_tokens_details": {
     "image_tokens": 343,
     "text_tokens": 0
    },
-   "total_tokens": 777
+   "total_tokens": 1219
   },
-  "seconds": 20.911,
-  "png_sha256": "8e2474e71c189d5710021dc3add7c32a4246d58b1821a65ba8b219785a0413c6"
- },
- "date": "2026-10-30"
+  "seconds": 18.108,
+  "png_sha256": "4da0267e73c27defd8643e348364383ccc6e8f3aff556b8f534c568769496775"
+ }
 }
