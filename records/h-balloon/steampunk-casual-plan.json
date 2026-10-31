@@ -1,0 +1,100 @@
+{
+ "card": "h-balloon",
+ "world": "steampunk",
+ "seed": 453090579,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "swimwear",
+ "slots": [
+  1,
+  2,
+  5
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "nation",
+   "place": "nation_inn",
+   "ofam": "swimwear",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "sip_close",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "crossstrap_swim",
+   "expr": "provocative",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "site",
+   "place": "site_lab",
+   "ofam": "traditional",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_away",
+   "use": "flask_hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "environmental",
+   "body": "back",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_stride",
+   "gaze": "horizon",
+   "item": "kente_modern",
+   "expr": "",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 5,
+   "era": "nation",
+   "place": "nation_market",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "wave_chest",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "wave",
+   "left": "chest_hand",
+   "legs": "",
+   "gaze": "camera",
+   "item": "knit_dress_home",
+   "expr": "proud",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}

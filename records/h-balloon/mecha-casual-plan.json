@@ -1,0 +1,100 @@
+{
+ "card": "h-balloon",
+ "world": "mecha",
+ "seed": 453091768,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "nation",
+ "slots": [
+  1,
+  2,
+  3
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "now",
+   "place": "stage_event",
+   "ofam": "traditional",
+   "treeV": 2,
+   "prop": "",
+   "preset": "stand_use",
+   "use": "camera_check",
+   "posture": "stand",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "stand_relaxed",
+   "gaze": "",
+   "item": "qipao_daily",
+   "expr": "candid",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "fantasy",
+   "place": "fx_starstage",
+   "ofam": "evening",
+   "treeV": 2,
+   "prop": "",
+   "preset": "hair_close",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "face_close",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "hair_tuck",
+   "left": "out",
+   "legs": "",
+   "gaze": "down",
+   "item": "velvet_evening",
+   "expr": "amused",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "now",
+   "place": "travel_dunes",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "wrap_close",
+   "use": "sig_both",
+   "kind": "both",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "front",
+   "head": "tilt",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "",
+   "gaze": "camera",
+   "item": "back_strap",
+   "expr": "sensual",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
