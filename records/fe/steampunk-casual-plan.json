@@ -1,0 +1,105 @@
+{
+ "card": "fe",
+ "world": "steampunk",
+ "seed": 436999088,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "lingerie",
+ "slots": [
+  1,
+  3,
+  5
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "nation",
+   "place": "nation_roof",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
+   "gaze": "horizon",
+   "item": "fleece_joggers",
+   "expr": "serious",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_ballroom",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "counter_work",
+   "use": "sig_both",
+   "kind": "both",
+   "posture": "lean_counter",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "",
+   "gaze": "",
+   "item": "bath_yukata",
+   "expr": "determined",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 5,
+   "era": "nation",
+   "place": "nation_square",
+   "ofam": "evening",
+   "treeV": 2,
+   "prop": "",
+   "preset": "shush_close",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "face_close",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "shush",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "halter_evening",
+   "expr": "wistful",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ],
+ "replan": {
+  "slot": 1,
+  "reason": "moderation_blocked twice; nonsexual fleece top and joggers homewear scene",
+  "seed": 2026103101
+ }
+}

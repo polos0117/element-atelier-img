@@ -1,0 +1,101 @@
+{
+ "card": "fe",
+ "world": "mecha",
+ "seed": 436999320,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "lingerie",
+ "slots": [
+  1,
+  2,
+  3
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "now",
+   "place": "train_sleeper",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "raise_chest",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "front_3q",
+   "head": "tilt",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "",
+   "item": "qipao_silk_set",
+   "expr": "playful",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "now",
+   "place": "sports_studio",
+   "ofam": "swimwear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "shush_close",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "face_close",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "shush",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "crossstrap_swim",
+   "expr": "laughing",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_castle",
+   "ofam": "roleplay",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_lookback",
+   "use": "lantern_low",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "rear_3q",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_pause",
+   "gaze": "camera",
+   "item": "cheer_costume",
+   "expr": "laughing_open",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
