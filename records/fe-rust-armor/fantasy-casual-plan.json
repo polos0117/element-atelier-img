@@ -1,0 +1,100 @@
+{
+ "card": "fe-rust-armor",
+ "world": "fantasy",
+ "seed": 447172688,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "nation",
+ "slots": [
+  1,
+  2,
+  5
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "nation",
+   "place": "nation_inn",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "sip_close",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "bath_yukata",
+   "expr": "sensual",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "now",
+   "place": "spa_onsen",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "edge_dangle",
+   "use": "",
+   "posture": "sit_edge",
+   "support": "hip_edge",
+   "frame": "full_body",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "edge_brace_both",
+   "left": "edge_brace_both",
+   "legs": "feet_in_water",
+   "gaze": "horizon",
+   "item": "light_slip",
+   "expr": "playful",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 5,
+   "era": "now",
+   "place": "water_yacht",
+   "ofam": "retro",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_away",
+   "use": "rod_rest",
+   "posture": "walk",
+   "support": "none",
+   "frame": "environmental",
+   "body": "back",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_stride",
+   "gaze": "horizon",
+   "item": "mod_mini",
+   "expr": "",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
