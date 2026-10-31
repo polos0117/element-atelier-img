@@ -1,0 +1,106 @@
+{
+ "card": "fe-steel",
+ "world": "mecha",
+ "seed": 437877364,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "swimwear",
+ "slots": [
+  1,
+  3,
+  4
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "nation",
+   "place": "nation_inn",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "",
+   "preset": "counter_work",
+   "use": "salt_pour",
+   "posture": "lean_counter",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "",
+   "gaze": "",
+   "item": "spa_robe",
+   "expr": "amused",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_observatory",
+   "ofam": "subculture",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_away",
+   "use": "book_hold",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "environmental",
+   "body": "back",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_stride",
+   "gaze": "horizon",
+   "item": "gyaru",
+   "expr": "",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 4,
+   "era": "now",
+   "place": "travel_cablecar",
+   "ofam": "everyday",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "sip_close",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "trench_coat",
+   "expr": "calm",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ],
+ "replan": {
+  "slot": 1,
+  "reason": "moderation_blocked twice; nonsexual spa robe task at inn table",
+  "seed": 2026103101
+ }
+}
