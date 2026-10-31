@@ -1,0 +1,100 @@
+{
+ "card": "h-fuel",
+ "world": "mecha",
+ "seed": 464761752,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "lingerie",
+ "slots": [
+  1,
+  2,
+  3
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "fantasy",
+   "place": "fx_chapel",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "lookback_raise",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "side",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "open_shirt_lingerie",
+   "expr": "exhausted",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "now",
+   "place": "night_rooftop",
+   "ofam": "bridal",
+   "treeV": 2,
+   "prop": "",
+   "preset": "reach_waist",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "reach",
+   "left": "chest_hand",
+   "legs": "",
+   "gaze": "camera",
+   "item": "reception_backless",
+   "expr": "curious",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "now",
+   "place": "stage_redcarpet",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "",
+   "preset": "hip_contra",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "hip",
+   "left": "hair_tuck",
+   "legs": "contrapposto",
+   "gaze": "camera",
+   "item": "spa_robe",
+   "expr": "mildly_annoyed",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
