@@ -1,32 +1,59 @@
 {
  "atelier": "element",
  "card": "fe",
+ "tier": "root",
  "world": "steampunk",
- "slot": "steampunk",
  "style": "game_keyart",
  "styleVersion": "v1",
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "almond_wide",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "ember"
+  },
+  "silhouette": {
+   "body": "broad_strong",
+   "hair": "updo_bun",
+   "hair_color": "iron_grey"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
  "file": "fe_steampunk_game_keyart_f.webp",
- "source": "시안 — 저장소를 만들기 전(2026-10-30) 손으로 쓴 지시문. 설계표(traits·worlds)의 바탕이 됐다",
- "prompt": "CONCEPT: the personification of the element IRON (Fe) itself — the sovereign of the Iron Nation — in THE MODERN AGE (19th century), drawn as steampunk. A female character who IS iron; her costume, ornaments and colors carry the element's traits. ELEMENT TRAITS of Iron (Fe) to carry in her design and the scene: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood. Palette: iron grey, steel silver, rust orange, ember red, black soot.\nERA — THE MODERN AGE, STEAMPUNK: the Industrial Revolution around 1860: a cast-iron railway bridge over a river, a steam locomotive with a glowing firebox, blast furnaces and chimneys, riveted iron girders, gauges and valves, coal smoke under a copper sunset. Her outfit is Victorian industrial: a fitted riveted iron corset-bodice over a bustled skirt of dark wool and rust-orange silk, iron-and-brass gauntlet cuffs, a top hat with a small smokestack ornament, goggles, chain details; muted steel grey, rust and ember accents. Both hands are ordinary human hands and hold nothing.\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "prompt": "CONCEPT: the personification of the element Iron (철) itself — the sovereign of the Iron Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Iron (Fe) to carry in her design and the scene: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood. Palette: iron grey, steel silver, rust orange, ember red, black soot.\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\nSILHOUETTE: broad-shouldered and strong build; an updo bun; iron-grey hair with a brushed-steel sheen.\nFACE (her own structure, not the style's default face): oval face; wide almond eyes; sharp angled brows; straight narrow nose; thin long lips; ember-orange eyes.\nWORLD — STEAMPUNK: the Industrial Revolution around 1860: a cast-iron railway bridge over a river, a steam locomotive with a glowing firebox, blast furnaces and chimneys, riveted iron girders, gauges and valves, coal smoke under a copper sunset. COSTUME (steampunk): late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles on the brow or a small instrument as ornament; below, a short bustle skirt over riding trousers and laced boots; muted palette with the traits above as accents. No armor plates, no cape, no crown unless CONCEPT says she wears one; steam, pipes and gauges in the scene; no modern plastic, no sci-fi. LIGHT: hazy gaslight and a smoky overcast sky, unless TIME & WEATHER says otherwise.\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): the high collar unbuttoned down to the sternum with natural cleavage, sleeves rolled above the elbow, a short bustle skirt showing the legs above laced boots; the waistcoat stays buttoned at the waist. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no text, no lettering, no numbers, no logo, no watermark, no speech bubble, no frame border.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-10-31",
+ "source": "생성기 조립 그대로 — 철나라 게임 키아트 2.5D 판(2026-10-31). CGI 판과 같은 장면·외형·옷, 화풍 줄만 game_keyart",
  "generation": {
   "model": "gpt-image-2.5-sunburst",
   "size": "1024x1536",
   "quality": "medium",
   "usage": {
-   "input_tokens": 479,
+   "input_tokens": 713,
    "input_tokens_details": {
     "image_tokens": 0,
-    "text_tokens": 479
+    "text_tokens": 713
    },
    "output_tokens": 343,
    "output_tokens_details": {
     "image_tokens": 343,
     "text_tokens": 0
    },
-   "total_tokens": 822
+   "total_tokens": 1056
   },
-  "seconds": 22.852,
-  "png_sha256": "0f60155a655e8d26dd19afc6e7ee342165014f249967d39aa1cd53d8c7d9b0ad"
- },
- "date": "2026-10-30"
+  "seconds": 19.257,
+  "png_sha256": "6177d430777f924421d15718cc868fd8a173e398263aee26e50f36688bf9d02f"
+ }
 }
