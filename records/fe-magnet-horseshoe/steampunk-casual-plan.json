@@ -1,0 +1,106 @@
+{
+ "card": "fe-magnet-horseshoe",
+ "world": "steampunk",
+ "seed": 451008181,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "swimwear",
+ "slots": [
+  3,
+  4,
+  5
+ ],
+ "cuts": [
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_ballroom",
+   "ofam": "evening",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "sip_close",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "one_shoulder_satin",
+   "expr": "surprised",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 4,
+   "era": "site",
+   "place": "site_lab",
+   "ofam": "everyday",
+   "treeV": 2,
+   "prop": "",
+   "preset": "stand_use",
+   "use": "flask_pour",
+   "posture": "stand",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "stand_relaxed",
+   "gaze": "",
+   "item": "halter_shorts",
+   "expr": "curious",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 5,
+   "era": "site",
+   "place": "site_hydrogen",
+   "ofam": "everyday",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_lookback",
+   "use": "tube_hold",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "rear_3q",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_pause",
+   "gaze": "camera",
+   "item": "cargo_crop",
+   "expr": "provocative",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ],
+ "replanned": {
+  "slot": 4,
+  "seed": 20261031,
+  "reason": "two output safety rejections; one alternate everyday scene planned by casual-plan"
+ }
+}
