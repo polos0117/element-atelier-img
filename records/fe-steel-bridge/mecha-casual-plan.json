@@ -1,0 +1,99 @@
+{
+ "card": "fe-steel-bridge",
+ "world": "mecha",
+ "seed": 443962358,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "lingerie",
+ "slots": [
+  1,
+  3,
+  5
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "nation",
+   "place": "nation_room",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "",
+   "preset": "lookback_raise",
+   "use": "cup_sip",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "side",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "juban_inspired",
+   "expr": "curious",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "now",
+   "place": "evening_hotel",
+   "ofam": "traditional",
+   "treeV": 2,
+   "prop": "",
+   "preset": "stand_use",
+   "use": "book_turn",
+   "posture": "stand",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "stand_relaxed",
+   "gaze": "",
+   "item": "abaya_modern",
+   "expr": "gentle",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 5,
+   "era": "now",
+   "place": "street_alley",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "lie_side_full",
+   "use": "",
+   "posture": "lie_side",
+   "support": "side_floor",
+   "frame": "full_body",
+   "body": "front",
+   "head": "tilt",
+   "camera": "high",
+   "right": "behind_head",
+   "left": "floor_brace",
+   "legs": "legs_bent_side",
+   "gaze": "camera",
+   "item": "camisole_wrap",
+   "expr": "pensive",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
