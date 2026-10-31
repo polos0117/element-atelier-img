@@ -1,0 +1,100 @@
+{
+ "card": "fe-steel-sword",
+ "world": "steampunk",
+ "seed": 439155613,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "swimwear",
+ "slots": [
+  1,
+  2,
+  3
+ ],
+ "cuts": [
+  {
+   "n": 1,
+   "era": "site",
+   "place": "site_hydrogen",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "walk_lookback",
+   "use": "sig_hold",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "rear_3q",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_pause",
+   "gaze": "camera",
+   "item": "spa_robe",
+   "expr": "gentle",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 2,
+   "era": "nation",
+   "place": "nation_room",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "reach_waist",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "reach",
+   "left": "chest_hand",
+   "legs": "",
+   "gaze": "camera",
+   "item": "light_slip",
+   "expr": "surprised",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "site",
+   "place": "site_mine",
+   "ofam": "traditional",
+   "treeV": 2,
+   "prop": "",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
+   "gaze": "horizon",
+   "item": "kente_modern",
+   "expr": "gentle",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
