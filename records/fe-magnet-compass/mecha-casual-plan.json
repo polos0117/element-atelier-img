@@ -1,0 +1,101 @@
+{
+ "card": "fe-magnet-compass",
+ "world": "mecha",
+ "seed": 449023829,
+ "tree": 2,
+ "style": "game_keyart",
+ "required": "nation",
+ "slots": [
+  2,
+  3,
+  4
+ ],
+ "cuts": [
+  {
+   "n": 2,
+   "era": "now",
+   "place": "travel_cablecar",
+   "ofam": "bath",
+   "treeV": 2,
+   "prop": "0",
+   "preset": "sip_close",
+   "use": "sig_raise",
+   "kind": "raise",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "towel_wrap",
+   "expr": "bored",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_circus",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "",
+   "preset": "thumbs_waist",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "thumbs_up",
+   "left": "hip",
+   "legs": "",
+   "gaze": "camera",
+   "item": "cotton_set",
+   "expr": "mischievous",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  },
+  {
+   "n": 4,
+   "era": "nation",
+   "place": "nation_roof",
+   "ofam": "everyday",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_away",
+   "use": "lantern_low",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "environmental",
+   "body": "back",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_stride",
+   "gaze": "horizon",
+   "item": "paint_shirt",
+   "expr": "",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
