@@ -90,7 +90,12 @@
   "webp": {
    "quality": 90,
    "method": 6,
-   "sha256": "8ddfbc84796faebf5238e5c084b4dd031934f0ac5a1566a39f1db66ac1754726"
+   "sha256": "8ddfbc84796faebf5238e5c084b4dd031934f0ac5a1566a39f1db66ac1754726",
+   "repair": {
+    "date": "2026-11-02",
+    "previous_webp_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "reason": "첫 WebP 변환이 0바이트로 저장되어 동일한 정상 원본 PNG에서 다시 변환함. 이미지 재생성이나 구도 변경 없음."
+   }
   },
   "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
   "ref_sha256": "e07cdb7d2bcd8657ce7b82523c4d07804a93d202c1777d533687344e27c940e0"
