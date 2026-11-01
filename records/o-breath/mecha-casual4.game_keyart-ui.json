@@ -82,31 +82,43 @@
  "generation": {
   "tool": "image_gen (GPT session)",
   "endpoint": "images/edits",
+  "ref_role": "existing off-duty image edit target",
+  "ref_sha256": "6fb598e7e28040d0f8ff0bf77ebb220ec83e77f969509f261ec9ee12d1ab09a0",
   "size": [
    1024,
    1536
   ],
-  "png_sha256": "43cdefd0401d6590223ba832a3128a062bb69530ec706a34d373cae674ba8019",
+  "png_sha256": "bec30aedfe4c7e0003b244632b7b3524ca3f35fd551ef23ba4e98ff6934a89a9",
   "webp": {
    "quality": 90,
    "method": 6,
-   "sha256": "6fb598e7e28040d0f8ff0bf77ebb220ec83e77f969509f261ec9ee12d1ab09a0"
+   "sha256": "b6903484b22045188960cd4f31a1351b7f06bc25b18309ba7c517d3140c2c701"
   },
-  "note": "Original PNG is not committed; SHA256 retained.",
-  "ref_sha256": "f3cdca4d6f4c43e754e85610f6e122668b6879676bc9304ca96ba5e11e47e59c"
+  "note": "Original PNG not committed; hash retained. Targeted arm repair; original record preserved in repair record."
  },
  "execution": "element-breath-20702f",
  "imported": "2026-11-01",
  "qa": {
-  "reviewer": "gpt-element-breath-20702f",
-  "image_sha256": "43cdefd0401d6590223ba832a3128a062bb69530ec706a34d373cae674ba8019",
+  "reviewer": "gpt-breath-arm-repair-20702f",
+  "image_sha256": "bec30aedfe4c7e0003b244632b7b3524ca3f35fd551ef23ba4e98ff6934a89a9",
   "passed": false,
   "observations": [
-   "같은 인물의 재즈바·하이슬릿 가운·뒤 3/4 돌아보기와 전신 발끝 여백 확인",
-   "두 팔·다리·손·발 연결 정상, 배경 인물은 흐리게 처리",
-   "인물 왼손이 난간을 짚고 오른손이 머리를 만져 계획과 좌우가 반대"
+   "화면 오른쪽 머리를 만지는 팔의 어깨·위팔·팔꿈치·전완 연결이 자연스러워짐",
+   "두 팔과 두 손이며 추가 팔다리 없음, 보이는 손가락은 정상적으로 연결됨",
+   "얼굴·단발·검정 드레스·난간 짚는 팔·배경·전신 발끝과 구도 유지",
+   "1024×1536, 금지된 로고·문구 추가 없음",
+   "지정 손 좌우와 결과가 반대인 기존 계획 불일치는 유지됨"
   ],
-  "cause": "RIGHT HAND 난간·LEFT HAND 머리 지시가 좌우 반전됨"
+  "cause": "머리를 만지는 팔 연결 수정은 통과. 원래 계획의 손 좌우 반전은 수정 요청 범위 밖."
  },
- "acceptance": "user_approval_2026-11-01 — QA followed by publication without further confirmation"
+ "acceptance": "user_approval_2026-11-01 — QA followed by publication without further confirmation",
+ "repairs": [
+  {
+   "date": "2026-11-01",
+   "record": "records/o-breath/repairs/mecha-casual4-arm-20261101.json",
+   "old_webp_sha256": "6fb598e7e28040d0f8ff0bf77ebb220ec83e77f969509f261ec9ee12d1ab09a0",
+   "new_webp_sha256": "b6903484b22045188960cd4f31a1351b7f06bc25b18309ba7c517d3140c2c701",
+   "qa_passed": true
+  }
+ ]
 }
