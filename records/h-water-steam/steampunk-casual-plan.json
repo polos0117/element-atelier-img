@@ -15,31 +15,33 @@
  "cuts": [
   {
    "n": 1,
+   "treeV": 2,
    "era": "nation",
    "place": "nation_room",
-   "ofam": "lingerie",
-   "treeV": 2,
-   "prop": "",
-   "preset": "lookback_raise",
-   "use": "brush_hair",
-   "posture": "stand",
-   "support": "none",
+   "ofam": "everyday",
+   "item": "turtleneck_quilted_vest",
+   "posture": "lean_wall",
+   "support": "back_wall",
    "frame": "chest_up",
    "body": "side",
-   "head": "over_shoulder",
+   "head": "with_body",
    "camera": "eye",
-   "right": "prop",
-   "left": "out",
+   "right": "arms_crossed",
+   "left": "arms_crossed",
+   "use": "",
    "legs": "",
-   "gaze": "camera",
-   "item": "asymmetric_lingerie",
-   "expr": "nostalgic",
+   "gaze": "window",
+   "expr": "soft_smile",
+   "preset": "crossed_wall",
+   "prop": "",
+   "outfit": "A completely opaque warm taupe fine-knit TURTLENECK with long sleeves and a closed high neckline, under a simple rust-brown quilted vest, with straight charcoal trousers. Soft comfortable clothes for relaxing at home. Plain everyday fabric, no element patterns, no lace, no sheer fabric, no open neckline. Keep this exact complete coverage.",
+   "custom": "NEW DESIGN requested by the user. The attached approved Steampunk world card supplies ONLY her adult face, blue eye color, voluminous silver-white hair, skin tone and body identity. Create a new ordinary off-duty scene; do not reuse the old off-duty brushing-hair composition. In her bright steampunk bedroom beside a tall window, she leans her back lightly against the wall. Her chest, shoulders, neck and face all point in the SAME comfortable side-profile direction toward the window, with no backward head turn. Her nose, chin and sternum are coherently aligned. Her two arms fold loosely IN FRONT of the clothed lower chest, each connected naturally through its own shoulder, upper arm, elbow, forearm and wrist. Exactly two arms and two hands; five fingers on each hand, with natural partial occlusion by the sleeves or the other arm. No hand near the face or behind her back; no hairbrush. Preserve the approved woman's facial proportions and hair length, with a calm soft closed-mouth smile. The window shows pale daylight and distant airships, with a few brass pipes integrated into the room. Only one small pressure-gauge hair clip as an element accessory; no crown, armor, veil, cape, droplet necklaces or ceremonial jewels from the reference. The chosen turtleneck and vest remain fully closed and opaque, in their own warm neutral colors. Compose a chest-up portrait, not full body. No text except H and 1 if any.",
    "axes": {
     "overall_intensity": "strong",
     "skin_exposure": "bold"
    },
-   "aspect": "2:3",
-   "unlocked": []
+   "unlocked": [],
+   "aspect": "2:3"
   },
   {
    "n": 2,
@@ -154,5 +156,12 @@
    "aspect": "2:3",
    "unlocked": []
   }
- ]
+ ],
+ "replan": {
+  "date": "2026-11-01",
+  "slot": 1,
+  "user_request": "증기 1번은 다른 설계로 다시 그려서 올려줘",
+  "why": "사용자 「증기 1번은 다른 설계로 다시 그려서 올려줘」 — 기존 비틀린 빗질·란제리 구도를 폐기하고 불투명 터틀넥·퀼팅 조끼, 같은 방향 몸·얼굴과 앞쪽 팔짱으로 새 설계.",
+  "previous_plan": "records/h-water-steam/history/steampunk-casual-plan.before-replan-2026-11-01.json"
+ }
 }
