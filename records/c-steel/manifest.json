@@ -57,10 +57,10 @@
   {
    "file": "img/c-steel_mecha_game_keyart_f_casual1.webp",
    "record": "records/c-steel/mecha-casual1.game_keyart-ui.json",
-   "prompt_sha256": "098ee051752a357d0f9c10c805fc7aaa1e7c4dc6c166a220f2c92548bbdc2018",
-   "png_sha256": "1374b00d626f9f76c8066cd56cf057e91b648448b4c1cf8a3dddbfbf86c566d6",
-   "webp_sha256": "c132e230d657aca7d4f97d49a1333a2fc93e2dfc2e56aecc1ed0c31bd8a64133",
-   "qa_passed": false
+   "prompt_sha256": "130b7cf9824e372ac3062303d70c55eada62b9b2b8f132bdb8154f8463048930",
+   "png_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
+   "webp_sha256": "e5892b5c7cf0e20612776aa78d58ce10dbff6e94e9fd6854cbe953b6697ab48f",
+   "qa_passed": true
   },
   {
    "file": "img/c-steel_mecha_game_keyart_f_casual2.webp",
@@ -154,9 +154,17 @@
  "summary": {
   "world": 3,
   "casual": 15,
-  "qa_passed": 5,
-  "qa_failed": 13
+  "qa_passed": 6,
+  "qa_failed": 12
  },
- "known_anatomy_issue": "mecha-casual1: 추가 팔과 손 — QA failed; 자동 작업 규칙 4절에 따라 결과를 재생성하지 않고 그대로 기록·반영",
- "publishing": "GitHub connector Git Data API; non-force fast-forward update with expected parent; 다른 변경 보존"
+ "known_anatomy_issue": "mecha-casual1의 추가 팔은 2026-11-01 사용자 요청으로 국소 편집해 수정 완료; 이전 실패 기록은 revisions에 보존",
+ "publishing": "GitHub connector Git Data API; non-force fast-forward update with expected parent; 다른 변경 보존",
+ "corrections": [
+  {
+   "file": "c-steel_mecha_game_keyart_f_casual1.webp",
+   "date": "2026-11-01",
+   "reason": "추가 팔 제거",
+   "record": "records/c-steel/mecha-casual1.game_keyart-ui.json"
+  }
+ ]
 }
