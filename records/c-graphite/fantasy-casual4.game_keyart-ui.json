@@ -86,28 +86,67 @@
       1024,
       1536
     ],
-    "png_sha256": "b87303bc6ac6ef4ac85e78a96d45e753263941b6fe9d9ed61c1705fbcc506686",
+    "png_sha256": "5c3f8fd795c930855c385d3dc9adf078b580e8a7fd84bfeb08a531d061afda3a",
+    "ref_sha256": "b87303bc6ac6ef4ac85e78a96d45e753263941b6fe9d9ed61c1705fbcc506686",
+    "identity_ref_sha256": "c8d21f34c2c0b423f6dafb993cfb177d6de00457404fb6f015fb97c0749409ff",
+    "edit_prompt": "Use case: precise-object-edit. Edit the attached existing illustration, do not redesign or create a new scene. Preserve the same adult woman's exact face, hairstyle, expression, figure, striped peshtemal wrap, pose, camera, framing, warm lighting, tavern background, railing, and both feet. Output exactly 1024 x 1536. The ONLY correction is her extra third arm: on the VIEWER'S LEFT of her torso, directly underneath the long hanging hair, a stray pale forearm descends vertically to the railing at approximately x=340, y=630–700 in this 1024x1536 image. Remove that entire stray forearm/hand, and restore the hair/background/railing naturally in its place. Keep exactly TWO arms: the existing near arm extending diagonally down toward VIEWER'S RIGHT, with its hand resting on the railing at x=805,y=700; and the existing bent raised arm whose hand touches her hair beside her head at x=585,y=215. Keep the raised arm naturally connected to the far shoulder and the railing arm naturally connected to the near shoulder. No third shoulder, arm, elbow, wrist or hand anywhere. Two natural human hands, five fingers each, with natural occlusion. Preserve everything else, including the woman's face and pose, without changing outfit or exposure.",
     "webp": {
       "quality": 90,
       "method": 6,
-      "sha256": "50a377604f51937e22c13549b67860134991016bbc057c9eb443ddd3b49a941e"
+      "sha256": "f266566c31895f9c2e9bdc2fa751d7ff9fbfda3f5c659c1873b75d3f116d3f3c"
     },
-    "note": "내장 image_gen 사용. 원본 PNG는 올리지 않고 sha256만 남긴다. 품질·사용량은 도구가 공개하지 않음.",
-    "ref_sha256": "c8d21f34c2c0b423f6dafb993cfb177d6de00457404fb6f015fb97c0749409ff"
+    "note": "사용자 요청으로 기존 판타지 일상4 PNG의 화면 왼쪽 추가 팔만 제거. 원본 PNG는 업로드하지 않고 sha256 보존."
   },
-  "execution": "element-graphite-3b096b",
+  "execution": "element-graphite-fantasy4-fix-3b096b",
   "imported": "2026-11-01",
   "qa": {
-    "reviewer": "gpt / element-graphite-3b096b",
-    "image_sha256": "b87303bc6ac6ef4ac85e78a96d45e753263941b6fe9d9ed61c1705fbcc506686",
-    "passed": false,
+    "reviewer": "gpt / element-graphite-fantasy4-fix-3b096b",
+    "image_sha256": "5c3f8fd795c930855c385d3dc9adf078b580e8a7fd84bfeb08a531d061afda3a",
+    "passed": true,
     "observations": [
-      "실제 원본 1024×1536. 여성 주인공 한 명, 워터마크·프레임 테두리 없음.",
-      "여관 난간에서 뒤 3/4로 서서 돌아보는 구도와 페슈테말은 구현됐다.",
-      "화면 오른쪽 난간을 짚는 팔과 머리를 만지는 팔 외에, 머리 아래 화면 왼쪽 난간으로 내려오는 추가 팔이 보인다.",
-      "기준 얼굴과 머리색은 이어지지만 팔이 세 개로 읽힌다."
+      "1024×1536, 한 명의 성인 여성.",
+      "화면 왼쪽 머리카락 아래 난간으로 내려오던 세 번째 팔이 제거되고 머리카락과 배경이 자연스럽게 복원됐다.",
+      "난간을 짚는 팔과 머리를 만지는 굽힌 팔 두 개만 남아 각각 어깨·팔꿈치·손목으로 이어진다.",
+      "보이는 손가락은 자연스러운 가림을 유지하며 추가 손이나 중복 손가락이 보이지 않는다.",
+      "기존 얼굴·머리·페슈테말·포즈·카메라·배경·조명·양발 프레임을 유지했다."
     ],
-    "cause": "RIGHT HAND 난간 지지와 LEFT HAND 머리 넘기기 요구에 불필요한 세 번째 지지 팔이 추가되어 BODY/HANDS 위반."
+    "cause": ""
   },
-  "acceptance": "user_approval_2026-11-01 — 흑연 가문주 작업·AI 검수 후 이미지와 도감 데이터 커밋 및 원격 main 일반 반영 승인; 강제 push·기존 작업 삭제 제외"
+  "acceptance": "user_approval_2026-11-01 — 흑연 가문주 작업·AI 검수 후 이미지와 도감 데이터 커밋 및 원격 main 일반 반영 승인; 강제 push·기존 작업 삭제 제외",
+  "revisions": [
+    {
+      "date": "2026-11-01",
+      "request": "판타지 4번 수정해줘",
+      "previous_generation": {
+        "tool": "image_gen (GPT 세션)",
+        "endpoint": "images/edits",
+        "size": [
+          1024,
+          1536
+        ],
+        "png_sha256": "b87303bc6ac6ef4ac85e78a96d45e753263941b6fe9d9ed61c1705fbcc506686",
+        "webp": {
+          "quality": 90,
+          "method": 6,
+          "sha256": "50a377604f51937e22c13549b67860134991016bbc057c9eb443ddd3b49a941e"
+        },
+        "note": "내장 image_gen 사용. 원본 PNG는 올리지 않고 sha256만 남긴다. 품질·사용량은 도구가 공개하지 않음.",
+        "ref_sha256": "c8d21f34c2c0b423f6dafb993cfb177d6de00457404fb6f015fb97c0749409ff"
+      },
+      "previous_qa": {
+        "reviewer": "gpt / element-graphite-3b096b",
+        "image_sha256": "b87303bc6ac6ef4ac85e78a96d45e753263941b6fe9d9ed61c1705fbcc506686",
+        "passed": false,
+        "observations": [
+          "실제 원본 1024×1536. 여성 주인공 한 명, 워터마크·프레임 테두리 없음.",
+          "여관 난간에서 뒤 3/4로 서서 돌아보는 구도와 페슈테말은 구현됐다.",
+          "화면 오른쪽 난간을 짚는 팔과 머리를 만지는 팔 외에, 머리 아래 화면 왼쪽 난간으로 내려오는 추가 팔이 보인다.",
+          "기준 얼굴과 머리색은 이어지지만 팔이 세 개로 읽힌다."
+        ],
+        "cause": "RIGHT HAND 난간 지지와 LEFT HAND 머리 넘기기 요구에 불필요한 세 번째 지지 팔이 추가되어 BODY/HANDS 위반."
+      },
+      "old_webp_sha256": "50a377604f51937e22c13549b67860134991016bbc057c9eb443ddd3b49a941e"
+    }
+  ],
+  "modified": "2026-11-01"
 }
