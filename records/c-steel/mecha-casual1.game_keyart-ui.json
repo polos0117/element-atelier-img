@@ -17,8 +17,8 @@
   "posture": "lean_rail",
   "support": "none",
   "frame": "environmental",
-  "body": "rear_3q",
-  "head": "over_shoulder",
+  "body": "front_3q",
+  "head": "with_body",
   "camera": "eye",
   "right": "rail",
   "left": "hair_tuck",
@@ -26,7 +26,7 @@
   "legs": "contrapposto",
   "gaze": "camera",
   "expr": "bored",
-  "preset": "rail_lookback",
+  "preset": "",
   "prop": "",
   "axes": {
    "overall_intensity": "strong",
@@ -36,7 +36,7 @@
   "aspect": "2:3"
  },
  "file": "c-steel_mecha_game_keyart_f_casual1.webp",
- "prompt": "Make a very precise anatomy repair to the attached image. The previous edit removed the dangling hand and forearm, but an EXTRA AMPUTATED UPPER ARM STUMP remains at the viewer's RIGHT edge of her torso, under the large rolled sleeve beside her waist. Remove that entire redundant upper arm stump AND its redundant downward-pointing rolled sleeve. Repair the clothing silhouette smoothly in that local region: the right edge of the back/side of her shirt and her waist should be continuous, with no skin-colored stump, no third shoulder, no dangling sleeve, and no hanging third arm. Keep ONLY the two complete existing arms: the far arm bent up with its hand beside her head, and the opposite arm extending down to the railing at the left of the image. Those two arms must each have a natural continuous shoulder-elbow-wrist-hand connection. Her shirt around the shoulder may be locally reconstructed to make these two arm connections anatomically clear. Exactly two arms, two hands total. Do not add any arms, sleeves, stumps or detached hands. Preserve her face, hairstyle, expression, over-the-shoulder look, jumpsuit, both legs and boots, stance, background, dusk lighting, framing and every unrelated detail. Keep 1024x1536 vertical.",
+ "prompt": "Recompose the attached adult woman's pose to repair the arm laterality. Keep the SAME woman, face, short black hair, orange eyes, skin tone, physique, dark mechanic jumpsuit with rolled sleeves, towel at the belt, work boots, hydrogen filling station at dusk, wet pavement, railing, lighting, and polished 2.5D rendering. Change her BODY ORIENTATION to a FRONT THREE-QUARTER VIEW: her chest and both shoulders face the camera clearly. Her head faces the camera naturally without turning back over a shoulder. Show the complete figure including both feet, vertical 1024x1536. Construct exactly TWO separate uncrossed arms, one from each shoulder, with all major joints readable. HER ANATOMICAL RIGHT ARM appears on the VIEWER'S LEFT: it descends naturally from her visible right shoulder through a relaxed elbow; her RIGHT hand rests palm-down on the top of the railing beside her, with the thumb on the correct side. HER ANATOMICAL LEFT ARM appears on the VIEWER'S RIGHT: her visible left upper arm extends slightly outward, her left elbow is visible beside her torso, and her left forearm bends upward so her LEFT fingertips lightly tuck hair behind her LEFT ear. Keep this elbow and the shoulder-to-upper-arm-to-elbow-to-forearm-to-wrist path clearly visible. Each hand must belong to its own shoulder on its own side of her chest. Do not preserve the old rear-facing torso or the anatomically impossible over-shoulder arm arrangement. Two shoulders, two upper arms, two elbows, two forearms, two wrists, two hands total, five natural fingers per hand. No extra arms, amputated stumps, hidden duplicate arms, crossed arm connections, or two left hands. Natural relaxed stance, feet planted. Preserve the recognizable face, clothing and setting while redrawing the pose as specified.",
  "date": "2026-11-01",
  "record": "records/c-steel/mecha-casual1.game_keyart-ui.json",
  "storage": {
@@ -82,61 +82,75 @@
  "generation": {
   "tool": "image_gen (GPT 세션)",
   "endpoint": "images/edits",
-  "ref_sha256": "7ea30d5cf97bdd16797d3d3af2ecb9e888b66b6c08a760476c2a26faa92fbbfd",
+  "ref_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
   "character_ref_sha256": "4dca7581270cef063263868cce964c5a7d7ca85c414e16d4028970e7c70174e4",
   "size": [
    1024,
    1536
   ],
-  "png_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
+  "png_sha256": "851e3e93dc76cabcb32fc6c352cbc42cb76c84a1a450786e3f81ad70018b3b74",
   "webp": {
    "quality": 90,
    "method": 6,
-   "sha256": "e5892b5c7cf0e20612776aa78d58ce10dbff6e94e9fd6854cbe953b6697ab48f"
+   "sha256": "bd992e0654ca53786d8224d362233dc10aa57a5425368e3444e4cbdc1ff26d66"
   },
-  "note": "추가 팔 국소 편집; 원본 PNG는 올리지 않고 sha256만 남김"
+  "note": "사용자 요청으로 정면 3/4 구도 재구성; 원본 PNG는 올리지 않고 sha256만 남김"
  },
- "execution": "element-c-steel-arm-fix-a15ac6",
+ "execution": "element-c-steel-pose-fix-a15ac6",
  "imported": "2026-11-01",
  "qa": {
-  "reviewer": "gpt / element-c-steel-arm-fix-a15ac6",
-  "scope": "사용자 요청 추가 팔 제거 및 기존 장면 보존",
-  "image_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
+  "reviewer": "gpt / element-c-steel-pose-fix-a15ac6",
+  "scope": "양손의 좌우 및 각 어깨부터 손목까지 연결 재검수",
+  "image_sha256": "851e3e93dc76cabcb32fc6c352cbc42cb76c84a1a450786e3f81ad70018b3b74",
   "passed": true,
   "observations": [
-   "1024×1536 세로; 성인 여성 한 명; 기존 짧은 검은 머리·주황 눈·얼굴·표정과 작업복·충전소·카메라 유지",
-   "머리 옆에 올린 팔 하나와 난간을 짚는 팔 하나만 남아 두 팔·두 손으로 읽힘",
-   "내려온 추가 손·아래팔과 소매 아래 위팔 잔여가 모두 제거됨; 소매·옆구리 연결을 자연스럽게 복원",
-   "두 다리·부츠·선 자세 유지; C와 6 이외 추가 문자·로고·워터마크 없음"
+   "1024×1536; 성인 여성 한 명; 양쪽 어깨가 보이는 정면 3/4 전신, 머리와 양발 프레임 안",
+   "화면 왼쪽: 인물 오른쪽 어깨에서 내려온 오른팔·팔꿈치·손목이 난간의 오른손으로 이어짐",
+   "화면 오른쪽: 인물 왼쪽 어깨의 위팔과 바깥쪽 팔꿈치가 위로 굽힌 아래팔·손목을 거쳐 왼쪽 귀의 왼손으로 이어짐",
+   "두 팔·두 손만 있으며 중복 팔·위팔 잔여·끊긴 관절 없음; 손가락은 자연스러운 손 모양으로 부분 겹침",
+   "기존 얼굴·검은 숏컷·주황 눈·작업복·허리 수건·부츠·충전소·석양 유지; C·6 외 읽히는 문자·로고·워터마크 없음"
   ]
  },
- "acceptance": "user_approval_2026-11-01 — 메카 일상1 추가 팔 수정 요청 및 앞서 승인한 main 일반 반영",
+ "acceptance": "user_approval_2026-11-01 — 양손이 같은 왼손인 연결 오류의 구도 수정 요청; main 일반 반영 승인 유지",
  "original_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the personification of Steel, of the Carbon Nation, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. The substance shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her element's visual language — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (charcoal black, graphite grey, diamond white, a single living green). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Polished 2.5D game key art with clean linework, anime facial design that keeps each character's own facial structure, eye proportions and skin tone instead of one house face, layered cel-to-soft shading and crisp fabric and accessory detail. Use a vivid, readable silhouette and natural lighting.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her element shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSETTING: a real present-day place where Carbon (C) is actually made, worked or used — Place in SCENE names it. Its tools, materials and machines are the real ones of that trade; the element's own visual language (two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life) lives in the surroundings, light and materials, never in her clothes. She is at ease there, in the outfit SCENE describes.\n\nSCENE (chosen):\nPlace: a hydrogen filling station at dusk, white dispensers under a lit canopy and a row of tall gas cylinders\nOutfit: a fitted mechanic's work jumpsuit with rolled sleeves and no real logos\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters away from the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the railing.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: lidded half-open eyes, slack mouth, brows flat and unengaged.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her element belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her element's palette, materials, patterns or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nLOOK-BACK: her back is toward the camera and her head turns at most a quarter turn over one shoulder — the face shows in profile or three-quarter view, never full-front on a back-facing torso. Her chin sits just above the near shoulder, the far eye and cheek may be partly hidden, the side of the neck shows the turn and the shoulder line continues behind the head. Where her eyes go follows GAZE.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (C) and atomic number (6) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
  "correction": {
-  "request": "메카 일상1의 추가팔 이미지는 수정해줘",
+  "request": "난간 짚은 손과 머리를 만지는 손이 같은 왼손으로 하고 있어. 구도를 수정해줘.",
   "date": "2026-11-01",
-  "source_png_sha256": "1374b00d626f9f76c8066cd56cf057e91b648448b4c1cf8a3dddbfbf86c566d6",
-  "source_webp_sha256": "c132e230d657aca7d4f97d49a1333a2fc93e2dfc2e56aecc1ed0c31bd8a64133",
-  "previous_record": "records/c-steel/revisions/mecha-casual1.before-arm-fix-20261101.json",
-  "preserve": "얼굴·머리·눈·체형·의상·배경·카메라·양다리 유지; 아래로 내려온 세 번째 팔과 소매·위팔 잔여 제거",
-  "attempts": [
-   {
-    "n": 1,
-    "prompt": "Edit the attached image only to correct the extra arm. Preserve the same adult woman, face, short black haircut, orange eyes, physique, mechanic jumpsuit, over-the-shoulder gaze, standing pose, both legs and boots, hydrogen filling station at dusk, railing, camera, framing, colors, lighting, and polished 2.5D style. She currently has THREE arms. REMOVE ONLY the duplicate arm that hangs downward at the viewer's RIGHT side, including its downward forearm, hand beside her hip, and the redundant sleeve/arm connection. Naturally reconstruct the small area of her jumpsuit and background revealed by that removal. KEEP the arm whose hand touches her hair beside her head on the viewer's right, with one continuous anatomically natural shoulder-to-upper-arm-to-elbow-to-forearm-to-wrist connection. KEEP the other arm whose hand rests on the railing at the viewer's left. The final woman must have exactly TWO arms and TWO hands total: one hand at her hair and one hand on the railing. No dangling third arm, third hand, extra elbow, duplicated shoulder, or detached limb. Keep each visible hand natural with five fingers. Minimal localized correction; retain every unrelated detail. Output 1024x1536, vertical 2:3.",
-    "input_sha256": "1374b00d626f9f76c8066cd56cf057e91b648448b4c1cf8a3dddbfbf86c566d6",
-    "output_sha256": "7ea30d5cf97bdd16797d3d3af2ecb9e888b66b6c08a760476c2a26faa92fbbfd",
-    "passed": false,
-    "observation": "추가 손과 아래팔은 제거됐으나 중복 소매 아래 위팔 일부가 남음; 미반영"
-   },
-   {
-    "n": 2,
-    "prompt": "Make a very precise anatomy repair to the attached image. The previous edit removed the dangling hand and forearm, but an EXTRA AMPUTATED UPPER ARM STUMP remains at the viewer's RIGHT edge of her torso, under the large rolled sleeve beside her waist. Remove that entire redundant upper arm stump AND its redundant downward-pointing rolled sleeve. Repair the clothing silhouette smoothly in that local region: the right edge of the back/side of her shirt and her waist should be continuous, with no skin-colored stump, no third shoulder, no dangling sleeve, and no hanging third arm. Keep ONLY the two complete existing arms: the far arm bent up with its hand beside her head, and the opposite arm extending down to the railing at the left of the image. Those two arms must each have a natural continuous shoulder-elbow-wrist-hand connection. Her shirt around the shoulder may be locally reconstructed to make these two arm connections anatomically clear. Exactly two arms, two hands total. Do not add any arms, sleeves, stumps or detached hands. Preserve her face, hairstyle, expression, over-the-shoulder look, jumpsuit, both legs and boots, stance, background, dusk lighting, framing and every unrelated detail. Keep 1024x1536 vertical.",
-    "input_sha256": "7ea30d5cf97bdd16797d3d3af2ecb9e888b66b6c08a760476c2a26faa92fbbfd",
-    "output_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
-    "passed": true,
-    "observation": "중복 소매·위팔 잔여까지 제거; 머리 옆 팔과 난간 지지 팔 두 개만 남음"
-   }
-  ],
-  "scene_note": "최초 scene·storage는 원래 생성 계획의 기록이며, 이번 국소 편집은 prompt와 correction의 지시가 우선함"
- }
+  "source_webp_sha256": "e5892b5c7cf0e20612776aa78d58ce10dbff6e94e9fd6854cbe953b6697ab48f",
+  "source_png_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
+  "previous_record": "records/c-steel/revisions/mecha-casual1.before-pose-fix-20261101.json",
+  "change": "뒤 3/4·어깨 너머 구도를 정면 3/4로 변경; 오른팔은 화면 왼쪽 난간, 왼팔은 화면 오른쪽 머리; 양쪽 어깨·팔꿈치·손목 연결을 보임",
+  "preserve": "인물 얼굴·짧은 검은 머리·주황 눈·체형·작업복·허리 수건·부츠·충전소·석양·전신 비율",
+  "scene_note": "사용자가 명시한 구도 수정이 기존 묶음 계획보다 우선함"
+ },
+ "correction_history": [
+  {
+   "request": "메카 일상1의 추가팔 이미지는 수정해줘",
+   "date": "2026-11-01",
+   "source_png_sha256": "1374b00d626f9f76c8066cd56cf057e91b648448b4c1cf8a3dddbfbf86c566d6",
+   "source_webp_sha256": "c132e230d657aca7d4f97d49a1333a2fc93e2dfc2e56aecc1ed0c31bd8a64133",
+   "previous_record": "records/c-steel/revisions/mecha-casual1.before-arm-fix-20261101.json",
+   "preserve": "얼굴·머리·눈·체형·의상·배경·카메라·양다리 유지; 아래로 내려온 세 번째 팔과 소매·위팔 잔여 제거",
+   "attempts": [
+    {
+     "n": 1,
+     "prompt": "Edit the attached image only to correct the extra arm. Preserve the same adult woman, face, short black haircut, orange eyes, physique, mechanic jumpsuit, over-the-shoulder gaze, standing pose, both legs and boots, hydrogen filling station at dusk, railing, camera, framing, colors, lighting, and polished 2.5D style. She currently has THREE arms. REMOVE ONLY the duplicate arm that hangs downward at the viewer's RIGHT side, including its downward forearm, hand beside her hip, and the redundant sleeve/arm connection. Naturally reconstruct the small area of her jumpsuit and background revealed by that removal. KEEP the arm whose hand touches her hair beside her head on the viewer's right, with one continuous anatomically natural shoulder-to-upper-arm-to-elbow-to-forearm-to-wrist connection. KEEP the other arm whose hand rests on the railing at the viewer's left. The final woman must have exactly TWO arms and TWO hands total: one hand at her hair and one hand on the railing. No dangling third arm, third hand, extra elbow, duplicated shoulder, or detached limb. Keep each visible hand natural with five fingers. Minimal localized correction; retain every unrelated detail. Output 1024x1536, vertical 2:3.",
+     "input_sha256": "1374b00d626f9f76c8066cd56cf057e91b648448b4c1cf8a3dddbfbf86c566d6",
+     "output_sha256": "7ea30d5cf97bdd16797d3d3af2ecb9e888b66b6c08a760476c2a26faa92fbbfd",
+     "passed": false,
+     "observation": "추가 손과 아래팔은 제거됐으나 중복 소매 아래 위팔 일부가 남음; 미반영"
+    },
+    {
+     "n": 2,
+     "prompt": "Make a very precise anatomy repair to the attached image. The previous edit removed the dangling hand and forearm, but an EXTRA AMPUTATED UPPER ARM STUMP remains at the viewer's RIGHT edge of her torso, under the large rolled sleeve beside her waist. Remove that entire redundant upper arm stump AND its redundant downward-pointing rolled sleeve. Repair the clothing silhouette smoothly in that local region: the right edge of the back/side of her shirt and her waist should be continuous, with no skin-colored stump, no third shoulder, no dangling sleeve, and no hanging third arm. Keep ONLY the two complete existing arms: the far arm bent up with its hand beside her head, and the opposite arm extending down to the railing at the left of the image. Those two arms must each have a natural continuous shoulder-elbow-wrist-hand connection. Her shirt around the shoulder may be locally reconstructed to make these two arm connections anatomically clear. Exactly two arms, two hands total. Do not add any arms, sleeves, stumps or detached hands. Preserve her face, hairstyle, expression, over-the-shoulder look, jumpsuit, both legs and boots, stance, background, dusk lighting, framing and every unrelated detail. Keep 1024x1536 vertical.",
+     "input_sha256": "7ea30d5cf97bdd16797d3d3af2ecb9e888b66b6c08a760476c2a26faa92fbbfd",
+     "output_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
+     "passed": true,
+     "observation": "중복 소매·위팔 잔여까지 제거; 머리 옆 팔과 난간 지지 팔 두 개만 남음"
+    }
+   ],
+   "scene_note": "최초 scene·storage는 원래 생성 계획의 기록이며, 이번 국소 편집은 prompt와 correction의 지시가 우선함",
+   "reassessment": "사용자 확인: 추가 팔 제거 후에도 난간 손과 머리 손이 같은 왼팔처럼 연결되어 구도 수정 필요; 이전 통과는 좌우 연결까지 확인하지 못했음"
+  }
+ ]
 }

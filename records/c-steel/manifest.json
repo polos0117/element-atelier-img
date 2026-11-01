@@ -57,9 +57,9 @@
   {
    "file": "img/c-steel_mecha_game_keyart_f_casual1.webp",
    "record": "records/c-steel/mecha-casual1.game_keyart-ui.json",
-   "prompt_sha256": "130b7cf9824e372ac3062303d70c55eada62b9b2b8f132bdb8154f8463048930",
-   "png_sha256": "34985a12ba6b5674cf00f7ca7ebc732a0fe61638dbb50ddda70a2cf65f920273",
-   "webp_sha256": "e5892b5c7cf0e20612776aa78d58ce10dbff6e94e9fd6854cbe953b6697ab48f",
+   "prompt_sha256": "a704587da2ed4dcffc02c488d513513d5b8496ab3a0c8d49c4aecc92dda3d07e",
+   "png_sha256": "851e3e93dc76cabcb32fc6c352cbc42cb76c84a1a450786e3f81ad70018b3b74",
+   "webp_sha256": "bd992e0654ca53786d8224d362233dc10aa57a5425368e3444e4cbdc1ff26d66",
    "qa_passed": true
   },
   {
@@ -157,13 +157,19 @@
   "qa_passed": 6,
   "qa_failed": 12
  },
- "known_anatomy_issue": "mecha-casual1의 추가 팔은 2026-11-01 사용자 요청으로 국소 편집해 수정 완료; 이전 실패 기록은 revisions에 보존",
+ "known_anatomy_issue": "mecha-casual1은 추가 팔 제거 뒤 사용자가 같은 왼팔 연결을 지적해 정면 3/4로 재구성; 오른손 난간·왼손 머리의 연결 확인 완료. 이전 기록은 revisions에 보존",
  "publishing": "GitHub connector Git Data API; non-force fast-forward update with expected parent; 다른 변경 보존",
  "corrections": [
   {
    "file": "c-steel_mecha_game_keyart_f_casual1.webp",
    "date": "2026-11-01",
    "reason": "추가 팔 제거",
+   "record": "records/c-steel/mecha-casual1.game_keyart-ui.json"
+  },
+  {
+   "file": "c-steel_mecha_game_keyart_f_casual1.webp",
+   "date": "2026-11-01",
+   "reason": "같은 왼팔 연결 오류 — 정면 3/4로 구도 수정",
    "record": "records/c-steel/mecha-casual1.game_keyart-ui.json"
   }
  ]
