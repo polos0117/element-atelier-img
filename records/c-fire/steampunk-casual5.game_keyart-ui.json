@@ -92,7 +92,12 @@
    "method": 6
   },
   "note": "원본 PNG는 올리지 않는다. 도구가 품질·사용량 수치를 반환하지 않음.",
-  "ref_sha256": "4067fbf0598fcd879beb375b0455bf8b5990a220405f81b50edb6ae0f58fc463"
+  "ref_sha256": "4067fbf0598fcd879beb375b0455bf8b5990a220405f81b50edb6ae0f58fc463",
+  "storage_repair": {
+   "reason": "first WebP was zero bytes; same original PNG re-encoded, no regeneration",
+   "previous_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "previous_webp_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
  },
  "execution": "element-c-fire-5989",
  "imported": "2026-11-02",
