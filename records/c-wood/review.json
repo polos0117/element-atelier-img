@@ -1,0 +1,39 @@
+{
+ "card": "c-wood",
+ "execution": "element-c-wood-7fdb747a",
+ "image_count": 18,
+ "qa_failures": {
+  "fantasy-casual1": [
+   "얼굴 클로즈업 계획보다 넓어 가슴과 복부 일부까지 보임",
+   "의상에 참고 그림의 밝은 목재 계열 색과 장식이 일부 남음"
+  ],
+  "fantasy-casual3": [
+   "계획은 자신의 오른손으로 턱을 괴고 왼손을 난간에 놓기이나 결과는 좌우 반대로 보임"
+  ],
+  "fantasy-casual4": [
+   "점프수트에 참고 그림의 팔레트와 장식·레갈리아가 남음"
+  ],
+  "steampunk-casual1": [
+   "얼굴 클로즈업 계획보다 넓어 가슴과 몸통까지 보임"
+  ],
+  "steampunk-casual2": [
+   "참고 그림의 고글과 하네스 장식이 남아 일상 의상 전환이 불완전함"
+  ],
+  "steampunk-casual3": [
+   "옆모습 계획보다 카메라 쪽으로 몸을 돌린 3/4 구도임"
+  ],
+  "mecha-casual1": [
+   "얼굴 클로즈업 계획보다 넓어 상반신까지 보임",
+   "컵을 자신의 오른손 대신 왼손에 든 것으로 보이며 컵이 입에 닿지 않음"
+  ],
+  "mecha-casual2": [
+   "계획의 목재 블록을 아래로 들기보다 얼굴 옆으로 들어 올림"
+  ],
+  "mecha-casual4": [
+   "가슴 위 구도보다 넓은 허리 부근까지의 프레이밍임"
+  ]
+ },
+ "planning_usage": "다른 캐릭터 이미지·과거 기록을 추가 다운로드하지 않고 기존 로컬 기록 75개의 scene 사용 필드를 재사용; 전체 원격 기록 기준 집계는 아님",
+ "tool": "built-in image_gen",
+ "prompt_source": "tools/prompt-pack.cjs default settings; unmodified prompt text in each UI record"
+}
