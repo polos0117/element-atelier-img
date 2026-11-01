@@ -1,0 +1,105 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "world": "mecha",
+ "style": "game_keyart",
+ "styleVersion": "v2",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "narrow_upturned",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "gold",
+   "age": "early_30s",
+   "impression": "regal",
+   "skin_tone": "warm_beige",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "expr": "proud"
+  },
+  "silhouette": {
+   "body": "tall_statuesque",
+   "hair": "side_swept",
+   "hair_color": "golden_blonde",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "au_mecha_game_keyart_f.webp",
+ "prompt": "CONCEPT: the personification of the element Gold (금) itself — the sovereign of the Gold Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Gold (Au) to carry in her design and the scene: warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light. Palette: yellow gold, amber, electrum pale, deep red velvet.\nAGE: early thirties — a poised, mature face with defined cheekbones and jaw; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: statuesque, long-legged, with a natural neck length build; long side-swept hair with choppy uneven bangs; golden blonde hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; warm beige skin; heart-shaped face; moderately sized, realistically proportioned eyes — narrow upturned eyes, outer eye corners tilting sharply upward; thin arched brows; aquiline nose; full heart-shaped lips; gold eyes; glossy nude lips.\nWORLD — MECHA: year 2200, a gold-circuit city: gold trace lines running over dark panels, gold-foil satellites and mirrors in orbit, warm hard light. MECHA DESIGN: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. dark armor etched with fine gold circuit lines, gold-plated joints and contacts, a gold-foil mirror disc as a back unit, amber glow lines.\nSTYLE: Polished 2.5D game key art with clean linework, anime facial design that keeps each character's own facial structure, eye proportions and skin tone instead of one house face, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nEXPRESSION: chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (Au) and atomic number (79) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-01",
+ "record": "records/au/mecha.game_keyart-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "world",
+  "world": "mecha",
+  "style": "game_keyart",
+  "notes": {
+   "au|mecha": {}
+  },
+  "looks": {
+   "au|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "au|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6f16a670c44bc4498db9005258037115bb47f11320bfac7a8562f23c3bff8f5a",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "484954ca4126b3a99e338868631f3169dc54dd701b2fff80dd01ba80110b3423"
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "execution": "element-au-7705489b5b16",
+ "imported": "2026-11-01",
+ "qa": {
+  "reviewer": "gpt element-au-7705489b5b16",
+  "image_sha256": "6f16a670c44bc4498db9005258037115bb47f11320bfac7a8562f23c3bff8f5a",
+  "passed": false,
+  "observations": [
+   "1024×1536, 주인공 한 명, 테두리·로고·워터마크 없음.",
+   "금 회로 도시·금박 원반 백유닛·검정 금빛 관절 장갑이 보임. 양손 빈손·양팔·양다리 연결 정상, 머리와 발 프레임 내.",
+   "앞머리가 고른 들쭉날쭉 앞머리보다 긴 곡선 앞머리로 나왔고, 머리장식 끝의 상단 여백이 적음."
+  ],
+  "cause": "생성기 원문 그대로 요청했으나 모델 출력이 SCENE·COMPOSITION·WARDROBE·DESIGN 또는 SILHOUETTE의 일부를 따르지 않음. 구체 차이는 observations에 기록. 임의 재생성하지 않음."
+ },
+ "acceptance": "user_approval_2026-11-01 — 추가 확인 없이 검수 후 커밋·원격 main 일반 반영 승인"
+}
