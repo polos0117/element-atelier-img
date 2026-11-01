@@ -1,0 +1,104 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "world": "mecha",
+ "style": "game_keyart",
+ "styleVersion": "v2",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "teal",
+   "age": "early_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "small",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "calm"
+  },
+  "silhouette": {
+   "body": "slender",
+   "hair": "bob",
+   "hair_color": "pale_aqua",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "o-breath_mecha_game_keyart_f.webp",
+ "prompt": "CONCEPT: the personification of Breath — the lord of the Breath House of the Oxygen Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Oxygen (O) to carry in her design and the scene: breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning. Palette: sea blue, forest green, clear white, combustion orange.\nHOUSE TRAITS of Breath: clear air, rising bubbles, valves and hoses, the calm of a slow breath. Palette: clear white, pale aqua, brass or steel, bubble silver.\nAGE: about twenty — a fresh young-adult face; no facial lines.\nSILHOUETTE: slender build; a bob with no bangs, forehead bare; pale aqua hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; porcelain-pale skin; round face; smaller, narrower eyes than usual anime proportion — large round eyes, level outer eye corners; soft rounded brows; small button nose; small bow lips; teal eyes; a bare, makeup-free face.\nWORLD — MECHA: year 2200, an ocean terraforming station: oxygen-generation towers venting white plumes, coral-glass domes, blue-green plasma light. MECHA DESIGN: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. white and sea-blue armor with clear visor panels, bubble-shaped pauldrons, tank-and-valve motifs, combustion-orange glow lines, a back unit of two rounded tanks.\nSTYLE: Polished 2.5D game key art with clean linework, anime facial design that keeps each character's own facial structure, eye proportions and skin tone instead of one house face, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (O) and atomic number (8) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-01",
+ "record": "records/o-breath/mecha.game_keyart-ui.json",
+ "storage": {
+  "card": "o-breath",
+  "out": "world",
+  "world": "mecha",
+  "style": "game_keyart",
+  "notes": {
+   "o-breath|mecha": {}
+  },
+  "looks": {
+   "o-breath|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "o-breath|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f3cdca4d6f4c43e754e85610f6e122668b6879676bc9304ca96ba5e11e47e59c",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "2db1738df07cf3e018796dea71992cef809cf647954db8f1f6d89927b12c9754"
+  },
+  "note": "Original PNG is not committed; SHA256 retained."
+ },
+ "execution": "element-breath-20702f",
+ "imported": "2026-11-01",
+ "qa": {
+  "reviewer": "gpt-element-breath-20702f",
+  "image_sha256": "f3cdca4d6f4c43e754e85610f6e122668b6879676bc9304ca96ba5e11e47e59c",
+  "passed": true,
+  "observations": [
+   "1024×1536 전신, 단발·둥근 얼굴·호흡 탱크·밸브와 기포 모티프 확인",
+   "메카 장갑판이 몸·팔·다리에 읽히며 양손과 양발·여백 정상",
+   "한 명이며 허용된 O·8 외 글자·로고·테두리 없음"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-01 — QA followed by publication without further confirmation"
+}
