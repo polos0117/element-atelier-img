@@ -90,11 +90,12 @@
   {
    "file": "c-diamond_steampunk_game_keyart_f_casual3.webp",
    "observations": [
-    "1024×1536, 주인공 한 명, 테두리·로고·워터마크 없음.",
-    "라이브하우스·가죽재킷과 미니스커트·뒤 3/4 전신. 난간의 오른손과 머리 옆 왼손은 팔 두 개에 연결. 두 발 프레임 안. 고개와 어깨 연결 확인.",
-    "배경 드럼에 작은 영문 브랜드 로고처럼 읽히는 표기가 있음. ONE MAIN FIGURE의 무로고 제약 불일치."
+    "1024×1536. 얼굴·은백색 단발·뒤돌아보는 전신·의상·무대 배경 유지.",
+    "화면 오른쪽 어깨에서 시작한 소매가 굽힌 팔꿈치·전완·시계가 있는 손목·머리 옆 손으로 이어진다. 허리 옆 빈 소매 형태 제거.",
+    "화면 왼쪽 난간을 짚는 팔까지 합해 두 팔·두 손이며 추가 팔다리 없음. 양쪽 부츠 프레임 안.",
+    "배경 드럼의 작은 영문 로고 유사 표기는 유지되어 기존 무로고 제약 불일치가 남음."
    ],
-   "cause": "생성 결과가 SCENE 또는 FACE·DESIGN 제약 일부를 따르지 않음: 배경 드럼에 작은 영문 브랜드 로고처럼 읽히는 표기가 있음. ONE MAIN FIGURE의 무로고 제약 불일치."
+   "cause": "팔 연결은 수정 완료. 기존 배경 로고 유사 표기는 이번 수정 범위 밖으로 남아 전체 QA는 false 유지."
   },
   {
    "file": "c-diamond_mecha_game_keyart_f_casual1.webp",
@@ -106,5 +107,14 @@
    "cause": "생성 결과가 SCENE 또는 FACE·DESIGN 제약 일부를 따르지 않음: 기준 그림의 짧은 머리가 더 긴 올림머리로 바뀌었고, 수영복의 보석 장식과 귀걸이·손 소품으로 모티프가 여러 곳에 나옴."
   }
  ],
- "note": "규칙에 따라 QA 불일치도 재생성 없이 기록 후 등록. mecha-casual5만 필터 실패 후 한 차례 계획 변경."
+ "note": "규칙에 따라 QA 불일치도 재생성 없이 기록 후 등록. mecha-casual5만 필터 실패 후 한 차례 계획 변경.",
+ "repairs": [
+  {
+   "file": "c-diamond_steampunk_game_keyart_f_casual3.webp",
+   "date": "2026-11-01",
+   "status": "arm_connection_fixed",
+   "remaining": "background logo-like text",
+   "new_png_sha256": "14773bf5c8db1b507f8ff907ac925c2cc191e4139107e006ebc0c4e6bb22088f"
+  }
+ ]
 }
