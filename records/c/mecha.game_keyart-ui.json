@@ -1,0 +1,104 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "world": "mecha",
+ "style": "game_keyart",
+ "styleVersion": "v2",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "leaf_green",
+   "age": "late_20s",
+   "impression": "elegant",
+   "skin_tone": "warm_beige",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "expr": "calm"
+  },
+  "silhouette": {
+   "body": "slender",
+   "hair": "bob",
+   "hair_color": "soot_black",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "c_mecha_game_keyart_f.webp",
+ "prompt": "CONCEPT: the personification of the element Carbon (탄소) itself — the sovereign of the Carbon Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Carbon (C) to carry in her design and the scene: two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life. Palette: charcoal black, graphite grey, diamond white, a single living green.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: slender build; a bob with choppy uneven bangs; soot-black hair with a graphite sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — an elegant, refined presence; warm beige skin; diamond-shaped face; moderately sized, realistically proportioned eyes — narrow upturned eyes, level outer eye corners; thick straight brows; straight narrow nose; thin long lips; leaf-green eyes; bold red lipstick.\nWORLD — MECHA: year 2200, a city of graphene towers: hexagonal lattice facades, carbon-fibre weave surfaces, diamond-glass bridges. MECHA DESIGN: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. matte carbon-fibre weave armor with hexagonal lattice panels, diamond-clear visor and joint crystals, graphite-grey plates, a thin hexagonal halo.\nSTYLE: Polished 2.5D game key art with clean linework, anime facial design that keeps each character's own facial structure, eye proportions and skin tone instead of one house face, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (C) and atomic number (6) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-01",
+ "record": "records/c/mecha.game_keyart-ui.json",
+ "storage": {
+  "card": "c",
+  "out": "world",
+  "world": "mecha",
+  "style": "game_keyart",
+  "notes": {
+   "c|mecha": {}
+  },
+  "looks": {
+   "c|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "c|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "eb3f5c5cba8687057f15dc1e225096a48247e3eef5209a7a95c83b35c0e8f35f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "5e2f5675bc953179ec2d492e5b4d23bf2bc943b62570954390d35a8e26f15b9e"
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "execution": "element-carbon-e04c",
+ "imported": "2026-11-01",
+ "qa": {
+  "reviewer": "gpt element-carbon-e04c",
+  "image_sha256": "eb3f5c5cba8687057f15dc1e225096a48247e3eef5209a7a95c83b35c0e8f35f",
+  "passed": true,
+  "observations": [
+   "1024×1536, 주인공 한 명, 테두리·로고·워터마크 없음.",
+   "짧은 보브·조각 앞머리·녹색 눈·다이아몬드 얼굴, 탄소섬유·흑연색 장갑판과 투명 결정·육각 후광.",
+   "그래핀 탑 도시·투명 교량 배경. 두 팔·빈 손 두 개·두 다리와 양 부츠 프레임 안, 관절 연결 자연스러움. C·6만 읽힘."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-01 — 추가 확인 없이 검수 후 커밋·원격 main 일반 반영 승인"
+}
