@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-01",
+ "execution": "element-o-rust-mecha3-fix-78bef7",
+ "request": "일상컷 메카3에 머리만지는 손 밑에 추가팔이 보여. 수정해줘",
+ "tool": "image_gen (built-in)",
+ "endpoint": "images/edits",
+ "prompt": "Use case: precise-object-edit. Edit this existing illustration, making ONLY an anatomy repair. The woman currently has an EXTRA THIRD ARM on the IMAGE LEFT: a long vertical bare arm descending from the same sleeve beneath her raised hair-touching arm, ending in a hand planted on the deck at the left edge. REMOVE this entire unwanted downward arm AND its planted hand (approximately x 55–250, y 360–790 of the 1024x1536 image). Reconstruct the loose white embroidered sleeve opening, empty space and rusty reflective metal deck naturally where the extra arm and hand were. KEEP the correct raised right arm unchanged: it extends to the image left with a bent elbow and its hand rests behind her head. KEEP her opposite left arm on the far side at IMAGE RIGHT, partly occluded behind her torso/hip, in its existing position; do not invent a new arm or hand. The result must have EXACTLY TWO human arms, one for each shoulder, with no limb emerging from the raised arm's sleeve below it. Keep the original face, short dark rust-streaked bob, gaze, expression, earrings, embroidered white/red huipil outfit, skirt, legs, feet, reclining seated posture, camera, framing, refinery background, O/8 signage, lighting and detailed rendering IDENTICAL. No other creative changes. Preserve vertical 1024x1536.",
+ "input_sha256": "efa11a55bbfc527b9e51c9be6ef21b6be7bf8f2e68294c6c0c54191ab9fec8fa",
+ "old_webp_sha256": "eba2d978411b72fd50ad1fb03db6b0b4578f11315557ab80c336377a79ca036a",
+ "new_png_sha256": "007d926bc4290ee382fa4e96016ff0a8d45ef212552ceaf2d6387c5f95514550",
+ "new_webp_sha256": "e3e13e96f5ea69cc30bba2d63fe538bda98dc1bcb76fe67d1f22d35245bb9de7",
+ "size": [
+  1024,
+  1536
+ ],
+ "attempts": [
+  {
+   "attempt": 1,
+   "result": "moderation_blocked",
+   "stage": "output",
+   "category": "sexual",
+   "request_id": "42eab266-234c-48c5-9aab-96e09ae2d557"
+  },
+  {
+   "attempt": 2,
+   "result": "success",
+   "prompt_change": false
+  }
+ ],
+ "qa": {
+  "anatomy_repair_passed": true,
+  "observations": [
+   "화면 왼쪽 올린 팔 아래로 내려오던 추가 팔과 바닥의 추가 손 제거.",
+   "오른팔은 머리 뒤에 올린 기존 자세, 왼팔은 반대편 몸 뒤에 가려진 기존 위치로 유지.",
+   "추가 팔 자리는 자수 소매와 금속 바닥으로 복원.",
+   "얼굴·보브컷·귀걸이·자수 의상·두 다리·발·정유소 배경·조명·프레이밍 유지.",
+   "기존의 기대 앉은 자세와 화면 하단 발끝 크롭 차이는 수정 대상이 아니므로 유지."
+  ]
+ },
+ "note": "원본 PNG는 업로드하지 않고 해시만 남김"
+}
