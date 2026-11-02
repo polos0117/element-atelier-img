@@ -1,0 +1,31 @@
+{
+ "atelier": "element",
+ "kind": "frame",
+ "theme": "hanok",
+ "file": "backgrounds/frames/frame-hanok.webp",
+ "source": "사용자 2026-11-02 「응 장식 틀도 만들어줘」 — sam-atelier 의 공간별 장식 틀과 같은 방식으로 원소 공방 공간 다섯마다",
+ "processing": "투명 그대로 512px WebP 88 — lib/material.css 가 9칸 틀(border-image)로 쓴다, 잰 모서리 127px/1024 → 자르기 13%",
+ "prompt": "A square game UI window frame for a nine-slice border: a thin ornate border running around all four edges of the square, with an elaborate ornament at each of the four corners and plain, straight, continuous molding along the edges between the corners (no ornament in the middle of the edges). The whole center is completely empty and transparent. Border thickness about 8% of the width, corners about 14%. Material: aged hammered copper molding with small rivets along the edges, corners of brass alchemist alembic fittings with a tiny glowing amber glass bulb, crisp game-UI asset rendering, front view, evenly lit. No text, no letters, no background, no shadow outside the frame.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "transparent",
+  "usage": {
+   "input_tokens": 148,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 148
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 587
+  },
+  "seconds": 15.451,
+  "png_sha256": "2531e56e5fc5357e3ca30a56d33bdfcbc073d0fb72ebd0f6db65edf8ceb0b86b"
+ },
+ "date": "2026-11-02"
+}

@@ -1,0 +1,31 @@
+{
+ "atelier": "element",
+ "kind": "frame",
+ "theme": "phosphor",
+ "file": "backgrounds/frames/frame-phosphor.webp",
+ "source": "사용자 2026-11-02 「응 장식 틀도 만들어줘」 — sam-atelier 의 공간별 장식 틀과 같은 방식으로 원소 공방 공간 다섯마다",
+ "processing": "투명 그대로 512px WebP 88 — lib/material.css 가 9칸 틀(border-image)로 쓴다, 잰 모서리 142px/1024 → 자르기 14%",
+ "prompt": "A square game UI window frame for a nine-slice border: a thin ornate border running around all four edges of the square, with an elaborate ornament at each of the four corners and plain, straight, continuous molding along the edges between the corners (no ornament in the middle of the edges). The whole center is completely empty and transparent. Border thickness about 8% of the width, corners about 14%. Material: matte gunmetal console bezel with thin cable trim along the edges, corners of rounded metal brackets with a small glowing phosphor-green indicator LED, crisp game-UI asset rendering, front view, evenly lit. No text, no letters, no background, no shadow outside the frame.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "transparent",
+  "usage": {
+   "input_tokens": 147,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 147
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 586
+  },
+  "seconds": 15.097,
+  "png_sha256": "90861a07c1b295076a857963d7e9987b0516f591035c6e39b531ac785efb7345"
+ },
+ "date": "2026-11-02"
+}
