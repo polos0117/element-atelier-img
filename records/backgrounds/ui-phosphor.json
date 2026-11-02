@@ -1,0 +1,62 @@
+{
+ "atelier": "element",
+ "kind": "title-ui",
+ "theme": "phosphor",
+ "files": {
+  "title": {
+   "file": "backgrounds/ui/ui-phosphor-title.webp",
+   "size": [
+    960,
+    300
+   ],
+   "center_luminance": 0.005
+  },
+  "main": {
+   "file": "backgrounds/ui/ui-phosphor-main.webp",
+   "size": [
+    800,
+    126
+   ],
+   "center_luminance": 0.203
+  },
+  "btn": {
+   "file": "backgrounds/ui/ui-phosphor-btn.webp",
+   "size": [
+    800,
+    123
+   ],
+   "center_luminance": 0.004
+  },
+  "round": {
+   "file": "backgrounds/ui/ui-phosphor-round.webp",
+   "size": [
+    182,
+    128
+   ],
+   "center_luminance": 0.004
+  }
+ },
+ "source": "사용자 2026-11-02 「element 쪽에도 … 메인화면 구성을 지금 삼국지처럼 변경해줘. 이미지 생성이 필요하면 생성해도 돼」 — 타이틀 화면의 현판 · 메뉴 단추(주 · 보통) · 둥근 단추를 공간마다 한 장(투명)에서",
+ "processing": "투명 시트 1536x1024 한 장을 알파 줄 띠로 넷으로 잘라(위→아래: 현판 · 주 단추 · 보통 단추 · 둥근 단추) 현판 960px · 단추 800px · 둥근 단추 높이 128px WebP 88 — 글씨는 그림에 없고 화면이 lib/words.js 말을 얹는다",
+ "prompt": "A game title-screen UI asset sheet on a fully transparent background. Exactly four separate elements, stacked top to bottom and centered, with wide empty transparent gaps between them (no element touches or overlaps another):\n1. Top: a large ornate horizontal title emblem plaque, about 70% of the sheet width and 32% of its height, richly decorated at both ends and along the top and bottom, with a wide flat empty center panel that is a deep green-black dark glass screen panel where a game logo will be placed later.\n2. A long horizontal menu button plate in its highlighted state, about 56% of the sheet width and 10% of its height: ornate end caps and a thin trim, the center filled with a glowing phosphor-green CRT screen panel.\n3. The same long horizontal menu button plate in its normal state, exactly the same size and shape, with the center filled with a deep green-black dark glass screen panel, calmer and less glowing.\n4. Bottom: a small round medallion button, about 10% of the sheet width, with a plain a deep green-black dark glass screen center.\nMaterial and style for every element: matte gunmetal control-console bezel with rounded corners, small round indicator LEDs, toggle-switch details and thin cable trim, 1980s particle-accelerator control room hardware. Crisp polished game-UI asset rendering, front view, evenly lit, consistent style across all four elements. The center panels are smooth and plain. No text, no letters, no numbers, no symbols, no icons, no background, no drop shadow, no scene.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "transparent",
+  "usage": {
+   "input_tokens": 331,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 331
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 674
+  }
+ },
+ "date": "2026-11-02"
+}
