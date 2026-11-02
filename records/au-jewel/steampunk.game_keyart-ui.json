@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "au-jewel",
+ "tier": "lord",
+ "world": "steampunk",
+ "style": "game_keyart",
+ "styleVersion": "v2",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "arched_thin",
+   "nose": "straight_narrow",
+   "lips": "small_bow",
+   "eye_color": "crimson",
+   "age": "late_20s",
+   "impression": "elegant",
+   "skin_tone": "olive",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "expr": "sensual"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "braids",
+   "hair_color": "rose_gold",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "au-jewel_steampunk_game_keyart_f.webp",
+ "prompt": "CONCEPT: the personification of Jewel — the lord of the Jewel House of the Gold Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Gold (Au) to carry in her design and the scene: warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light. Palette: yellow gold, amber, electrum pale, deep red velvet.\nHOUSE TRAITS of Jewel: fine filigree, granulation beads, gem settings, soft gleam against skin. Palette: yellow gold, rose gold, pearl white, ruby red.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long braids with no bangs, forehead bare; rose-gold hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — an elegant, refined presence; olive skin; heart-shaped face; moderately sized, realistically proportioned eyes — wide almond eyes, level outer eye corners; thin arched brows; straight narrow nose; small bow lips; crimson eyes; sharp winged eyeliner.\nWORLD — STEAMPUNK: around 1849, a gold-rush town: a mine stamp mill and water wheel, brass assay scales, a bank vault with a brass dial, dust and lamplight. COSTUME (steampunk): late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt over riding trousers and laced boots; muted palette with the traits above as accents. No armor plates, no cape, no crown unless CONCEPT says she wears one; steam, pipes and gauges in the scene; no modern plastic, no sci-fi. LIGHT: hazy gaslight and a smoky overcast sky, unless TIME & WEATHER says otherwise. HAIR: her hair is worn exactly as SILHOUETTE says — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless SILHOUETTE says an updo.\nSTYLE: Polished 2.5D game key art with clean linework, anime facial design that keeps each character's own facial structure, eye proportions and skin tone instead of one house face, layered cel-to-soft shading and crisp costume and prop detail. Use a vivid, readable silhouette and campaign-quality lighting.\nEXPOSURE (bold): the high collar unbuttoned down to the sternum with natural cleavage, sleeves rolled above the elbow, a short bustle skirt showing the legs above laced boots; the waistcoat stays buttoned at the waist. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth, chin a little lowered.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (Au) and atomic number (79) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/au-jewel/steampunk.game_keyart-ui.json",
+ "storage": {
+  "card": "au-jewel",
+  "out": "world",
+  "world": "steampunk",
+  "style": "game_keyart",
+  "notes": {
+   "au-jewel|steampunk": {}
+  },
+  "looks": {
+   "au-jewel|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "au-jewel|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d741234701b8efe3a80754b033c9cba2297ff5a0699e15caca15f5ba9f1f6e80",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "91f014a064753c138fd8a756f2c4ed6ed745d05c92689a22dea06eeaa20231c3"
+  },
+  "prompt_sha256": "a86a09d2d36be37e8230abb7a3fd2942a166b7635f971cf68e3838b5ae18f260",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다. Built-in image_gen 사용."
+ },
+ "execution": "element-jewelry-61b88a",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt · element-jewelry-61b88a",
+  "image_sha256": "d741234701b8efe3a80754b033c9cba2297ff5a0699e15caca15f5ba9f1f6e80",
+  "passed": true,
+  "observations": [
+   "1024×1536、세로 2:3 확인. 주인공은 성인 여성 한 명. 로고·워터마크·그림 테두리 없음.",
+   "땋은 로즈골드 머리, 목 고글·금 세공 조끼·가죽 바지와 부츠. 증기 광산과 금고 배경.",
+   "인물 한 명, 빈 양손과 양팔·다리 정상 연결. Au·79만 읽힘."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-02 — 캐릭터 완료 후 이미지·도감 데이터를 커밋하고 main 일반 반영 승인; IMAGE_AUTOMATION 0절 AI 검수 뒤 게시"
+}
