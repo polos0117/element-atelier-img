@@ -1,0 +1,32 @@
+{
+ "atelier": "element",
+ "kind": "orbit",
+ "nation": "og",
+ "file": "backgrounds/orbits/orbit-og.webp",
+ "source": "사용자 2026-11-02 「궤도 이미지를 각 원소별로 만들고, 거기에 텍스트로만 표기한 다음에 거기를 한 번 누르면 큰 이미지를 띄우고, 다시 거기서 크게 보기 버튼」 — 전시관 나라 층의 무대",
+ "processing": "1024px 그대로 WebP 80. 큰 고리 반지름을 재서(72방향 밝기 최댓값의 가운데값) 너비의 0.405 — gallery.html 이 가문 이름을 그 고리 위에 얹는다",
+ "ring": 0.405,
+ "prompt": "A square illustration of an elemental orbit chart for the element Oganesson, seen straight on and perfectly centered. At the exact center: a glowing nucleus emblem embodying oganesson — a synthetic superheavy element that exists for less than a millisecond — only a handful of atoms have ever been made, nobody has ever seen it: it flickers in and out of existence, its edges dissolve into light and scatter as it decays into lighter elements; by position it belongs to the noble-gas royalty (aloof, never mixing) yet is predicted to be a strange heavy solid. Around it: one large, perfectly circular main orbit ring centered in the image with a radius of about 40% of the image width, drawn as a fine luminous line with delicate engraved ornament, plus two fainter thin concentric rings inside it and faint orbital dust trails. The main ring is a clean empty circle: no beads, planets, nodes, gems or figures on it. Background: a deep dark void tinted with the palette, faint drifting particles, darker toward the edges, so light text can sit on top of the ring. Palette: void black, deep indigo, pale violet-white decay glow, ghostly translucency, a hint of gold for royalty. Elegant fantasy-scientific game UI art, symmetric, evenly lit, high detail. No text, no letters, no numbers, no symbols, no people.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 291,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 291
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 730
+  },
+  "seconds": 20.329,
+  "png_sha256": "031c414448d247e519778f52caa0c9f03d0e69d1bb292c0108181721395ceabd"
+ },
+ "date": "2026-11-02"
+}

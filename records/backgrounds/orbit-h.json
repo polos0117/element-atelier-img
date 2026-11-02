@@ -1,0 +1,32 @@
+{
+ "atelier": "element",
+ "kind": "orbit",
+ "nation": "h",
+ "file": "backgrounds/orbits/orbit-h.webp",
+ "source": "사용자 2026-11-02 「궤도 이미지를 각 원소별로 만들고, 거기에 텍스트로만 표기한 다음에 거기를 한 번 누르면 큰 이미지를 띄우고, 다시 거기서 크게 보기 버튼」 — 전시관 나라 층의 무대",
+ "processing": "1024px 그대로 WebP 80. 큰 고리 반지름을 재서(72방향 밝기 최댓값의 가운데값) 너비의 0.407 — gallery.html 이 가문 이름을 그 고리 위에 얹는다",
+ "ring": 0.407,
+ "prompt": "A square illustration of an elemental orbit chart for the element Hydrogen, seen straight on and perfectly centered. At the exact center: a glowing nucleus emblem embodying hydrogen — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water. Around it: one large, perfectly circular main orbit ring centered in the image with a radius of about 40% of the image width, drawn as a fine luminous line with delicate engraved ornament, plus two fainter thin concentric rings inside it and faint orbital dust trails. The main ring is a clean empty circle: no beads, planets, nodes, gems or figures on it. Background: a deep dark void tinted with the palette, faint drifting particles, darker toward the edges, so light text can sit on top of the ring. Palette: pale sky blue, white, silver, a faint violet flame, clear glass. Elegant fantasy-scientific game UI art, symmetric, evenly lit, high detail. No text, no letters, no numbers, no symbols, no people.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 260,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 260
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 699
+  },
+  "seconds": 17.809,
+  "png_sha256": "5f3b4e76320c70dc30292728370b8b7eb85e9c6bc25aebf73e81d74be0d2ac84"
+ },
+ "date": "2026-11-02"
+}
