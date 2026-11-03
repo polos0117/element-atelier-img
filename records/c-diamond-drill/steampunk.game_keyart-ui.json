@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "c-diamond-drill",
+ "tier": "citizen",
+ "world": "steampunk",
+ "style": "game_keyart",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "eye_color": "ice_blue",
+   "age": "late_20s",
+   "impression": "rugged",
+   "skin_tone": "bronze",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "scar",
+   "expr": "focused"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair": "braids",
+   "hair_color": "dark_iron",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "c-diamond-drill_steampunk_game_keyart_f.webp",
+ "prompt": "CONCEPT: a citizen of the Carbon Nation, of the Diamond House. A female personification character with an industrial diamond-tipped drill bit as her motif — the object reimagined as a woman in cloth and ornament that carry its materials, colors, shape and motifs. She does NOT hold, carry or wield the object; it is not a separate object. Both hands are ordinary human hands and hold nothing.\nELEMENT TRAITS of Carbon (C) to carry in her design and the scene: two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life. Palette: charcoal black, graphite grey, diamond white, a single living green.\nHOUSE TRAITS of Diamond: faceted crystal planes, rainbow fire inside clear stone, cold transparency, hardness as posture. Palette: diamond white, prism rainbow, cold silver, black velvet.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; long braids with center-parted bangs framing the face; dark wrought-iron grey hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a rugged, tough, outdoorsy look; bronze-brown skin; diamond-shaped face; smaller, narrower eyes than usual anime proportion — narrow upturned eyes, outer eye corners tilting sharply upward; sharp angled brows; aquiline nose; thin long lips; ice-blue eyes; a thin faint scar through one eyebrow; semi-realistic game-illustration facial proportions, not a chibi or moe anime face.\nWORLD — STEAMPUNK: around 1850, the age of coal: a colliery headframe, coke ovens, a pencil factory, a carbon-arc lamp hissing blue-white. COSTUME (citizen, steampunk): her object leads — its silhouette, parts and materials must read at first glance in her outfit and headpiece, the object reimagined as cloth, leather and brass fittings; the steampunk era only sets the late-Victorian cut and the brass-and-leather finish. Steam, pipes and gauges in the scene; no modern plastic, no sci-fi. LIGHT: hazy gaslight and a smoky overcast sky, unless TIME & WEATHER says otherwise. HAIR: her hair is worn exactly as SILHOUETTE says — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless SILHOUETTE says an updo.\nSTYLE: Polished 2.5D game key art — painterly semi-realistic rendering with soft volumetric light. Her face is modelled with gentle three-dimensional shading on the nose bridge, cheekbones, lips and jawline, drawn with thin soft-coloured contour lines instead of dark ink outlines; glossy layered hair with depth; she keeps her own facial structure, eye proportions and skin tone instead of one house face. Even in a bright, high-key scene her face keeps soft form shadows. Crisp costume and prop detail, a vivid, readable silhouette and campaign-quality lighting. Not flat cel-shaded 2D anime, the image itself is not a sketch or line drawing, not photoreal.\nEXPOSURE (bold): her outfit opens to show skin — a deep open neckline with natural cleavage, bare shoulders or arms, a high slit or a short hem where the outfit allows; pieces stay symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the object's shape, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nEXPRESSION: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no living creature, no logo, no watermark, no speech bubble, no frame border. No text or numbers except her element's own chemical symbol (C) and atomic number (6) — those two may appear readably (engraved, stamped, glowing or on a sign or label); nothing else is written.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
+ "record": "records/c-diamond-drill/steampunk.game_keyart-ui.json",
+ "storage": {
+  "card": "c-diamond-drill",
+  "out": "world",
+  "world": "steampunk",
+  "style": "game_keyart",
+  "notes": {
+   "c-diamond-drill|steampunk": {}
+  },
+  "looks": {
+   "c-diamond-drill|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "c-diamond-drill|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9d868e9b06f630c5c8a19268b2bafcabf1d9de2108b89f16ac853dc33f3f69a8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "generator_commit": "d71090f",
+  "restart_reason": "사용자 2026-11-03: 생성기 화풍 문구 수정 후 세계 컷부터 전부 재작업"
+ },
+ "execution": "element-diamond-drill-ae0f",
+ "imported": "2026-11-03",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9d868e9b06f630c5c8a19268b2bafcabf1d9de2108b89f16ac853dc33f3f69a8",
+  "passed": true,
+  "observations": [
+   "1024×1536, 성인 여성 한 명 전신·발끝 여백 확인",
+   "v3: 옅은 윤곽선과 코·볼·입술·턱의 연속 명암, 머리카락과 피부의 입체 반사광으로 2.5D 표현",
+   "철색 긴 땋은 머리·구릿빛 피부·푸른 눈, 드릴 나선은 머리장식과 옷의 모티브, 두 손은 비어 있음",
+   "양팔·양다리·손목 자연스럽게 연결, 탄광·증기·가스등 스팀펑크 배경, C·6 외 뚜렷한 글자·로고·테두리 없음"
+  ]
+ },
+ "acceptance": "사용자 2026-11-03 — 이미지·도감 커밋 및 main 일반 반영 승인"
+}
