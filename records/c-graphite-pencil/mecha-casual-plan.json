@@ -16,25 +16,24 @@
   {
    "n": 1,
    "era": "fantasy",
-   "place": "fx_observatory",
+   "place": "fx_runway",
    "ofam": "swimwear",
    "treeV": 2,
    "prop": "",
-   "preset": "walk_away",
-   "use": "book_hold",
-   "kind": "hold",
-   "posture": "walk",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
    "support": "none",
    "frame": "environmental",
-   "body": "back",
+   "body": "side",
    "head": "with_body",
-   "camera": "eye",
-   "right": "prop",
-   "left": "down",
-   "legs": "walk_stride",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
    "gaze": "horizon",
-   "item": "swim_coverup",
-   "expr": "",
+   "item": "sarong_wrap",
+   "expr": "playful",
    "axes": {
     "overall_intensity": "strong",
     "skin_exposure": "bold"
@@ -155,6 +154,14 @@
    },
    "aspect": "2:3",
    "unlocked": []
+  }
+ ],
+ "replanned": [
+  {
+   "n": 1,
+   "seed": 20261103,
+   "date": "2026-11-03",
+   "why": "안전 필터 거절 네 번(같은 지시문 둘 · 보통 · 적게) → 계획 바꾸기 한 번(IMAGE_RULES 1절)"
   }
  ]
 }
