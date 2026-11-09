@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "he",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "he_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bridge",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "color": "pastel",
+  "expr": "gentle",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "he_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bridge in her element's kingdom\nOutfit: a soft body-hugging knit dress — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/he/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "he",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "he": {
+    "era": "nation",
+    "place": "nation_bridge",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "floor_brace",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "knit_dress_home",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5ed18984e827152f45824f83eb8bd81eaa20c6c074580f5f4e189c4fa6642134",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f24f4b147639689f35feed79ea26cc40c5f9fb79c9d2913dd8537514ef3a5477",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "regenerated": false,
+  "actual_prompt_sha256": "8dbb0cf17271fcb98bd0ea3b114416e019ec8b5bb08208872c7fe4831837e036",
+  "source_png_local": "/workspace/scratch/9ff5fe0ba593/generated_images/exec-0e02f257-21ad-48bb-8b2a-b2cd159cac46.png"
+ },
+ "execution": "element-he-9ff5fe0ba593-20261110",
+ "imported": "2026-11-10",
+ "acceptance": "User authorized generation, QA and main fast-forward without further confirmation. No exposure-based regeneration.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f24f4b147639689f35feed79ea26cc40c5f9fb79c9d2913dd8537514ef3a5477",
+  "passed": false,
+  "observations": [
+   "Image inspected; actual dimensions 1024x1536; one adult main figure, painted anime rendering; no watermark or border.",
+   "Full figure with short pixie and pink eyes, right arm behind head and left palm on bridge; lavender knit dress."
+  ],
+  "cause": "Torso is propped up rather than lying fully on her side.; Glowing balloon motifs appear on the knit dress.",
+  "deviations": [
+   "Torso is propped up rather than lying fully on her side.",
+   "Glowing balloon motifs appear on the knit dress."
+  ],
+  "anatomy": "No extra limbs observed. Hands checked at displayed scale; occluded/overlapping fingers are not certified individually.",
+  "prompt_conflict": "The generated short prompt permits element motifs in outfit details; IMAGE_RULES/AGENTS everyday guidance limits element expression to accessories and objects. Exact generated prompt retained; no manual rewriting or regeneration."
+ }
+}

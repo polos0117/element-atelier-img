@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "he",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "he_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_cloudpavilion",
+  "ofam": "halloween",
+  "item": "hw_witch",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "book_hold",
+  "kind": "hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "denier": "d60",
+  "expr": "candid",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "he_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nOutfit: a dark witch costume — a plunging black velvet bodysuit under a sheer black chiffon cape, a crooked wide-brimmed pointed hat and sheer thigh-high stockings; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/he/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "he",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "he": {
+    "era": "fantasy",
+    "place": "fx_cloudpavilion",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_cross_prop",
+    "use": "book_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "item": "hw_witch",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d60"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5e1a94d03f5e02330a8dbcc25f330fead6a9c11a1d024e6f1f6698427ac9acab",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7e37da41bd0b15f719726a185e3ebc2c0f72ec13d4c2d6e79400add01a140908",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "regenerated": false,
+  "actual_prompt_sha256": "316399fde23779bd37a160c259ed8667325b814cf2ee06ee27f915cb4cc05f03",
+  "source_png_local": "/workspace/scratch/9ff5fe0ba593/generated_images/exec-7207676c-5da3-42bb-a109-bf50ea7f0985.png"
+ },
+ "execution": "element-he-9ff5fe0ba593-20261110",
+ "imported": "2026-11-10",
+ "acceptance": "User authorized generation, QA and main fast-forward without further confirmation. No exposure-based regeneration.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7e37da41bd0b15f719726a185e3ebc2c0f72ec13d4c2d6e79400add01a140908",
+  "passed": false,
+  "observations": [
+   "Image inspected; actual dimensions 1024x1536; one adult main figure, painted anime rendering; no watermark or border.",
+   "Profile witch costume, pointed hat, closed book held at chest, crossed legs and cloud pavilion."
+  ],
+  "cause": "Book, hat and garment include element-derived motifs.",
+  "deviations": [
+   "Book, hat and garment include element-derived motifs."
+  ],
+  "anatomy": "No extra limbs observed. Hands checked at displayed scale; occluded/overlapping fingers are not certified individually.",
+  "prompt_conflict": "The generated short prompt permits element motifs in outfit details; IMAGE_RULES/AGENTS everyday guidance limits element expression to accessories and objects. Exact generated prompt retained; no manual rewriting or regeneration."
+ }
+}

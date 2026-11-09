@@ -1,0 +1,123 @@
+{
+ "atelier": "element",
+ "card": "he",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "he_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_airport",
+  "ofam": "adventure",
+  "item": "safari_dress",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "expr": "wistful",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "he_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an airport lounge — tall windows onto the runway, sleek seats, a long bench and a departures board\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/he/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "he",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "he": {
+    "era": "now",
+    "place": "travel_airport",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "phone_selfie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "safari_dress",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5ed18984e827152f45824f83eb8bd81eaa20c6c074580f5f4e189c4fa6642134",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e61d4b54e617e5c716999bd9f8c6a86bca139f6a47cf0b3904e217d03b2fddcb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "regenerated": false,
+  "actual_prompt_sha256": "fde263ddfd9c703c16ae1c5ed59499d9d4692ab70310823c83aa6d5f6f0f486b",
+  "source_png_local": "/workspace/scratch/9ff5fe0ba593/generated_images/exec-4b0cd744-a189-498e-a29f-c2d284ea4e4c.png",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an airport lounge — tall windows onto the runway, sleek seats, a long bench and a departures board\nOutfit: an ivory asymmetric sleeveless tailored vest with a triangular scarf collar, a small sternum keyhole and offset coconut-button fastening, paired with high-waisted rust-coloured culotte shorts and a narrow braided belt; a fitted travel look with bare shoulders and arms and a neatly defined waist, following her curvy figure with rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "execution": "element-he-9ff5fe0ba593-20261110",
+ "imported": "2026-11-10",
+ "acceptance": "User authorized generation, QA and main fast-forward without further confirmation. No exposure-based regeneration.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e61d4b54e617e5c716999bd9f8c6a86bca139f6a47cf0b3904e217d03b2fddcb",
+  "passed": false,
+  "observations": [
+   "Image inspected; actual dimensions 1024x1536; one adult main figure, painted anime rendering; no watermark or border.",
+   "Pink pixie and pink eyes, one phone-holding hand and airport lounge; tailored ivory free-outfit vest."
+  ],
+  "cause": "Framing extends below the requested chest-up boundary.; Departure board includes small pseudo-text beyond allowed chemical symbol/number.; Element-themed motif appears on collar and phone.",
+  "deviations": [
+   "Framing extends below the requested chest-up boundary.",
+   "Departure board includes small pseudo-text beyond allowed chemical symbol/number.",
+   "Element-themed motif appears on collar and phone."
+  ],
+  "anatomy": "No extra limbs observed. Hands checked at displayed scale; occluded/overlapping fingers are not certified individually.",
+  "prompt_conflict": "The generated short prompt permits element motifs in outfit details; IMAGE_RULES/AGENTS everyday guidance limits element expression to accessories and objects. Exact generated prompt retained; no manual rewriting or regeneration.",
+  "free_outfit": "Only the Outfit line was replaced, under the free-outfit exception; actual prompt retained in generation.free_prompt."
+ }
+}
