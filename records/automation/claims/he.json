@@ -104,7 +104,7 @@
     "he_mecha_jp_paint_anime_f_casual5.webp",
     "he_mecha_jp_paint_anime_f_casual6.webp"
    ],
-   "stage": "awaiting_world_selection",
+   "stage": "generating_casual",
    "candidate_count": 12,
    "selection_sheet": {
     "library_file_id": "libfile_9cfe22a4a66481919d1f33581d213f6b",
@@ -116,7 +116,13 @@
     "layout": "rows: fantasy, steampunk, mecha; columns: 1 our design 1, 2 our design 2, 3 GPT design 1, 4 GPT design 2",
     "embedded_manifest": "PNG iTXt element_atelier_candidate_manifest contains exact prompts, SHA256 hashes and lossless source-image crop boxes"
    },
-   "note": "12 world candidates generated once each. Await user choice per IMAGE_AUTOMATION 0-1. No world/casual images registered yet. No exposure-based regeneration."
+   "note": "User selected the three world candidates; continuing the same execution. No world image regeneration.",
+   "world_selection": {
+    "fantasy": 4,
+    "steampunk": 3,
+    "mecha": 2
+   },
+   "selection_reply": "4,3,2"
   }
  ]
 }
