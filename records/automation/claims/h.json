@@ -38,7 +38,7 @@
   {
    "key": "h",
    "execution": "element-h-2f826c4f494f-20261109",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T14:57:31.378Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -65,7 +65,7 @@
     "h_mecha_jp_paint_anime_f_casual5.webp",
     "h_mecha_jp_paint_anime_f_casual6.webp"
    ],
-   "stage": "images_generated_awaiting_registration",
+   "stage": "registered",
    "candidate_review": {
     "library_file_id": "libfile_d0194eb324dc8191ac9a283e8d6e4a53",
     "file_name": "hydrogen-world-designs.pdf",
@@ -105,7 +105,28 @@
     "dimensions": "21/21 1024x1536",
     "plans": "3/3 passed",
     "upload_blob_hashes": "21/21 matched"
-   }
+   },
+   "validation": {
+    "images": 21,
+    "registered_worlds": 3,
+    "registered_casual_per_world": {
+     "fantasy": 6,
+     "steampunk": 6,
+     "mecha": 6
+    },
+    "thumbnail_workflow": {
+     "id": 42650527887,
+     "conclusion": "success"
+    },
+    "registration_workflow": {
+     "id": 42650609317,
+     "conclusion": "success"
+    },
+    "original_entries": "preserved",
+    "dimensions_and_upload_hashes": "21/21 matched"
+   },
+   "done_at": "2026-11-09T16:03:27.333Z",
+   "done_by": "element-h-2f826c4f494f-20261109"
   }
  ]
 }
