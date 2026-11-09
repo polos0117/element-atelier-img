@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_hydrogen",
+  "ofam": "active",
+  "item": "ski_suit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wave",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pattern",
+  "situ": "wet",
+  "expr": "wistful",
+  "preset": "wave_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_mecha_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hydrogen filling station at dusk, white dispensers under a lit canopy and a row of tall gas cylinders\nOutfit: a sleek fitted one-piece ski suit with goggles pushed up on her head — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/mecha-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "h": {
+    "era": "site",
+    "place": "site_hydrogen",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wave_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "wave",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "ski_suit",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "pattern"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2b8c6c9c649dacd6ac3c4ed762455dbafbf6ae261d7466dc2e7f2c1dadc8c642",
+  "webp_sha256": "ac3422626c75a6db092d7a1eaaad04d39b1f823c0e882de36468d63443697e14",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "673437c52d71669f346a0024309b861091e8b4060fa2695aac0c640f0858a71b"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2b8c6c9c649dacd6ac3c4ed762455dbafbf6ae261d7466dc2e7f2c1dadc8c642",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "M1 short hair, blue eyes and face retained; rainy hydrogen refueling station, patterned ski suit and goggles.",
+   "Right hand waves with five distinct fingers, left rests at chest; no armor or extra limbs observed."
+  ],
+  "deviations": [
+   "Crop extends below bust rather than ending just below bust as planned."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

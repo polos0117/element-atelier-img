@@ -1,0 +1,111 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "sky_blue",
+   "age": "early_20s",
+   "impression": "innocent",
+   "skin_tone": "porcelain",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "slender",
+   "hair": "short_crop",
+   "hair_color": "silver_white",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "h_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Hydrogen (수소) itself — the sovereign of the Hydrogen Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing. Age: about twenty — a fresh young-adult face; no facial lines.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nHer: a clear, innocent purity; porcelain-pale skin; diamond-shaped face; large eyes — narrow upturned eyes, level outer eye corners; thin arched brows; small button nose; small bow lips; sky-blue eyes; rosy flushed cheeks. slender build; short cropped hair with side-swept bangs; silver-white hair.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes keep the shape described above at a natural open size — never squeezed into narrow slits.\n\nHer element: airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water. Palette: pale sky blue, white, silver, a faint violet flame, clear glass.\n\nWorld and costume: year 2200, a fusion harbour city: a ring-shaped tokamak glowing white-blue, cryogenic hydrogen tanks, a space elevator cable rising into a pale sky, clean hard light. MECHA DESIGN: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. light white-and-silver armor with translucent pale-blue panels, thin frame joints, a single electron-shell ring as a halo, cryogenic frost along the seams, pale-blue flame glow lines, a slim back unit shaped like a fuel tank; the plates must read as solid armor, not cloth.\n\nOutfit silhouette: light body armor with several small shield and drone units floating symmetrically around her. Only the overall shape is fixed; design the details freely in the element's materials and palette.\n\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Intimate areas covered; keep the costume WORLD describes, material and palette.\n\nPose: standing confidently, her body turned slightly while her face looks toward the viewer. Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: the scene's own light, rendered the way this style renders light and skin.\n\nOne figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (H) and atomic number (1) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "h|mecha": {}
+  },
+  "looks": {
+   "h|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "h|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "673437c52d71669f346a0024309b861091e8b4060fa2695aac0c640f0858a71b",
+  "webp_sha256": "ba0853b36f434055c4bf98bd629f595c1ce0ca59b4daac894e2acf9fcdacb916",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "selected_candidate": "M1",
+  "selection": "User: 1,2,1"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "673437c52d71669f346a0024309b861091e8b4060fa2695aac0c640f0858a71b",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "One adult woman with short silver-white hair and blue eyes, white-silver mecha armor, floating drones and cryogenic tank unit.",
+   "Empty visible hands, full figure and both feet inside frame; H/1 integrated into costume and harbor."
+  ],
+  "deviations": [
+   "Translucent trailing panels partly read as cloth rather than rigid armor."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

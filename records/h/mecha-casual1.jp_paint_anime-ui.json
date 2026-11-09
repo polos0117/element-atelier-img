@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_infinity",
+  "ofam": "lingerie",
+  "item": "longline_bra",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "ring_hip",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "color": "neutral",
+  "expr": "calm",
+  "preset": "stride_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop infinity pool with the city skyline behind it\nOutfit: a longline bra set with a wide underband and matching high-waisted bottoms — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a swim ring on one hip; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "h": {
+    "era": "now",
+    "place": "water_infinity",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stride_prop",
+    "use": "ring_hip",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "item": "longline_bra",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c374cfb2d20f4c8912afc6349052c2e373ebc332e8f01396d5bc4ae832961c56",
+  "webp_sha256": "4416c32e808057fa0baa9229e23d8de00ffd323b17612a297495defa94b976b5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "673437c52d71669f346a0024309b861091e8b4060fa2695aac0c640f0858a71b"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c374cfb2d20f4c8912afc6349052c2e373ebc332e8f01396d5bc4ae832961c56",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "M1 short silver-white hair, blue eyes and facial appearance retained; no armor or helmet.",
+   "Walking full-body figure by rooftop pool, right hand carries swim ring, left hand lowered; both feet inside frame.",
+   "One woman, no readable text or extra limbs observed."
+  ],
+  "deviations": [
+   "City skyline retains futuristic elements from the reference rather than a plainly contemporary city."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

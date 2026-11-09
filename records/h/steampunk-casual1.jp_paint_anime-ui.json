@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_diner",
+  "ofam": "lingerie",
+  "item": "negligee_silk",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_set",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "color": "vivid",
+  "expr": "half_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro American diner — a chrome counter, vinyl booths, a jukebox and neon signs in the window\nOutfit: a long silk negligee with a lace bodice, thin straps and a side slit — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she sets a cup down on the surface in front of her; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "h": {
+    "era": "now",
+    "place": "street_diner",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "cup_set",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "negligee_silk",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "44d7728eb8e6718ece53d81ab92efdb9575cb320994cb73c37fed1a3214adb8c",
+  "webp_sha256": "f599f557a7f2ade369b761c29dce25460fc00767f31672863db0507f2f092b3f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "c9b03a919fc8f940f3d853ce57b24ca0fae7e7f9b29e44f79b7e393b9d843112"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "44d7728eb8e6718ece53d81ab92efdb9575cb320994cb73c37fed1a3214adb8c",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "S2 silver-white updo, blue eyes and facial appearance retained.",
+   "Seated complete figure in retro diner, right hand setting a cup down, left on knee, cobalt negligee.",
+   "Two arms and two legs naturally connected, no extra foreground figure or clearly readable wording observed."
+  ],
+  "deviations": [
+   "Small flower hair decoration resembles an ornament retained from S2."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

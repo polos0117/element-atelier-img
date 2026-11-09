@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_jungle_ruins",
+  "ofam": "editorial",
+  "item": "stealth_monochrome",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "ofree": true,
+  "expr": "focused",
+  "preset": "walk_lookback",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — on the image's left side, since her back is to the camera.\nPROP: with her own right hand she holds a small glass vial of pale-blue flame that drifts upward at chest height; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "h": {
+    "era": "fantasy",
+    "place": "fx_jungle_ruins",
+    "ofam": "editorial",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_lookback",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "stealth_monochrome",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b471b141df00258e852a59ae85aedb6a7f6dc1f34fc3f00c7aae9e2f9d62cf4e",
+  "webp_sha256": "49b858e1c267833c214ac499017246d3ad392cd1370b11eb5c69b2fc08394ab6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "673437c52d71669f346a0024309b861091e8b4060fa2695aac0c640f0858a71b",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nOutfit: an original woven-scarf skort ensemble in olive green and burnt terracotta: broad bias-cut silk bands interlaced diagonally into a secure halter bodice and an open lattice across the upper back, an exposed waist and high-waisted balloon culotte shorts under angular handkerchief-fold side panels. The bust and hips are fully opaque; shoulders, back and upper legs are bare by design. Soft cloth throughout, no armor, helmet or regalia; one small simple hair pin, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — on the image's left side, since her back is to the camera.\nPROP: with her own right hand she holds a small glass vial of pale-blue flame that drifts upward at chest height; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_outfit": true
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b471b141df00258e852a59ae85aedb6a7f6dc1f34fc3f00c7aae9e2f9d62cf4e",
+  "passed": true,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "M1 identity retained; jungle ruins, walking pause with back three-quarter view and head turned over shoulder.",
+   "Original olive/terracotta interlaced scarf bodice and culotte/skort outfit; right hand holds pale-blue-flame vial, left arm lowered.",
+   "Connected limbs, no text, armor or extra figure observed."
+  ],
+  "deviations": []
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

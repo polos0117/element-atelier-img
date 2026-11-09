@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_mirror",
+  "ofam": "editorial",
+  "item": "harness_tailoring",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "fan_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "color": "denim",
+  "expr": "amused",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mirrored labyrinth of endless reflections and soft coloured light\nOutfit: tailoring with harness-like belts and buckles crossing the torso as decoration — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a folding fan open near her chest; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "h": {
+    "era": "fantasy",
+    "place": "fx_mirror",
+    "ofam": "editorial",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_cross_prop",
+    "use": "fan_hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "item": "harness_tailoring",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0f951fc3b6dd24449c35577a5596f29dc6d943c3b9016227d01dddab20bc1c18",
+  "webp_sha256": "e235b1a58abc2b8772a39707395f9b634d53e3157083140e1a50715053c9a430",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "3ea29a3e6bcdfc1ac5194ed641a4a0b8f68142c9e8e95d39e4624168e4322764"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0f951fc3b6dd24449c35577a5596f29dc6d943c3b9016227d01dddab20bc1c18",
+  "passed": true,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "Reference long hair and blue eyes retained, seated side view with crossed legs in mirror maze.",
+   "Fan in one hand, other hand resting on knee; reflective background repeats the same woman, no extra foreground figure.",
+   "Harness-tailored navy clothing differs from royal armor, no readable text or limb disconnection observed."
+  ],
+  "deviations": []
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

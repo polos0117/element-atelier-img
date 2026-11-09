@@ -1,0 +1,160 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_range",
+  "ofam": "adventure",
+  "item": "desert_nomad",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "denim",
+  "denier": "d40",
+  "situ": "strap",
+  "expr": "gentle",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an archery range of targets on a green field\nOutfit: a desert-explorer look — a light linen scarf loose over the shoulders, a cropped linen top, low-slung loose linen trousers and leather sandals — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "h": {
+    "era": "now",
+    "place": "sports_range",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "desert_nomad",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "denim",
+    "denier": "d40"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ba8a52b5d2c1aa0371ccd8a4767ea451cb82eca9568801936360e049f79968a4",
+  "webp_sha256": "e62a9caa1568c618310036645b391a2ca4e32241fd3c6268c65ef52036a9fd42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "c9b03a919fc8f940f3d853ce57b24ca0fae7e7f9b29e44f79b7e393b9d843112",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "9ae12e63-beb1-464e-9943-ce4fccf8ec04"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "c0241ec4-c04c-4f9d-9cbe-9b4971aedfa8"
+   },
+   {
+    "attempt": 3,
+    "exposure": "moderate",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "387e7e96-c203-4099-bf39-9335cef1005e"
+   },
+   {
+    "attempt": 4,
+    "exposure": "low",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "1629c9b2-3485-4958-99e6-dca1f762c022"
+   },
+   {
+    "attempt": 5,
+    "plan": "replanned_seed_112702",
+    "exposure": "bold",
+    "result": "generated"
+   }
+  ],
+  "replanned": {
+   "seed": 112702,
+   "reason": "Original plan was moderation-blocked at bold twice, moderate and low."
+  }
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ba8a52b5d2c1aa0371ccd8a4767ea451cb82eca9568801936360e049f79968a4",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "S2 silver-white updo, blue eyes and face retained; replanned archery range and blue/cream explorer clothes.",
+   "Folded arms, back against stone wall, slipped shoulder neckline; no readable text or extra limbs observed."
+  ],
+  "deviations": [
+   "Crop extends to the waist rather than ending just below bust."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "bath",
+  "item": "peshtemal",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "expr": "calm",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nOutfit: a striped cotton peshtemal wrapped like a dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "h": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wrap_close",
+    "use": "cup_wrap",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "peshtemal",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b7f735220b1153294533ea8048650c1ab47c647171d22592bfa3f531de39d481",
+  "webp_sha256": "b427876aa625dfd25025ba7d613de3bd2ee0877ae2572f4134d4942d0d3c5f45",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "3ea29a3e6bcdfc1ac5194ed641a4a0b8f68142c9e8e95d39e4624168e4322764"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b7f735220b1153294533ea8048650c1ab47c647171d22592bfa3f531de39d481",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "Reference hair, eye color and facial appearance retained; striped cotton wrap, library setting, cup held by both hands.",
+   "Visible fingers wrap around the cup with natural occlusion; no additional limbs or readable text observed."
+  ],
+  "deviations": [
+   "A flower-like hair ornament and pendant earrings retain some fantasy styling from the reference."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

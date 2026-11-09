@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "halloween",
+  "item": "hw_wolf",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "ofree": true,
+  "expr": "wistful",
+  "preset": "hip_contra",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "h": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hip_contra",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "item": "hw_wolf",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "618899ff5544a95672d3a7a2733f05ba440c84bf655afeca2142bb65b068d5db",
+  "webp_sha256": "683a5cef18cd7e0d890118106ee09ab3e6a3d8681b7949132310a6b288007681",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "c9b03a919fc8f940f3d853ce57b24ca0fae7e7f9b29e44f79b7e393b9d843112",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nOutfit: an original knot-work culotte ensemble in dark teal and copper: a sculptural macrame shoulder bridge above an opaque fitted cropped bodice, open sides at the waist, and asymmetric bias-cut culottes whose overlapping side panels are joined by broad soft textile loops. Bare shoulders and part of the waist; bust and hips have opaque lining. Smooth cloth and knotted cord with no metal armor, no regalia; one small pearl hair clip, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_outfit": true
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "618899ff5544a95672d3a7a2733f05ba440c84bf655afeca2142bb65b068d5db",
+  "passed": true,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "S2 identity retained; original teal/copper knot-work culotte ensemble in underwater palace.",
+   "Right hand on hip, left hand at hair, three-quarter framing with connected arms; small pearl hair clip replaces reference hat.",
+   "No text, extra foreground person or extra limbs observed."
+  ],
+  "deviations": []
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

@@ -65,7 +65,7 @@
     "h_mecha_jp_paint_anime_f_casual5.webp",
     "h_mecha_jp_paint_anime_f_casual6.webp"
    ],
-   "stage": "world_candidates_awaiting_selection",
+   "stage": "images_generated_awaiting_registration",
    "candidate_review": {
     "library_file_id": "libfile_d0194eb324dc8191ac9a283e8d6e4a53",
     "file_name": "hydrogen-world-designs.pdf",
@@ -90,6 +90,21 @@
      ]
     },
     "note": "12 world candidates generated with built-in image_gen; no world or casual images uploaded. Select one per world before casual generation and registration; existing artwork preserved."
+   },
+   "selected_candidates": {
+    "fantasy": "F1",
+    "steampunk": "S2",
+    "mecha": "M1"
+   },
+   "selection_message": "1,2,1",
+   "new_images": 21,
+   "qa": {
+    "records": 21,
+    "passed": 8,
+    "deviations_recorded": 13,
+    "dimensions": "21/21 1024x1536",
+    "plans": "3/3 passed",
+    "upload_blob_hashes": "21/21 matched"
    }
   }
  ]

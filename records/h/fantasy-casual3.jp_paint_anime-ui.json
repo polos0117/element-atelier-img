@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_skygarden",
+  "ofam": "halloween",
+  "item": "hw_medusa",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "ofree": true,
+  "expr": "candid",
+  "preset": "lounger_drink",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a floating sky garden of hanging vines and flowering terraces above the clouds\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small glass vial of pale-blue flame that drifts upward at chest height; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "h": {
+    "era": "fantasy",
+    "place": "fx_skygarden",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "lounger_drink",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "hw_medusa",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "48ab1c59728f86cd668f1102cfc8da009451e57b6b95b3ca0aa6a48497daff50",
+  "webp_sha256": "34180b1e87c635294be12b38a74295aa08fae3e8b4a35e4134cf85d35ae11a5e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "3ea29a3e6bcdfc1ac5194ed641a4a0b8f68142c9e8e95d39e4624168e4322764",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a floating sky garden of hanging vines and flowering terraces above the clouds\nOutfit: an original origami-ribbon playsuit in apricot and deep plum: a sculptural fan-fold bandeau neckline, broad folded fabric ribbons linked at the sides by soft cloth knots, and overlapping crescent-fold culotte panels ending high on the thighs. The bust and hips have opaque fitted lining; shoulders, part of the midriff and legs are bare by design. Flat braided sandals and a single small hair ribbon; all light textile, no armor or regalia, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small glass vial of pale-blue flame that drifts upward at chest height; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_outfit": true
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "48ab1c59728f86cd668f1102cfc8da009451e57b6b95b3ca0aa6a48497daff50",
+  "passed": true,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "Silver-white long hair, blue eyes and facial appearance retained from F1.",
+   "Reclining full figure on a lounger in the sky garden, right hand behind head, left hand holds flame vial, extended legs and sandals inside frame.",
+   "Apricot/plum origami-ribbon outfit is distinct from catalog; no text or extra limbs observed."
+  ],
+  "deviations": []
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}

@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "color": "jewel",
+  "expr": "sensual",
+  "preset": "lie_front_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a harbour or ferry landing in her element's kingdom\nOutfit: a one-shoulder lounge top and matching soft pants — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/h/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "h": {
+    "era": "nation",
+    "place": "nation_harbor",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_full",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "item": "one_shoulder_lounge",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3a31c098d2a0fada2b1ee7289cddef8c76c90bb240e53b4552cd72cc1a1fb4a3",
+  "webp_sha256": "2e1367c82fa1aebef0f03ec65b1284c193a54dfc77560ed5bcdbf1785a0374f0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved outside the git repository; only SHA256 is committed.",
+  "ref_sha256": "c9b03a919fc8f940f3d853ce57b24ca0fae7e7f9b29e44f79b7e393b9d843112"
+ },
+ "execution": "element-h-2f826c4f494f-20261109",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3a31c098d2a0fada2b1ee7289cddef8c76c90bb240e53b4552cd72cc1a1fb4a3",
+  "passed": false,
+  "observations": [
+   "1024x1536 confirmed from original image bytes.",
+   "S2 identity retained, lying prone with both hands supporting chin, both lower legs raised behind her.",
+   "One-shoulder lounge outfit and trousers in steampunk harbor setting, all figure extremities within frame.",
+   "No extra limbs or readable text observed."
+  ],
+  "deviations": [
+   "Small flower hair ornament resembles S2 styling."
+  ]
+ },
+ "acceptance": "User approved creation, QA, commits and non-force main publication; selected F1/S2/M1 on 2026-11-10."
+}
