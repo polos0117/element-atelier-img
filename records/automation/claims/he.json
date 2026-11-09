@@ -104,7 +104,7 @@
     "he_mecha_jp_paint_anime_f_casual5.webp",
     "he_mecha_jp_paint_anime_f_casual6.webp"
    ],
-   "stage": "awaiting_registration",
+   "stage": "complete",
    "candidate_count": 12,
    "selection_sheet": {
     "library_file_id": "libfile_9cfe22a4a66481919d1f33581d213f6b",
@@ -116,7 +116,7 @@
     "layout": "rows: fantasy, steampunk, mecha; columns: 1 our design 1, 2 our design 2, 3 GPT design 1, 4 GPT design 2",
     "embedded_manifest": "PNG iTXt element_atelier_candidate_manifest contains exact prompts, SHA256 hashes and lossless source-image crop boxes"
    },
-   "note": "All 21 selected/generated images complete. QA deviations recorded, images retained without regeneration. Await thumbnail and encyclopedia registration.",
+   "note": "Complete: 3 selected world images and 18 casual images registered; all 21 thumbnails verified; generation results retained without regeneration.",
    "world_selection": {
     "fantasy": 4,
     "steampunk": 3,
@@ -126,7 +126,10 @@
    "generated_worlds": 3,
    "generated_casual": 18,
    "done_at": "2026-11-09T22:59:43.425Z",
-   "done_by": "element-he-9ff5fe0ba593-20261110"
+   "done_by": "element-he-9ff5fe0ba593-20261110",
+   "registered_images": 21,
+   "registration_commit": "633581f5094faa023395d6b483a93b02529780ec",
+   "image_commit": "6b8d0415b787f97e6b47bc5715833e5ddffe0181"
   }
  ]
 }
