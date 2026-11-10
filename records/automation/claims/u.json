@@ -39,7 +39,7 @@
   {
    "key": "u",
    "execution": "element-u-48f327-20261111",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-10T16:48:11.336Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-10",
@@ -67,7 +67,7 @@
     "u_mecha_jp_paint_anime_f_casual6.webp"
    ],
    "selection": {
-    "status": "selected",
+    "status": "complete",
     "style": "jp_paint_anime",
     "sheet_library_file_id": "libfile_a41445c4faec8191856ba74b48d654e5",
     "sheet_local_path": "/workspace/scratch/48f327ace226/uranium-world-selection.png",
@@ -373,7 +373,16 @@
      1024,
      1536
     ],
-    "status": "ready_to_publish"
+    "status": "published"
+   },
+   "done_at": "2026-11-10T17:37:16.113Z",
+   "done_by": "element-u-48f327-20261111",
+   "published": {
+    "image_commit": "1016bd1a1cbf66bdc6fe23e5a68f65ce13421d29",
+    "code_commit": "3634686f47c5a58f023bbfc2c2c73f3f367f04f0",
+    "thumb_workflow": 42866432543,
+    "thumb_conclusion": "success",
+    "images": 21
    }
   }
  ]
