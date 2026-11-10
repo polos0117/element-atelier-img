@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "o",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_mint",
+  "ofam": "evening",
+  "item": "halter_evening",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "ofree": true,
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "o_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oxygen (O) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mint vault of stacked gold bars, trays of fresh coins and a heavy steel door, warm lamplight on the metal\nOutfit: a warm terracotta sleeveless tailored waistcoat with an angular white fold-over collar, matching fitted skort with two asymmetric stitched box pleats, a broad satin sash knotted at one side, and low heeled ankle boots; bare shoulders and arms, fully opaque intimate coverage.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a clear glass bubble-sphere of fresh air with a tiny flame inside in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/o/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "o": {
+    "era": "site",
+    "place": "site_mint",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_work",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "halter_evening",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "qa": {
+  "passed": false,
+  "observations": [
+   "Terracotta sleeveless waistcoat, both hands holding glass sphere at a gold-filled vault workbench.",
+   "Painted anime rendering retained, one adult main figure, no extra limbs observed; visible hand poses reviewed.",
+   "Torso is upright instead of leaning over workbench; crop is lower than planned waist-up."
+  ],
+  "cause": "Torso is upright instead of leaning over workbench; crop is lower than planned waist-up.",
+  "image_sha256": "f453bd3cf6fa0fa6eaaa005eac0aaad1d8040ba2e43e6a85829b43265f080982",
+  "reviewer": "gpt",
+  "size": [
+   1024,
+   1536
+  ]
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f453bd3cf6fa0fa6eaaa005eac0aaad1d8040ba2e43e6a85829b43265f080982",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original image retained; only converted to WebP. No regenerated output replaced a successful image.",
+  "ref_sha256": "2da70ea7f9013d3d7bc1423403134717182e346e2b9a35c0f85b273b4f6f0c3a",
+  "design": "gpt_free_outfit",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Oxygen (O) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mint vault of stacked gold bars, trays of fresh coins and a heavy steel door, warm lamplight on the metal\nOutfit: a warm terracotta sleeveless tailored waistcoat with an angular white fold-over collar, matching fitted skort with two asymmetric stitched box pleats, a broad satin sash knotted at one side, and low heeled ankle boots; bare shoulders and arms, fully opaque intimate coverage.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a clear glass bubble-sphere of fresh air with a tiny flame inside in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "execution": "element-o-20261110T0826",
+ "imported": "2026-11-10",
+ "acceptance": "User approved generation, QA, commits and normal main updates; selected world candidates 3,4,4."
+}

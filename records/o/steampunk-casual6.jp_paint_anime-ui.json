@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "o",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_castle",
+  "ofam": "swimwear",
+  "item": "halter_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "wave",
+  "left": "down",
+  "use": "",
+  "legs": "tiptoe",
+  "gaze": "camera",
+  "color": "pattern",
+  "expr": "confident",
+  "preset": "tiptoe_wave",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "o_steampunk_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oxygen (O) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the grand staircase of an old castle\nOutfit: a halter bikini with a neck tie and an underbust band — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left arm hangs relaxed at her side.\nLEGS: rising onto her toes.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/o/steampunk-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "o": {
+    "era": "fantasy",
+    "place": "fx_castle",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "tiptoe_wave",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "wave",
+    "left": "down",
+    "legs": "tiptoe",
+    "gaze": "camera",
+    "item": "halter_bikini",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern"
+   }
+  }
+ },
+ "qa": {
+  "passed": false,
+  "observations": [
+   "Floral halter swimwear, waving visible hand, other lowered, raised heels and whole figure visible, castle staircase.",
+   "Painted anime rendering retained, one adult main figure, no extra limbs observed; visible hand poses reviewed.",
+   "Face turns toward viewer although requested profile head aligned with body."
+  ],
+  "cause": "Face turns toward viewer although requested profile head aligned with body.",
+  "image_sha256": "ff9e38ff395dbf334c438dd3689c9c3bd92285c407459a564b41d442cb07466c",
+  "reviewer": "gpt",
+  "size": [
+   1024,
+   1536
+  ]
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ff9e38ff395dbf334c438dd3689c9c3bd92285c407459a564b41d442cb07466c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original image retained; only converted to WebP. No regenerated output replaced a successful image.",
+  "ref_sha256": "2da70ea7f9013d3d7bc1423403134717182e346e2b9a35c0f85b273b4f6f0c3a"
+ },
+ "execution": "element-o-20261110T0826",
+ "imported": "2026-11-10",
+ "acceptance": "User approved generation, QA, commits and normal main updates; selected world candidates 3,4,4."
+}
