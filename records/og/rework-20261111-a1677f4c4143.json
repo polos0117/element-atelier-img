@@ -2,8 +2,12 @@
  "card": "og",
  "style": "jp_paint_anime",
  "execution": "element-og-rework-a1677f4c4143-20261111",
- "status": "awaiting_world_selection",
- "selected": null,
+ "status": "assets_prepared",
+ "selected": {
+  "fantasy": 4,
+  "steampunk": 3,
+  "mecha": 2
+ },
  "candidates": [
   {
    "world": "fantasy",
@@ -278,5 +282,226 @@
   "archive_name": "oganesson-rework-candidates.zip",
   "originals": "originals/<world>-<number>.png",
   "note": "Archive preserves all twelve original PNGs and exact generation prompts. Select one candidate per world before replacing world images and generating six casuals per world. Existing registered images remain until replacement."
- }
+ },
+ "user_message": "4,3,2",
+ "generated_casuals": 18,
+ "qa_deviations": [
+  "fantasy-casual2",
+  "mecha-casual1",
+  "mecha-casual4",
+  "mecha-casual6",
+  "steampunk-casual1"
+ ],
+ "images": [
+  {
+   "id": "fantasy-4",
+   "file": "og_fantasy_jp_paint_anime_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "c23ed4dec9fd0524b34eebff37f23d8f940249810f6d10dcbcfbf08513a373c0",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-3",
+   "file": "og_steampunk_jp_paint_anime_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "ad274b520ce33617931baa177f7bd79c9a23da4f489922ddb73a553ad8d3cc42",
+   "qa_passed": true
+  },
+  {
+   "id": "mecha-2",
+   "file": "og_mecha_jp_paint_anime_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "ef65819be4814b919b02eb4b5526d16b61d1e59bf0f2dc55067f684e2c845b1e",
+   "qa_passed": true
+  },
+  {
+   "id": "fantasy-casual1",
+   "file": "og_fantasy_jp_paint_anime_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "438d9476fb5805f8d5d0fc3f2218a643dff5e71e48a6413c1d4566ed1abe7646",
+   "qa_passed": true
+  },
+  {
+   "id": "fantasy-casual2",
+   "file": "og_fantasy_jp_paint_anime_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "f256f085d85caf968fd03858e5570c7b995953c970a0db7a133d2948e69eef4c",
+   "qa_passed": false
+  },
+  {
+   "id": "fantasy-casual3",
+   "file": "og_fantasy_jp_paint_anime_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "cc3684d557ce48fb97a8d04572f73eeb74071f0820ef412df0b110adc4d17d2c",
+   "qa_passed": true
+  },
+  {
+   "id": "fantasy-casual4",
+   "file": "og_fantasy_jp_paint_anime_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "0ab7481792e2178ac9eeb8c446dce0f23bed0607ae17441d107d2f2aefc236eb",
+   "qa_passed": true
+  },
+  {
+   "id": "fantasy-casual5",
+   "file": "og_fantasy_jp_paint_anime_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "fc0b076d641cc4a40206e3510502d556623bfd11875ab14e2990a5c718edc8e1",
+   "qa_passed": true
+  },
+  {
+   "id": "fantasy-casual6",
+   "file": "og_fantasy_jp_paint_anime_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "92b2c4104352747affb10bb27b5929b2521850a6b28b260e448f8a9a3633a3fe",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-casual1",
+   "file": "og_steampunk_jp_paint_anime_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "0280100ccf8dda387779e37efc41ff40dba8b9bd576c430cfee079eaf8f86359",
+   "qa_passed": false
+  },
+  {
+   "id": "steampunk-casual2",
+   "file": "og_steampunk_jp_paint_anime_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "74f8cd80fa68db7b0bd50e1832ac37b779353590c8b93e13a8e2c4ae339d7423",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-casual3",
+   "file": "og_steampunk_jp_paint_anime_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "a6fb40ef8f34a9056656d4d3a38e7b616cff273186fc5f81d28095b8584892fe",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-casual4",
+   "file": "og_steampunk_jp_paint_anime_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "9cbb435f00da3d1cc1a7b430ece918597111be3be3c3751299eca9ea99e3a443",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-casual5",
+   "file": "og_steampunk_jp_paint_anime_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "1f968e093af604e082979c8954b2a322199e2a4ce4b1c6851c760b05ae2dbf03",
+   "qa_passed": true
+  },
+  {
+   "id": "steampunk-casual6",
+   "file": "og_steampunk_jp_paint_anime_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "cc5f7762584b125b47e307105767f9414e3029d681406d76557ae70f49408227",
+   "qa_passed": true
+  },
+  {
+   "id": "mecha-casual1",
+   "file": "og_mecha_jp_paint_anime_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "0f601b4ba8313215a0833e7c0253dd3564f6bec4b3789fd03ea1942b13846887",
+   "qa_passed": false
+  },
+  {
+   "id": "mecha-casual2",
+   "file": "og_mecha_jp_paint_anime_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "0fb718a362d77c158dca2b8d572faf231d983efd75e916a35c2718e82d7f399e",
+   "qa_passed": true
+  },
+  {
+   "id": "mecha-casual3",
+   "file": "og_mecha_jp_paint_anime_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "959f9ec0aeaadc0c636d34778e4008bf186e7e56e0b8a90ad14a831689b978aa",
+   "qa_passed": true
+  },
+  {
+   "id": "mecha-casual4",
+   "file": "og_mecha_jp_paint_anime_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "ba46403fbb0adf4b4b90f3a151ad71f93b3dfd2a2be7c78d76d480e3821fe4a1",
+   "qa_passed": false
+  },
+  {
+   "id": "mecha-casual5",
+   "file": "og_mecha_jp_paint_anime_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "b37b58e122422fbaa24b89c80d3bee275934b98633d2c47e41a1ce197925d602",
+   "qa_passed": true
+  },
+  {
+   "id": "mecha-casual6",
+   "file": "og_mecha_jp_paint_anime_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "7dc5768c7c7d9221e3228ef9174752a430c4255c90fe49ed5a329b16d5a2dd77",
+   "qa_passed": false
+  }
+ ]
 }
