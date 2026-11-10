@@ -34,7 +34,7 @@
   {
    "key": "o",
    "execution": "element-o-20261110T0826",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T23:27:06.633Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -61,7 +61,7 @@
     "o_mecha_jp_paint_anime_f_casual5.webp",
     "o_mecha_jp_paint_anime_f_casual6.webp"
    ],
-   "phase": "generated_awaiting_registration",
+   "phase": "complete",
    "selection": {
     "order": [
      "fantasy",
@@ -84,7 +84,11 @@
     },
     "user_message": "3,4,4"
    },
-   "generated_assets": 21
+   "generated_assets": 21,
+   "done_at": "2026-11-10T13:12:04.490Z",
+   "done_by": "element-o-20261110T0826",
+   "registration_commit": "dc8089d",
+   "image_commit": "20981d64e4ee1232c25a60224ce28d1df28df913"
   }
  ]
 }
