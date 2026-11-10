@@ -382,8 +382,16 @@
     "code_commit": "3634686f47c5a58f023bbfc2c2c73f3f367f04f0",
     "thumb_workflow": 42866432543,
     "thumb_conclusion": "success",
-    "images": 21
+    "images": 21,
+    "registration_workflow": {
+     "id": 42866547479,
+     "conclusion": "failure",
+     "stage": "commit back",
+     "cause": "Concurrent registration commit conflicted in data/img.json after standard registrar output was already published by this task.",
+     "resolution": "Standard registrar output committed as 3634686f47c5a58f023bbfc2c2c73f3f367f04f0; existing entries preserved, 21 Uranium entries verified, registration tests and Pages deployment succeeded."
+    }
    }
   }
  ]
 }
+
