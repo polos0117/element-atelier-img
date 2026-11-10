@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "og",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "og_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "book_turn",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "color": "mono",
+  "expr": "candid",
+  "preset": "side_chair_read",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "og_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oganesson (Og) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nOutfit: a loosely tied robe — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she turns a page of a book lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a synthetic superheavy element that exists for less than a millisecond — only a handful of atoms have ever been made, nobody has ever seen it: it flickers in and out of existence, its edges dissolve into light and scatter as it decays into lighter elements; by position it belongs to the noble-gas royalty (aloof, never mixing) yet is predicted to be a strange heavy solid — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/og/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "og",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "og": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_read",
+    "use": "book_turn",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "item": "robe_morning",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ebc4f300d41f2261299f7df11e6fdae181870ffa7b1e6d85f0a6bef5494b71f3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; retained by SHA256. Created once; no censorship-based regeneration.",
+  "design": "registered",
+  "retries": [],
+  "ref_sha256": "c4cf8db90fab2666b8cb921c7fc5d0fd3ad80a3109f71b1b4969a6ebc0a86591"
+ },
+ "execution": "element-og-20261110-1403",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ebc4f300d41f2261299f7df11e6fdae181870ffa7b1e6d85f0a6bef5494b71f3",
+  "passed": true,
+  "observations": [
+   "Verified original PNG 1024x1536; WebP retains dimensions.",
+   "One adult main figure; painterly Japanese anime rendering; no frame or watermark.",
+   "Used selected steampunk candidate 1 as the only reference. Pale violet-white hair and violet eyes remain recognizable; crown and body armor removed.",
+   "Side-view seated robe scene in brass kitchen, both hands turning a page on a table, both feet visible.",
+   "Two arms and two legs where shown; no extra limbs observed. Finger visibility follows crop and hand pose; overlapping or hidden digits cannot all be counted."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-10 — publish after AI QA; selected worlds 1,1,1; no censorship-based regeneration"
+}

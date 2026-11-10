@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "og",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "og_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_court",
+  "ofam": "active",
+  "item": "archery_top",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "color": "jewel",
+  "expr": "half_smile",
+  "preset": "kneel_clasp",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "og_steampunk_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oganesson (Og) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor court for tennis or basketball\nOutfit: a fitted archery top with an arm guard — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a synthetic superheavy element that exists for less than a millisecond — only a handful of atoms have ever been made, nobody has ever seen it: it flickers in and out of existence, its edges dissolve into light and scatter as it decays into lighter elements; by position it belongs to the noble-gas royalty (aloof, never mixing) yet is predicted to be a strange heavy solid — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/og/steampunk-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "og",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "og": {
+    "era": "now",
+    "place": "sports_court",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_clasp",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "archery_top",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "af1ad690c18153b034135845af54e74e1f432c8897faa2906de52fd4bd081d1c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; retained by SHA256. Created once; no censorship-based regeneration.",
+  "design": "registered",
+  "retries": [],
+  "ref_sha256": "c4cf8db90fab2666b8cb921c7fc5d0fd3ad80a3109f71b1b4969a6ebc0a86591"
+ },
+ "execution": "element-og-20261110-1403",
+ "imported": "2026-11-10",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "af1ad690c18153b034135845af54e74e1f432c8897faa2906de52fd4bd081d1c",
+  "passed": true,
+  "observations": [
+   "Verified original PNG 1024x1536; WebP retains dimensions.",
+   "One adult main figure; painterly Japanese anime rendering; no frame or watermark.",
+   "Used selected steampunk candidate 1 as the only reference. Pale violet-white hair and violet eyes remain recognizable; crown and body armor removed.",
+   "Court background with archery equipment; kneeling with knees together and clasped hands.",
+   "Two arms and two legs where shown; no extra limbs observed. Finger visibility follows crop and hand pose; overlapping or hidden digits cannot all be counted."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-10 — publish after AI QA; selected worlds 1,1,1; no censorship-based regeneration"
+}
