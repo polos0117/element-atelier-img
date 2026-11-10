@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "linen_lounge",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "lantern_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "",
+  "color": "jewel",
+  "expr": "proud",
+  "preset": "raise_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nOutfit: a light linen lounge set — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she lifts a small hand lantern to chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "u": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "raise_chest",
+    "use": "lantern_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "linen_lounge",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "de3a5c87f01319941a6f4945a569394d8b4926f01d86a4cff1200992205338b8",
+  "ref_sha256": "807c258dc04a1f32e0567f009a335d61edc35e7546aaffeb8b47d94d126aee50",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository."
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "de3a5c87f01319941a6f4945a569394d8b4926f01d86a4cff1200992205338b8",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified.",
+   "Long lead-grey hair and grey-blue eyes match fantasy reference; garden pond and lantern visible.",
+   "Image is a torso portrait, wider than planned chest-up crop.",
+   "Linen lounge outfit became an ornate wrap-like garment with motifs; shape differs from simple lounge set."
+  ],
+  "cause": "Observed deviations from generated scene requirements are listed above; image preserved without regeneration under project rules."
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_cloudpavilion",
+  "ofam": "halloween",
+  "item": "hw_devil",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "ofree": true,
+  "expr": "proud",
+  "preset": "side_chair_cross",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nOutfit: an original sunrise ensemble: an apricot silk collar capelet fastened at the nape and falling only over the upper back, a matching opaque softly folded bandeau, fitted high-waisted petal shorts, and a single diagonal panel of finely pleated organza draped from one hip. Soft cream flat sandals complete the outfit; shoulders, midriff and legs are bare by design, with full intimate coverage.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small sealed lead-glass capsule with a softly glowing green core at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "u": {
+    "era": "fantasy",
+    "place": "fx_cloudpavilion",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "side_chair_cross",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "hw_devil",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2bdab1a1d053393d3965695d8780e68915c64561603e229ce551648b48a0b8a5",
+  "ref_sha256": "7d06ae038f5eb5e24dedcb02025a201da28ae7ec4a2da876ac42c91297c3a4c2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository.",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nOutfit: an original sunrise ensemble: an apricot silk collar capelet fastened at the nape and falling only over the upper back, a matching opaque softly folded bandeau, fitted high-waisted petal shorts, and a single diagonal panel of finely pleated organza draped from one hip. Soft cream flat sandals complete the outfit; shoulders, midriff and legs are bare by design, with full intimate coverage.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small sealed lead-glass capsule with a softly glowing green core at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n"
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2bdab1a1d053393d3965695d8780e68915c64561603e229ce551648b48a0b8a5",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified.",
+   "Apricot original capelet, opaque bandeau, petal shorts and organza hip panel follow free outfit design.",
+   "Short bob and amber eyes retained; seated with crossed legs, holding sealed capsule over cloud pavilion sunrise.",
+   "Full body and both feet visible, but head turns toward viewer instead of remaining in strict side profile."
+  ],
+  "cause": "Observed deviations from generated scene requirements are listed above; image preserved without regeneration under project rules."
+ }
+}

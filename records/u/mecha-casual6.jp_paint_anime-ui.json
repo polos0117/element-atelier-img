@@ -1,0 +1,130 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "bakery_kitchen",
+  "ofam": "lingerie",
+  "item": "back_strap",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "strap",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pastel",
+  "expr": "proud",
+  "preset": "strap_tilt",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "moderate"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_mecha_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small bakery workroom with a floury wooden worktable and warm ovens\nOutfit: a lingerie set with a decorative strap arrangement across the upper back — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, open at the collarbone and showing her arms or lower legs, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right thumb hooks under a shoulder strap.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/mecha-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "u": {
+    "era": "now",
+    "place": "bakery_kitchen",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_tilt",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "strap",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "back_strap",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "moderate"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "55b80b2f3827ae31baab008d9fd4b38faf613e08a6c3c292c2a2d380bd2a18f8",
+  "ref_sha256": "7d06ae038f5eb5e24dedcb02025a201da28ae7ec4a2da876ac42c91297c3a4c2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository.",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "prompt_sha256": "135ce812c3ef85b962fd06e46b87f87db2c1399e9c7aa58b417e41a6643c3e7a",
+    "result": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 49479993-695b-467c-8fb6-c40658d9f927. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+   },
+   {
+    "attempt": 2,
+    "exposure": "moderate",
+    "result": "image returned"
+   }
+  ]
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "55b80b2f3827ae31baab008d9fd4b38faf613e08a6c3c292c2a2d380bd2a18f8",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified.",
+   "Short lead-grey bob and amber eyes match mecha reference; pastel mint lingerie-inspired top and bakery workroom visible.",
+   "One hand touches a strap, no extra human limbs or source armor.",
+   "Requested chest-up framing extends to waist; output retained unchanged.",
+   "Bold attempt was rejected with no image returned; generator exposure lowered to moderate for returned result."
+  ],
+  "cause": "Observed deviations from generated scene requirements are listed above; image preserved without regeneration under project rules."
+ }
+}

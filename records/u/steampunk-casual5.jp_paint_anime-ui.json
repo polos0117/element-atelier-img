@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_jungle_ruins",
+  "ofam": "halloween",
+  "item": "hw_bat",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "bouquet_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "expr": "nostalgic",
+  "preset": "recline_head",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nOutfit: a bat costume — a black satin bustier mini dress with scalloped bat-wing sleeves and a small bat-ear headband, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small bouquet at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "u": {
+    "era": "fantasy",
+    "place": "fx_jungle_ruins",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "recline_head",
+    "use": "bouquet_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "hw_bat",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "15e43b0d8f878e4dfdda808efa398a09309f82a95a8bdcfcbcd3fc8c853e6313",
+  "ref_sha256": "b89aab476055c14bdc311099c1adf2cde6750a30398dbecfaeef58382912fa49",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository."
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "15e43b0d8f878e4dfdda808efa398a09309f82a95a8bdcfcbcd3fc8c853e6313",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified.",
+   "Green eyes, high ponytail and beauty mark retained.",
+   "Black bat-themed outfit, bouquet held by left hand, reclining against a cushion amid jungle ruins.",
+   "Chest-up framing extends farther down torso; costume ears are new scene accessories."
+  ],
+  "cause": "Observed deviations from generated scene requirements are listed above; image preserved without regeneration under project rules."
+ }
+}

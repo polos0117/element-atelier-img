@@ -67,7 +67,7 @@
     "u_mecha_jp_paint_anime_f_casual6.webp"
    ],
    "selection": {
-    "status": "awaiting_user_selection",
+    "status": "selected",
     "style": "jp_paint_anime",
     "sheet_library_file_id": "libfile_a41445c4faec8191856ba74b48d654e5",
     "sheet_local_path": "/workspace/scratch/48f327ace226/uranium-world-selection.png",
@@ -357,7 +357,23 @@
       ]
      }
     },
-    "note": "12 world previews complete. No candidate images or dex entries published; awaiting fantasy,steampunk,mecha selections. User has authorized selected-character commit and normal main push, with no force push or deletion. Do not regenerate existing images for exposure."
+    "note": "User selections received. Generate six casual images per world using each selected reference, then publish selected worlds and casual images with records, without further approval.",
+    "chosen": {
+     "fantasy": 3,
+     "steampunk": 1,
+     "mecha": 3
+    },
+    "user_response": "3,1,3",
+    "final_sheet_library_file_id": "libfile_63b48bc37868819195534f0ec3e769e8"
+   },
+   "generated": {
+    "world": 3,
+    "casual": 18,
+    "size": [
+     1024,
+     1536
+    ],
+    "status": "ready_to_publish"
    }
   }
  ]

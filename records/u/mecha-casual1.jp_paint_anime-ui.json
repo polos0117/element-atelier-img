@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_hammam",
+  "ofam": "swimwear",
+  "item": "triangle_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "towel_dry",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "pattern",
+  "expr": "gentle",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a domed marble hammam with warm stone slabs and brass bowls\nOutfit: a triangle bikini with slider cups and tie-side bottoms — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nLEGS: weight even on both legs.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "u": {
+    "era": "now",
+    "place": "spa_hammam",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "towel_dry",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "triangle_bikini",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "23f1989adb5e627199b07bfa1f27a944b6bb65bc5a26e4ffda04dbd5615fa411",
+  "ref_sha256": "7d06ae038f5eb5e24dedcb02025a201da28ae7ec4a2da876ac42c91297c3a4c2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository."
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "23f1989adb5e627199b07bfa1f27a944b6bb65bc5a26e4ffda04dbd5615fa411",
+  "passed": true,
+  "observations": [
+   "1024x1536 verified.",
+   "Short lead-grey bob and amber eyes follow selected mecha card.",
+   "Patterned yellow-green bikini, marble hammam, side-profile full body, both hands drying hair with towel.",
+   "Armor and crown removed; complete feet within frame; no extra human arms or legs."
+  ]
+ }
+}

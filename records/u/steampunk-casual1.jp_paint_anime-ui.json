@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_mine",
+  "ofam": "swimwear",
+  "item": "plunge_onepiece",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "color": "earth",
+  "expr": "half_smile",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mine gallery of rough rock walls, timber props, an ore cart on its track and a line of hanging lamps\nOutfit: a one-piece swimsuit with a deep plunging V and a secure wide waistband — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-10",
+ "record": "records/u/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "u",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "u": {
+    "era": "site",
+    "place": "site_mine",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "floor_brace",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "plunge_onepiece",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e15b445dd185a50f2f9a183c540e8d11eaf9d984852f08ef0f86dbdc9bb3b4c4",
+  "ref_sha256": "b89aab476055c14bdc311099c1adf2cde6750a30398dbecfaeef58382912fa49",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "model": "not exposed by tool",
+  "quality": "not exposed by tool",
+  "note": "Original PNG retained; WebP only in image repository."
+ },
+ "execution": "element-u-48f327-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "User chose 3,1,3 and authorized commit and normal main push without additional confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e15b445dd185a50f2f9a183c540e8d11eaf9d984852f08ef0f86dbdc9bb3b4c4",
+  "passed": true,
+  "observations": [
+   "1024x1536 verified.",
+   "Selected steampunk identity: long lead-grey ponytail, green eyes, poised adult face.",
+   "Earth-tone one-piece swimsuit, mine timbers and ore cart; side-reclining full body pose.",
+   "One hand behind head is occluded, the other supports her on rock; no added human limbs."
+  ]
+ }
+}
