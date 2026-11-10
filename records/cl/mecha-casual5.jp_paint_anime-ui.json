@@ -1,0 +1,114 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "studio_art",
+  "ofam": "bridal",
+  "item": "bridal_lace",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "expr": "wink",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an art or pottery studio of easels, clay and paint-splattered tables\nOutfit: a white lace bridal lingerie set with a short veil, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/cl/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cl",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "cl": {
+    "era": "now",
+    "place": "studio_art",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "phone_selfie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "bridal_lace",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d79d1c4ca515d05fc35c22849b07a3c56b434dc4fdfaab75274b5c8f23eb62c1",
+  "ref_sha256": "845756a4e0a09916531d98c3d4433d2755e95812ec3360e278471034502f968c",
+  "ref_file": "cl_mecha_jp_paint_anime_f.webp",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "reference_count": 1,
+  "retries": [],
+  "model_settings": "Not exposed by built-in image_gen"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d79d1c4ca515d05fc35c22849b07a3c56b434dc4fdfaab75274b5c8f23eb62c1",
+  "passed": true,
+  "observations": [
+   "1024×1536; one principal adult woman; no picture frame or watermark",
+   "Human limbs stay connected; hands examined within visible crop",
+   "Over-shoulder selfie in white bridal lace with phone, studio setting; blue eye and short wavy hair retained"
+  ],
+  "cause": ""
+ },
+ "execution": "element-cl-20261111-dc77ac20cc80",
+ "imported": "2026-11-11",
+ "acceptance": "User authorized QA then commit and normal main update; no regeneration of completed images for exposure"
+}

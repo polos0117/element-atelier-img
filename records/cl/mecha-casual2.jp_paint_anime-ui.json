@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "legs": "knees_together",
+  "gaze": "",
+  "color": "earth",
+  "expr": "confident",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an inn or tavern of her element's kingdom at night, a counter and a fire\nOutfit: a soft body-hugging knit dress — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/cl/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cl",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "cl": {
+    "era": "nation",
+    "place": "nation_inn",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "cup_wrap",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "knit_dress_home",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e7aec5c1d47b4d6efe43e5b6ed352202d9eb00aa74552282eb1d355391a5560b",
+  "ref_sha256": "845756a4e0a09916531d98c3d4433d2755e95812ec3360e278471034502f968c",
+  "ref_file": "cl_mecha_jp_paint_anime_f.webp",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "reference_count": 1,
+  "retries": [],
+  "model_settings": "Not exposed by built-in image_gen"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e7aec5c1d47b4d6efe43e5b6ed352202d9eb00aa74552282eb1d355391a5560b",
+  "passed": true,
+  "observations": [
+   "1024×1536; one principal adult woman; no picture frame or watermark",
+   "Human limbs stay connected; hands examined within visible crop",
+   "Side-view seated at inn table with two hands around cup, earth-tone cable-knit dress; framing includes upper thighs"
+  ],
+  "cause": ""
+ },
+ "execution": "element-cl-20261111-dc77ac20cc80",
+ "imported": "2026-11-11",
+ "acceptance": "User authorized QA then commit and normal main update; no regeneration of completed images for exposure"
+}

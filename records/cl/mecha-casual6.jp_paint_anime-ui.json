@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_runway",
+  "ofam": "drape",
+  "item": "toga_mini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "mono",
+  "denier": "d80",
+  "situ": "wind",
+  "expr": "relieved",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_mecha_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fashion runway under white spotlights\nOutfit: a modern toga mini dress — one-shoulder draped jersey in a short wrap, a gold cuff on the upper arm and strappy sandals — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-10",
+ "record": "records/cl/mecha-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cl",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "cl": {
+    "era": "fantasy",
+    "place": "fx_runway",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "legs": "",
+    "gaze": "camera",
+    "item": "toga_mini",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wind",
+    "color": "mono",
+    "denier": "d80"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1b9a31810491ddb8a04cff85713faae08ae9612420a6f3f87da9506de57d64dc",
+  "ref_sha256": "845756a4e0a09916531d98c3d4433d2755e95812ec3360e278471034502f968c",
+  "ref_file": "cl_mecha_jp_paint_anime_f.webp",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "reference_count": 1,
+  "retries": [],
+  "model_settings": "Not exposed by built-in image_gen"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1b9a31810491ddb8a04cff85713faae08ae9612420a6f3f87da9506de57d64dc",
+  "passed": true,
+  "observations": [
+   "1024×1536; one principal adult woman; no picture frame or watermark",
+   "Human limbs stay connected; hands examined within visible crop",
+   "Windblown dark toga fashion at runway, thumbs-up right hand and left on hip, one figure in focus and blurred audience"
+  ],
+  "cause": ""
+ },
+ "execution": "element-cl-20261111-dc77ac20cc80",
+ "imported": "2026-11-11",
+ "acceptance": "User authorized QA then commit and normal main update; no regeneration of completed images for exposure"
+}
