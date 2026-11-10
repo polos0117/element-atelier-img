@@ -65,7 +65,300 @@
     "u_mecha_jp_paint_anime_f_casual4.webp",
     "u_mecha_jp_paint_anime_f_casual5.webp",
     "u_mecha_jp_paint_anime_f_casual6.webp"
-   ]
+   ],
+   "selection": {
+    "status": "awaiting_user_selection",
+    "style": "jp_paint_anime",
+    "sheet_library_file_id": "libfile_a41445c4faec8191856ba74b48d654e5",
+    "sheet_local_path": "/workspace/scratch/48f327ace226/uranium-world-selection.png",
+    "pack": "/workspace/scratch/48f327ace226/u-pack",
+    "code_worktree": "/workspace/scratch/48f327ace226/element-atelier",
+    "image_worktree": "/workspace/scratch/48f327ace226/element-atelier-img",
+    "candidate_order": [
+     "1 project design 1",
+     "2 project design 2",
+     "3 GPT design 1",
+     "4 GPT design 2"
+    ],
+    "candidates": {
+     "fantasy1": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-58e90c7c-5c9d-4a81-b587-f3eeab406049.png",
+      "sha256": "2f7a56238d56cfc8a68332601dbf22f08032dbc1ea075e3161044552e136474e",
+      "qa": [
+       "One adult woman, full body, two visible empty human hands.",
+       "Fantasy fur-and-leather silhouette; emerald crystal vault; U and 92 integrated into fabrics.",
+       "Yellow and brown details extend beyond the main palette; preserved without regeneration.",
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/fantasy-prompt.txt",
+       "prompt_sha256": "83891619b1e185adce31b3c1db11be6a1e774c84b48efab208c03f6298c602c0"
+      }
+     },
+     "fantasy2": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-81a569a6-c3b7-4e58-8044-46979197704b.png",
+      "sha256": "350f8dda76beb2cc53190e0eb1d9b206c3425c8d5c06f6178e659310c966caba",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/fantasy-prompt.txt",
+       "prompt_sha256": "83891619b1e185adce31b3c1db11be6a1e774c84b48efab208c03f6298c602c0"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "fantasy3": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-c22c61ff-3fef-41cb-92cf-e9959da6254f.png",
+      "sha256": "807c258dc04a1f32e0567f009a335d61edc35e7546aaffeb8b47d94d126aee50",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/fantasy-3-free-actual.txt",
+       "prompt_sha256": "700ffe1fb3b4c3c922eb1c417ca41cd65ed47da3f9cd305718a097352acfbdd3"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "fantasy4": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-0d5286da-40d4-40c3-8d06-3cad646f19a2.png",
+      "sha256": "8bf2fad75ec84330a2f69a665482b789b42041f03cb0f5f9b04a6a8737a8aab2",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/fantasy-4-free-actual.txt",
+       "prompt_sha256": "aca7b8e0e1215e8d3b7e5386304c786e5a5013d3f51311c99d94d8db51cb8266"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "steampunk1": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-ed286989-f025-416f-a987-dc9c6dd3d8f0.png",
+      "sha256": "b89aab476055c14bdc311099c1adf2cde6750a30398dbecfaeef58382912fa49",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/steampunk-prompt.txt",
+       "prompt_sha256": "6e8310232945625b743e898fc3f1906503b60a37dc7ddfa330abf334d52f4cbc"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "steampunk2": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-8e3f3d6c-81d3-4bda-aad2-bf69aa0501f7.png",
+      "sha256": "fa03f2fe5df70133cc457171b182240eb9505fa47bceaf0534f358024584b42d",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/steampunk-prompt.txt",
+       "prompt_sha256": "6e8310232945625b743e898fc3f1906503b60a37dc7ddfa330abf334d52f4cbc"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "steampunk3": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-e9007fd2-c09f-4342-a089-0b18aea84665.png",
+      "sha256": "b160f4b14eb96747a7907e864e6d269bd31e2b87ec92321c536f42c047dc1f24",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/steampunk-3-free-actual.txt",
+       "prompt_sha256": "eb50238753646d84956c05555d29f59072f11f0b12236a4ac18cdf2e302e7ce1"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "steampunk4": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-c7170878-09b3-4418-aa73-c7018a6c40d2.png",
+      "sha256": "828344feecd22d37cbef0a6d26bda96f2fe4e39d26b08aa573fe13f3d5871014",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/steampunk-4-free-actual.txt",
+       "prompt_sha256": "94bc795230d5c5362a848f8cb1869342690a8745e7f498e956713d91c1eadc19"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "mecha1": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-a9b3e180-e8ee-4cc6-b06f-57f1fad3a262.png",
+      "sha256": "bc88364e6c6b6b41eccac62ab9e4ba31318129d8fa6ec0dd30ad0122c867388c",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/mecha-prompt.txt",
+       "prompt_sha256": "de7cbc4e4d4305c0f3d6f098ffe38145c7415c4fb05be1437e13430de2205832"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "mecha2": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-d56753ce-5912-49a0-92b9-1883b53fbf61.png",
+      "sha256": "781642222df7dc26db8a911860a49c23758d61786a99a4735f0cebae661f537e",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "project",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/mecha-prompt.txt",
+       "prompt_sha256": "de7cbc4e4d4305c0f3d6f098ffe38145c7415c4fb05be1437e13430de2205832"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "mecha3": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-4d67b8e8-1be6-4d64-8ee0-4bf62df81793.png",
+      "sha256": "7d06ae038f5eb5e24dedcb02025a201da28ae7ec4a2da876ac42c91297c3a4c2",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/mecha-3-free-actual.txt",
+       "prompt_sha256": "8161ad83e88bea65e0fb3129449fb1b559f09f8b9cf8ff82d634b069948e10d5"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     },
+     "mecha4": {
+      "path": "/workspace/scratch/48f327ace226/generated_images/exec-d3f505ff-5756-42c4-8e3f-67e18bb68aaf.png",
+      "sha256": "ed1f65c5708dc45e5b5ac7afb1b45f68373cad4bf6433d26de1a496bc495b4ec",
+      "size": [
+       1024,
+       1536
+      ],
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "model": "not exposed by tool",
+       "quality": "not exposed by tool",
+       "design": "gpt_free",
+       "prompt_file": "/workspace/scratch/48f327ace226/u-pack/mecha-4-free-actual.txt",
+       "prompt_sha256": "c4099a84eb4957b2cc3e338eb544ce05d46e78b5bbc7184ad75703bd6834c7b1"
+      },
+      "qa": [
+       "1024x1536 vertical image; one adult woman, head and both feet visible.",
+       "Both human hands visible, holding no objects.",
+       "World costume and background visible; no floating caption or watermark.",
+       "Yellow caution motifs and incidental ornamental symbols present in generated outputs; originals preserved."
+      ]
+     }
+    },
+    "note": "12 world previews complete. No candidate images or dex entries published; awaiting fantasy,steampunk,mecha selections. User has authorized selected-character commit and normal main push, with no force push or deletion. Do not regenerate existing images for exposure."
+   }
   }
  ]
 }
