@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "cu",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "cu_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_observatory",
+    "ofam": "evening",
+    "item": "velvet_evening",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "color": "vivid",
+    "expr": "proud",
+    "preset": "counter_cup",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cu_fantasy_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night observatory under an open dome\nOutfit: a heavy velvet evening dress with a deep sheen — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she holds a coil of copper wire with a tiny blue spark jumping across its ends at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/cu/fantasy-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "cu",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "cu": {
+        "era": "fantasy",
+        "place": "fx_observatory",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "counter_cup",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "rail",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "velvet_evening",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b59c2680d5b709d3e7960a4cb4cb78de85338a5fe53d6809e8c3a96fb7603fe9",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original output preserved; no regeneration for exposure or QA deviations.",
+    "ref_sha256": "4dd1a6063e63eb34d30a57654c71f2f04b577b1c53d3782deb85f68e43224e13"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b59c2680d5b709d3e7960a4cb4cb78de85338a5fe53d6809e8c3a96fb7603fe9",
+    "passed": true,
+    "observations": [
+      "1024×1536 verified.",
+      "Single adult main woman with copper-red hair, teal eyes and freckles; painterly anime finish.",
+      "No obvious extra or detached arms or legs in the visible framing.",
+      "Visible hands connect to arms; overlapping grip fingers and cropped fingers cannot all be counted independently."
+    ],
+    "cause": ""
+  },
+  "execution": "copper-20261111-4daac1200ac6",
+  "imported": "2026-11-12",
+  "acceptance": "User approved selection 1,2,1 and publication to main."
+}

@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "cu",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "cu_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_cafe",
+    "ofam": "halloween",
+    "item": "hw_ghost_bride",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sketch_draw",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "situ": "strap",
+    "expr": "curious",
+    "preset": "side_chair_read",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cu_fantasy_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a neighbourhood café with a counter and window seats\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she sketches in a sketchbook and pencil — her own right hand draws with the pencil, her own left hand holds the sketchbook open.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/cu/fantasy-casual3.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "cu",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "cu": {
+        "era": "now",
+        "place": "street_cafe",
+        "ofam": "halloween",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "sketch_draw",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "hw_ghost_bride",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "strap"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8e54701db19998423697d1696e44f13618ab982050986d6f027525c89c8bcea1",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original output preserved; no regeneration for exposure or QA deviations.",
+    "ref_sha256": "4dd1a6063e63eb34d30a57654c71f2f04b577b1c53d3782deb85f68e43224e13"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8e54701db19998423697d1696e44f13618ab982050986d6f027525c89c8bcea1",
+    "passed": false,
+    "observations": [
+      "1024×1536 verified.",
+      "Single adult main woman with copper-red hair, teal eyes and freckles; painterly anime finish.",
+      "No obvious extra or detached arms or legs in the visible framing.",
+      "Visible hands connect to arms; overlapping grip fingers and cropped fingers cannot all be counted independently.",
+      "Planned slipped-strap situation is not clearly shown; lace drape replaces a distinct slipped strap."
+    ],
+    "cause": "Generator framing/pose/text deviation; preserved without regeneration."
+  },
+  "execution": "copper-20261111-4daac1200ac6",
+  "imported": "2026-11-12",
+  "acceptance": "User approved selection 1,2,1 and publication to main."
+}

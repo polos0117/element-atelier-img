@@ -1,0 +1,114 @@
+{
+  "atelier": "element",
+  "card": "cu",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "cu_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_hydrogen",
+    "ofam": "swimwear",
+    "item": "halter_bikini",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "use": "",
+    "legs": "",
+    "gaze": "window",
+    "color": "jewel",
+    "expr": "candid",
+    "preset": "window_chin",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cu_steampunk_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hydrogen filling station at dusk, white dispensers under a lit canopy and a row of tall gas cylinders\nOutfit: a halter bikini with a neck tie and an underbust band — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/cu/steampunk-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "cu",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "cu": {
+        "era": "site",
+        "place": "site_hydrogen",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "window_chin",
+        "use": "",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "chin_rail",
+        "left": "rail",
+        "legs": "",
+        "gaze": "window",
+        "item": "halter_bikini",
+        "expr": "candid",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b3a144ede3fd4c9cb253667fa04dd689ad3208a85a9af02ff83e94592a2e817a",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original output preserved; no regeneration for exposure or QA deviations.",
+    "ref_sha256": "7c2d3766d4aecf7ce1ba559ac289e0856cd71ee1e781ac5cc6bf5f46f7845ac7"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b3a144ede3fd4c9cb253667fa04dd689ad3208a85a9af02ff83e94592a2e817a",
+    "passed": true,
+    "observations": [
+      "1024×1536 verified.",
+      "Single adult main woman with copper-red hair, teal eyes and freckles; painterly anime finish.",
+      "No obvious extra or detached arms or legs in the visible framing.",
+      "Visible hands connect to arms; overlapping grip fingers and cropped fingers cannot all be counted independently."
+    ],
+    "cause": ""
+  },
+  "execution": "copper-20261111-4daac1200ac6",
+  "imported": "2026-11-12",
+  "acceptance": "User approved selection 1,2,1 and publication to main."
+}

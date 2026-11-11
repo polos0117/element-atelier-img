@@ -1,0 +1,117 @@
+{
+  "atelier": "element",
+  "card": "cu",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "cu_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_control",
+    "ofam": "evening",
+    "item": "slip_dress",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "notebook_write",
+    "legs": "knees_together",
+    "gaze": "",
+    "color": "jewel",
+    "situ": "wind",
+    "expr": "candid",
+    "preset": "table_lean_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cu_mecha_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a power-plant control room with a curved console of dials, switches and indicator lamps, a waist-high rail along the glass\nOutfit: a thin-strapped satin slip dress that flows along the body — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she writes in a notebook with a pen on the table — her own right hand holds the pen, her own left hand keeps the page flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/cu/mecha-casual3.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "cu",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "cu": {
+        "era": "site",
+        "place": "site_control",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "table_lean_use",
+        "use": "notebook_write",
+        "posture": "sit_lean",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "",
+        "item": "slip_dress",
+        "expr": "candid",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "wind",
+        "color": "jewel"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "07e50f733841576d3534305194ac74347bf67317d982a9a58ecbc1e3e1a5908f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original output preserved; no regeneration for exposure or QA deviations.",
+    "ref_sha256": "30337a58ed0f71e63a228dc52dc7e10c100b03a99e4aabe0b3b774642d636aac"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "07e50f733841576d3534305194ac74347bf67317d982a9a58ecbc1e3e1a5908f",
+    "passed": false,
+    "observations": [
+      "1024×1536 verified.",
+      "Single adult main woman with copper-red hair, teal eyes and freckles; painterly anime finish.",
+      "No obvious extra or detached arms or legs in the visible framing.",
+      "Visible hands connect to arms; overlapping grip fingers and cropped fingers cannot all be counted independently.",
+      "Notebook contains small apparent handwritten marks despite the no-text instruction."
+    ],
+    "cause": "Generator framing/pose/text deviation; preserved without regeneration."
+  },
+  "execution": "copper-20261111-4daac1200ac6",
+  "imported": "2026-11-12",
+  "acceptance": "User approved selection 1,2,1 and publication to main."
+}
