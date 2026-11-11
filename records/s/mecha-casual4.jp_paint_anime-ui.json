@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "s",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "s_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_waterfall",
+    "ofam": "active",
+    "item": "archery_top",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "",
+    "gaze": "camera",
+    "color": "denim",
+    "expr": "half_smile",
+    "preset": "wrap_close",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "s_mecha_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rocky waterfall pool under green trees\nOutfit: a fitted archery top with an arm guard — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a lump of bright yellow sulfur crystal burning with a small blue flame in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/s/mecha-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "s",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "s": {
+        "era": "now",
+        "place": "water_waterfall",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "wrap_close",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "camera",
+        "item": "archery_top",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "denim"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "d126ee4759c41f945b72ed8fc0e57f76a2c0495c43da8e876123fff95ec8883f",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "dc431b55372b1899f6d45d91132b023f73b0efb62cf3bbfc63bc216603d80c4b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "element-s-redo-90a313-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User selected worlds 4,3,3 and authorized commit and ordinary main push; generated images retained without exposure-based regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "dc431b55372b1899f6d45d91132b023f73b0efb62cf3bbfc63bc216603d80c4b",
+    "passed": true,
+    "observations": [
+      "1024x1536; one adult woman in focus, no readable lettering or watermark.",
+      "Chest-up beside a waterfall pool wearing a fitted archery-style top and arm guard.",
+      "Both naturally connected hands support a yellow sulfur crystal with blue flame."
+    ],
+    "status": "reviewed"
+  }
+}

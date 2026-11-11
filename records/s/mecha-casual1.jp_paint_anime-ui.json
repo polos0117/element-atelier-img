@@ -1,0 +1,113 @@
+{
+  "atelier": "element",
+  "card": "s",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "s_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "spa_footbath",
+    "ofam": "roleplay",
+    "item": "sailor_stage",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "use": "",
+    "legs": "feet_in_water",
+    "gaze": "horizon",
+    "color": "vivid",
+    "expr": "calm",
+    "preset": "edge_dangle",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "s_mecha_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hot-spring town footbath under a wooden roof\nOutfit: a sailor stage costume — a sailor-collar cropped top, a pleated mini skirt and a small cap — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/s/mecha-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "s",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "s": {
+        "era": "now",
+        "place": "spa_footbath",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "edge_dangle",
+        "use": "",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "edge_brace_both",
+        "left": "edge_brace_both",
+        "legs": "feet_in_water",
+        "gaze": "horizon",
+        "item": "sailor_stage",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "d126ee4759c41f945b72ed8fc0e57f76a2c0495c43da8e876123fff95ec8883f",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c7040777efb5c2ca93026af3700a1a1e4d9498cfb49219520119545ef9533df5",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "element-s-redo-90a313-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User selected worlds 4,3,3 and authorized commit and ordinary main push; generated images retained without exposure-based regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c7040777efb5c2ca93026af3700a1a1e4d9498cfb49219520119545ef9533df5",
+    "passed": true,
+    "observations": [
+      "1024x1536; one adult woman in focus, no watermark.",
+      "Full-body side view seated at a hot-spring footbath with both palms on the edge and both feet in water.",
+      "Sailor stage costume; no mecha armour or mechanical back arms carried into everyday scene."
+    ],
+    "status": "reviewed"
+  }
+}

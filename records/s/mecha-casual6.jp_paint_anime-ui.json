@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "s",
+  "tier": "root",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "s_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_ice",
+    "ofam": "halloween",
+    "item": "hw_pirate",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "lantern_low",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "situ": "undone",
+    "expr": "",
+    "preset": "walk_away",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "s_mecha_jp_paint_anime_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice palace hall of carved crystal pillars, frosted light and a grand frozen staircase\nOutfit: a pirate costume — a laced black corset over an off-shoulder white blouse, a ragged mini skirt, thigh-high boots and a tricorn hat; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a small hand lantern low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/s/mecha-casual6.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "s",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "s": {
+        "era": "fantasy",
+        "place": "fx_ice",
+        "ofam": "halloween",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_away",
+        "use": "lantern_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "horizon",
+        "item": "hw_pirate",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "undone"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "d126ee4759c41f945b72ed8fc0e57f76a2c0495c43da8e876123fff95ec8883f",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f6a93f263acaba648315386ebe15d9d0e7e5fdee9ff164b01ee6a7635adc6fee",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "element-s-redo-90a313-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User selected worlds 4,3,3 and authorized commit and ordinary main push; generated images retained without exposure-based regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "f6a93f263acaba648315386ebe15d9d0e7e5fdee9ff164b01ee6a7635adc6fee",
+    "passed": false,
+    "observations": [
+      "1024x1536, one adult woman, full body and both feet visible, naturally connected limbs.",
+      "Pirate outfit in an ice palace holding a lantern in her right hand.",
+      "The result walks toward the viewer; the plan requested a rear-view walk away."
+    ],
+    "status": "reviewed",
+    "cause": "Image generation favoured a frontal character presentation over the requested rear body direction. Kept without regeneration."
+  }
+}

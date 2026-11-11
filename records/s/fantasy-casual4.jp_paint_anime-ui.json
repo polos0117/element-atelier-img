@@ -1,0 +1,113 @@
+{
+  "atelier": "element",
+  "card": "s",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "s_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "editorial",
+    "item": "stealth_monochrome",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "",
+    "gaze": "",
+    "expr": "confident",
+    "preset": "counter_work",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "s_fantasy_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nOutfit: a sleek all-matte-black monochrome look, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a lump of bright yellow sulfur crystal burning with a small blue flame in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/s/fantasy-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "s",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "s": {
+        "era": "fantasy",
+        "place": "fx_underwater",
+        "ofam": "editorial",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "counter_work",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "lean_counter",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "",
+        "item": "stealth_monochrome",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "bab09a67db90cf08f832470f2752f506e74ac92e0593a29356ae6262c0c52c0b",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "316e66f6c46ea8f441f86ebe70a9eefae3c20719dceb196d30cbaafae10dea16",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "element-s-redo-90a313-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User selected worlds 4,3,3 and authorized commit and ordinary main push; generated images retained without exposure-based regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "316e66f6c46ea8f441f86ebe70a9eefae3c20719dceb196d30cbaafae10dea16",
+    "passed": true,
+    "observations": [
+      "1024x1536; one adult female focal figure; no text, logo or watermark.",
+      "Waist-up in an underwater glass-arched palace, both hands support a yellow crystal with blue flame.",
+      "Black outfit and reference golden eyes and yellow-tipped dark hair retained."
+    ],
+    "status": "reviewed"
+  }
+}

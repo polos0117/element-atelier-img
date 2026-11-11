@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "s",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "s_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_furnace",
+    "ofam": "costume",
+    "item": "fae_ball",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "hammer_strike",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "color": "jewel",
+    "situ": "wet",
+    "expr": "half_smile",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "s_fantasy_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a steelworks floor beside a glowing blast furnace, sparks and molten metal pouring under a high iron roof\nOutfit: a fae ball costume — a backless gown with a wing-shaped satin cape and a leaf mask — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she brings a small forging hammer down on the glowing work laid on the worktable — her own right hand swings the hammer, her own left hand holds the work steady with tongs.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/s/fantasy-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "s",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "s": {
+        "era": "site",
+        "place": "site_furnace",
+        "ofam": "costume",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "hammer_strike",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "fae_ball",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "wet",
+        "color": "jewel"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "bab09a67db90cf08f832470f2752f506e74ac92e0593a29356ae6262c0c52c0b",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5def2eb12eef0e715f87abc7c78be34c9f0f31453e5e9ec6870056f5c6dc6c03",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "element-s-redo-90a313-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User selected worlds 4,3,3 and authorized commit and ordinary main push; generated images retained without exposure-based regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "5def2eb12eef0e715f87abc7c78be34c9f0f31453e5e9ec6870056f5c6dc6c03",
+    "passed": true,
+    "observations": [
+      "1024x1536; one adult female focal figure; no text, logo or watermark.",
+      "Environmental side-view at a furnace, hammer and tongs held by connected arms.",
+      "Rain and wet red fae gown visible; natural number of limbs."
+    ],
+    "status": "reviewed"
+  }
+}
