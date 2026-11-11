@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "ag",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ag_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_ballroom",
+  "ofam": "traditional",
+  "item": "dirndl_modern",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "fan_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "color": "pastel",
+  "denier": "d40",
+  "expr": "gentle",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ag_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silver (Ag) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chandelier ballroom at a masquerade\nOutfit: a modern dirndl — fitted bodice laced at the front, puff-sleeved blouse, full skirt and apron — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a folding fan open near her chest; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silver: the moon's metal — the brightest mirror shine of any metal, coins and cutlery, silver bullets against monsters in legend, the silvered plates that held the first photographs; it tarnishes black wherever sulfur touches it; cold, pure and reflective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/ag/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ag",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ag": {
+    "era": "fantasy",
+    "place": "fx_ballroom",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "fan_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "dirndl_modern",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "denier": "d40"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "817c597066448822e216faf8cf4f57eea0d06f064f14d3ca8f3939ec7e032ea1",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "48b8ad4d90dc175846e6d6c60ada12a2ceb1153363bd49365ed5f6962975be97",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 대신 해시 기록, 생성된 결과 보존"
+ },
+ "execution": "element-ag-20261111-0320",
+ "imported": "2026-11-11",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "48b8ad4d90dc175846e6d6c60ada12a2ceb1153363bd49365ed5f6962975be97",
+  "passed": true,
+  "observations": [
+   "1024×1536 확인",
+   "참고 세계컷의 은색 머리·눈 색과 성인 얼굴의 인상을 유지",
+   "원본 갑옷과 왕관을 일상복으로 변경",
+   "보이는 팔·다리·손의 연결을 확인",
+   "읽히는 문구·로고·워터마크 없음"
+  ],
+  "cause": ""
+ },
+ "acceptance": "사용자 작업·일반 main 반영 승인; 검수 차이 보존"
+}

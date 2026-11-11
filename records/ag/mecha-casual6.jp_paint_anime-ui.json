@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "ag",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ag_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "dongtan",
+  "item": "festival_chain",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "book_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "situ": "strap",
+  "expr": "amused",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ag_mecha_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silver (Ag) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her bedroom, an unmade bed and soft window light\nOutfit: a music-festival outfit — a crochet crop top with a delicate body chain, frayed denim micro shorts and ankle boots; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silver: the moon's metal — the brightest mirror shine of any metal, coins and cutlery, silver bullets against monsters in legend, the silvered plates that held the first photographs; it tarnishes black wherever sulfur touches it; cold, pure and reflective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/ag/mecha-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ag",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "ag": {
+    "era": "now",
+    "place": "home_bedroom",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_prop",
+    "use": "book_hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "festival_chain",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "c9670dff4eb37fa753ca9da887c9402a2a8436db52c841ca313195b924aab88e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1144f0463c05fe2ffa00103adbd74eb60429621f1d6ddcb9871721c2700556b7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 대신 해시 기록, 생성된 결과 보존"
+ },
+ "execution": "element-ag-20261111-0320",
+ "imported": "2026-11-11",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1144f0463c05fe2ffa00103adbd74eb60429621f1d6ddcb9871721c2700556b7",
+  "passed": false,
+  "observations": [
+   "1024×1536 확인",
+   "참고 세계컷의 은색 머리·눈 색과 성인 얼굴의 인상을 유지",
+   "원본 갑옷과 왕관을 일상복으로 변경",
+   "보이는 팔·다리·손의 연결을 확인",
+   "읽히는 문구·로고·워터마크 없음",
+   "쪼그려 앉은 포즈에서 다리 형태가 압축되어 보임"
+  ],
+  "cause": "계획의 구도·장소 지시보다 참고 이미지의 구도·세계 분위기가 반영됨"
+ },
+ "acceptance": "사용자 작업·일반 main 반영 승인; 검수 차이 보존"
+}

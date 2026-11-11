@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "ag",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ag_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_cloudpavilion",
+  "ofam": "costume",
+  "item": "sorceress_robe",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "color": "jewel",
+  "expr": "half_smile",
+  "preset": "sip_close",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ag_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silver (Ag) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nOutfit: a sorceress costume — an off-shoulder velvet robe gown with a jewelled belt and a crystal staff prop — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a small round silver hand mirror catching moonlight up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silver: the moon's metal — the brightest mirror shine of any metal, coins and cutlery, silver bullets against monsters in legend, the silvered plates that held the first photographs; it tarnishes black wherever sulfur touches it; cold, pure and reflective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/ag/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ag",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ag": {
+    "era": "fantasy",
+    "place": "fx_cloudpavilion",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "sip_close",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sorceress_robe",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "266d24b281de947bea5a8ae5effe8904cdef7244aefdba4433012e9d71d302e5",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d754ab44a85bd8c1a6e3c571b007ba13dd15b1fab9f359b3c60b87ec9cad8080",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 대신 해시 기록, 생성된 결과 보존"
+ },
+ "execution": "element-ag-20261111-0320",
+ "imported": "2026-11-11",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d754ab44a85bd8c1a6e3c571b007ba13dd15b1fab9f359b3c60b87ec9cad8080",
+  "passed": false,
+  "observations": [
+   "1024×1536 확인",
+   "참고 세계컷의 은색 머리·눈 색과 성인 얼굴의 인상을 유지",
+   "원본 갑옷과 왕관을 일상복으로 변경",
+   "보이는 팔·다리·손의 연결을 확인",
+   "읽히는 문구·로고·워터마크 없음",
+   "얼굴 클로즈업보다 넓은 가슴 위 구도로 나옴"
+  ],
+  "cause": "계획의 구도·장소 지시보다 참고 이미지의 구도·세계 분위기가 반영됨"
+ },
+ "acceptance": "사용자 작업·일반 main 반영 승인; 검수 차이 보존"
+}
