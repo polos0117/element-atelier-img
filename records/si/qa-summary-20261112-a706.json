@@ -1,0 +1,25 @@
+{
+  "passed": false,
+  "size_check": "24/24 images are 1024x1536",
+  "reference_check": "All 21 casual images used the selected world original as the sole image reference.",
+  "cross_world_plan_check": {
+    "fantasy": [
+      "nation_bath and soak_hair duplicate steampunk",
+      "stand_use duplicates steampunk"
+    ],
+    "steampunk": [
+      "stand_use duplicates fantasy",
+      "halter_bikini duplicates mecha",
+      "nation_bath and soak_hair duplicate fantasy",
+      "peshtemal duplicates mecha",
+      "bath family occurs twice across worlds"
+    ],
+    "mecha": [
+      "halter_bikini duplicates steampunk",
+      "peshtemal duplicates steampunk",
+      "bath family occurs twice across worlds"
+    ]
+  },
+  "cause": "The three world plans were generated before the other new plans were added to the records used by the planner.",
+  "action": "Preserved all generated originals; recorded failures without reclassifying them as passed or regenerating images."
+}

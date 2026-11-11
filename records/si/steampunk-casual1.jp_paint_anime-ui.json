@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "si",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "si_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "swimwear",
+  "item": "halter_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "vivid",
+  "expr": "sensual",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "si_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silicon (Si) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city rooftop with a water tank, string lights and the skyline\nOutfit: a halter bikini with a neck tie and an underbust band — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nLEGS: weight even on both legs.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silicon: beach sand and desert quartz, molten glass glowing orange in the furnace, blue-grey metallic crystal with a rainbow silicon-wafer sheen, gold circuit traces etched into chips; the most patient element of the earth's crust, stone that learned to think — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/si/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "si",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "si": {
+    "era": "now",
+    "place": "street_rooftop",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "cup_wrap",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "halter_bikini",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "192d2069a387a53882edf119e1d42b020d1f6dd7c7c0b085bb5d14528ccb39bd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG original not committed; hash retained.",
+  "ref_sha256": "6d518620638cf4c63ddfabefd0ad55a93434205378db2f6caba2c733493f7204",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Silicon (Si) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city rooftop with a water tank, string lights and the skyline\nOutfit: a halter bikini with a neck tie and an underbust band — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nLEGS: weight even on both legs.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silicon: beach sand and desert quartz, molten glass glowing orange in the furnace, blue-grey metallic crystal with a rainbow silicon-wafer sheen, gold circuit traces etched into chips; the most patient element of the earth's crust, stone that learned to think — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "execution": "element-si-a706",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "192d2069a387a53882edf119e1d42b020d1f6dd7c7c0b085bb5d14528ccb39bd",
+  "passed": false,
+  "observations": [
+   "1024×1536 verified. One main adult woman; painterly anime rendering.",
+   "Correct selected world image attached as sole reference.",
+   "Main face, hair colour, eye colour and rendering follow the attached reference.",
+   "Reference-style crystal/circuit ornaments and furnace/glass motifs recur more than intended for an everyday setting.",
+   "Cross-world planner check found duplicate locations/outfits/presets in this batch; see qa-summary-20261112-a706.json. Images retained unchanged."
+  ],
+  "cause": "Reference image costume/background motifs compete with everyday clothes/place instructions; deviations preserved without regeneration."
+ },
+ "acceptance": "User approved generation, commit and main update; world choices 3,4,4."
+}
