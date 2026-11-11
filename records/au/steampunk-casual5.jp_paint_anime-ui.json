@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "au_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_airport",
+  "ofam": "subculture",
+  "item": "rock_leather",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_shoot",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "jewel",
+  "denier": "d60",
+  "situ": "wet",
+  "expr": "soft_smile",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "au_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an airport lounge — tall windows onto the runway, sleek seats, a long bench and a departures board\nOutfit: rock — a leather mini skirt, a cropped vest and a choker — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she raises a camera to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nLEGS: weight even on both legs.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/au/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "au": {
+    "era": "now",
+    "place": "travel_airport",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "camera_shot",
+    "use": "camera_shoot",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "rock_leather",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "jewel",
+    "denier": "d60"
+   }
+  }
+ },
+ "execution": "element-au-f7151120dcd7-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "user authorized commit and normal main update; originals retained without regeneration",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1914f698ad8bc7a0f2cac1d93203f26689f5486c142b3b82afdce3f7f3f87c1a",
+  "ref_sha256": "4ae9ee1755767c5754299138946b13ef93c216749e5f53a87a843e415692222d",
+  "reference_path": "/workspace/scratch/f7151120dcd7/generated_images/exec-efb6a423-efaf-41af-9160-3d9d633263ee.png",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "e4a7225a0e35e196681a79060bf178ecdd8c1001787c699af300473e8ac2d0a6"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1914f698ad8bc7a0f2cac1d93203f26689f5486c142b3b82afdce3f7f3f87c1a",
+  "passed": false,
+  "observations": [
+   "1024x1536; one adult woman; reference attached; no crown or armour carried into casual outfit; human arms and visible hands inspected",
+   "Departures board has small pseudo-text; preserve original."
+  ],
+  "cause": "Model interpretation of frame, pose, motif and clothing instructions; original kept without regeneration."
+ }
+}

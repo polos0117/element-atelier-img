@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "au_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_powder",
+  "ofam": "swimwear",
+  "item": "sport_bikini",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "glass_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "color": "mono",
+  "expr": "half_smile",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "au_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a club powder room with a lit mirror and neon on the tiles\nOutfit: a sporty bikini with a crop top and boy-cut bottoms — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a cocktail glass by the stem at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/au/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "au": {
+    "era": "now",
+    "place": "night_powder",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_cross_prop",
+    "use": "glass_hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "item": "sport_bikini",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "execution": "element-au-f7151120dcd7-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "user authorized commit and normal main update; originals retained without regeneration",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d97410f254312ca7125b2db4cb74985fa42baedee64dddab2d9115ddb096afb6",
+  "ref_sha256": "9fb1f060ca53f8ddcd3539989a0e9eb52e2b9d8db1b911e1d8db1cd268ab9b5f",
+  "reference_path": "/workspace/scratch/f7151120dcd7/generated_images/exec-3d87ab97-ba33-4a4d-b8bd-56768c477b6c.png",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "1beb8523e49d4a629c3640690d4f259c11a079b14826c7a542cf4c91f6e67ce0"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d97410f254312ca7125b2db4cb74985fa42baedee64dddab2d9115ddb096afb6",
+  "passed": false,
+  "observations": [
+   "1024x1536; one adult woman; reference attached; no crown or armour carried into casual outfit; human arms and visible hands inspected",
+   "Crop-top swimsuit is rendered as bra-like sporty bikini rather than longer cropped top."
+  ],
+  "cause": "Model interpretation of frame, pose, motif and clothing instructions; original kept without regeneration."
+ }
+}

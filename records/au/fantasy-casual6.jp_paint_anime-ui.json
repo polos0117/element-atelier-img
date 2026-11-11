@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "au_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_observatory",
+  "ofam": "lingerie",
+  "item": "babydoll",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "book_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "color": "pattern",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "au_fantasy_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night observatory under an open dome\nOutfit: a babydoll slip with narrow straps, an empire waist and a softly flared hem — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/au/fantasy-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "au": {
+    "era": "fantasy",
+    "place": "fx_observatory",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "book_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "babydoll",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern"
+   }
+  }
+ },
+ "execution": "element-au-f7151120dcd7-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "user authorized commit and normal main update; originals retained without regeneration",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b54947b6c6bc9abb7704ffa4f70ba61aa090446420f94a340c3ceffc2a7728f6",
+  "ref_sha256": "3dcd24fb949a4305710fb0fa600ed650d167d4d5527461bb154f42fc3fdc16e6",
+  "reference_path": "/workspace/scratch/f7151120dcd7/generated_images/exec-7bebdd21-ee34-457c-b0fb-0b6e44d8f62f.png",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "ffd3a3f69409095558c98c642b15b05f5bd09ca40c90ffdf743eb55d0c1396c1"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b54947b6c6bc9abb7704ffa4f70ba61aa090446420f94a340c3ceffc2a7728f6",
+  "passed": false,
+  "observations": [
+   "1024x1536; one adult woman; reference attached; no crown or armour carried into casual outfit; human arms and visible hands inspected",
+   "Requested back view instead rendered as front three-quarter view; environmental framing closer than requested."
+  ],
+  "cause": "Model interpretation of frame, pose, motif and clothing instructions; original kept without regeneration."
+ }
+}

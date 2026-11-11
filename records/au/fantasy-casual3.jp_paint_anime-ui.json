@@ -1,0 +1,114 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "au_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_refinery",
+  "ofam": "homewear",
+  "item": "light_slip",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_rail",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "ofree": true,
+  "expr": "soft_smile",
+  "preset": "window_chin",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "au_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a refinery yard of silver storage tanks, pipe racks and steel ladders under a wide evening sky\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/au/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "au": {
+    "era": "site",
+    "place": "site_refinery",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "window_chin",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "legs": "",
+    "gaze": "window",
+    "item": "light_slip",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "execution": "element-au-f7151120dcd7-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "user authorized commit and normal main update; originals retained without regeneration",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "26871744864d09e5ca5f6ced5fd32c17b58a92f0f3b14a74bd8fc0bb6e930655",
+  "ref_sha256": "3dcd24fb949a4305710fb0fa600ed650d167d4d5527461bb154f42fc3fdc16e6",
+  "reference_path": "/workspace/scratch/f7151120dcd7/generated_images/exec-7bebdd21-ee34-457c-b0fb-0b6e44d8f62f.png",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "e6e7cf33190b5624a84081af5b3a19b82825c72ea0f3bd36fd810874b697ac21",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a refinery yard of silver storage tanks, pipe racks and steel ladders under a wide evening sky\nOutfit: a charcoal cotton sculpted ribbon-wrap crop tunic: broad opaque fabric bands cross diagonally from one shoulder into a deep-V fitted chest panel, with an open side waist above high-rise asymmetric shorts and a single long narrow back drape; silver clasp fastenings, black ankle boots, no regalia; an original casual fashion construction; showing shoulders, collarbones and legs as far as the outfit allows, following her figure; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "26871744864d09e5ca5f6ced5fd32c17b58a92f0f3b14a74bd8fc0bb6e930655",
+  "passed": false,
+  "observations": [
+   "1024x1536; one adult woman; reference attached; no crown or armour carried into casual outfit; human arms and visible hands inspected",
+   "Waist-up framing extends toward hips. Gold motifs added to charcoal outfit."
+  ],
+  "cause": "Model interpretation of frame, pose, motif and clothing instructions; original kept without regeneration."
+ }
+}

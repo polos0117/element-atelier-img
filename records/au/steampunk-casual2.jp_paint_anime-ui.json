@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "au",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "au_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "fleece_joggers",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "brush_hair",
+  "legs": "",
+  "gaze": "camera",
+  "color": "neutral",
+  "denier": "d80",
+  "expr": "curious",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "au_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gold (Au) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nOutfit: a soft fleece pullover with relaxed jogger pants — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brushes her hair with a hairbrush; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — warm yellow gold with deep amber shadow, hammered gold leaf and embossed relief, fine stamped borders, permanence shown as an unchanging polish; the element of wealth, permanence and light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/au/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "au",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "au": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "brush_hair",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "fleece_joggers",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "denier": "d80"
+   }
+  }
+ },
+ "execution": "element-au-f7151120dcd7-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "user authorized commit and normal main update; originals retained without regeneration",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e72139fe3bba19687a8cc21efaf6a2b8888c034a3b608382e948fd93b9f62a9c",
+  "ref_sha256": "4ae9ee1755767c5754299138946b13ef93c216749e5f53a87a843e415692222d",
+  "reference_path": "/workspace/scratch/f7151120dcd7/generated_images/exec-efb6a423-efaf-41af-9160-3d9d633263ee.png",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "209738761119e6b76563ccf698bdc4d72a56316caa56716f0585405481d9880a"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e72139fe3bba19687a8cc21efaf6a2b8888c034a3b608382e948fd93b9f62a9c",
+  "passed": false,
+  "observations": [
+   "1024x1536; one adult woman; reference attached; no crown or armour carried into casual outfit; human arms and visible hands inspected",
+   "Body angle less strict profile; framing extends below bust."
+  ],
+  "cause": "Model interpretation of frame, pose, motif and clothing instructions; original kept without regeneration."
+ }
+}

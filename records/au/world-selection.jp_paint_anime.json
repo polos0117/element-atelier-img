@@ -1,0 +1,65 @@
+{
+ "selection": [
+  1,
+  3,
+  2
+ ],
+ "world_order": [
+  "fantasy",
+  "steampunk",
+  "mecha"
+ ],
+ "selected": [
+  {
+   "world": "fantasy",
+   "number": 1,
+   "design": "standard",
+   "path": "/workspace/scratch/f7151120dcd7/generated_images/exec-7bebdd21-ee34-457c-b0fb-0b6e44d8f62f.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "3dcd24fb949a4305710fb0fa600ed650d167d4d5527461bb154f42fc3fdc16e6",
+   "qa": {
+    "reviewer": "gpt",
+    "size_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "world": "steampunk",
+   "number": 3,
+   "design": "gpt_free",
+   "path": "/workspace/scratch/f7151120dcd7/generated_images/exec-efb6a423-efaf-41af-9160-3d9d633263ee.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "4ae9ee1755767c5754299138946b13ef93c216749e5f53a87a843e415692222d",
+   "qa": {
+    "reviewer": "gpt",
+    "size_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "world": "mecha",
+   "number": 2,
+   "design": "standard",
+   "path": "/workspace/scratch/f7151120dcd7/generated_images/exec-3d87ab97-ba33-4a4d-b8bd-56768c477b6c.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "9fb1f060ca53f8ddcd3539989a0e9eb52e2b9d8db1b911e1d8db1cd268ab9b5f",
+   "qa": {
+    "reviewer": "gpt",
+    "size_ok": true,
+    "notes": [
+     "Mantle partly reads as cloth rather than rigid plates; preserve result without regeneration."
+    ]
+   }
+  }
+ ],
+ "execution": "element-au-f7151120dcd7-20261111"
+}
