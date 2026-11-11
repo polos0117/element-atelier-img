@@ -1,0 +1,113 @@
+{
+  "atelier": "element",
+  "card": "ca",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ca_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_ice",
+    "ofam": "costume",
+    "item": "showgirl",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "color": "denim",
+    "expr": "confident",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ca_mecha_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Calcium (Ca) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice palace hall of carved crystal pillars, frosted light and a grand frozen staircase\nOutfit: a cabaret showgirl costume — a sparkling structured bodice, a feathered headpiece and a large feather fan — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — calcium: the element living things build their bodies with — bone and teeth, seashells and pearls with a pink-and-silver nacre sheen; limestone cliffs laid down by countless shells, white marble statues, chalk, stalactites dripping for ten thousand years; pale, strong and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/ca/mecha-casual3.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ca",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "ca": {
+        "era": "fantasy",
+        "place": "fx_ice",
+        "ofam": "costume",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "showgirl",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "denim"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "10e03db0cf625731030e104aee51ac0a98186f881f817d6cb729d522b70442fb",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "19d8a0ce6a754a3882ebb9d25bcfff23e74369e39d5ab3e4bc5d3ee43ebf2264",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Calcium (Ca) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice palace hall of carved crystal pillars, frosted light and a grand frozen staircase\nOutfit: a cabaret showgirl costume — a sparkling structured bodice, a feathered headpiece and a large feather fan — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — calcium: the element living things build their bodies with — bone and teeth, seashells and pearls with a pink-and-silver nacre sheen; limestone cliffs laid down by countless shells, white marble statues, chalk, stalactites dripping for ten thousand years; pale, strong and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_prompt": null
+  },
+  "execution": "element-ca-691d6c3b29ea-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User authorized commit and normal main push; preserve generated results without exposure-driven regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "19d8a0ce6a754a3882ebb9d25bcfff23e74369e39d5ab3e4bc5d3ee43ebf2264",
+    "passed": false,
+    "observations": [
+      "1024×1536; one adult woman in focus; face/eyes/hair remain recognizable from selected world reference; no mecha armor reused in casual outfit; two arms and anatomically continuous visible hands; no obvious extra limbs or watermark.",
+      "Additional feather ornament and shell embroidery; costume headpiece is new, not mecha crown."
+    ],
+    "cause": "Generated interpretation deviates from scene/crop/hand/accessory instructions as listed. Original preserved; no regeneration."
+  }
+}

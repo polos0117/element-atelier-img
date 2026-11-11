@@ -1,0 +1,13 @@
+{
+  "execution": "element-ca-691d6c3b29ea-20261111",
+  "world_selection": {
+    "fantasy": 3,
+    "steampunk": 2,
+    "mecha": 2
+  },
+  "images": 21,
+  "per_world_plan_rules": "validated at plan creation",
+  "cross_world_plan_check": "failed: overlapping presets, site_lab and dance_crew across independently generated world plans",
+  "cause": "Plans were generated independently before sibling-world planned records existed; --others was not supplied. This was detected after generation.",
+  "resolution": "Preserve all generated originals as requested; record QA exceptions. No regeneration or destructive changes."
+}

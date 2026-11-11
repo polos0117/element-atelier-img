@@ -1,0 +1,113 @@
+{
+  "atelier": "element",
+  "card": "ca",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ca_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_forest",
+    "ofam": "swimwear",
+    "item": "heritage_pattern_swim",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "color": "mono",
+    "expr": "wistful",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ca_fantasy_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Calcium (Ca) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a misty enchanted garden of moss, ivy and lanterns\nOutfit: a swimsuit in a heritage textile pattern with matching trim — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — calcium: the element living things build their bodies with — bone and teeth, seashells and pearls with a pink-and-silver nacre sheen; limestone cliffs laid down by countless shells, white marble statues, chalk, stalactites dripping for ten thousand years; pale, strong and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/ca/fantasy-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ca",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "ca": {
+        "era": "fantasy",
+        "place": "fx_forest",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "heritage_pattern_swim",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "3756e73ae7dbe989e3b506df1553a835c21c8bcd10449d5ce6971177febbc054",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2b091fc86410368c4894f59c53bb63deb593c24c00b7abc9add21f7d7bb7e314",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Calcium (Ca) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a misty enchanted garden of moss, ivy and lanterns\nOutfit: a swimsuit in a heritage textile pattern with matching trim — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — calcium: the element living things build their bodies with — bone and teeth, seashells and pearls with a pink-and-silver nacre sheen; limestone cliffs laid down by countless shells, white marble statues, chalk, stalactites dripping for ten thousand years; pale, strong and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_prompt": null
+  },
+  "execution": "element-ca-691d6c3b29ea-20261111",
+  "imported": "2026-11-11",
+  "acceptance": "User authorized commit and normal main push; preserve generated results without exposure-driven regeneration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2b091fc86410368c4894f59c53bb63deb593c24c00b7abc9add21f7d7bb7e314",
+    "passed": false,
+    "observations": [
+      "1024×1536; one adult woman in focus; face/eyes/hair remain recognizable from selected world reference; no mecha armor reused in casual outfit; two arms and anatomically continuous visible hands; no obvious extra limbs or watermark.",
+      "Small accessory plus earrings; shell/coral motifs extensive."
+    ],
+    "cause": "Generated interpretation deviates from scene/crop/hand/accessory instructions as listed. Original preserved; no regeneration."
+  }
+}
