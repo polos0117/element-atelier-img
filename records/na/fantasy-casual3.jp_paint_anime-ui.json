@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "na",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "na_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_runway",
+  "ofam": "halloween",
+  "item": "hw_black_cat",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "denier": "d60",
+  "expr": "sensual",
+  "preset": "squat_prop",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "na_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sodium (Na) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fashion runway under white spotlights\nOutfit: a black cat costume — a glossy black strapless bodysuit, sheer black tights, a cat-ear headband, a curling tail and a bell choker; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small jar of cube salt crystals that glows faintly yellow at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/na/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "na",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "na": {
+    "era": "fantasy",
+    "place": "fx_runway",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "squat_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "hw_black_cat",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d60"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e2094acfa06753cfef4ad7c02c0caa4365db936eb89cfc5a76dcae1cc7ea8450",
+  "prompt_sha256": "a0257678325cd146df4714106cd38d5364a92d74155a6f51519a4b26d7955440",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG originals are not committed; generated results retained without exposure-based regeneration.",
+  "ref_sha256": "143182316e536e79395db542ab84c99d3c2010fd2f5331a970fbc59ff88ab79a"
+ },
+ "execution": "element-sodium-20261112",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "Codex element-sodium-20261112",
+  "image_sha256": "e2094acfa06753cfef4ad7c02c0caa4365db936eb89cfc5a76dcae1cc7ea8450",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 portrait image.",
+   "One main adult woman; rendered in the painterly anime treatment of the approved world reference.",
+   "Visible arms and legs connect to the torso; no obvious additional limbs observed.",
+   "No logo, watermark or drawn frame observed.",
+   "Visible composition and activity checked against the saved prompt; no material mismatch observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved 1,1,1 and main updates; preserve generated images without exposure-based regeneration."
+}

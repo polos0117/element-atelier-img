@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "na",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "na_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "bath",
+  "item": "bath_yukata",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "earth",
+  "expr": "relieved",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "na_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sodium (Na) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nOutfit: a light cotton bath yukata with a soft sash — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/na/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "na",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "na": {
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "bath_yukata",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "02436481e87fb49d2905fa144b7b1867bed00f4a115207d0ea0d4caca7d5d07f",
+  "prompt_sha256": "13d1f0c0a8888d35c0375795b25b0b7a7941e818a90102fc9ce0a28b4c68b10f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG originals are not committed; generated results retained without exposure-based regeneration.",
+  "ref_sha256": "d2cc415e70332e04297ff473ee96cb5d593babf93b80b7772c2233fef8ac596c"
+ },
+ "execution": "element-sodium-20261112",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "Codex element-sodium-20261112",
+  "image_sha256": "02436481e87fb49d2905fa144b7b1867bed00f4a115207d0ea0d4caca7d5d07f",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 portrait image.",
+   "One main adult woman; rendered in the painterly anime treatment of the approved world reference.",
+   "Visible arms and legs connect to the torso; no obvious additional limbs observed.",
+   "No logo, watermark or drawn frame observed.",
+   "Visible composition and activity checked against the saved prompt; no material mismatch observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved 1,1,1 and main updates; preserve generated images without exposure-based regeneration."
+}

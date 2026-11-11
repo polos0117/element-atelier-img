@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "na",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "na_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_market",
+  "ofam": "lingerie",
+  "item": "bodysuit",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "bag_carry",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "color": "denim",
+  "expr": "amused",
+  "preset": "stride_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "na_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sodium (Na) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a busy street market of food stalls and strung bulbs\nOutfit: a lingerie bodysuit with a scooped neckline, wide straps and lace side panels — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a paper shopping bag at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/na/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "na",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "na": {
+    "era": "now",
+    "place": "street_market",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stride_prop",
+    "use": "bag_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "item": "bodysuit",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2490817ea8e5c1dc93cc937cd37a7f1df071ed076deb3cdecb4c5416867b8578",
+  "prompt_sha256": "b2c0fe8b3fc95e6b25ec3fb113c0c89a8259162edfa789cbe253645dcd278eee",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG originals are not committed; generated results retained without exposure-based regeneration.",
+  "ref_sha256": "115293653192aee98fad488e902962afad0c4c5258199c17039b6fb1dabd11f3"
+ },
+ "execution": "element-sodium-20261112",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "Codex element-sodium-20261112",
+  "image_sha256": "2490817ea8e5c1dc93cc937cd37a7f1df071ed076deb3cdecb4c5416867b8578",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 portrait image.",
+   "One main adult woman; rendered in the painterly anime treatment of the approved world reference.",
+   "Visible arms and legs connect to the torso; no obvious additional limbs observed.",
+   "No logo, watermark or drawn frame observed.",
+   "Visible composition and activity checked against the saved prompt; no material mismatch observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved 1,1,1 and main updates; preserve generated images without exposure-based regeneration."
+}

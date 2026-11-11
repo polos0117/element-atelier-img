@@ -1,0 +1,111 @@
+{
+ "atelier": "element",
+ "card": "na",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "almond_wide",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "wide_smile",
+   "eye_color": "sodium_yellow",
+   "age": "early_20s",
+   "impression": "fierce",
+   "skin_tone": "golden_tan",
+   "eye_size": "large",
+   "eye_tilt": "up",
+   "mark": "blush",
+   "expr": "mildly_annoyed"
+  },
+  "silhouette": {
+   "body": "petite",
+   "hair": "short_crop",
+   "hair_color": "lemon_yellow",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "na_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Sodium (나트륨) itself — the sovereign of the Sodium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a fierce, wild ferocity; light warm-beige skin with a golden undertone; diamond-shaped face; large eyes — wide almond eyes, outer eye corners slightly lifted; soft rounded brows; small button nose; a wide mouth with softly upturned corners; sodium-yellow eyes; rosy flushed cheeks.\nBody and hair: petite, small-framed build; short cropped hair with center-parted bangs framing the face; lemon-yellow hair.\nExpression: a faint pout, brows slightly drawn.\nHer element, carried in her design: a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. cube-faceted white-and-silver armor, sharp right-angle plates, sodium-yellow glow lines, an oil-dark undersuit, a back unit of stacked cubes.\nSilhouette: heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: sodium yellow, salt white, oil-dark silver, lamp orange.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2150, a cubic crystal city on a salt flat: cube-faceted towers, yellow plasma vents, mirror-flat white ground.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Na) and atomic number (11) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-11",
+ "record": "records/na/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "na",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "na|mecha": {}
+  },
+  "looks": {
+   "na|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "na|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "115293653192aee98fad488e902962afad0c4c5258199c17039b6fb1dabd11f3",
+  "prompt_sha256": "13af8a549cecb62a63b121668b417e4f2f59b9eaaa28040144e3c5f784b4b379",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG originals are not committed; generated results retained without exposure-based regeneration.",
+  "design": "catalog",
+  "selected_candidate": 1
+ },
+ "execution": "element-sodium-20261112",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "Codex element-sodium-20261112",
+  "image_sha256": "115293653192aee98fad488e902962afad0c4c5258199c17039b6fb1dabd11f3",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 portrait image.",
+   "One main adult woman in the selected world design.",
+   "Visible arms and legs connect to the torso; no obvious additional limbs observed.",
+   "No logo, watermark or drawn frame observed.",
+   "Visible composition and activity checked against the saved prompt; no material mismatch observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved 1,1,1 and main updates; preserve generated images without exposure-based regeneration."
+}

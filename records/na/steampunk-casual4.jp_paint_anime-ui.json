@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "na",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "na_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_ballroom",
+  "ofam": "bridal",
+  "item": "flowing_train",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "color": "denim",
+  "expr": "candid",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "na_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sodium (Na) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chandelier ballroom at a masquerade\nOutfit: a flowing wedding gown with a long train — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she holds a small jar of cube salt crystals that glows faintly yellow at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/na/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "na",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "na": {
+    "era": "fantasy",
+    "place": "fx_ballroom",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_cup",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "flowing_train",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "925307adb6eb93459d846e493487333464889c59ab771f1962c27ba5b15f15dc",
+  "prompt_sha256": "1dbf549cf22e7a924febfea044e90ce1b796deaf7b530078d5e5ebf8f69b5b4f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG originals are not committed; generated results retained without exposure-based regeneration.",
+  "ref_sha256": "d2cc415e70332e04297ff473ee96cb5d593babf93b80b7772c2233fef8ac596c"
+ },
+ "execution": "element-sodium-20261112",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "Codex element-sodium-20261112",
+  "image_sha256": "925307adb6eb93459d846e493487333464889c59ab771f1962c27ba5b15f15dc",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 portrait image.",
+   "One main adult woman; rendered in the painterly anime treatment of the approved world reference.",
+   "Visible arms and legs connect to the torso; no obvious additional limbs observed.",
+   "No logo, watermark or drawn frame observed.",
+   "Visible composition and activity checked against the saved prompt; no material mismatch observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved 1,1,1 and main updates; preserve generated images without exposure-based regeneration."
+}
