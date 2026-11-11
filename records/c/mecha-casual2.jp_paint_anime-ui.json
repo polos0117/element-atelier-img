@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "oversized_shirt",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "cheek",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "denim",
+  "expr": "relieved",
+  "preset": "cheek_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/c/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "c": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cheek_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "oversized_shirt",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6ccb84596d76a9afda81c9096b8b2c1407ac5d8e9a35a624c38385aeb46559b4",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "5937afd9e9db3f3dd74633a45afe694fe53bebf00e09f1e9e9b2a24502b94a95"
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음. 생성 후 재생성하지 않음.",
+  "ref_sha256": "16b57cd5130adeb779377f7fedf2eb87cdcff248741c122e40b9af0c71e525b7"
+ },
+ "qa": {
+  "reviewer": "gpt-element-carbon-20261111",
+  "image_sha256": "6ccb84596d76a9afda81c9096b8b2c1407ac5d8e9a35a624c38385aeb46559b4",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 2:3 확인",
+   "성인 여성 한 명이 주인공이며 일본 유화 애니 계열의 채색과 선을 유지",
+   "팔과 손이 신체에서 자연스럽게 이어짐; 보이는 손가락과 가려진 부분을 구분해 검수",
+   "명확한 로고·워터마크·외부 글자 없음",
+   "참조한 해당 세계 원본과 머리 형태·머리색·눈색 및 얼굴 인상을 대조",
+   "세계컷의 갑옷과 모자를 일상 의상으로 바꿈",
+   "프롬프트가 지정한 크롭에 따라 화면 밖 손·다리 존재; 보이지 않는 손가락 수는 단정하지 않음"
+  ],
+  "cause": ""
+ },
+ "execution": "element-carbon-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "사용자 선택 3,3,4 및 완료 후 커밋·main 일반 반영 승인. 생성 후 노출 사유 재생성 금지."
+}

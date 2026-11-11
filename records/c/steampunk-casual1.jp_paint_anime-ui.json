@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_oasis",
+  "ofam": "roleplay",
+  "item": "idol_stage",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "color": "earth",
+  "expr": "relieved",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a desert oasis at golden hour — date palms, a still turquoise pool and silk tents on the dunes\nOutfit: a K-pop idol stage outfit — a sparkling cropped corset top, high-waisted hot pants with a sheer side panel and glossy knee-high boots — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/c/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "c": {
+    "era": "fantasy",
+    "place": "fx_oasis",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "floor_brace",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "idol_stage",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a073df7aa9aaca8594f1c810db9ade49d4d75ba3c662f2fc307045b4fe19bae7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "9c77d8b6f38f903367ee05b70fc570c9ddf1464ca2fc11f73de006ac922c1cd5"
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음. 생성 후 재생성하지 않음.",
+  "ref_sha256": "738d79f5ec98c500ddcc19ea5c75a2bb01f65d90f454faff609e89a0759cb4cb"
+ },
+ "qa": {
+  "reviewer": "gpt-element-carbon-20261111",
+  "image_sha256": "a073df7aa9aaca8594f1c810db9ade49d4d75ba3c662f2fc307045b4fe19bae7",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인",
+   "성인 여성 한 명이 주인공이며 일본 유화 애니 계열의 채색과 선을 유지",
+   "팔과 손이 신체에서 자연스럽게 이어짐; 보이는 손가락과 가려진 부분을 구분해 검수",
+   "명확한 로고·워터마크·외부 글자 없음",
+   "참조한 해당 세계 원본과 머리 형태·머리색·눈색 및 얼굴 인상을 대조",
+   "세계컷의 갑옷과 모자를 일상 의상으로 바꿈",
+   "프롬프트가 지정한 크롭에 따라 화면 밖 손·다리 존재; 보이지 않는 손가락 수는 단정하지 않음",
+   "옆으로 눕기 요청 대신 쿠션에 앉아 한 손으로 머리를 받치는 자세로 표현됨."
+  ],
+  "cause": "생성 결과에서 계획한 자세·방향·크롭 또는 의상 길이 일부가 달라짐. 원본 보존 후 그대로 등록."
+ },
+ "execution": "element-carbon-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "사용자 선택 3,3,4 및 완료 후 커밋·main 일반 반영 승인. 생성 후 노출 사유 재생성 금지."
+}

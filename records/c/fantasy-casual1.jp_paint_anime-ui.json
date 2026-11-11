@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ranch",
+  "ofam": "roleplay",
+  "item": "adult_secretary",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "denim",
+  "expr": "serious",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunny ranch — a weathered wooden fence, hay bales and horses grazing in the distance\nOutfit: a retro secretary-inspired costume with a fitted blazer, pencil skirt and decorative eyewear — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/c/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "c": {
+    "era": "now",
+    "place": "travel_ranch",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "legs": "",
+    "gaze": "camera",
+    "item": "adult_secretary",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "eee96801a4510fbfc6b2270291db6570691bd0f0623305a1ce5d0f5ac2af1538",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "2a090cf6e020569b6871603b01073cc63659f0757b8dbdc82244cd42a8ecb38d"
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음. 생성 후 재생성하지 않음.",
+  "ref_sha256": "18613b1c2349ca293907fd341533d83f8a64ad93562339328c12e536c2225da6"
+ },
+ "qa": {
+  "reviewer": "gpt-element-carbon-20261111",
+  "image_sha256": "eee96801a4510fbfc6b2270291db6570691bd0f0623305a1ce5d0f5ac2af1538",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인",
+   "성인 여성 한 명이 주인공이며 일본 유화 애니 계열의 채색과 선을 유지",
+   "팔과 손이 신체에서 자연스럽게 이어짐; 보이는 손가락과 가려진 부분을 구분해 검수",
+   "명확한 로고·워터마크·외부 글자 없음",
+   "참조한 해당 세계 원본과 머리 형태·머리색·눈색 및 얼굴 인상을 대조",
+   "세계컷의 갑옷과 모자를 일상 의상으로 바꿈",
+   "프롬프트가 지정한 크롭에 따라 화면 밖 손·다리 존재; 보이지 않는 손가락 수는 단정하지 않음",
+   "요청한 허리 위 크롭보다 아래까지 포함되어 골반 일부가 보임."
+  ],
+  "cause": "생성 결과에서 계획한 자세·방향·크롭 또는 의상 길이 일부가 달라짐. 원본 보존 후 그대로 등록."
+ },
+ "execution": "element-carbon-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "사용자 선택 3,3,4 및 완료 후 커밋·main 일반 반영 승인. 생성 후 노출 사유 재생성 금지."
+}

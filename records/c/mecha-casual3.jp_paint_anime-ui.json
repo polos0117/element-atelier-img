@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_observatory",
+  "ofam": "dongtan",
+  "item": "club_metallic",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "ofree": true,
+  "expr": "amused",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop observatory with its dome open to a clear night sky, a brass-railed platform around the great telescope\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-11",
+ "record": "records/c/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "c": {
+    "era": "site",
+    "place": "site_observatory",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "club_metallic",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "021166efc2b47accd9f7f9ea739141464eaed8c4503356c01e5c9a12ab4016fb",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "517235532e2ef9cda9a48921a27bb183baa66c62cc77d1d22fd358f5cab51dbc"
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음. 생성 후 재생성하지 않음.",
+  "ref_sha256": "16b57cd5130adeb779377f7fedf2eb87cdcff248741c122e40b9af0c71e525b7",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop observatory with its dome open to a clear night sky, a brass-railed platform around the great telescope\nOutfit: a plum ribbed scarf-neck crop capelet fastened across the upper chest over an opaque matching bandeau, paired with high-waisted split cycling culottes in dusty lilac and soft white ankle boots; open shoulders and a narrow midriff interval, the capelet short enough to leave both arms free, all intimate areas fully covered, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_outfit": "a plum ribbed scarf-neck crop capelet fastened across the upper chest over an opaque matching bandeau, paired with high-waisted split cycling culottes in dusty lilac and soft white ankle boots; open shoulders and a narrow midriff interval, the capelet short enough to leave both arms free, all intimate areas fully covered"
+ },
+ "qa": {
+  "reviewer": "gpt-element-carbon-20261111",
+  "image_sha256": "021166efc2b47accd9f7f9ea739141464eaed8c4503356c01e5c9a12ab4016fb",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인",
+   "성인 여성 한 명이 주인공이며 일본 유화 애니 계열의 채색과 선을 유지",
+   "팔과 손이 신체에서 자연스럽게 이어짐; 보이는 손가락과 가려진 부분을 구분해 검수",
+   "명확한 로고·워터마크·외부 글자 없음",
+   "참조한 해당 세계 원본과 머리 형태·머리색·눈색 및 얼굴 인상을 대조",
+   "세계컷의 갑옷과 모자를 일상 의상으로 바꿈",
+   "프롬프트가 지정한 크롭에 따라 화면 밖 손·다리 존재; 보이지 않는 손가락 수는 단정하지 않음",
+   "몸까지 정측면인 요청과 달리 몸은 3/4 방향이고 얼굴은 옆모습임; 환경 원거리 요청보다 인물이 크게 배치됨."
+  ],
+  "cause": "생성 결과에서 계획한 자세·방향·크롭 또는 의상 길이 일부가 달라짐. 원본 보존 후 그대로 등록."
+ },
+ "execution": "element-carbon-20261111",
+ "imported": "2026-11-11",
+ "acceptance": "사용자 선택 3,3,4 및 완료 후 커밋·main 일반 반영 승인. 생성 후 노출 사유 재생성 금지."
+}
