@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "n",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "n_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_jungle_ruins",
+    "ofam": "traditional",
+    "item": "huipil_modern",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "screen_left",
+    "color": "pastel",
+    "situ": "wet",
+    "expr": "wistful",
+    "preset": "wall_hair",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "n_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Nitrogen (N) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nOutfit: a modern Mesoamerican huipil — a square-cut woven tunic with brocade panels over a wrap skirt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nitrogen: 78 percent of the air, the quiet bulk of every breath that helps scatter the sky blue; violet and pink aurora curtains where it glows high above the poles; so calm it barely reacts, its two atoms locked by an unbreakable triple bond; pulled from the air it becomes bread and gunpowder alike — fertilizer and explosives; poured as liquid nitrogen at minus 196 degrees it breathes thick white mist; the backbone of every protein and every strand of DNA — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-11",
+  "record": "records/n/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "n",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "n": {
+        "era": "fantasy",
+        "place": "fx_jungle_ruins",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "wall_hair",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "screen_left",
+        "item": "huipil_modern",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "wet",
+        "color": "pastel"
+      }
+    }
+  },
+  "execution": "nitrogen-20261112-1a5f",
+  "imported": "2026-11-12",
+  "acceptance": "User authorized creation, QA and main publication without further confirmation.",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9e269c8343b91102d722b9cd784a6d73b7b425226139aef27df36c10677673cf",
+    "ref_sha256": "bbacc99638a6a73bb4fd3769fdefcaf2502f72b13e6cf3307f5f023076c55a3f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "f6800911386b9f5e5724f5604935fed7879fa2bb1a946b0c80df97effc5d2680",
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Nitrogen (N) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nOutfit: a modern Mesoamerican huipil — a square-cut woven tunic with brocade panels over a wrap skirt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nitrogen: 78 percent of the air, the quiet bulk of every breath that helps scatter the sky blue; violet and pink aurora curtains where it glows high above the poles; so calm it barely reacts, its two atoms locked by an unbreakable triple bond; pulled from the air it becomes bread and gunpowder alike — fertilizer and explosives; poured as liquid nitrogen at minus 196 degrees it breathes thick white mist; the backbone of every protein and every strand of DNA — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+  },
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "9e269c8343b91102d722b9cd784a6d73b7b425226139aef27df36c10677673cf",
+    "passed": true,
+    "observations": [
+      "Verified 1024×1536 original; same selected-world hair length, eye/hair palette and painterly anime finish.",
+      "No extra main figure, obvious detached limb, readable wording, logo or watermark observed. Finger counts obscured by grips, overlap or cropping are not asserted as fully visible.",
+      "Wet patterned huipil at jungle stone ruins; one visible hand moves hair beside ear, other hand outside the crop."
+    ]
+  }
+}
