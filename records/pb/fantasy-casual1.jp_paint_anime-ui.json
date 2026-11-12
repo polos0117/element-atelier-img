@@ -1,0 +1,114 @@
+{
+  "atelier": "element",
+  "card": "pb",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pb_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_circus",
+    "ofam": "roleplay",
+    "item": "adult_nurse",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "expr": "gentle",
+    "preset": "thumbs_waist",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pb_fantasy_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Lead (Pb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a circus tent ring under a striped canopy\nOutfit: a retro nurse-style party costume — a fitted white button-front dress with short puffed sleeves and a folded cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lead: a dull blue-grey metal, heavy and soft enough to scratch with a fingernail — the stable end where uranium's long decay chain finally comes to rest; the shield that stops X-rays and radiation, the dark came that joins the pieces of stained glass, the cast type of the printing press, the Roman water pipes that gave plumbing its name; alchemy's Saturn; it tastes sweet but is poison; heavy, quiet and guarding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-13",
+  "record": "records/pb/fantasy-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pb",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "pb": {
+        "era": "fantasy",
+        "place": "fx_circus",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "thumbs_waist",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "thumbs_up",
+        "left": "hip",
+        "legs": "",
+        "gaze": "camera",
+        "item": "adult_nurse",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "execution": "lead-1ce0ca82",
+  "imported": "2026-11-13",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "7fb14b83a4d4fc671f00a5ca8f89609454f92a742c17931e5749dced6c354c37",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated output preserved; no regeneration or exposure correction.",
+    "ref_sha256": "010aeb20967429276d59d8f0937aeeda87d0379745a36ec53979642bbb27f126"
+  },
+  "qa": {
+    "reviewer": "gpt lead-1ce0ca82",
+    "image_sha256": "7fb14b83a4d4fc671f00a5ca8f89609454f92a742c17931e5749dced6c354c37",
+    "passed": false,
+    "observations": [
+      "Verified 1024×1536 pixels.",
+      "One focal adult woman; painterly anime rendering.",
+      "No obvious additional disconnected limb visible.",
+      "Used only the selected world image as reference.",
+      "Frame extends below planned waist-up crop.",
+      "Reference earrings retained."
+    ],
+    "cause": "Reference image details and model interpretation sometimes override the scene/crop/wardrobe instructions; deviations preserved and recorded."
+  },
+  "acceptance": "User approved 3,3,4 and publishing to main; generated outputs preserved without exposure-based regeneration."
+}

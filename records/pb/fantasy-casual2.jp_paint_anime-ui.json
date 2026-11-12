@@ -1,0 +1,117 @@
+{
+  "atelier": "element",
+  "card": "pb",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pb_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_bath",
+    "ofam": "homewear",
+    "item": "knit_dress_home",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "towel_neck",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "color": "mono",
+    "denier": "d60",
+    "expr": "curious",
+    "preset": "stride_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pb_fantasy_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Lead (Pb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor bath, stream or fountain built in the style of her element's kingdom\nOutfit: a soft body-hugging knit dress — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds one end of a towel hung around her neck; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lead: a dull blue-grey metal, heavy and soft enough to scratch with a fingernail — the stable end where uranium's long decay chain finally comes to rest; the shield that stops X-rays and radiation, the dark came that joins the pieces of stained glass, the cast type of the printing press, the Roman water pipes that gave plumbing its name; alchemy's Saturn; it tastes sweet but is poison; heavy, quiet and guarding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-13",
+  "record": "records/pb/fantasy-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pb",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "pb": {
+        "era": "nation",
+        "place": "nation_bath",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stride_prop",
+        "use": "towel_neck",
+        "posture": "walk",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "camera",
+        "item": "knit_dress_home",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono",
+        "denier": "d60"
+      }
+    }
+  },
+  "execution": "lead-1ce0ca82",
+  "imported": "2026-11-13",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ea283bdcf3bad83b1fb3c1d09f3b8fb21bc1bed8981943102ccf7b1787108bcf",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated output preserved; no regeneration or exposure correction.",
+    "ref_sha256": "010aeb20967429276d59d8f0937aeeda87d0379745a36ec53979642bbb27f126"
+  },
+  "qa": {
+    "reviewer": "gpt lead-1ce0ca82",
+    "image_sha256": "ea283bdcf3bad83b1fb3c1d09f3b8fb21bc1bed8981943102ccf7b1787108bcf",
+    "passed": false,
+    "observations": [
+      "Verified 1024×1536 pixels.",
+      "One focal adult woman; painterly anime rendering.",
+      "No obvious additional disconnected limb visible.",
+      "Used only the selected world image as reference.",
+      "Reference earrings and stained-glass scene details retained."
+    ],
+    "cause": "Reference image details and model interpretation sometimes override the scene/crop/wardrobe instructions; deviations preserved and recorded."
+  },
+  "acceptance": "User approved 3,3,4 and publishing to main; generated outputs preserved without exposure-based regeneration."
+}

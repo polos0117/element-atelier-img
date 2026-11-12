@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "pb",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pb_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "dongtan",
+    "item": "dongtan_crop_skirt",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_shoot",
+    "legs": "knees_together",
+    "gaze": "",
+    "color": "neutral",
+    "expr": "nostalgic",
+    "preset": "table_lean_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pb_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Lead (Pb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nOutfit: a tight cropped knit top baring the waist and a snug bodycon mini skirt, with high heels — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she raises a camera to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nLEGS: knees together, feet slightly apart.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lead: a dull blue-grey metal, heavy and soft enough to scratch with a fingernail — the stable end where uranium's long decay chain finally comes to rest; the shield that stops X-rays and radiation, the dark came that joins the pieces of stained glass, the cast type of the printing press, the Roman water pipes that gave plumbing its name; alchemy's Saturn; it tastes sweet but is poison; heavy, quiet and guarding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-13",
+  "record": "records/pb/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pb",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "pb": {
+        "era": "now",
+        "place": "stage_event",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "table_lean_use",
+        "use": "camera_shoot",
+        "posture": "sit_lean",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "",
+        "item": "dongtan_crop_skirt",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral"
+      }
+    }
+  },
+  "execution": "lead-1ce0ca82",
+  "imported": "2026-11-13",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5e8b839d8269f793710dbad8083620fba4a8ce2999e8b00067e02251d668e8a2",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated output preserved; no regeneration or exposure correction.",
+    "ref_sha256": "4fb84fd16a85c428eacd9146fa1812668c199fd1186b518755a9d193a6a9178a"
+  },
+  "qa": {
+    "reviewer": "gpt lead-1ce0ca82",
+    "image_sha256": "5e8b839d8269f793710dbad8083620fba4a8ce2999e8b00067e02251d668e8a2",
+    "passed": false,
+    "observations": [
+      "Verified 1024×1536 pixels.",
+      "One focal adult woman; painterly anime rendering.",
+      "No obvious additional disconnected limb visible.",
+      "Used only the selected world image as reference.",
+      "Reference earrings retained."
+    ],
+    "cause": "Reference image details and model interpretation sometimes override the scene/crop/wardrobe instructions; deviations preserved and recorded."
+  },
+  "acceptance": "User approved 3,3,4 and publishing to main; generated outputs preserved without exposure-based regeneration."
+}
