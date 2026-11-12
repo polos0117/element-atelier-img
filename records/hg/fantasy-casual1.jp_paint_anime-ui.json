@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_kitchen",
+  "ofam": "lingerie",
+  "item": "asymmetric_lingerie",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "cheek",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pastel",
+  "expr": "gentle",
+  "preset": "cheek_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her home kitchen with a counter, open shelves and hanging pans\nOutfit: an asymmetric lingerie set with one shoulder strap and a diagonal neckline — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/hg/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hg",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "hg": {
+    "era": "now",
+    "place": "home_kitchen",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cheek_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "asymmetric_lingerie",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c686d40146afdb3933227642a33224720d634f5879b9dd8de5739936835cedf2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository receives WebP only. No regeneration.",
+  "ref_sha256": "2c562e35243bfd2a21100128f974aa0f91ababe92dd6902dc401119c1f78e184"
+ },
+ "execution": "element-hg-260f1bc75072-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c686d40146afdb3933227642a33224720d634f5879b9dd8de5739936835cedf2",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified. One adult female main character.",
+   "Identity compared with selected fantasy world image; silver hair and eye colour retained.",
+   "Visible arms and legs connect to the body; no extra detached limbs seen. Hidden or overlapping fingers cannot all be individually counted.",
+   "Crop extends below collarbones into upper chest, beyond the requested face-close boundary.",
+   "Several accessories from the reference visual language remain, beyond the requested at-most-one small accessory."
+  ],
+  "cause": "Reference image decoration and composition sometimes override the scene text."
+ },
+ "acceptance": "User selected worlds 2,3,2 and authorised commit and normal main publication; all generated results retained."
+}

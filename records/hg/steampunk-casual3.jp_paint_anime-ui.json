@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ranch",
+  "ofam": "adventure",
+  "item": "cowgirl",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "expr": "half_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunny ranch — a weathered wooden fence, hay bales and horses grazing in the distance\nOutfit: a cowgirl look — a cropped plaid shirt knotted under the bust, frayed denim shorts, a leather belt with a big buckle, cowboy boots and a cowboy hat, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a cup at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/hg/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "hg": {
+    "era": "now",
+    "place": "travel_ranch",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "cup_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "cowgirl",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e0c3bd290c954d6c6c64f5460aca06b49d692526f486c864b93a5af39d88fa2b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository receives WebP only. No regeneration.",
+  "ref_sha256": "0c16ffcf40701e1708ac0403fcd6aa46d472c07528388064392f0fa6d8181d58"
+ },
+ "execution": "element-hg-260f1bc75072-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e0c3bd290c954d6c6c64f5460aca06b49d692526f486c864b93a5af39d88fa2b",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified. One adult female main character.",
+   "Identity compared with selected steampunk world image; silver hair and eye colour retained.",
+   "Visible arms and legs connect to the body; no extra detached limbs seen. Hidden or overlapping fingers cannot all be individually counted.",
+   "Environmental framing is dominated by the seated figure.",
+   "Several reference-like jewellery elements remain."
+  ],
+  "cause": "Reference image decoration and composition sometimes override the scene text."
+ },
+ "acceptance": "User selected worlds 2,3,2 and authorised commit and normal main publication; all generated results retained."
+}

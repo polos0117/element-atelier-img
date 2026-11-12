@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "fleece_joggers",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pattern",
+  "denier": "d60",
+  "expr": "relieved",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nOutfit: a soft fleece pullover with relaxed jogger pants — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/hg/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "hg": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "fleece_joggers",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "denier": "d60"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e490833735b099231f6a8b33d1289b02cdfe4d52319b308b498599d155c6f663",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository receives WebP only. No regeneration.",
+  "ref_sha256": "8b93ccaf3843a68c952eb8df6acdf0c047a2615be4a65e26676264d0ee01d7a3"
+ },
+ "execution": "element-hg-260f1bc75072-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e490833735b099231f6a8b33d1289b02cdfe4d52319b308b498599d155c6f663",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified. One adult female main character.",
+   "Identity compared with selected mecha world image; silver hair and eye colour retained.",
+   "Visible arms and legs connect to the body; no extra detached limbs seen. Hidden or overlapping fingers cannot all be individually counted.",
+   "Close-up includes more upper torso than requested collarbone boundary."
+  ],
+  "cause": "Reference image decoration and composition sometimes override the scene text."
+ },
+ "acceptance": "User selected worlds 2,3,2 and authorised commit and normal main publication; all generated results retained."
+}

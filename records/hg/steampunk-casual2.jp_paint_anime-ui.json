@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "linen_lounge",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wave",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "earth",
+  "expr": "pensive",
+  "preset": "wave_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nOutfit: a light linen lounge set — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/hg/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "hg": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wave_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "wave",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "linen_lounge",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "353008abb21ae71aea91095e2df0437ecfd6ca9962c947af61409267a9082322",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository receives WebP only. No regeneration.",
+  "ref_sha256": "0c16ffcf40701e1708ac0403fcd6aa46d472c07528388064392f0fa6d8181d58"
+ },
+ "execution": "element-hg-260f1bc75072-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "353008abb21ae71aea91095e2df0437ecfd6ca9962c947af61409267a9082322",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified. One adult female main character.",
+   "Identity compared with selected steampunk world image; silver hair and eye colour retained.",
+   "Visible arms and legs connect to the body; no extra detached limbs seen. Hidden or overlapping fingers cannot all be individually counted.",
+   "Linen lounge outfit rendered as a frilled off-shoulder top within the close crop.",
+   "Reference-like jewellery retained beyond one small accessory."
+  ],
+  "cause": "Reference image decoration and composition sometimes override the scene text."
+ },
+ "acceptance": "User selected worlds 2,3,2 and authorised commit and normal main publication; all generated results retained."
+}

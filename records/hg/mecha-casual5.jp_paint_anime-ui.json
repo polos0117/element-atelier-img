@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_diner",
+  "ofam": "costume",
+  "item": "tango_dress",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_check",
+  "legs": "",
+  "gaze": "",
+  "color": "neutral",
+  "expr": "calm",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro American diner — a chrome counter, vinyl booths, a jukebox and neon signs in the window\nOutfit: a backless high-slit tango dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she checks the photo on the back screen of a camera at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/hg/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "hg": {
+    "era": "now",
+    "place": "street_diner",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "camera_check",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "tango_dress",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "445072310777c964e343b0161a8ce43858692dca5495e303395678ba90650bfa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository receives WebP only. No regeneration.",
+  "ref_sha256": "8b93ccaf3843a68c952eb8df6acdf0c047a2615be4a65e26676264d0ee01d7a3"
+ },
+ "execution": "element-hg-260f1bc75072-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "445072310777c964e343b0161a8ce43858692dca5495e303395678ba90650bfa",
+  "passed": false,
+  "observations": [
+   "1024x1536 verified. One adult female main character.",
+   "Identity compared with selected mecha world image; silver hair and eye colour retained.",
+   "Visible arms and legs connect to the body; no extra detached limbs seen. Hidden or overlapping fingers cannot all be individually counted.",
+   "Camera is viewed from the front rather than displaying its back screen for checking the photo.",
+   "Multiple reference-like ornaments retained."
+  ],
+  "cause": "Reference image decoration and composition sometimes override the scene text."
+ },
+ "acceptance": "User selected worlds 2,3,2 and authorised commit and normal main publication; all generated results retained."
+}
