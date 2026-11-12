@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "f",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "f_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_furnace",
+  "ofam": "costume",
+  "item": "moon_priestess",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "situ": "wind",
+  "expr": "half_smile",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "f_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fluorine (F) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a steelworks floor beside a glowing blast furnace, sparks and molten metal pouring under a high iron roof\nOutfit: a moon priestess costume — a white draped one-shoulder gown with silver bangles and a moonstone circlet; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — fluorine: the most electronegative element of all, a pale yellow gas that tears electrons from almost anything it touches — glass, metal, water, even the aloof noble gas xenon; hydrofluoric acid that eats and frosts glass; banded violet-and-green fluorite crystals, named from 'fluere', to flow, for their use as a smelting flux, which in turn gave 'fluorescence' its name; first isolated by Henri Moissan in 1886 after it had injured the chemists who tried before him; yet the carbon–fluorine bond it forms is so tight that nothing sticks to Teflon; greedy, swift, ferocious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/f/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "f",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "f": {
+    "era": "site",
+    "place": "site_furnace",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "moon_priestess",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wind"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d8695ee7f94ae406ab67f9eefbf64e417f929172aca842d90d83f1eb8cda90df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original generated image preserved; no replacement or regeneration after success.",
+  "ref_sha256": "0122f66941918846eb41fd3aac21533cce00650a22bad08551420ed132320681"
+ },
+ "execution": "element-fluorine-7eb20",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt element-fluorine-7eb20",
+  "image_sha256": "d8695ee7f94ae406ab67f9eefbf64e417f929172aca842d90d83f1eb8cda90df",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 pixels; one focal adult woman, painterly Japanese anime finish; no frame, logo or watermark.",
+   "Chest-up view with crossed arms, pale draped moon-priestess costume and furnace hall behind her.",
+   "Same green eyes and two-tone ponytail; hair and fabric lifted by wind."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved main updates; 3,3,3 selection. Existing generated images preserved, QA deviations recorded."
+}

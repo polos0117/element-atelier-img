@@ -1,0 +1,111 @@
+{
+ "atelier": "element",
+ "card": "f",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "f_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "halloween",
+  "item": "hw_vampire",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "expr": "candid",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "f_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fluorine (F) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nOutfit: a vampire costume — a plunging blood-red satin corset dress with a thigh-high slit under a high-collared black cape, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: her eyes are lowered.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — fluorine: the most electronegative element of all, a pale yellow gas that tears electrons from almost anything it touches — glass, metal, water, even the aloof noble gas xenon; hydrofluoric acid that eats and frosts glass; banded violet-and-green fluorite crystals, named from 'fluere', to flow, for their use as a smelting flux, which in turn gave 'fluorescence' its name; first isolated by Henri Moissan in 1886 after it had injured the chemists who tried before him; yet the carbon–fluorine bond it forms is so tight that nothing sticks to Teflon; greedy, swift, ferocious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/f/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "f",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "f": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "hw_vampire",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ab36ae96032ef0ab29d6a091f99b7f335202765a36513febf3839755bd00a2b3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original generated image preserved; no replacement or regeneration after success.",
+  "ref_sha256": "0122f66941918846eb41fd3aac21533cce00650a22bad08551420ed132320681"
+ },
+ "execution": "element-fluorine-7eb20",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt element-fluorine-7eb20",
+  "image_sha256": "ab36ae96032ef0ab29d6a091f99b7f335202765a36513febf3839755bd00a2b3",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 pixels; one focal adult woman, painterly Japanese anime finish; no frame, logo or watermark.",
+   "Profile face close-up in underwater palace, one visible hand touching her hair.",
+   "Vampire collar and costume, original long ponytail and green eye retained."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved main updates; 3,3,3 selection. Existing generated images preserved, QA deviations recorded."
+}

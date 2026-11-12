@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "f",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "f_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "lingerie",
+  "item": "open_shirt_lingerie",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_shoot",
+  "legs": "",
+  "gaze": "",
+  "color": "mono",
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "f_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fluorine (F) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop lookout over a wide valley\nOutfit: a tailored oversized shirt worn open over a matching satin lingerie set — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she raises a camera to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — fluorine: the most electronegative element of all, a pale yellow gas that tears electrons from almost anything it touches — glass, metal, water, even the aloof noble gas xenon; hydrofluoric acid that eats and frosts glass; banded violet-and-green fluorite crystals, named from 'fluere', to flow, for their use as a smelting flux, which in turn gave 'fluorescence' its name; first isolated by Henri Moissan in 1886 after it had injured the chemists who tried before him; yet the carbon–fluorine bond it forms is so tight that nothing sticks to Teflon; greedy, swift, ferocious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/f/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "f",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "f": {
+    "era": "now",
+    "place": "travel_lookout",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "camera_shoot",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "open_shirt_lingerie",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "31c8df0ed580eaabb9c4b920513705920ee307d2360a88e2ecc665164e825c67",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original generated image preserved; no replacement or regeneration after success.",
+  "ref_sha256": "de8175f9a5831874ff65c42fb21a5142ecce321d588926420ad72a2c52808d0a"
+ },
+ "execution": "element-fluorine-7eb20",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt element-fluorine-7eb20",
+  "image_sha256": "31c8df0ed580eaabb9c4b920513705920ee307d2360a88e2ecc665164e825c67",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 pixels; one focal adult woman, painterly Japanese anime finish; no frame, logo or watermark.",
+   "Freckled woman holds camera with two connected hands at a mountain overlook.",
+   "Two violet and sea-green braids, blue-green eyes, black open shirt over lingerie retained as planned."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved main updates; 3,3,3 selection. Existing generated images preserved, QA deviations recorded."
+}

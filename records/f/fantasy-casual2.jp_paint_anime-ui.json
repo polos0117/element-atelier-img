@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "f",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "f_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_temple",
+  "ofam": "homewear",
+  "item": "oversized_tee",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "color": "pattern",
+  "denier": "d40",
+  "expr": "wink",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "f_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fluorine (F) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a temple or shrine in her element's kingdom\nOutfit: an oversized tee and shorts — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — fluorine: the most electronegative element of all, a pale yellow gas that tears electrons from almost anything it touches — glass, metal, water, even the aloof noble gas xenon; hydrofluoric acid that eats and frosts glass; banded violet-and-green fluorite crystals, named from 'fluere', to flow, for their use as a smelting flux, which in turn gave 'fluorescence' its name; first isolated by Henri Moissan in 1886 after it had injured the chemists who tried before him; yet the carbon–fluorine bond it forms is so tight that nothing sticks to Teflon; greedy, swift, ferocious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/f/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "f",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "f": {
+    "era": "nation",
+    "place": "nation_temple",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "oversized_tee",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "denier": "d40"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ba50e6257f538aa4a0cdafbd64f07c71ba96653086996176e541fef36d331a81",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original generated image preserved; no replacement or regeneration after success.",
+  "ref_sha256": "0122f66941918846eb41fd3aac21533cce00650a22bad08551420ed132320681"
+ },
+ "execution": "element-fluorine-7eb20",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt element-fluorine-7eb20",
+  "image_sha256": "ba50e6257f538aa4a0cdafbd64f07c71ba96653086996176e541fef36d331a81",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 pixels; one focal adult woman, painterly Japanese anime finish; no frame, logo or watermark.",
+   "Front three-quarter seated temple scene, raised knee, cheek supported by hand and other hand planted beside her.",
+   "Green eyes and long two-tone ponytail retained; yellow floral oversized shirt and green shorts."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved main updates; 3,3,3 selection. Existing generated images preserved, QA deviations recorded."
+}

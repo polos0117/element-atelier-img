@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "f",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "f_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_observatory",
+  "ofam": "lingerie",
+  "item": "chemise_silk",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "book_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "color": "denim",
+  "expr": "half_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "f_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fluorine (F) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop observatory with its dome open to a clear night sky, a brass-railed platform around the great telescope\nOutfit: a knee-skimming silk chemise with a lace hem and an opaque lining — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — fluorine: the most electronegative element of all, a pale yellow gas that tears electrons from almost anything it touches — glass, metal, water, even the aloof noble gas xenon; hydrofluoric acid that eats and frosts glass; banded violet-and-green fluorite crystals, named from 'fluere', to flow, for their use as a smelting flux, which in turn gave 'fluorescence' its name; first isolated by Henri Moissan in 1886 after it had injured the chemists who tried before him; yet the carbon–fluorine bond it forms is so tight that nothing sticks to Teflon; greedy, swift, ferocious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/f/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "f",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "f": {
+    "era": "site",
+    "place": "site_observatory",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "book_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "chemise_silk",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e9c48baf457a8088b7e1a89b9c816bfe02e3247eeb0c155ddb3024a32681330f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original generated image preserved; no replacement or regeneration after success.",
+  "ref_sha256": "4d26d564a09af36b0b981e8ea3a8ebcd028b5d3b5a9d0076ec1242e11d2c61c4"
+ },
+ "execution": "element-fluorine-7eb20",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt element-fluorine-7eb20",
+  "image_sha256": "e9c48baf457a8088b7e1a89b9c816bfe02e3247eeb0c155ddb3024a32681330f",
+  "passed": true,
+  "observations": [
+   "Verified 1024×1536 pixels; one focal adult woman, painterly Japanese anime finish; no frame, logo or watermark.",
+   "Woman holds a book to her chest, other hand on knee, seated inside telescope observatory.",
+   "Amber eyes and short two-tone ponytail retained; blue silk chemise replaces armour."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved main updates; 3,3,3 selection. Existing generated images preserved, QA deviations recorded."
+}
