@@ -1,0 +1,109 @@
+{
+ "atelier": "element",
+ "card": "li",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "crimson",
+   "age": "late_20s",
+   "impression": "sharp",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "scar",
+   "expr": "determined"
+  },
+  "silhouette": {
+   "body": "lanky",
+   "hair": "ponytail",
+   "hair_color": "lithium_crimson",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "li_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; fair skin; oval face; medium-sized eyes — narrow upturned eyes, outer eye corners slightly lifted; sharp angled brows; straight narrow nose; thin long lips; crimson eyes; a thin faint scar through one eyebrow.\nBody and hair: lean and long-legged, with a natural neck length build; a long ponytail with center-parted bangs framing the face; soft silver-white hair tipped with crimson flame-red.\nExpression: a firm, resolute look with calm, steady eyes.\nHer element, carried in her design: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. light soft-silver armor with crimson charge-bar stripes that fill and glow along the limbs, freshly cut bright silver edges over tarnished charcoal-grey panels, six small battery-cell shield units floating symmetrically around her, each with a glowing crimson charge indicator; the plates must read as solid armor, not a gown.\nSilhouette: light body armor with several small shield and drone units floating symmetrically around her. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, the charge capital: a city built as one vast battery on a high desert plateau, stacked cell towers banded with charge bars filling from crimson to white, power stored by night and released by day, terraced evaporation ponds of turquoise lithium brine stretching below.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-12",
+ "record": "records/li/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "li",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "li|mecha": {}
+  },
+  "looks": {
+   "li|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "li|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ec9b0760dd5f205ef4b2964c214c9c851f8e567c124867f8ae1aeefde20baa80",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind. Palette: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nWorld (fixed): year 2200, the charge capital: a city built as one vast battery on a high desert plateau, stacked cell towers banded with charge bars filling from crimson to white, power stored by night and released by day, terraced evaporation ponds of turquoise lithium brine stretching below. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 6) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 7) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 8) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 9) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nHair colour (fixed — ours): soft silver-white hair tipped with crimson flame-red. Keep exactly this hair colour; only the hairstyle is yours.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nMy detailed design: choose silhouette 5, a light fast silhouette with thin solid armor and large calf and ankle thrusters. The silver-white armor's chest, hip and shin plates consist of visibly layered curved electrode sheets, separated by charcoal insulating strips with crimson charge light running between the layers; pale petalite pink translucent solid shoulder plates. Human face and hair, compact oval adult face, golden eyes, straight brows, confident gentle smile; short silver-white hair with crimson tips in a swept-back layered crop. Rigid full-body hard-surface armor with natural joints and narrow waist, designed open neckline and exposed upper shoulders, intimate areas covered; no cloth. Standing lightly on a raised service platform in the high-desert charge capital, turquoise evaporation ponds below and battery towers behind in clear daylight. Two ordinary empty human hands visible, five fingers each. Keep the fixed style and framing.",
+  "note": "Original PNG retained outside Git; no regeneration.",
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind. Palette: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nWorld (fixed): year 2200, the charge capital: a city built as one vast battery on a high desert plateau, stacked cell towers banded with charge bars filling from crimson to white, power stored by night and released by day, terraced evaporation ponds of turquoise lithium brine stretching below. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 6) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 7) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 8) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 9) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nHair colour (fixed — ours): soft silver-white hair tipped with crimson flame-red. Keep exactly this hair colour; only the hairstyle is yours.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nMy detailed design: choose silhouette 5, a light fast silhouette with thin solid armor and large calf and ankle thrusters. The silver-white armor's chest, hip and shin plates consist of visibly layered curved electrode sheets, separated by charcoal insulating strips with crimson charge light running between the layers; pale petalite pink translucent solid shoulder plates. Human face and hair, compact oval adult face, golden eyes, straight brows, confident gentle smile; short silver-white hair with crimson tips in a swept-back layered crop. Rigid full-body hard-surface armor with natural joints and narrow waist, designed open neckline and exposed upper shoulders, intimate areas covered; no cloth. Standing lightly on a raised service platform in the high-desert charge capital, turquoise evaporation ponds below and battery towers behind in clear daylight. Two ordinary empty human hands visible, five fingers each. Keep the fixed style and framing.",
+  "selected_number": 3
+ },
+ "execution": "lithium-24f61",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ec9b0760dd5f205ef4b2964c214c9c851f8e567c124867f8ae1aeefde20baa80",
+  "passed": false,
+  "observations": [
+   "1024×1536; one adult main figure; painted anime rendering.",
+   "Selected free design; full-body framing, empty natural hands and correct world; some source costume details not exactly as planned."
+  ],
+  "cause": "Recorded visible deviations; preserved without regeneration."
+ },
+ "acceptance": "User selected 4,4,3; commit and normal main update authorized"
+}

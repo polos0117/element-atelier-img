@@ -1,0 +1,109 @@
+{
+ "atelier": "element",
+ "card": "li",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "crimson",
+   "age": "late_20s",
+   "impression": "sharp",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "scar",
+   "expr": "determined"
+  },
+  "silhouette": {
+   "body": "lanky",
+   "hair": "asymmetric_bob",
+   "hair_color": "lithium_crimson",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "li_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; fair skin; heart-shaped face; medium-sized eyes — wide almond eyes, level outer eye corners; sharp angled brows; straight narrow nose; thin long lips; crimson eyes; a thin faint scar through one eyebrow.\nBody and hair: lean and long-legged, with a natural neck length build; an asymmetric bob, longer on one side with side-swept bangs; soft silver-white hair tipped with crimson flame-red.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a firm, resolute look with calm, steady eyes.\nHer element, carried in her design: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: one large brass mechanical gauntlet covering a whole arm over an otherwise trim outfit — the contrast makes the shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1855, a university laboratory in Heidelberg where lithium metal was first pulled out in quantity: a crucible of molten lithium chloride split by electric current, long rows of Bunsen cell batteries wired together, a Bunsen burner flaring crimson, silver beads of new metal floating in a jar of oil.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-12",
+ "record": "records/li/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "li",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "li|steampunk": {}
+  },
+  "looks": {
+   "li|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "li|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5ab313cf0d459a5d25b485d53c5c3faf250df4bddcaaef78ab3b2d64bf79f46c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind. Palette: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nWorld (fixed): around 1855, a university laboratory in Heidelberg where lithium metal was first pulled out in quantity: a crucible of molten lithium chloride split by electric current, long rows of Bunsen cell batteries wired together, a Bunsen burner flaring crimson, silver beads of new metal floating in a jar of oil. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape; 2) a cropped flight jacket, goggles on her head, crossing harness straps and a long scarf streaming in the wind — an airborne shape; 3) a long tailcoat over a waistcoat, a small silk top hat and a pocket-watch chain — a gentleman inventor's upright shape; 4) a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; 5) a clockwork gear rig worn on her back over a fitted vest, small brass fittings on arms and legs — the machinery makes the shape; 6) one large brass mechanical gauntlet covering a whole arm over an otherwise trim outfit — the contrast makes the shape; 7) a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nHair colour (fixed — ours): soft silver-white hair tipped with crimson flame-red. Keep exactly this hair colour; only the hairstyle is yours.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nMy detailed design: choose silhouette 4, the mysterious experimenter's long leather coat with a glass vial bandolier and brass goggles. Charcoal open coat with silver-white shoulder yoke and petalite-pink lining cut into narrow crystalline facets. Crimson opaque low-neck short laboratory dress underneath, high side split, bare thighs, tall lace-up boots, intimate areas covered. An integral double-wall transparent channel runs along the coat's rigid wide cuffs and hem, containing silver beads in oil as an elemental construction idea; all shapes Victorian-era leather, metal and glass. Silver-white crimson-tipped hair in two loose low braids; narrow teal eyes, softly heart-shaped adult face, delicately arched brows and a calm closed-lip smile. Standing by the tall windows of the Heidelberg laboratory, molten-salt apparatus and crimson flame in the background. Both empty natural human hands visible, long gloves folded at her belt. Keep the fixed style and full-body framing.",
+  "note": "Original PNG retained outside Git; no regeneration.",
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Lithium (리튬) itself — the sovereign of the Lithium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind. Palette: soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nWorld (fixed): around 1855, a university laboratory in Heidelberg where lithium metal was first pulled out in quantity: a crucible of molten lithium chloride split by electric current, long rows of Bunsen cell batteries wired together, a Bunsen burner flaring crimson, silver beads of new metal floating in a jar of oil. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape; 2) a cropped flight jacket, goggles on her head, crossing harness straps and a long scarf streaming in the wind — an airborne shape; 3) a long tailcoat over a waistcoat, a small silk top hat and a pocket-watch chain — a gentleman inventor's upright shape; 4) a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; 5) a clockwork gear rig worn on her back over a fitted vest, small brass fittings on arms and legs — the machinery makes the shape; 6) one large brass mechanical gauntlet covering a whole arm over an otherwise trim outfit — the contrast makes the shape; 7) a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): soft silver-white, vivid crimson flame red, tarnished charcoal grey, pale petalite pink.\n\nHair colour (fixed — ours): soft silver-white hair tipped with crimson flame-red. Keep exactly this hair colour; only the hairstyle is yours.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Li) and atomic number (3) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nMy detailed design: choose silhouette 4, the mysterious experimenter's long leather coat with a glass vial bandolier and brass goggles. Charcoal open coat with silver-white shoulder yoke and petalite-pink lining cut into narrow crystalline facets. Crimson opaque low-neck short laboratory dress underneath, high side split, bare thighs, tall lace-up boots, intimate areas covered. An integral double-wall transparent channel runs along the coat's rigid wide cuffs and hem, containing silver beads in oil as an elemental construction idea; all shapes Victorian-era leather, metal and glass. Silver-white crimson-tipped hair in two loose low braids; narrow teal eyes, softly heart-shaped adult face, delicately arched brows and a calm closed-lip smile. Standing by the tall windows of the Heidelberg laboratory, molten-salt apparatus and crimson flame in the background. Both empty natural human hands visible, long gloves folded at her belt. Keep the fixed style and full-body framing.",
+  "selected_number": 4
+ },
+ "execution": "lithium-24f61",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5ab313cf0d459a5d25b485d53c5c3faf250df4bddcaaef78ab3b2d64bf79f46c",
+  "passed": false,
+  "observations": [
+   "1024×1536; one adult main figure; painted anime rendering.",
+   "Selected free design; full-body framing, empty natural hands and correct world; some source costume details not exactly as planned."
+  ],
+  "cause": "Recorded visible deviations; preserved without regeneration."
+ },
+ "acceptance": "User selected 4,4,3; commit and normal main update authorized"
+}
