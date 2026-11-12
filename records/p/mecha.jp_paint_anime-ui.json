@@ -1,0 +1,105 @@
+{
+ "atelier": "element",
+ "card": "p",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "monolid_long",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "eye_color": "mint",
+   "age": "mid_20s",
+   "impression": "languid",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "mischievous"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair": "ponytail",
+   "hair_color": "phosphor_white",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "p_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Phosphorus (인) itself — the sovereign of the Phosphorus Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a languid, sleepy-eyed ease; porcelain-pale skin; gently long oval face; medium-sized eyes — long monolid eyes, outer eye corners slightly lifted; soft rounded brows; straight narrow nose; full heart-shaped lips; pale mint-green eyes; sharp winged eyeliner.\nBody and hair: curvy build; a long ponytail with choppy uneven bangs; pale ivory-white hair with a faint green phosphorescent glow.\nExpression: a small sly smile, bright eyes.\nHer element, carried in her design: phosphorus: its name means light-bringer — the white form glows a ghostly green in the dark, first boiled down by an alchemist in 1669; red phosphorus on every matchbox striker; the phosphate backbone of DNA and the mineral of bones and teeth, spread on fields as fertilizer; white phosphorus bursts into flame on its own in air and must be kept under water; luminous, life-giving and dangerous.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. thin ivory-white armor traced with glowing phosphor-green lines, a double-helix pattern spiralling down the leg plates with match-red rungs, large calf and ankle thrusters burning pale green-white, a slim back unit shaped like a twisted helix; light, fast and forward-leaning; the plates must read as solid armor, not a gown.\nSilhouette: minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: bone ivory white, pale phosphor-green glow, safety-match red, soft dawn lavender.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a gene-library city: double-helix towers whose spiralling rails copy the phosphate backbone of DNA, glowing archive vaults storing the code of life, terraced vertical farms fed by phosphate, couriers streaking between the spires on green-white thrusters.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (P) and atomic number (15) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-12",
+ "record": "records/p/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "p",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "p|mecha": {}
+  },
+  "looks": {
+   "p|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "p|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fc2103cdb3cb988c4191cc941f883651843ae4e7c86682469ce19ab6f2cee151",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 1
+ },
+ "execution": "element-p-8af8-20261112",
+ "imported": "2026-11-12",
+ "acceptance": "user selected 1,1,1; commit and normal main push approved",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fc2103cdb3cb988c4191cc941f883651843ae4e7c86682469ce19ab6f2cee151",
+  "passed": true,
+  "observations": [
+   "1024×1536, one adult woman, full body with both feet visible",
+   "Both arms connect naturally; both empty human hands visible",
+   "P and 15 integrated in scene; world design and palette retained"
+  ]
+ }
+}
