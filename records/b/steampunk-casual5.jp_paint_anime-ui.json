@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "b",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "b_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "everyday",
+  "item": "raincoat_boots",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "notebook_write",
+  "legs": "knees_together",
+  "gaze": "",
+  "color": "neutral",
+  "expr": "amused",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "b_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Boron (B) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nOutfit: a hooded raincoat over a short dress and rain boots — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she writes in a notebook with a pen on the table — her own right hand holds the pen, her own left hand keeps the page flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — boron: a small, light metalloid with a stubborn, hard heart; borax, the white crystal goldsmiths used as a flux and caravans once carried from Tibetan salt lakes along the Silk Road, later hauled out of Death Valley by twenty-mule teams in the 1880s; burns and colours flames a vivid green; with carbon it forms boron carbide, one of the hardest materials known, armour that stops bullets; in borosilicate glass it lets laboratory flasks survive the flame; its atoms swallow neutrons in reactor control rods; rugged, plain-spoken, dependable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/b/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "b",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "b": {
+    "era": "site",
+    "place": "site_lab",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "notebook_write",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "raincoat_boots",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a3613f26cdf7b16798b034659633e6098078e12acf7af68d5f157780f8ef3c69",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "참조 세계컷을 첨부해 한 번 생성. 원본 PNG는 저장소에 올리지 않음.",
+  "ref_sha256": "789f959f130418ba9ac463b8e7f8ba36b7486d7c4abf48f5f4d67caa6aa9a02e"
+ },
+ "execution": "boron-adf088474379",
+ "imported": "2026-11-13",
+ "acceptance": "사용자 세계컷 선택 2,2,2 및 완료 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a3613f26cdf7b16798b034659633e6098078e12acf7af68d5f157780f8ef3c69",
+  "passed": false,
+  "observations": [
+   "1024×1536 픽셀 확인",
+   "여성 주인공 한 명, 일본 애니 페인터리 화풍",
+   "보이는 범위에서 팔과 손의 연결을 확인; 손가락 겹침과 가려짐 때문에 모든 손의 5개를 확정하지 않음",
+   "실험실 병 라벨과 노트에 작은 유사 글자가 생성됨, 선명한 낱말 여부는 불확실",
+   "현대 실험실 계획이 빈티지 실험실로 변형됨"
+  ],
+  "cause": "고정 프롬프트 및 참조 이미지의 의상·배경 영향. 어긋남을 보존하여 기록하며 재생성하지 않음."
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "b",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "b_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_wedding",
+  "ofam": "adventure",
+  "item": "ranch_vest",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "color": "mono",
+  "expr": "sensual",
+  "preset": "pocket_look",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "b_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Boron (B) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bridal room, garden aisle or reception hall\nOutfit: a ranch look — a fringed suede vest over a cropped tank top, low-rise flared jeans and ankle boots — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is tucked into a pocket.\nPROP: with her own right hand she holds a rough white borax crystal flickering with a small green flame at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — boron: a small, light metalloid with a stubborn, hard heart; borax, the white crystal goldsmiths used as a flux and caravans once carried from Tibetan salt lakes along the Silk Road, later hauled out of Death Valley by twenty-mule teams in the 1880s; burns and colours flames a vivid green; with carbon it forms boron carbide, one of the hardest materials known, armour that stops bullets; in borosilicate glass it lets laboratory flasks survive the flame; its atoms swallow neutrons in reactor control rods; rugged, plain-spoken, dependable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/b/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "b",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "b": {
+    "era": "now",
+    "place": "stage_wedding",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "pocket_look",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "pocket",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "ranch_vest",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2d0d9b346291ce46241aadb66cbe8ad844d7bf806586b64aa73c484be7683c7a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "참조 세계컷을 첨부해 한 번 생성. 원본 PNG는 저장소에 올리지 않음.",
+  "ref_sha256": "132e943e540087a0f12d10e17a9542950f59f3c3739c7ef078151518deb586c8"
+ },
+ "execution": "boron-adf088474379",
+ "imported": "2026-11-13",
+ "acceptance": "사용자 세계컷 선택 2,2,2 및 완료 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2d0d9b346291ce46241aadb66cbe8ad844d7bf806586b64aa73c484be7683c7a",
+  "passed": false,
+  "observations": [
+   "1024×1536 픽셀 확인",
+   "여성 주인공 한 명, 일본 애니 페인터리 화풍",
+   "보이는 범위에서 팔과 손의 연결을 확인; 손가락 겹침과 가려짐 때문에 모든 손의 5개를 확정하지 않음",
+   "허리에 건 대상 문양과 결정 장신구가 원본에 영향받음"
+  ],
+  "cause": "고정 프롬프트 및 참조 이미지의 의상·배경 영향. 어긋남을 보존하여 기록하며 재생성하지 않음."
+ }
+}

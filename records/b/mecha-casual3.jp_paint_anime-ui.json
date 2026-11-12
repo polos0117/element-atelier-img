@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "b",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "b_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_refinery",
+  "ofam": "everyday",
+  "item": "overalls",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "",
+  "expr": "relieved",
+  "preset": "raise_chest",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "b_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Boron (B) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a refinery yard of silver storage tanks, pipe racks and steel ladders under a wide evening sky\nOutfit: fitted denim overalls over a cropped top, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a rough white borax crystal flickering with a small green flame up beside her face; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — boron: a small, light metalloid with a stubborn, hard heart; borax, the white crystal goldsmiths used as a flux and caravans once carried from Tibetan salt lakes along the Silk Road, later hauled out of Death Valley by twenty-mule teams in the 1880s; burns and colours flames a vivid green; with carbon it forms boron carbide, one of the hardest materials known, armour that stops bullets; in borosilicate glass it lets laboratory flasks survive the flame; its atoms swallow neutrons in reactor control rods; rugged, plain-spoken, dependable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/b/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "b",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "b": {
+    "era": "site",
+    "place": "site_refinery",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "raise_chest",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "overalls",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3b64d994a6a7a3aa94b13bc7f98a9db7f59fd2d0054e9ef1e1f73ad79b0c3964",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "참조 세계컷을 첨부해 한 번 생성. 원본 PNG는 저장소에 올리지 않음.",
+  "ref_sha256": "af3bc8bb007e9672737b6eaaf6a3b46ef2a0f9386ac6ce42a75e2174c046657d"
+ },
+ "execution": "boron-adf088474379",
+ "imported": "2026-11-13",
+ "acceptance": "사용자 세계컷 선택 2,2,2 및 완료 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3b64d994a6a7a3aa94b13bc7f98a9db7f59fd2d0054e9ef1e1f73ad79b0c3964",
+  "passed": false,
+  "observations": [
+   "1024×1536 픽셀 확인",
+   "여성 주인공 한 명, 일본 애니 페인터리 화풍",
+   "보이는 범위에서 팔과 손의 연결을 확인; 손가락 겹침과 가려짐 때문에 모든 손의 5개를 확정하지 않음",
+   "고개를 들며 얼굴 하관이 원본보다 길어 보일 수 있음",
+   "멜빵바지에 원소 결정 자수 생성"
+  ],
+  "cause": "고정 프롬프트 및 참조 이미지의 의상·배경 영향. 어긋남을 보존하여 기록하며 재생성하지 않음."
+ }
+}

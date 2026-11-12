@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "b",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "b_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_airport",
+  "ofam": "roleplay",
+  "item": "bartender",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_set",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "color": "neutral",
+  "expr": "half_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "b_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Boron (B) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an airport lounge — tall windows onto the runway, sleek seats, a long bench and a departures board\nOutfit: a bartender costume — a fitted satin waistcoat over a shirt with rolled sleeves and the top buttons open, a bow tie and a high-waisted pencil mini skirt — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she sets a cup down on the surface in front of her; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — boron: a small, light metalloid with a stubborn, hard heart; borax, the white crystal goldsmiths used as a flux and caravans once carried from Tibetan salt lakes along the Silk Road, later hauled out of Death Valley by twenty-mule teams in the 1880s; burns and colours flames a vivid green; with carbon it forms boron carbide, one of the hardest materials known, armour that stops bullets; in borosilicate glass it lets laboratory flasks survive the flame; its atoms swallow neutrons in reactor control rods; rugged, plain-spoken, dependable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/b/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "b",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "b": {
+    "era": "now",
+    "place": "travel_airport",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "cup_set",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "bartender",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c66aba6148230fd125c9a6a55f3ffdc6a5f2448fc20e8eac824fc9e39a1d1160",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "참조 세계컷을 첨부해 한 번 생성. 원본 PNG는 저장소에 올리지 않음.",
+  "ref_sha256": "af3bc8bb007e9672737b6eaaf6a3b46ef2a0f9386ac6ce42a75e2174c046657d"
+ },
+ "execution": "boron-adf088474379",
+ "imported": "2026-11-13",
+ "acceptance": "사용자 세계컷 선택 2,2,2 및 완료 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c66aba6148230fd125c9a6a55f3ffdc6a5f2448fc20e8eac824fc9e39a1d1160",
+  "passed": false,
+  "observations": [
+   "1024×1536 픽셀 확인",
+   "여성 주인공 한 명, 일본 애니 페인터리 화풍",
+   "보이는 범위에서 팔과 손의 연결을 확인; 손가락 겹침과 가려짐 때문에 모든 손의 5개를 확정하지 않음",
+   "공항 안내판에 작은 유사 글자가 생성됨, 선명한 낱말 여부 불확실",
+   "바텐더 복장이 베스트와 치마 조합으로 변형됨"
+  ],
+  "cause": "고정 프롬프트 및 참조 이미지의 의상·배경 영향. 어긋남을 보존하여 기록하며 재생성하지 않음."
+ }
+}
