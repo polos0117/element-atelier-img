@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "zn",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "zn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "bath",
+  "item": "jjimjil_set",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "color": "pattern",
+  "expr": "focused",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "zn_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Zinc (Zn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nOutfit: matching bathhouse loungewear with a towel folded into a sheep-ear headband — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — zinc: blue-grey metal that guards iron by corroding first, a sacrificial shield that wears itself away into chalk-white zinc oxide; hot-dip galvanized steel blooming with crystalline frost-flower spangle; paired with copper it becomes golden brass; the zinc discs of Volta's first battery and of every zinc-carbon cell; a selfless guardian that wears down so others stay whole — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "zn",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "zn": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "floor_brace",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "jjimjil_set",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "279f99feff8d1a0c9d4ff5698b589ba73faab0ca5d5c682939ae174818c4e849",
+  "ref_sha256": "fa59ee3f0cab4f116cbc66c40b4d7e0e6817fc1779b1a01162a54de5c3478f7a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery archive; uploaded as WebP only. No regeneration."
+ },
+ "execution": "zinc-70bfa",
+ "imported": "2026-11-12",
+ "acceptance": "User selected fantasy 4, steampunk 3, mecha 4 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "GPT zinc-70bfa",
+  "image_sha256": "279f99feff8d1a0c9d4ff5698b589ba73faab0ca5d5c682939ae174818c4e849",
+  "passed": false,
+  "observations": [
+   "1024×1536 verified; single principal adult woman; painterly anime finish; no obvious logo or watermark.",
+   "Side reclining pose with two arms and folded legs in tent.",
+   "Added bunny-ear headband and frilled gingham set differ from the simple sauna outfit."
+  ],
+  "cause": "Composition or wardrobe interpretation differs from prompt; preserved without regeneration."
+ }
+}

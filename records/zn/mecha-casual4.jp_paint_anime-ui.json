@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "zn",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "zn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_spa",
+  "ofam": "subculture",
+  "item": "trad_goth",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "expr": "half_smile",
+  "preset": "pocket_look",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "zn_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Zinc (Zn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a futuristic spa of white curves and soft light\nOutfit: trad goth — a black lace mini dress with platform boots and stacked silver rings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is tucked into a pocket.\nPROP: with her own right hand she holds a small galvanized steel tag shimmering with a crystalline frost-flower spangle at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — zinc: blue-grey metal that guards iron by corroding first, a sacrificial shield that wears itself away into chalk-white zinc oxide; hot-dip galvanized steel blooming with crystalline frost-flower spangle; paired with copper it becomes golden brass; the zinc discs of Volta's first battery and of every zinc-carbon cell; a selfless guardian that wears down so others stay whole — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "mecha-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "zn",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "zn": {
+    "era": "fantasy",
+    "place": "fx_spa",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "pocket_look",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "pocket",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "trad_goth",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0ba8096f7c5b7725b8e141f738ad40573f053251ee79f2649a9816d4117047f2",
+  "ref_sha256": "fa59ee3f0cab4f116cbc66c40b4d7e0e6817fc1779b1a01162a54de5c3478f7a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery archive; uploaded as WebP only. No regeneration."
+ },
+ "execution": "zinc-70bfa",
+ "imported": "2026-11-12",
+ "acceptance": "User selected fantasy 4, steampunk 3, mecha 4 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "GPT zinc-70bfa",
+  "image_sha256": "0ba8096f7c5b7725b8e141f738ad40573f053251ee79f2649a9816d4117047f2",
+  "passed": true,
+  "observations": [
+   "1024×1536 verified; single principal adult woman; painterly anime finish; no obvious logo or watermark.",
+   "Zinc tag held near face and other hand in pocket; gothic outfit and futuristic spa.",
+   "Fingers partly occluded by tag and pocket, exact count not fully verifiable."
+  ],
+  "cause": ""
+ }
+}

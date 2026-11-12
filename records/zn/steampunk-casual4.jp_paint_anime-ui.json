@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "zn",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "zn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_furnace",
+  "ofam": "dongtan",
+  "item": "dongtan_offshoulder",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_rail",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "color": "neutral",
+  "situ": "wind",
+  "expr": "proud",
+  "preset": "window_chin",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "zn_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Zinc (Zn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a steelworks floor beside a glowing blast furnace, sparks and molten metal pouring under a high iron roof\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — zinc: blue-grey metal that guards iron by corroding first, a sacrificial shield that wears itself away into chalk-white zinc oxide; hot-dip galvanized steel blooming with crystalline frost-flower spangle; paired with copper it becomes golden brass; the zinc discs of Volta's first battery and of every zinc-carbon cell; a selfless guardian that wears down so others stay whole — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "zn",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "zn": {
+    "era": "site",
+    "place": "site_furnace",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "window_chin",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "legs": "",
+    "gaze": "window",
+    "item": "dongtan_offshoulder",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wind",
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "793ad819ed2483fc47090136c947605bea6c8dee56c415f17175c7ff8f6d3064",
+  "ref_sha256": "78d42867e45c5ef64e28d199e4206181d3087e402d9d3501046423501dd7cfd2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery archive; uploaded as WebP only. No regeneration."
+ },
+ "execution": "zinc-70bfa",
+ "imported": "2026-11-12",
+ "acceptance": "User selected fantasy 4, steampunk 3, mecha 4 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "GPT zinc-70bfa",
+  "image_sha256": "793ad819ed2483fc47090136c947605bea6c8dee56c415f17175c7ff8f6d3064",
+  "passed": true,
+  "observations": [
+   "1024×1536 verified; single principal adult woman; painterly anime finish; no obvious logo or watermark.",
+   "Both arms meet the railing, one hand supporting chin; windblown fabric and hair.",
+   "No obvious disconnected limb visible; portrait crop extends to thigh."
+  ],
+  "cause": ""
+ }
+}
