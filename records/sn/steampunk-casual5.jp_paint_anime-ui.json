@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "sn",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_resort",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "feet_in_water",
+  "gaze": "horizon",
+  "color": "denim",
+  "situ": "wet",
+  "expr": "focused",
+  "preset": "edge_dangle",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sn_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tin (Sn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a resort cabana with a shaded daybed by the water\nOutfit: a short draped peplos mini dress belted with a fine gold chain, laurel-leaf hair pins and laced gladiator sandals — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tin: soft, bright silvery-white metal; melted with copper it made bronze and opened the Bronze Age; bend a bar and it creaks a faint crackling 'tin cry'; left in deep cold it slowly crumbles into grey powder, the tin pest; tin cans and tinplate toy soldiers, satin pewter cups, the tall pipes of church organs and the solder that joins small things together; soft, musical and quietly binding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/sn/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sn",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "sn": {
+    "era": "now",
+    "place": "water_resort",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_dangle",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "feet_in_water",
+    "gaze": "horizon",
+    "item": "peplos_mini",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "6c9363b61b8b0a077312a1cbd3de1d528df26b755818c465eca194d2274fd8c0",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2479486bbbf61ee35c7d74bc333ec6f8e09076e3026f641f2b86c8d5c338daad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery bundle, not committed to image repository."
+ },
+ "execution": "element-sn-20261112-0f18e64b934c",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized QA then upload and ordinary main update; chosen worlds 2,4,2.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2479486bbbf61ee35c7d74bc333ec6f8e09076e3026f641f2b86c8d5c338daad",
+  "passed": false,
+  "observations": [
+   "1024×1536 verified.",
+   "Single main adult woman; reference-world face and hair retained in overall appearance.",
+   "Correct scene asset retained without regeneration."
+  ],
+  "issues": [
+   "Profile framing matches plan; wet garment remains opaque."
+  ]
+ }
+}

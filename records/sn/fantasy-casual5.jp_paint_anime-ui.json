@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "sn",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sn_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_runway",
+  "ofam": "subculture",
+  "item": "biker",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pastel",
+  "denier": "d80",
+  "expr": "curious",
+  "preset": "clasp_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sn_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tin (Sn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fashion runway under white spotlights\nOutfit: biker — a fitted leather riding jacket open over a bandeau top, leather trousers and boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tin: soft, bright silvery-white metal; melted with copper it made bronze and opened the Bronze Age; bend a bar and it creaks a faint crackling 'tin cry'; left in deep cold it slowly crumbles into grey powder, the tin pest; tin cans and tinplate toy soldiers, satin pewter cups, the tall pipes of church organs and the solder that joins small things together; soft, musical and quietly binding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/sn/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sn",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "sn": {
+    "era": "fantasy",
+    "place": "fx_runway",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "clasp_low",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "biker",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "denier": "d80"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5f2abddf98f9856203d64634ced8ac39672bfc34e6db092552f6a7bffb9bf566",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fc88858d86021b56e076d78f149d1b1a2366c53251aaa7d0b8241ebfe56eaca1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery bundle, not committed to image repository."
+ },
+ "execution": "element-sn-20261112-0f18e64b934c",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized QA then upload and ordinary main update; chosen worlds 2,4,2.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fc88858d86021b56e076d78f149d1b1a2366c53251aaa7d0b8241ebfe56eaca1",
+  "passed": false,
+  "observations": [
+   "1024×1536 verified.",
+   "Single main adult woman; reference-world face and hair retained in overall appearance.",
+   "Correct scene asset retained without regeneration."
+  ],
+  "issues": [
+   "Reference earrings retained; clasped fingers overlap, preventing independent counting."
+  ]
+ }
+}

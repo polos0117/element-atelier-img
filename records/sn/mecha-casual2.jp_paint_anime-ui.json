@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "sn",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bridge",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "compass_hold",
+  "kind": "hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "color": "pastel",
+  "expr": "soft_smile",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sn_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tin (Sn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bridge in her element's kingdom\nOutfit: a one-shoulder lounge top and matching soft pants — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a brass compass flat in her palm at chest height; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tin: soft, bright silvery-white metal; melted with copper it made bronze and opened the Bronze Age; bend a bar and it creaks a faint crackling 'tin cry'; left in deep cold it slowly crumbles into grey powder, the tin pest; tin cans and tinplate toy soldiers, satin pewter cups, the tall pipes of church organs and the solder that joins small things together; soft, musical and quietly binding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/sn/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sn",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "sn": {
+    "era": "nation",
+    "place": "nation_bridge",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "compass_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "one_shoulder_lounge",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "0f65950d980d5c745ae02d656ee2b27d29350d9ad45b879bf466d37914977855",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3c3b4132d03a84ccdddf468d34224dc39467315481827b06bbc0d15ba08828f5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in recovery bundle, not committed to image repository."
+ },
+ "execution": "element-sn-20261112-0f18e64b934c",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized QA then upload and ordinary main update; chosen worlds 2,4,2.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3c3b4132d03a84ccdddf468d34224dc39467315481827b06bbc0d15ba08828f5",
+  "passed": false,
+  "observations": [
+   "1024×1536 verified.",
+   "Single main adult woman; reference-world face and hair retained in overall appearance.",
+   "Correct scene asset retained without regeneration."
+  ],
+  "issues": [
+   "Generated closer reclining portrait rather than environmental framing; raised hand behind head is concealed."
+  ]
+ }
+}
