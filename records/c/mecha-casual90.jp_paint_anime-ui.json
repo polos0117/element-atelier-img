@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "tool_fix",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a tattoo studio of her element's kingdom — a reclining client chair, a tray of black inks, flash designs on the wall and a neon sign",
+  "light": "top",
+  "depth": "deep",
+  "expr": "confident",
+  "preset": "bench_fix",
+  "prop": "",
+  "outfit": "a tattoo artist look fitted to her body — a cropped black tank top, low-rise leather shorts, black gloves and inked sleeves of line art on her arms",
+  "scene": "she is a tattoo artist setting up her machine",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a tattoo studio of her element's kingdom — a reclining client chair, a tray of black inks, flash designs on the wall and a neon sign\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a tattoo artist look fitted to her body — a cropped black tank top, low-rise leather shorts, black gloves and inked sleeves of line art on her arms, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she adjusts a small mechanism on the work surface with a small screwdriver — her own right hand turns the screwdriver, her own left hand holds the piece steady.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a tattoo artist setting up her machine\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/c/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "타투이스트",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "4df96d3f92b0013f5e1374a4a488f0658826698795480f0da86b974336d6a4a1",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9271ebe19a0a88e9fb649f9a8ceb86e0b74318c121be89076f3db103d90c80df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9271ebe19a0a88e9fb649f9a8ceb86e0b74318c121be89076f3db103d90c80df",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Tattoo artist on stool adjusting machine with screwdriver, both gloved hands connected to two arms.",
+   "Reference short dark hair and amber eyes retained; no armour, no legible text observed.",
+   "Painted game illustration with warm highlights; lower legs cropped as requested."
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "c",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "an illustrator's desk at a newspaper of her element's kingdom — a slanted drawing board, ink bottles and cartoons pinned to the wall",
+  "ownProp": "a dip pen and an inked drawing",
+  "light": "top",
+  "depth": "deep",
+  "expr": "confident",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "an illustrator look fitted to her body — a sleeveless blouse unbuttoned to the collarbones, a short skirt with braces, ink-stained cuffs worn as bracelets and boots",
+  "scene": "she is a newspaper illustrator inking a cartoon",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "c_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Carbon (C) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an illustrator's desk at a newspaper of her element's kingdom — a slanted drawing board, ink bottles and cartoons pinned to the wall\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an illustrator look fitted to her body — a sleeveless blouse unbuttoned to the collarbones, a short skirt with braces, ink-stained cuffs worn as bracelets and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a dip pen and an inked drawing in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a newspaper illustrator inking a cartoon\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/c/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "신문 삽화가",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "197ad1b99539ec2ddb5fa9120530c937d2a4ab12ceca10da5fb95d36dedcd36e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3de020af26a551f71ec9743390fffe7a57d2a391d1eff6ac10670c61e6c34184",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3de020af26a551f71ec9743390fffe7a57d2a391d1eff6ac10670c61e6c34184",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Newspaper illustrator seated in profile, one hand supports drawing and other holds dip pen.",
+   "Two connected arms and hands, no extra limbs visible; lower legs partly cropped as requested.",
+   "Dark wavy bob and painted anime finish retained; no legible text observed."
+  ]
+ }
+}
