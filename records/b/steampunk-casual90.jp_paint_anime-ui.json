@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "b",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "b_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_clockwork_shop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a coffee house of her element's kingdom — a bar of glass siphon brewers over small flames, brass taps and stacked cups",
+  "ownProp": "a glass siphon coffee maker",
+  "light": "top",
+  "depth": "deep",
+  "expr": "confident",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a barista look fitted to her body — a short waistcoat worn with nothing beneath, a long café apron tied low over shorts, sleeve garters on bare arms",
+  "scene": "she is a barista brewing siphon coffee",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "b_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Boron (B) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a coffee house of her element's kingdom — a bar of glass siphon brewers over small flames, brass taps and stacked cups\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a barista look fitted to her body — a short waistcoat worn with nothing beneath, a long café apron tied low over shorts, sleeve garters on bare arms, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a glass siphon coffee maker in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a barista brewing siphon coffee\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — boron: a small, light metalloid with a stubborn, hard heart; borax, the white crystal goldsmiths used as a flux and caravans once carried from Tibetan salt lakes along the Silk Road, later hauled out of Death Valley by twenty-mule teams in the 1880s; burns and colours flames a vivid green; with carbon it forms boron carbide, one of the hardest materials known, armour that stops bullets; in borosilicate glass it lets laboratory flasks survive the flame; its atoms swallow neutrons in reactor control rods; rugged, plain-spoken, dependable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/b/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "사이폰 커피 바리스타",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "88f17c031e2e72f2ad2031c884ba9fa99fa661602bd1076edddb3ecc9fe64266",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5635535ec3fa8fb4687cf6f3f032b1405a80d276773049aa96b3a799f434068f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5635535ec3fa8fb4687cf6f3f032b1405a80d276773049aa96b3a799f434068f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Barista holds glass siphon frame with both connected hands at worktop; no extra arms/hands observed.",
+   "Reference wavy hair, green ends, freckles and warm skin retained.",
+   "Waistcoat, low-tied cafe apron and arm garters match plan; reference crystals and green accents remain."
+  ],
+  "cause": "Reference crystal motifs and palette influence in everyday outfit."
+ }
+}
