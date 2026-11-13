@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "n",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "n_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "an ice-house stall of her element's kingdom — blocks of ice under straw, a hand-cranked shaver and jars of syrup",
+  "ownProp": "a bowl of shaved ice",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "an ice seller look fitted to her body — a fur-trimmed cropped vest over a bandeau, a short wrap skirt and fur-topped boots",
+  "scene": "she is a shaved-ice seller offering a fresh bowl",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "n_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nitrogen (N) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice-house stall of her element's kingdom — blocks of ice under straw, a hand-cranked shaver and jars of syrup\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an ice seller look fitted to her body — a fur-trimmed cropped vest over a bandeau, a short wrap skirt and fur-topped boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a bowl of shaved ice up beside her face; it is all she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a shaved-ice seller offering a fresh bowl\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nitrogen: 78 percent of the air, the quiet bulk of every breath that helps scatter the sky blue; violet and pink aurora curtains where it glows high above the poles; so calm it barely reacts, its two atoms locked by an unbreakable triple bond; pulled from the air it becomes bread and gunpowder alike — fertilizer and explosives; poured as liquid nitrogen at minus 196 degrees it breathes thick white mist; the backbone of every protein and every strand of DNA — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/n/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "얼음 창고 빙수 장수",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "e9bc8144af6894cf23397c7c31e70e393067cef5a08ee9bd4ae5194338741c25",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5d73e66f44ef901ab56209e77d796e7e2b2b166efcae3195c46b441c08be6fc9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5d73e66f44ef901ab56209e77d796e7e2b2b166efcae3195c46b441c08be6fc9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Ice seller holds shaved ice in one connected right hand; left arm cropped.",
+   "Reference bob, violet eyes and painted finish retained.",
+   "Crop includes waist beyond planned chest-up; DNA motif retained on bandeau."
+  ],
+  "cause": "Reference motif influence and wider crop than requested."
+ }
+}

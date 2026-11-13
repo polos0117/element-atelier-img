@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "n",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "n_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "an ice-cream parlour of her element's kingdom — a marble counter, a brass freezing churn with frosted pipes and striped wallpaper",
+  "ownProp": "an ice-cream cone",
+  "light": "top",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "an ice-cream parlour look fitted to her body — a striped off-shoulder mini dress with a frilled half apron, thigh-high stockings and a paper cap",
+  "scene": "she is an ice-cream parlour girl behind her counter",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "n_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nitrogen (N) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice-cream parlour of her element's kingdom — a marble counter, a brass freezing churn with frosted pipes and striped wallpaper\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an ice-cream parlour look fitted to her body — a striped off-shoulder mini dress with a frilled half apron, thigh-high stockings and a paper cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds an ice-cream cone at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is an ice-cream parlour girl behind her counter\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nitrogen: 78 percent of the air, the quiet bulk of every breath that helps scatter the sky blue; violet and pink aurora curtains where it glows high above the poles; so calm it barely reacts, its two atoms locked by an unbreakable triple bond; pulled from the air it becomes bread and gunpowder alike — fertilizer and explosives; poured as liquid nitrogen at minus 196 degrees it breathes thick white mist; the backbone of every protein and every strand of DNA — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/n/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "아이스크림 가게 점원",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "f7c37e78b263392055f077fc5cc47fc922991e5de34be924cf5a8fdb7ccc5ca0",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ec456e31ca10f4c5a3b317f9b3fbc564e10ebf5097f1b6c0a640925cd5c3bef8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ec456e31ca10f4c5a3b317f9b3fbc564e10ebf5097f1b6c0a640925cd5c3bef8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Ice cream parlour worker in profile holding cone; left hand rests on counter, two connected arms.",
+   "Long pale-blue hair retained with striped costume and cap.",
+   "Crop extends to upper thighs rather than waist."
+  ],
+  "cause": "Wider crop than requested."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "n",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "n_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "a laboratory kitchen of her element's kingdom — a steel pass, a frosted dewar flask and plates under a cold light",
+  "ownProp": "a steel bowl pouring cold white vapour",
+  "light": "top",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a molecular chef look fitted to her body — a white chef jacket worn open over a bandeau top, short black shorts, a long apron tied at the hip and clogs",
+  "scene": "she is a molecular chef finishing a dish in a cloud of cold vapour",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "n_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nitrogen (N) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a laboratory kitchen of her element's kingdom — a steel pass, a frosted dewar flask and plates under a cold light\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a molecular chef look fitted to her body — a white chef jacket worn open over a bandeau top, short black shorts, a long apron tied at the hip and clogs, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a steel bowl pouring cold white vapour in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a molecular chef finishing a dish in a cloud of cold vapour\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nitrogen: 78 percent of the air, the quiet bulk of every breath that helps scatter the sky blue; violet and pink aurora curtains where it glows high above the poles; so calm it barely reacts, its two atoms locked by an unbreakable triple bond; pulled from the air it becomes bread and gunpowder alike — fertilizer and explosives; poured as liquid nitrogen at minus 196 degrees it breathes thick white mist; the backbone of every protein and every strand of DNA — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/n/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "분자요리 셰프",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "cba591e5c2a45d71b2f4a7a9e457bb0967d5ea733295724d491b57957977c343",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8d52324fdd669df5ffd1b076c53dcbf43bd91891ae98d572cff5aaf9d0268f77",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8d52324fdd669df5ffd1b076c53dcbf43bd91891ae98d572cff5aaf9d0268f77",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Chef holds steel bowl in both connected hands over vapour and plated food.",
+   "Pale-blue pixie and violet eyes retained, no armour.",
+   "DNA motif and pale violet palette retained; framing reaches hips."
+  ],
+  "cause": "Reference motifs and wider crop than requested."
+ }
+}
