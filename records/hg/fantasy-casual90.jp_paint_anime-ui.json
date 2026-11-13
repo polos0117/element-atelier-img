@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_platform",
+  "ofam": "everyday",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a relay post on a road of her element's kingdom — a bench under the eaves, a signal post and a waiting carriage",
+  "light": "side",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "step_pause",
+  "prop": "",
+  "outfit": "a courier look fitted to her body — a cropped riding jacket open over a bandeau top, short riding breeches, tall boots and a message satchel on a cross strap",
+  "scene": "she is a royal courier between rides, a sealed message tube slung at her hip",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a relay post on a road of her element's kingdom — a bench under the eaves, a signal post and a waiting carriage\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a courier look fitted to her body — a cropped riding jacket open over a bandeau top, short riding breeches, tall boots and a message satchel on a cross strap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a royal courier between rides, a sealed message tube slung at her hip\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/hg/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "왕실 파발꾼",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6a66afbb2c9d2adf8b92db2338f4acd05f4f0cd2bdbafa277498ad31400b5503",
+  "ref_sha256": "de70604b65d360f3eeba70ad5a8b280ca92e616190ef63dae01f3bf1061689b0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "6a66afbb2c9d2adf8b92db2338f4acd05f4f0cd2bdbafa277498ad31400b5503",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}

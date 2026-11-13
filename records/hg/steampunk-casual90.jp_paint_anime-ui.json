@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_steam_carriage",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a telegraph office counter in her element's kingdom — brass telegraph keys, pigeonholes of sealed envelopes and a tall window",
+  "ownProp": "a sealed telegram envelope",
+  "light": "top",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a messenger uniform fitted to her body — a short open waistcoat over a strapless corset top, a pleated mini skirt, a pillbox cap and ankle boots",
+  "scene": "she is a telegram messenger sorting the next delivery",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a telegraph office counter in her element's kingdom — brass telegraph keys, pigeonholes of sealed envelopes and a tall window\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a messenger uniform fitted to her body — a short open waistcoat over a strapless corset top, a pleated mini skirt, a pillbox cap and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a sealed telegram envelope up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a telegram messenger sorting the next delivery\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/hg/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "전보 배달원",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "23bd42df0845e210d99d09242b7c2287cd1011cdca5e545761fcbd35171a25fc",
+  "ref_sha256": "3c4cfec53bbf9c69d57ca281eece09be243933662ba017ce3bdf7b8251de5c9b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "23bd42df0845e210d99d09242b7c2287cd1011cdca5e545761fcbd35171a25fc",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}

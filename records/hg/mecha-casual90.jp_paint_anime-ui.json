@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "hg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_cockpit",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wheel_both",
+  "left": "wheel_both",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a parcel-drone control station of her element's kingdom — a pilot seat, a control yoke in front of her and a wide canopy over a city of landing pads",
+  "light": "top",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "drive_seat",
+  "prop": "",
+  "outfit": "a flight controller suit fitted to her body — a cropped zip jacket open over a sports-bra top, high-waisted flight shorts and a slim headset",
+  "scene": "she is a delivery-drone controller guiding a flight in",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hg_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mercury (Hg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a parcel-drone control station of her element's kingdom — a pilot seat, a control yoke in front of her and a wide canopy over a city of landing pads\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a flight controller suit fitted to her body — a cropped zip jacket open over a sports-bra top, high-waisted flight shorts and a slim headset, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands rest on the wheel in front of her.\nGAZE: she looks toward the far distance.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a delivery-drone controller guiding a flight in\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mercury: the only metal that is liquid at room temperature — quicksilver that pools, beads into round mirror droplets and rolls away from any touch; born from blood-red cinnabar ore, the vermilion of lacquer and seal paste; the living metal of the alchemists, named for Mercury the winged messenger god; the silver column rising in thermometers and barometers, the tin amalgam behind old mirrors; beautiful but poisonous, quick and capricious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/hg/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "드론 택배 관제사",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "960c2e183ee257d2be00332c10c12c152765c15ea913402444c29b64a26e3402",
+  "ref_sha256": "641599238217e69f2f54c6dc7017a2e38ea5b53f2d6d6f5f8ae425ce52726fdf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "960c2e183ee257d2be00332c10c12c152765c15ea913402444c29b64a26e3402",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}
