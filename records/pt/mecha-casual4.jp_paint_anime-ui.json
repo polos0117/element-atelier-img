@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "pt",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pt_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "workwear",
+  "item": "gardener_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "phone_look",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "hair": "tied",
+  "depth": "deep",
+  "color": "jewel",
+  "expr": "pensive",
+  "preset": "pocket_look",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pt_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Platinum (Pt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lit dance stage or milonga floor\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a gardener's look — a knotted linen shirt, high-waisted shorts, a tool belt and rubber boots — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is tucked into a pocket.\nPROP: with her own right hand she holds a smartphone at chest height, screen toward her; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — platinum: a dense, cool white metal that never changes — it does not rust, tarnish or dissolve in almost any acid; once tossed aside by Spanish gold-washers as worthless 'little silver', it became rarer and costlier than gold; for 130 years a small cylinder of platinum and iridium sealed under three nested glass bell jars was the kilogram itself, the measure of the world; a catalyst that makes hydrogen burst into flame and other substances transform at its touch while it stays untouched; aloof, exacting and incorruptible — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pt/mecha-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "pt",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "pt": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "pocket_look",
+    "use": "phone_look",
+    "kind": "hold",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "pocket",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "gardener_set",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "hair": "tied",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "698ad4ca2c96144476279bd06cbc12e5e537eba4732b538748a192bc43381223",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; its sha256 is retained.",
+  "ref_sha256": "cc5ca9f985e960da3171aa00269a59cff98db42a9220043112a7af0e10208322"
+ },
+ "execution": "element-pt-703941",
+ "imported": "2026-11-13",
+ "acceptance": "user_selection_3_4_1_and_authorized_main_push",
+ "qa": {
+  "reviewer": "gpt-element-pt-703941",
+  "image_sha256": "698ad4ca2c96144476279bd06cbc12e5e537eba4732b538748a192bc43381223",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 original verified.",
+   "One adult woman in focus; no visible detached or extra human limbs.",
+   "Visible hands and arm connections reviewed; obscured fingers are not individually countable.",
+   "Reference bob became an added long ponytail; hair length identity mismatch."
+  ],
+  "cause": "Image interpretation differs from prompt where listed; generated original retained without regeneration."
+ }
+}

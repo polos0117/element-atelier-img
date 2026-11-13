@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "pt",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pt_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_noodle_stall",
+  "ofam": "roleplay",
+  "item": "adult_teacher",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "neon",
+  "spot": "left_third",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "neutral",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pt_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Platinum (Pt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a street food stall at night under a tarp, a narrow counter with stools, steaming pots and a bare bulb\nTime of day: night under neon and signage light, coloured reflections.\nOutfit: a teacher-inspired costume with a fitted blazer, pleated skirt and reading glasses — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — platinum: a dense, cool white metal that never changes — it does not rust, tarnish or dissolve in almost any acid; once tossed aside by Spanish gold-washers as worthless 'little silver', it became rarer and costlier than gold; for 130 years a small cylinder of platinum and iridium sealed under three nested glass bell jars was the kilogram itself, the measure of the world; a catalyst that makes hydrogen burst into flame and other substances transform at its touch while it stays untouched; aloof, exacting and incorruptible — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pt/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "pt",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "pt": {
+    "era": "now",
+    "place": "street_noodle_stall",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "adult_teacher",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "neon",
+    "spot": "left_third",
+    "depth": "deep",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9ed3d1c502aa85385c62404af09c23a5cc4140abb905fa804ed92f8598fe7ea9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; its sha256 is retained.",
+  "ref_sha256": "f0e346391d68a90dbfec7992b6ee71128c2ef9f3e300e1cef2a9b9430eb9d941"
+ },
+ "execution": "element-pt-703941",
+ "imported": "2026-11-13",
+ "acceptance": "user_selection_3_4_1_and_authorized_main_push",
+ "qa": {
+  "reviewer": "gpt-element-pt-703941",
+  "image_sha256": "9ed3d1c502aa85385c62404af09c23a5cc4140abb905fa804ed92f8598fe7ea9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 original verified.",
+   "One adult woman in focus; no visible detached or extra human limbs.",
+   "Visible hands and arm connections reviewed; obscured fingers are not individually countable.",
+   "Walking away/back view was replaced by a frontal standing pose."
+  ],
+  "cause": "Image interpretation differs from prompt where listed; generated original retained without regeneration."
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "pt",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pt_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "sleep_shirt",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "noon",
+  "light": "side",
+  "depth": "flat",
+  "color": "pattern",
+  "expr": "nostalgic",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pt_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Platinum (Pt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a loose off-shoulder sleep shirt — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — platinum: a dense, cool white metal that never changes — it does not rust, tarnish or dissolve in almost any acid; once tossed aside by Spanish gold-washers as worthless 'little silver', it became rarer and costlier than gold; for 130 years a small cylinder of platinum and iridium sealed under three nested glass bell jars was the kilogram itself, the measure of the world; a catalyst that makes hydrogen burst into flame and other substances transform at its touch while it stays untouched; aloof, exacting and incorruptible — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pt/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "pt",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "pt": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "sleep_shirt",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "noon",
+    "light": "side",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3df3fd169c8757319dfc16b7606dd63e6cd50c8424df47fbcb5b307bdf33a4c9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; its sha256 is retained.",
+  "ref_sha256": "66eea851004badf4448949550433734244d141ab405825c2f01d0ebc8e00b691"
+ },
+ "execution": "element-pt-703941",
+ "imported": "2026-11-13",
+ "acceptance": "user_selection_3_4_1_and_authorized_main_push",
+ "qa": {
+  "reviewer": "gpt-element-pt-703941",
+  "image_sha256": "3df3fd169c8757319dfc16b7606dd63e6cd50c8424df47fbcb5b307bdf33a4c9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 original verified.",
+   "One adult woman in focus; no visible detached or extra human limbs.",
+   "Visible hands and arm connections reviewed; obscured fingers are not individually countable.",
+   "The setting reads as a stone garden courtyard rather than a forest path."
+  ],
+  "cause": "Image interpretation differs from prompt where listed; generated original retained without regeneration."
+ }
+}

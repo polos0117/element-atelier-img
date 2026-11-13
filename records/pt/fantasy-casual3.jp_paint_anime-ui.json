@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "pt",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pt_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "subway_platform",
+  "ofam": "resort",
+  "item": "sarong_set",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "time": "lamplight",
+  "light": "top",
+  "spot": "right_third",
+  "view": "foreground",
+  "color": "earth",
+  "expr": "curious",
+  "preset": "bench_sit",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pt_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Platinum (Pt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underground subway platform, a tiled wall, a bench, platform-edge lights and a train arriving\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a knotted sarong skirt with a matching halter crop top and a shell anklet — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a plain polished platinum ring held up to the light, untarnished at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — platinum: a dense, cool white metal that never changes — it does not rust, tarnish or dissolve in almost any acid; once tossed aside by Spanish gold-washers as worthless 'little silver', it became rarer and costlier than gold; for 130 years a small cylinder of platinum and iridium sealed under three nested glass bell jars was the kilogram itself, the measure of the world; a catalyst that makes hydrogen burst into flame and other substances transform at its touch while it stays untouched; aloof, exacting and incorruptible — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pt/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "pt",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "pt": {
+    "era": "now",
+    "place": "subway_platform",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "bench_sit",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "sarong_set",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "lamplight",
+    "light": "top",
+    "spot": "right_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f5a1d8d4948505ce7d767a679986c08a6211aebead7c875dee32fbdbfa60a530",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; its sha256 is retained.",
+  "ref_sha256": "66eea851004badf4448949550433734244d141ab405825c2f01d0ebc8e00b691"
+ },
+ "execution": "element-pt-703941",
+ "imported": "2026-11-13",
+ "acceptance": "user_selection_3_4_1_and_authorized_main_push",
+ "qa": {
+  "reviewer": "gpt-element-pt-703941",
+  "image_sha256": "f5a1d8d4948505ce7d767a679986c08a6211aebead7c875dee32fbdbfa60a530",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 original verified.",
+   "One adult woman in focus; no visible detached or extra human limbs.",
+   "Visible hands and arm connections reviewed; obscured fingers are not individually countable.",
+   "The subway platform is interpreted as an ornate historical station rather than a present-day subway."
+  ],
+  "cause": "Image interpretation differs from prompt where listed; generated original retained without regeneration."
+ }
+}

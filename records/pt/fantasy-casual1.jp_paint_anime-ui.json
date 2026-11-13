@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "pt",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pt_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_library",
+  "ofam": "roleplay",
+  "item": "event_staff",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "light": "low_warm",
+  "color": "jewel",
+  "expr": "wistful",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pt_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Platinum (Pt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a vast fantasy library of towering shelves, spiral stairs and floating candles\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an event staff costume with a fitted vest, name-tag ribbon and lanyard — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — platinum: a dense, cool white metal that never changes — it does not rust, tarnish or dissolve in almost any acid; once tossed aside by Spanish gold-washers as worthless 'little silver', it became rarer and costlier than gold; for 130 years a small cylinder of platinum and iridium sealed under three nested glass bell jars was the kilogram itself, the measure of the world; a catalyst that makes hydrogen burst into flame and other substances transform at its touch while it stays untouched; aloof, exacting and incorruptible — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pt/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "pt",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "pt": {
+    "era": "fantasy",
+    "place": "fx_library",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "event_staff",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f18fc2f2fa9879229f98f5f35d123176e54cd3a2a82e3c5290a7dafbe88146b1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; its sha256 is retained.",
+  "ref_sha256": "66eea851004badf4448949550433734244d141ab405825c2f01d0ebc8e00b691"
+ },
+ "execution": "element-pt-703941",
+ "imported": "2026-11-13",
+ "acceptance": "user_selection_3_4_1_and_authorized_main_push",
+ "qa": {
+  "reviewer": "gpt-element-pt-703941",
+  "image_sha256": "f18fc2f2fa9879229f98f5f35d123176e54cd3a2a82e3c5290a7dafbe88146b1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 original verified.",
+   "One adult woman in focus; no visible detached or extra human limbs.",
+   "Visible hands and arm connections reviewed; obscured fingers are not individually countable.",
+   "Framing extends below collarbones instead of the requested face close-up."
+  ],
+  "cause": "Image interpretation differs from prompt where listed; generated original retained without regeneration."
+ }
+}
