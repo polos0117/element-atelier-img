@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "si",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "si_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "tool_fix",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a rune-cutter's workshop of her element's kingdom — slabs of pale stone, a workbench of chisels and faintly glowing carved lines",
+  "spot": "right_third",
+  "depth": "layered",
+  "view": "door_frame",
+  "expr": "wink",
+  "preset": "bench_fix",
+  "prop": "",
+  "outfit": "a rune mason look fitted to her body — a dusty leather apron over a bandeau and a short work kilt, arm wraps and sandals",
+  "scene": "she is a rune mason cutting a thinking-stone",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "si_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silicon (Si) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rune-cutter's workshop of her element's kingdom — slabs of pale stone, a workbench of chisels and faintly glowing carved lines\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a rune mason look fitted to her body — a dusty leather apron over a bandeau and a short work kilt, arm wraps and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window; she is seen through an open doorway, its frame at the edges of the image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she adjusts a small mechanism on the work surface with a small screwdriver — her own right hand turns the screwdriver, her own left hand holds the piece steady.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is a rune mason cutting a thinking-stone\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silicon: beach sand and desert quartz, molten glass glowing orange in the furnace, blue-grey metallic crystal with a rainbow silicon-wafer sheen, gold circuit traces etched into chips; the most patient element of the earth's crust, stone that learned to think — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/si/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "룬 새기는 석공",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "586e7737cc251589ddcddc602451a74937fa88ed414ac11e77cad2185b97b497",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "07f0511325a61fb5a562d462890c1f1cd54728f885821ba6efc07b46aa174ffb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "07f0511325a61fb5a562d462890c1f1cd54728f885821ba6efc07b46aa174ffb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "석공 작업대에서 두 팔과 두 손이 자연스럽게 연결됨; 손가락은 도구 잡기에 일부 가려짐.",
+   "짧은 보랏빛 머리와 금빛 눈, 윙크 및 화풍 유지.",
+   "계획대로 앞치마·반도·짧은 작업 킬트; 드라이버로 장치를 조정하는 동작."
+  ]
+ }
+}

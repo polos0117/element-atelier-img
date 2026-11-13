@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "si",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "si_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "weather": "night_snow",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "a calculating-engine hall of her element's kingdom — a wall of brass gear columns, a card reader and a clerk's chair",
+  "ownProp": "a stack of punched cards",
+  "light": "top",
+  "spot": "right_third",
+  "depth": "layered",
+  "expr": "half_smile",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "outfit": "an engine programmer look fitted to her body — a sleeveless blouse open at the neck, a corset waist, a short skirt, stockings and round spectacles",
+  "scene": "she is a programmer of the calculating engine reading her cards",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "si_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Silicon (Si) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a calculating-engine hall of her element's kingdom — a wall of brass gear columns, a card reader and a clerk's chair\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an engine programmer look fitted to her body — a sleeveless blouse open at the neck, a corset waist, a short skirt, stockings and round spectacles, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a stack of punched cards in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is a programmer of the calculating engine reading her cards\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — silicon: beach sand and desert quartz, molten glass glowing orange in the furnace, blue-grey metallic crystal with a rainbow silicon-wafer sheen, gold circuit traces etched into chips; the most patient element of the earth's crust, stone that learned to think — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/si/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "천공카드 계산기 프로그래머",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "888dc9b5f27a5512c5316431971beb283c82d87c01ed5f003e8229a91370fc3f",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b0e507b34874d0ff26f2607f12b4185d3ad920fc81099549f21f7c8f8771d21f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b0e507b34874d0ff26f2607f12b4185d3ad920fc81099549f21f7c8f8771d21f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "옆모습으로 천공카드를 양손에 들고 앉음. 두 팔과 손 연결 정상; 잡기 때문에 일부 손가락 가려짐.",
+   "보라색 땋은 머리·안경·블라우스·코르셋·스타킹 및 황동 계산기 홀.",
+   "전신 계획과 달리 신발 끝이 화면 하단에 닿아 여백 부족."
+  ],
+  "cause": "full-body restrained margins와 실제 하단 크롭 차이"
+ }
+}
