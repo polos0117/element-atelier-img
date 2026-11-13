@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_observatory",
+  "ofam": "subculture",
+  "item": "romantic_goth",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "lap",
+  "use": "book_hold",
+  "kind": "hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "depth": "flat",
+  "situ": "strap",
+  "expr": "wistful",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night observatory under an open dome\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: romantic goth — a black velvet dress with a corset belt and lace sleeves; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground, level with her face as she sits or kneels; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "w": {
+    "era": "fantasy",
+    "place": "fx_observatory",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_cross_prop",
+    "use": "book_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "item": "romantic_goth",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "time": "lamplight",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2ebd6d3538291e06e2f56c3fdd4ccf885c80e43a8da07a240b1855d9acfe4b21",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fa65914f9ae018390b2c737f1ffbb65b35519a3aa09debf53861fae31ea5d87e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fa65914f9ae018390b2c737f1ffbb65b35519a3aa09debf53861fae31ea5d87e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "책을 든 팔과 무릎 위 팔 연결, 앉아 다리 꼰 자세.",
+   "한쪽 어깨끈이 내려오는 대신 의상 소매 전체가 오프숄더처럼 표현됨."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

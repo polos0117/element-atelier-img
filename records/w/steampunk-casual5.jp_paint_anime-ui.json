@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_mall",
+  "ofam": "retro",
+  "item": "deco_gown",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_shoot",
+  "legs": "",
+  "gaze": "",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "pastel",
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a shopping mall atrium with a fountain and glass railings\nOutfit: a 1920s bias-cut satin lounge gown — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she raises a camera to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "w": {
+    "era": "now",
+    "place": "street_mall",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "camera_shoot",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "deco_gown",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "depth": "deep",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d28df44542ea28edbfff8660a937fd5c78c07eec5d49ccf13f90b5e198cffccb",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0ebeaed26466c42fbe3118251123c14745cc94a19e7eb67865dccc646ed5278a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0ebeaed26466c42fbe3118251123c14745cc94a19e7eb67865dccc646ed5278a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "두 손으로 카메라를 잡고 사진 찍는 자세, 양팔 연결.",
+   "카메라에 작은 글자처럼 보이는 표식이 있음. 의상에 필라멘트·결정 문양이 추가됨."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

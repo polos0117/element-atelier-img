@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "own": "fantasy",
+  "placeText": "a night festival square of her element's kingdom — a ring of torches, scattered embers and painted banners",
+  "ownProp": "an unlit fire-dancing staff",
+  "light": "dappled",
+  "spot": "right_third",
+  "expr": "focused",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a fire dancer look fitted to her body — a beaded bandeau, a low-slung hip scarf skirt slit on both sides, arm cuffs and bare feet with anklets",
+  "scene": "she is a fire dancer walking into the ring of torches",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night festival square of her element's kingdom — a ring of torches, scattered embers and painted banners\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a fire dancer look fitted to her body — a beaded bandeau, a low-slung hip scarf skirt slit on both sides, arm cuffs and bare feet with anklets, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries an unlit fire-dancing staff low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is a fire dancer walking into the ring of torches\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "불춤 곡예사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "0e1fdb4eaed5177ffa1235e48e2aedc83481037ddc51fa6af9e59ba95a920b9a",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0d7c1215641a7989987a0acdf9db3cfa18214311eafd66835989c91ad722b2b9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0d7c1215641a7989987a0acdf9db3cfa18214311eafd66835989c91ad722b2b9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "불춤 곡예사, 한 손에 불붙이지 않은 봉을 내리고 걷는 자세. 두 팔·두 다리 연결.",
+   "의상에 원본 늑대 문양과 결정 장식이 남음."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

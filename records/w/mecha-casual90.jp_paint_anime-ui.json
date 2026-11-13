@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_cockpit",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "wheel_both",
+  "left": "wheel_both",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "weather": "night_snow",
+  "time": "night",
+  "own": "mecha",
+  "placeText": "the cockpit of a re-entry test craft of her element's kingdom — a pilot seat, a control yoke in front of her and a canopy glowing orange at the edges",
+  "light": "low_warm",
+  "expr": "half_smile",
+  "preset": "drive_seat",
+  "prop": "",
+  "outfit": "a test pilot look fitted to her body — a silver heat-suit unzipped to the waist over a cropped sport top, slim gloves and a comm headset",
+  "scene": "she is a test pilot bringing a craft back through the atmosphere",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the cockpit of a re-entry test craft of her element's kingdom — a pilot seat, a control yoke in front of her and a canopy glowing orange at the edges\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a test pilot look fitted to her body — a silver heat-suit unzipped to the waist over a cropped sport top, slim gloves and a comm headset, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands rest on the wheel in front of her.\nGAZE: she looks toward the far distance.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is a test pilot bringing a craft back through the atmosphere\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "대기권 재돌입 시험 조종사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2ebd6d3538291e06e2f56c3fdd4ccf885c80e43a8da07a240b1855d9acfe4b21",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c474e5fbe89580befc7a3435bfee8a30d61a9b575eb66914ad81891464e6bd92",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c474e5fbe89580befc7a3435bfee8a30d61a9b575eb66914ad81891464e6bd92",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "시험 조종석에서 양손으로 조종간을 잡음. 두 손·팔의 연결 확인.",
+   "의상과 조종간에 참조의 결정·금속 장식이 일부 남음."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

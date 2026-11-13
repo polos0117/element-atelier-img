@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_veranda",
+  "ofam": "lingerie",
+  "item": "back_strap",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "lamplight",
+  "light": "low_warm",
+  "color": "pattern",
+  "expr": "relieved",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunny enclosed veranda with drying racks overhead, floor cushions and a sliding glass door\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a lingerie set with a decorative strap arrangement across the upper back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "w": {
+    "era": "now",
+    "place": "home_veranda",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "back_strap",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "lamplight",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d28df44542ea28edbfff8660a937fd5c78c07eec5d49ccf13f90b5e198cffccb",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bdc8caa786e249ad5c85359a0da82e64e933497b0b5d4c097e301575086177ad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bdc8caa786e249ad5c85359a0da82e64e933497b0b5d4c097e301575086177ad",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "머리 옆 오른손과 팔 연결 확인. 따뜻한 피부톤과 머리색 유지."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

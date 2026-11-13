@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "train_sleeper",
+  "ofam": "halloween",
+  "item": "hw_devil",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "time": "night",
+  "hair": "down",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night-train sleeper compartment with a narrow berth, a fold-down table and a small window\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a she-devil costume — a glossy red corset mini dress with a sweetheart neckline, small curved horns and a pointed tail, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "w": {
+    "era": "now",
+    "place": "train_sleeper",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "hw_devil",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "night",
+    "hair": "down",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2ebd6d3538291e06e2f56c3fdd4ccf885c80e43a8da07a240b1855d9acfe4b21",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7388c254f0c1094d167ed099de1ac3f8053c8df7c8bfcde7e7c267a90a71f8f8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7388c254f0c1094d167ed099de1ac3f8053c8df7c8bfcde7e7c267a90a71f8f8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "턱을 괸 팔과 손 연결, 밤 기차 침대칸.",
+   "계획상 오른손으로 턱 괴기이나 화면상 왼손처럼 보임. 원본보다 머리가 길어짐."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

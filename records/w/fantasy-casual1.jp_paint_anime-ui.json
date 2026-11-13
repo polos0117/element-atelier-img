@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_indoor_pool",
+  "ofam": "lingerie",
+  "item": "negligee_silk",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "v_sign",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "hair": "down",
+  "color": "neutral",
+  "expr": "wistful",
+  "preset": "vsign_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an indoor lap pool with lane ropes, a tiled deck, a starting block and tall windows\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a long silk negligee with a lace bodice, thin straps and a side slit — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "w": {
+    "era": "now",
+    "place": "water_indoor_pool",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "vsign_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "negligee_silk",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "hair": "down"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "0e1fdb4eaed5177ffa1235e48e2aedc83481037ddc51fa6af9e59ba95a920b9a",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2d52efea6495ed43f462dd44a53090c98b14d7ad11739d8a1420a776a88486e5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2d52efea6495ed43f462dd44a53090c98b14d7ad11739d8a1420a776a88486e5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "원본의 호박색 눈·피부톤·울프컷을 유지한 수영장 근접컷. V 손과 팔 연결 자연스러움.",
+   "요청한 쇄골 아래 크롭보다 가슴까지 넓게 보임."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

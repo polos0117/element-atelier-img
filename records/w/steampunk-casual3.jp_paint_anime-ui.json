@@ -1,0 +1,123 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_retro_home",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "noon",
+  "hair": "down",
+  "light": "back",
+  "color": "earth",
+  "expr": "confident",
+  "preset": "wrap_close",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro-futurist home of rounded chrome appliances and soft panels\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: midday — bright even light.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a short draped peplos mini dress belted with a fine gold chain, laurel-leaf hair pins and laced gladiator sandals — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds an old-fashioned clear light bulb with a coiled tungsten filament inside in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "w": {
+    "era": "fantasy",
+    "place": "fx_retro_home",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "wrap_close",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "peplos_mini",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "noon",
+    "weather": "snow",
+    "hair": "down",
+    "light": "back"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d28df44542ea28edbfff8660a937fd5c78c07eec5d49ccf13f90b5e198cffccb",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f084786465f483bb3d9d01aa0edd9f41f7dfee4dba97e1de15701b14aa8f8431",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f084786465f483bb3d9d01aa0edd9f41f7dfee4dba97e1de15701b14aa8f8431",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "전구를 두 손으로 잡는 손·팔 연결 확인.",
+   "의상에 늑대가 아닌 잎 문양이 추가됨. 배경은 완전한 레트로 퓨처보다 빅토리아풍이 강함."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}

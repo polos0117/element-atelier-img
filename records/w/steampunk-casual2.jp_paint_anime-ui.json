@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "w",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "w_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "camisole_wrap",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "prop",
+  "left": "lap",
+  "use": "meal_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "hair": "tied",
+  "depth": "flat",
+  "color": "denim",
+  "denier": "d60",
+  "expr": "soft_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "w_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tungsten (W) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a bowl of hot food at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tungsten: a dark steel-grey metal with the highest melting point of any metal, 3422 °C — it glows white-hot inside a light bulb as a filament and still does not melt; its old name wolfram means 'wolf's froth', because its ore devoured tin in the smelters' furnaces like a wolf, and tungsten is Swedish for 'heavy stone' — it is as heavy as gold; its carbide is nearly as hard as diamond; its ore scheelite glows bright blue-white under ultraviolet light; heavy, taciturn and unquenchable — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/w/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "w",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "w": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "meal_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "camisole_wrap",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "denier": "d60",
+    "hair": "tied",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d28df44542ea28edbfff8660a937fd5c78c07eec5d49ccf13f90b5e198cffccb",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3e903f67a967074a21c8410c09d6e2288a3f9ac620a2682f6c504328b40293a1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3e903f67a967074a21c8410c09d6e2288a3f9ac620a2682f6c504328b40293a1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본과 한 명의 성인 여성 확인",
+   "그릇을 든 오른손과 무릎 위 왼손·두 다리 연결.",
+   "계획한 먼 환경컷보다 인물이 큼. 시선이 정면이며 의상 문양이 추가됨."
+  ]
+ },
+ "execution": "element-tungsten-0446",
+ "imported": "2026-11-13",
+ "acceptance": "user_preapproved_upload_2026-11-13"
+}
