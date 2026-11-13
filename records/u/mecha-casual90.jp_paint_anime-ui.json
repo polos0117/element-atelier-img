@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "u",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "u_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a reactor control room of her element's kingdom — a curved console of dials, a window on a pool glowing blue and status boards",
+  "ownProp": "a reactor log tablet",
+  "light": "top",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "outfit": "a reactor operator look fitted to her body — a white coverall peeled to the waist over a cropped tank top, a dosimeter badge and soft boots",
+  "scene": "she is a reactor operator on the night shift",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "u_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Uranium (U) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a reactor control room of her element's kingdom — a curved console of dials, a window on a pool glowing blue and status boards\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a reactor operator look fitted to her body — a white coverall peeled to the waist over a cropped tank top, a dosimeter badge and soft boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a reactor log tablet in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a reactor operator on the night shift\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — uranium: the heaviest natural element, forged in dying stars and hidden deep in the earth; dense and slowly decaying; uranium glass glowing eerie green, the blue Cherenkov glow of a reactor pool, yellowcake powder, the black-and-yellow trefoil of warning; immense power that must be contained — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/u/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "발전소 운전원",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "184520912d25c716d7d8b1398cc953a97d5466f209307926a559093aa05f4235",
+  "ref_sha256": "3deeee333d432d32225ed5a4a9fcf66ed152b02139a73d2b9f22cdfedc56cc49",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "184520912d25c716d7d8b1398cc953a97d5466f209307926a559093aa05f4235",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}
