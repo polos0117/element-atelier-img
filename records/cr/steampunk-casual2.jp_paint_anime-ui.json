@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "cr",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cr_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "time": "dusk",
+  "hair": "down",
+  "view": "foreground",
+  "color": "vivid",
+  "expr": "nostalgic",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cr_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chromium (Cr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nTime of day: dusk — blue hour, lights coming on.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a one-shoulder lounge top and matching soft pants — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chromium: a hard, brilliant blue-white metal named from the Greek word for colour, because its compounds come in every colour — born from blood-orange crocoite crystals in Siberia, it puts the red in ruby and the green in emerald, and it became the painter's chrome yellow, chrome orange and cool viridian; plated on steel it gives a flawless mirror shine, and mixed into iron it makes stainless steel that never rusts; flamboyant, vain and dazzling, but in its hexavalent form a poison — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cr/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cr",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "cr": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_hair",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "one_shoulder_lounge",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "dusk",
+    "hair": "down",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "012a5eb4db20048ac52c6d88fad60d659000f8adb342b12879bc0a09aef26acf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "74ba890fb7aa66ec65b33fb0d48cadd67a70903cf2a05486fc9d62371048d30a"
+ },
+ "execution": "element-chromium-549297",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "element-chromium-549297",
+  "image_sha256": "012a5eb4db20048ac52c6d88fad60d659000f8adb342b12879bc0a09aef26acf",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult female figure.",
+   "Near hand is raised to hair and other arm is cropped as planned.",
+   "Pigment-like embellishments inherited on homewear."
+  ],
+  "cause": "Reference ornament, expression or composition carryover; details are listed above."
+ },
+ "acceptance": "User authorised completion and main updates; generated images retained without exposure-based regeneration."
+}

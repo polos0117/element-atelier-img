@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "cr",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_hotel",
+  "ofam": "swimwear",
+  "item": "asymmetric_swim",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "hair": "down",
+  "light": "back",
+  "color": "pattern",
+  "expr": "amused",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cr_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chromium (Cr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hotel suite with a city view and an open suitcase\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: an asymmetric one-shoulder swimsuit with a clean diagonal neckline — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chromium: a hard, brilliant blue-white metal named from the Greek word for colour, because its compounds come in every colour — born from blood-orange crocoite crystals in Siberia, it puts the red in ruby and the green in emerald, and it became the painter's chrome yellow, chrome orange and cool viridian; plated on steel it gives a flawless mirror shine, and mixed into iron it makes stainless steel that never rusts; flamboyant, vain and dazzling, but in its hexavalent form a poison — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cr/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cr",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "cr": {
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "asymmetric_swim",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "hair": "down",
+    "light": "back"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "138a0ffc3eb789e6f00c7d4353711fd264270f6cdda695adc170b81fc3feb01d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "b4d6e2b10cd86b4bd0b80ec0f4c688b5e22b8275fa5f82ec3f101cb870feea32"
+ },
+ "execution": "element-chromium-549297",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "element-chromium-549297",
+  "image_sha256": "138a0ffc3eb789e6f00c7d4353711fd264270f6cdda695adc170b81fc3feb01d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult female figure.",
+   "Chin rests on one hand; opposite arm outside crop.",
+   "Both eyes open, gaze toward window; hotel setting present."
+  ],
+  "cause": "Reference ornament, expression or composition carryover; details are listed above."
+ },
+ "acceptance": "User authorised completion and main updates; generated images retained without exposure-based regeneration."
+}

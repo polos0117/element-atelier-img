@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "cr",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_dunes",
+  "ofam": "halloween",
+  "item": "hw_pirate",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "neon",
+  "hair": "braid",
+  "light": "side",
+  "situ": "wet",
+  "expr": "wistful",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cr_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chromium (Cr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wind-rippled desert dune trail\nTime of day: night under neon and signage light, coloured reflections.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a pirate costume — a laced black corset over an off-shoulder white blouse, a ragged mini skirt, thigh-high boots and a tricorn hat; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chromium: a hard, brilliant blue-white metal named from the Greek word for colour, because its compounds come in every colour — born from blood-orange crocoite crystals in Siberia, it puts the red in ruby and the green in emerald, and it became the painter's chrome yellow, chrome orange and cool viridian; plated on steel it gives a flawless mirror shine, and mixed into iron it makes stainless steel that never rusts; flamboyant, vain and dazzling, but in its hexavalent form a poison — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cr/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cr",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "cr": {
+    "era": "now",
+    "place": "travel_dunes",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "hw_pirate",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "time": "neon",
+    "hair": "braid",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "39286983415b8f0cd117365365520f884759d639207ee657e6dcba0cfdfeb324",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "b4d6e2b10cd86b4bd0b80ec0f4c688b5e22b8275fa5f82ec3f101cb870feea32"
+ },
+ "execution": "element-chromium-549297",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "element-chromium-549297",
+  "image_sha256": "39286983415b8f0cd117365365520f884759d639207ee657e6dcba0cfdfeb324",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult female figure.",
+   "Two arms visible; extended hand has readable five-finger silhouette.",
+   "Rainy chrome city replaces planned desert path; reference wink retained."
+  ],
+  "cause": "Reference ornament, expression or composition carryover; details are listed above."
+ },
+ "acceptance": "User authorised completion and main updates; generated images retained without exposure-based regeneration."
+}

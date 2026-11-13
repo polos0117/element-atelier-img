@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "cr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "tool_fix",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "a stained-glass workshop of her element's kingdom — panes of coloured glass leaning in the window light, a heavy workbench and hanging tools",
+  "light": "back",
+  "spot": "right_third",
+  "expr": "relieved",
+  "preset": "bench_fix",
+  "prop": "",
+  "outfit": "a glass artisan look fitted to her body — a leather work apron over a bandeau top and short work shorts, sleeves of a shirt tied at her waist",
+  "scene": "she is a stained-glass artisan fitting a small piece of coloured glass",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cr_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chromium (Cr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stained-glass workshop of her element's kingdom — panes of coloured glass leaning in the window light, a heavy workbench and hanging tools\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a glass artisan look fitted to her body — a leather work apron over a bandeau top and short work shorts, sleeves of a shirt tied at her waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she adjusts a small mechanism on the work surface with a small screwdriver — her own right hand turns the screwdriver, her own left hand holds the piece steady.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is a stained-glass artisan fitting a small piece of coloured glass\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chromium: a hard, brilliant blue-white metal named from the Greek word for colour, because its compounds come in every colour — born from blood-orange crocoite crystals in Siberia, it puts the red in ruby and the green in emerald, and it became the painter's chrome yellow, chrome orange and cool viridian; plated on steel it gives a flawless mirror shine, and mixed into iron it makes stainless steel that never rusts; flamboyant, vain and dazzling, but in its hexavalent form a poison — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cr/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "스테인드글라스 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c5f36ed08b9b06693aafed7396d8308b9e24a8c58c66f7b2da04e52484e2160d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "03291e3a5cc80d47d40935c3c08517fd95f5e43d2be41865183342a459dbe551",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-chromium-549297",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "element-chromium-549297",
+  "image_sha256": "c5f36ed08b9b06693aafed7396d8308b9e24a8c58c66f7b2da04e52484e2160d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult female figure.",
+   "Both hands work on the glass frame; apron and glass workshop visible.",
+   "Eye placement in the frame is farther left than the planned right-third position."
+  ],
+  "cause": "Reference ornament, expression or composition carryover; details are listed above."
+ },
+ "acceptance": "User authorised completion and main updates; generated images retained without exposure-based regeneration."
+}

@@ -1,0 +1,111 @@
+{
+ "atelier": "element",
+ "card": "cr",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "arched_thin",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "eye_color": "ruby",
+   "age": "mid_20s",
+   "impression": "glamorous",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "wink"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "long_curly",
+   "hair_color": "chrome_prism",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "cr_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Chromium (크로뮴) itself — the sovereign of the Chromium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a glamorous, sultry allure; warm beige skin; heart-shaped face; large eyes — wide almond eyes, outer eye corners slightly lifted; thin arched brows; upturned nose; full heart-shaped lips; ruby-red eyes; sharp winged eyeliner.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long spiral curls with side-swept bangs; mirror-chrome silver hair streaked with chrome yellow, ruby red and viridian green.\nExpression: a playful wink with a small smile.\nHer element, carried in her design: chromium: a hard, brilliant blue-white metal named from the Greek word for colour, because its compounds come in every colour — born from blood-orange crocoite crystals in Siberia, it puts the red in ruby and the green in emerald, and it became the painter's chrome yellow, chrome orange and cool viridian; plated on steel it gives a flawless mirror shine, and mixed into iron it makes stainless steel that never rusts; flamboyant, vain and dazzling, but in its hexavalent form a poison.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: mirror chrome blue-silver, chrome yellow, ruby red, viridian emerald green, crocoite orange.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a painter-kingdom that rules colour: a mine where blood-orange crocoite crystals grow like a forest of needles, a palace whose walls are mosaics of ruby and emerald, the tower of the colour guild where pigments for the whole realm are ground in chrome yellow, orange and viridian, all reflected in a mirror-bright plaza.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Cr) and atomic number (24) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-13",
+ "record": "records/cr/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cr",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "cr|fantasy": {}
+  },
+  "looks": {
+   "cr|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "cr|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "03291e3a5cc80d47d40935c3c08517fd95f5e43d2be41865183342a459dbe551",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "selection": {
+   "world": "fantasy",
+   "number": 2,
+   "design": "our_design"
+  }
+ },
+ "execution": "element-chromium-549297",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "element-chromium-549297",
+  "image_sha256": "03291e3a5cc80d47d40935c3c08517fd95f5e43d2be41865183342a459dbe551",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult female figure.",
+   "Full-body selected world card, one main adult woman, both human arms and hands visible; both feet inside frame."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User authorised completion and main updates; generated images retained without exposure-based regeneration."
+}
