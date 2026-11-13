@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "he",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "he_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a park promenade of her element's kingdom — a cloud of bright balloons above her, a bandstand and striped awnings",
+  "ownProp": "a bunch of balloon strings",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a balloon seller look fitted to her body — a striped corset top, a short ruffled skirt, stockings, a straw boater and a ribbon choker",
+  "scene": "she is a balloon seller strolling the promenade",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "he_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a park promenade of her element's kingdom — a cloud of bright balloons above her, a bandstand and striped awnings\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a balloon seller look fitted to her body — a striped corset top, a short ruffled skirt, stockings, a straw boater and a ribbon choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a bunch of balloon strings low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a balloon seller strolling the promenade\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/he/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "풍선 장수",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "cd6d24b54f9192aff82270d6e33f1f11f114a53b20b8b715fcb829b912eafea4",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "823e51dc60fcba9e17d2c86cdf021b9f48f1e44bbc578ee377ecbf72a671d6eb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "823e51dc60fcba9e17d2c86cdf021b9f48f1e44bbc578ee377ecbf72a671d6eb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Balloon seller walking with one hand holding strings and the other lowered; two connected arms and legs, feet in shoes.",
+   "Face, pink bob and blue eyes retained. Outfit matches corset, ruffled skirt, stockings and boater.",
+   "Balloon emblem repeated in headphones-like motifs/ornaments and source palette influence."
+  ],
+  "cause": ""
+ }
+}

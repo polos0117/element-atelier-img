@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "he",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "he_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "cheek",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a recording booth of her element's kingdom — a hanging microphone with a pop filter, foam walls and a lyrics screen",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "cheek_close",
+  "prop": "",
+  "outfit": "a voice artist look fitted to her body — an off-shoulder cropped knit, a pleated mini skirt, a choker and big headphones",
+  "scene": "she is a voice actress and virtual singer at the microphone",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "he_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Helium (He) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a recording booth of her element's kingdom — a hanging microphone with a pop filter, foam walls and a lyrics screen\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a voice artist look fitted to her body — an off-shoulder cropped knit, a pleated mini skirt, a choker and big headphones, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a voice actress and virtual singer at the microphone\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — the lightest noble gas: aloof and never reacting with anything, yet always lifting — balloons, airships, feet hovering just above the ground; first found not on Earth but in sunlight, as a single golden spectral line at the edge of an eclipsed sun; a gas-discharge tube glowing soft peach-pink; chilled near absolute zero it becomes a superfluid that creeps up the walls of its glass — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/he/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "성우 · 버추얼 가수",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "7700800ce81765fdfbd830f7e27eaa097d59d81bcd0f000f538f6f11cdf4af5c",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d6f63d35e1386273c449249c0eb71181fcd678a41239b01f35d17dccbb16ef38",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d6f63d35e1386273c449249c0eb71181fcd678a41239b01f35d17dccbb16ef38",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Close-up voice artist with headphones and microphone; right hand at cheek, other arm outside crop.",
+   "Reference pink pixie haircut, eyes and painted rendering retained.",
+   "Screen contains indistinct pseudo-text; no actual readable words identified. Lower body and second hand outside planned crop."
+  ],
+  "cause": ""
+ }
+}
