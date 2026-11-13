@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "sn",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sn_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "everyday",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "fire_warm",
+  "left": "fire_warm",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "weather": "rain",
+  "time": "night",
+  "own": "fantasy",
+  "placeText": "a field kitchen of an expedition camp of her element's kingdom — a cooking fire, a hanging kettle, tin plates and sacks of provisions",
+  "light": "side",
+  "spot": "left_third",
+  "expr": "amused",
+  "preset": "fire_sit",
+  "prop": "",
+  "outfit": "a camp cook look fitted to her body — a laced field bodice over a bandeau, a short apron skirt, rolled stockings and boots, a ladle in her belt",
+  "scene": "she is the expedition's camp cook warming up by the fire",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sn_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tin (Sn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a field kitchen of an expedition camp of her element's kingdom — a cooking fire, a hanging kettle, tin plates and sacks of provisions\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a camp cook look fitted to her body — a laced field bodice over a bandeau, a short apron skirt, rolled stockings and boots, a ladle in her belt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands are held out, palms toward the small campfire in front of her.\nGAZE: her eyes are lowered.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the expedition's camp cook warming up by the fire\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tin: soft, bright silvery-white metal; melted with copper it made bronze and opened the Bronze Age; bend a bar and it creaks a faint crackling 'tin cry'; left in deep cold it slowly crumbles into grey powder, the tin pest; tin cans and tinplate toy soldiers, satin pewter cups, the tall pipes of church organs and the solder that joins small things together; soft, musical and quietly binding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/sn/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "원정대 취사병",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d226c0cce9412759b2fdd5c16dd5a8e910a8e26cc78c171b3eb83155979d6095",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "29484271541b20610ab84ea9a12f3da16456b882a81cbbb232337314f4150d2d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "29484271541b20610ab84ea9a12f3da16456b882a81cbbb232337314f4150d2d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Long silver hair, adult face and rosy skin retained; expedition camp cook warming hands by fire with kettle and tin cookware.",
+   "Two arms and hands connected; visible finger silhouettes coherent; folded legs and boots connected.",
+   "Eyes closed, cannot compare iris colour; reference pipe and leaf motifs persist on apron."
+  ],
+  "cause": "Closed-eye expression and inherited costume motifs."
+ }
+}

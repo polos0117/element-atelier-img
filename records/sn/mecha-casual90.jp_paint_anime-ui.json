@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "sn",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "the galley of a space station of her element's kingdom — steel counters, wall racks of sealed tins and a round window on the stars",
+  "ownProp": "a sealed meal tin",
+  "light": "low_warm",
+  "expr": "wink",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a galley cook look fitted to her body — a cropped chef jacket open over a sports-bra top, short galley shorts, an apron tied low and grip socks",
+  "scene": "she is a galley cook plating a sealed ration",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sn_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tin (Sn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the galley of a space station of her element's kingdom — steel counters, wall racks of sealed tins and a round window on the stars\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a galley cook look fitted to her body — a cropped chef jacket open over a sports-bra top, short galley shorts, an apron tied low and grip socks, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a sealed meal tin in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is a galley cook plating a sealed ration\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tin: soft, bright silvery-white metal; melted with copper it made bronze and opened the Bronze Age; bend a bar and it creaks a faint crackling 'tin cry'; left in deep cold it slowly crumbles into grey powder, the tin pest; tin cans and tinplate toy soldiers, satin pewter cups, the tall pipes of church organs and the solder that joins small things together; soft, musical and quietly binding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/sn/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "우주 식량 조리사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "57f2df83016ff8c91c001bf53eae5ac0158b4b83c86b1adfad506632f1a4a78c",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "feb68acfde1bfe840e637cfd452b2fc35935990ba2453babdaa99a5f94a5eef7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "feb68acfde1bfe840e637cfd452b2fc35935990ba2453babdaa99a5f94a5eef7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Short silver hair, grey-blue eye, rosy skin and painterly finish retained; space galley cook holding food container.",
+   "Two arms and hands connected; fingers grip either side of container coherently.",
+   "Cropped chef outfit present; cold-shoulder sleeves and leaf motifs added from reference; meal box held rather than actively packing."
+  ],
+  "cause": "Reference motifs and generated action differ from counter-work preset."
+ }
+}
