@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "h",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a hilltop festival ground of her element's kingdom at night — hundreds of sky lanterns rising, low tables of unlit lanterns",
+  "ownProp": "a glowing paper sky lantern",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "wrap_close",
+  "prop": "0",
+  "outfit": "a lantern keeper look fitted to her body — a festival wrap top tied open over a bandeau, a short layered skirt, a ribbon sash and sandals",
+  "scene": "she is the lantern keeper of the festival about to let one go",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hydrogen (H) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop festival ground of her element's kingdom at night — hundreds of sky lanterns rising, low tables of unlit lanterns\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a lantern keeper look fitted to her body — a festival wrap top tied open over a bandeau, a short layered skirt, a ribbon sash and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a glowing paper sky lantern in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the lantern keeper of the festival about to let one go\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/h/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "풍등 축제 등지기",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "e42e5f0adb85ff57989da881e17e505e74c4fdd888d26acedba8abfc9ee72b3d",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "79ee6a8369b98183cd57159892c009e29e5f4673aa0752fada4f94f6f79cbb44",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "79ee6a8369b98183cd57159892c009e29e5f4673aa0752fada4f94f6f79cbb44",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Lantern keeper, chest-up, both connected hands grip lantern.",
+   "Reference star and droplet motifs retained on clothes; outfit differs from planned wrap and sash.",
+   "Lantern scene is dusk rather than night; source prompt also requests golden hour."
+  ],
+  "cause": "Reference costume influence; scene text and no-text constraints conflict."
+ }
+}
