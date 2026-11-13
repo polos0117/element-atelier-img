@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_kiln",
+  "ofam": "dongtan",
+  "item": "dongtan_turtleneck_pencil",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "notebook_write",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "pattern",
+  "situ": "strap",
+  "expr": "amused",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a glass and pottery workshop with a glowing kiln, a wooden workbench and shelves of fired pieces\nOutfit: a thin fitted turtleneck knit tucked into a tight high-waisted pencil skirt with a side slit, and heels — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she writes in a notebook with a pen on the table — her own right hand holds the pen, her own left hand keeps the page flat.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "k",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "k": {
+    "era": "site",
+    "place": "site_kiln",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "notebook_write",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "dongtan_turtleneck_pencil",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "pattern"
+   }
+  }
+ },
+ "execution": "element-k-20261113-29ca7e",
+ "imported": "2026-11-13",
+ "acceptance": "User authorized automatic QA and normal main publication. Preserve generated images without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f92615ea8006c0d35fce923cfd1b2eeb83b2383282a0e7f31771c425c024fe9f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "1cf05e7a9f8a5eea522b41e3c002c39489ce828aede6fff78665dc943f035e43",
+  "note": "Original PNG preserved; no regeneration for exposure.",
+  "ref_sha256": "4c2a463716a65ac6e53bb13ddff3cf98de2e89affc74500bf7d1f22dab189521",
+  "webp_sha256": "deec4fd5dc09530dbb64765cabaa3636fc45ff8079992413f98f833eda0c7ad0"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f92615ea8006c0d35fce923cfd1b2eeb83b2383282a0e7f31771c425c024fe9f",
+  "passed": false,
+  "observations": [
+   "1024x1536. One adult woman in focus. The selected world candidate 3 was the sole attached reference.",
+   "Pottery workshop, side-profile writing with both hands on pen and page, dropped neckline at one shoulder, full figure and boots replaced by heels. Readable 19 on skirt conflicts with casual no-text line; original earrings remain.",
+   "Painted anime rendering retained; visible hand poses inspected, overlapping or cropped fingers are not claimed to be fully countable. Original output preserved without regeneration."
+  ],
+  "cause": "The image model diverged from the exact accessory, framing or specified hand/pose lines; no source prompt was altered."
+ }
+}

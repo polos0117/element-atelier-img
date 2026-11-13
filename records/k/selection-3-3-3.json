@@ -1,0 +1,270 @@
+{
+ "card": "k",
+ "selected": {
+  "fantasy": 3,
+  "steampunk": 3,
+  "mecha": 3
+ },
+ "style": "jp_paint_anime",
+ "execution": "element-k-20261113-29ca7e",
+ "reference_sha256": {
+  "fantasy": "4c2a463716a65ac6e53bb13ddff3cf98de2e89affc74500bf7d1f22dab189521",
+  "steampunk": "49fde0efdba6e6245831a736a08c968163d201d2ee13b2618405a89b5c99764a",
+  "mecha": "5aa5567c09181e4f07907c7e4c714112944ba0e436d00a6e6166f18a439814f8"
+ },
+ "candidates": [
+  {
+   "id": "f1",
+   "world": "fantasy",
+   "number": 1,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-b647cb3c-87d7-40e1-873f-f6e1cf3d7157.png",
+   "archive_path": "candidates/fantasy-1.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "eeeb614bf95abe3d156b7828662b2f601c28a73b1e5cd2ea578f0d798e5dc096",
+   "prompt_file": "fantasy-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Ash-forest warrior, wolf cut and fur mantle. Five separate fingers not all independently countable because hands are relaxed. Background drummers are more detailed than the requested blurred people."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "f2",
+   "world": "fantasy",
+   "number": 2,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-945df78b-53e7-44a6-83b9-08f9f7b5aa01.png",
+   "archive_path": "candidates/fantasy-2.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "89b5c05acdbbc9e72aa457c9ee4cebe4bc8ea5a7f460d0992dc4e4795e84527a",
+   "prompt_file": "fantasy-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Same prescribed wolf cut and fur-warrior silhouette, different generated details. Background drummers more detailed than blurred people."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "f3",
+   "world": "fantasy",
+   "number": 3,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-ce4f8571-f97c-43de-9ce2-25e3750eab55.png",
+   "archive_path": "candidates/fantasy-3.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "4c2a463716a65ac6e53bb13ddff3cf98de2e89affc74500bf7d1f22dab189521",
+   "prompt_file": "f3-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "High ponytail, green eyes, shaved-metal lamellar chest and flame-cut robe panels. Waist armor has a corset-like visual reading despite no-corset instruction."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "f4",
+   "world": "fantasy",
+   "number": 4,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-9eda2ece-749e-46ce-a780-fdc3d772b7ab.png",
+   "archive_path": "candidates/fantasy-4.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "4efdf208159abdfd6736dfac2381e75e57b5f6341ea06ae4f04646a1d2b4f7ce",
+   "prompt_file": "f4-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Short bob ranger, sprout-cut short cloak and short layered hem. Waist armor reads corset-like; no regeneration."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "s1",
+   "world": "steampunk",
+   "number": 1,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-d389103e-7d49-427f-aadb-449c360336b9.png",
+   "archive_path": "candidates/steampunk-1.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "1b7f8cc0745225bd336ed235ba519784e1c7167e7476b2b9c28be62529c0e7e0",
+   "prompt_file": "steampunk-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "One shoulder braid, greenhouse botanist, both hands at waist. Generated goggles are also on hat; prompt requested neck placement. Hat-and-bodice tailoring dominates layered linen silhouette."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "s2",
+   "world": "steampunk",
+   "number": 2,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-cd4071bf-b839-4f17-a002-5e037a537589.png",
+   "archive_path": "candidates/steampunk-2.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "393995e84902c922f60b69764f72cbe05bc17bc8eb488223b67f2f30e170567b",
+   "prompt_file": "steampunk-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Braided greenhouse botanist, hat and visible boots. Bodice appears corset-like despite no-corset instruction; clock dial has tiny marks that are not legibly readable at full-frame inspection."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "s3",
+   "world": "steampunk",
+   "number": 3,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-3f6c8496-eba3-4215-a1e3-6a90686614f1.png",
+   "archive_path": "candidates/steampunk-3.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "49fde0efdba6e6245831a736a08c968163d201d2ee13b2618405a89b5c99764a",
+   "prompt_file": "s3-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Long loose hair, teal eyes, expedition jacket, shorts and cross-body satchel. Waist-tailored jacket reads corset-like; ordinary hands visible."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "s4",
+   "world": "steampunk",
+   "number": 4,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-a1920584-eae7-45aa-90d6-5e3129054e24.png",
+   "archive_path": "candidates/steampunk-4.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "dd85b6d948cc2bd95914921a1532434da9f2e732c817fb9c322b42547a71a1be",
+   "prompt_file": "s4-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Pixie cut experimenter, sleeveless split coat, lilac flame bench. The raised palm is readable, but not every finger is independently countable in this pose."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "m1",
+   "world": "mecha",
+   "number": 1,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-6daf94a7-6d31-4e77-afd8-1c3923a39acc.png",
+   "archive_path": "candidates/mecha-1.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "6a332aac4b294958ad63d9824600997ea541963541b63c097a65f2e29a31104d",
+   "prompt_file": "mecha-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Undercut, full plated legs and pulse rings at waist and ankles, natural empty human hands. Foreground pot and forest banner carry across the prescribed future setting; futuristic city is present."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "m2",
+   "world": "mecha",
+   "number": 2,
+   "design": "preset",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-e3ef39a5-19d4-4baa-9f9b-894e00da4884.png",
+   "archive_path": "candidates/mecha-2.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "998299bb233a67acf153ea3e2c9983beeeeccb302eeff1d96563bf785f7760c7",
+   "prompt_file": "mecha-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Undercut, full plated legs and lilac ion rings; hands connected naturally, overlapping fingers prevent independent count certainty."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "m3",
+   "world": "mecha",
+   "number": 3,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-c825f4ef-e893-4ffd-a3f3-f45680314332.png",
+   "archive_path": "candidates/mecha-3.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "5aa5567c09181e4f07907c7e4c714112944ba0e436d00a6e6166f18a439814f8",
+   "prompt_file": "m3-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Heavy assault armor and twin ponytails; both boots and natural hands visible; pulse-valve segmented armor, full leg plates. Fingers partially overlap."
+    ],
+    "no_regeneration": true
+   }
+  },
+  {
+   "id": "m4",
+   "world": "mecha",
+   "number": 4,
+   "design": "gpt_free",
+   "source": "/workspace/scratch/29ca7e481193/generated_images/exec-0da7ef5d-7b43-4984-bea6-1be155738699.png",
+   "archive_path": "candidates/mecha-4.png",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "4b57aa03657c77b2df347045fa35cf8c6ef0930ca45bd80fd3cb8ab4118eed12",
+   "prompt_file": "m4-gpt-prompt.txt",
+   "qa": {
+    "reviewer": "gpt",
+    "observations": [
+     "Oversized forearm and boot armor, bob haircut and ion-channel shells; both open palms visibly have five fingers, two arms and two legs connected."
+    ],
+    "no_regeneration": true
+   }
+  }
+ ],
+ "recent_usage_scope": "8 recent fluorine records only; sparse checkout avoids downloading all historical records."
+}

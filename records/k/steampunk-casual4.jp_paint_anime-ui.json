@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_lanternriver",
+  "ofam": "bridal",
+  "item": "flowing_train",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "bouquet_smell",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "color": "mono",
+  "expr": "soft_smile",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night river covered with floating paper lanterns, stone steps leading down to the water\nOutfit: a flowing wedding gown with a long train — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brings a small bouquet up to her face to smell the flowers; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "k",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "k": {
+    "era": "fantasy",
+    "place": "fx_lanternriver",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "bouquet_smell",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "flowing_train",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "execution": "element-k-20261113-29ca7e",
+ "imported": "2026-11-13",
+ "acceptance": "User authorized automatic QA and normal main publication. Preserve generated images without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "689df0c78b1d58aa65356aa93601d3d7983af1d3b0d61e556c3a25f8db5a9aad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "c979a29b1b87b6241403dc801eecc2e9aafcdf38bfb1746c3cc84d58175bbb42",
+  "note": "Original PNG preserved; no regeneration for exposure.",
+  "ref_sha256": "49fde0efdba6e6245831a736a08c968163d201d2ee13b2618405a89b5c99764a",
+  "webp_sha256": "d9a83e7b4713db5d88d56f107cf2e38babc0ff47b716f0fec0f167e5d27c7b07"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "689df0c78b1d58aa65356aa93601d3d7983af1d3b0d61e556c3a25f8db5a9aad",
+  "passed": false,
+  "observations": [
+   "1024x1536. One adult woman in focus. The selected world candidate 3 was the sole attached reference.",
+   "Lantern river, dark wedding-like lace gown, bouquet held near face with right hand, other hand outside crop. Head turns back toward viewer. Original earrings plus rose clip exceed small-accessory guidance.",
+   "Painted anime rendering retained; visible hand poses inspected, overlapping or cropped fingers are not claimed to be fully countable. Original output preserved without regeneration."
+  ],
+  "cause": "The image model diverged from the exact accessory, framing or specified hand/pose lines; no source prompt was altered."
+ }
+}

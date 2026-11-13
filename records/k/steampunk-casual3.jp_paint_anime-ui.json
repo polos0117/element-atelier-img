@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_gym",
+  "ofam": "active",
+  "item": "archery_top",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "towel_dry",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "pattern",
+  "situ": "strap",
+  "expr": "wistful",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a training gym with a heavy bag, ring ropes, a fencing strip and racks of weights\nOutfit: a fitted archery top with an arm guard — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nLEGS: weight even on both legs.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "k",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "k": {
+    "era": "now",
+    "place": "sports_gym",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "camera_shot",
+    "use": "towel_dry",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "archery_top",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "pattern"
+   }
+  }
+ },
+ "execution": "element-k-20261113-29ca7e",
+ "imported": "2026-11-13",
+ "acceptance": "User authorized automatic QA and normal main publication. Preserve generated images without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "aab3d385c6657048c71b1a5b3e2a3c0dd6a0134dc1ffb69c3234f1c5a3dea044",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "e273ac8aa7f97e893649320d0c9429c339335772dbde155bdf7b392fae2be6a6",
+  "note": "Original PNG preserved; no regeneration for exposure.",
+  "ref_sha256": "49fde0efdba6e6245831a736a08c968163d201d2ee13b2618405a89b5c99764a",
+  "webp_sha256": "ed547ad092e006058618e1d905095ee8777826f7fe068d7bfc108e0023c7cf26"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "aab3d385c6657048c71b1a5b3e2a3c0dd6a0134dc1ffb69c3234f1c5a3dea044",
+  "passed": false,
+  "observations": [
+   "1024x1536. One adult woman in focus. The selected world candidate 3 was the sole attached reference.",
+   "Training gym, archery-inspired checked outfit and towel used with both hands, one shoulder strap lowered, three-quarter crop. Arm guard and quiver remain consistent with archery outfit; original earrings plus extra bow remain.",
+   "Painted anime rendering retained; visible hand poses inspected, overlapping or cropped fingers are not claimed to be fully countable. Original output preserved without regeneration."
+  ],
+  "cause": "The image model diverged from the exact accessory, framing or specified hand/pose lines; no source prompt was altered."
+ }
+}
