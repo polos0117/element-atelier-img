@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "mn",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mn_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "bath",
+  "item": "robe_over_swim",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "weather": "autumn",
+  "time": "golden",
+  "color": "earth",
+  "expr": "proud",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mn_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Manganese (Mn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a spa robe open over a swimsuit — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a cup at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — manganese: a hard, brittle grey metal that changes its face with its oxidation state: rose pink in rhodochrosite, green as manganate, deep violet as permanganate, matte black as pyrolusite, a colour-shifting solution once called the mineral chameleon; black manganese oxide painted Stone Age handprints and cleared the tint from glass as glassmakers' soap; in steel it makes a metal that grows harder each time it is struck; in every leaf it helps split water to release oxygen — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mn/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mn",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "mn": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_prop",
+    "use": "cup_hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "robe_over_swim",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "golden",
+    "weather": "autumn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "15c0a98f26fa6bc1f1647922575428cd2d2a106f1ec5a6b943ac5e27505262ae",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7c22d19c8e629eac7b48987b91c75625c1a9bfd967b106c39d28a119918ab37e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Single generation, no regeneration of successful image."
+ },
+ "execution": "element-mn-a7c75",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7c22d19c8e629eac7b48987b91c75625c1a9bfd967b106c39d28a119918ab37e",
+  "passed": false,
+  "observations": [
+   "1024x1536; one focal woman; attached world identity and painterly anime finish maintained.",
+   "Visible arms originate from corresponding shoulders; no extra limbs or disconnected hands observed.",
+   "Reference handprint and mineral motifs remain in the new robe; crouch is interpreted as a low seated squat."
+  ]
+ },
+ "acceptance": "Authorized publication after QA; plan deviations retained without regeneration."
+}

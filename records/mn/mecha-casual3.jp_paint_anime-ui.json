@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "mn",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_bike_path",
+  "ofam": "active",
+  "item": "ski_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "legs": "",
+  "gaze": "camera",
+  "light": "back",
+  "depth": "flat",
+  "color": "jewel",
+  "expr": "confident",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mn_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Manganese (Mn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a riverside cycle path with a parked bicycle, a low stone wall and reeds along the water\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a fitted ski jacket and padded ski pants — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings a cup to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — manganese: a hard, brittle grey metal that changes its face with its oxidation state: rose pink in rhodochrosite, green as manganate, deep violet as permanganate, matte black as pyrolusite, a colour-shifting solution once called the mineral chameleon; black manganese oxide painted Stone Age handprints and cleared the tint from glass as glassmakers' soap; in steel it makes a metal that grows harder each time it is struck; in every leaf it helps split water to release oxygen — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mn/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mn",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "mn": {
+    "era": "now",
+    "place": "street_bike_path",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "cup_sip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "ski_set",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "light": "back",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5538c4cea3e5d330f843d29a3add2ba4a3f47fd540cb355740e4fb329f1c44e6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "082f0401e8c09994d51318562dfbdc988ea60d393922ff58fd975d5a02521d25",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Single generation, no regeneration of successful image."
+ },
+ "execution": "element-mn-a7c75",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "082f0401e8c09994d51318562dfbdc988ea60d393922ff58fd975d5a02521d25",
+  "passed": true,
+  "observations": [
+   "1024x1536; one focal woman; attached world identity and painterly anime finish maintained.",
+   "Visible arms originate from corresponding shoulders; no extra limbs or disconnected hands observed."
+  ]
+ },
+ "acceptance": "Authorized publication after QA; plan deviations retained without regeneration."
+}

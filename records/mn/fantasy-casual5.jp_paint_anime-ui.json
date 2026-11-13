@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "mn",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mn_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_range",
+  "ofam": "retro",
+  "item": "boho_crochet",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "weather": "spring",
+  "time": "noon",
+  "hair": "hat",
+  "color": "jewel",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mn_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Manganese (Mn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an archery range of targets on a green field\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a 1970s crochet halter top with low-rise flared jeans — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small stoppered glass vial of deep violet permanganate solution glowing purple against the light low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — manganese: a hard, brittle grey metal that changes its face with its oxidation state: rose pink in rhodochrosite, green as manganate, deep violet as permanganate, matte black as pyrolusite, a colour-shifting solution once called the mineral chameleon; black manganese oxide painted Stone Age handprints and cleared the tint from glass as glassmakers' soap; in steel it makes a metal that grows harder each time it is struck; in every leaf it helps split water to release oxygen — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mn/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mn",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mn": {
+    "era": "now",
+    "place": "sports_range",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "boho_crochet",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "time": "noon",
+    "weather": "spring",
+    "hair": "hat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "15c0a98f26fa6bc1f1647922575428cd2d2a106f1ec5a6b943ac5e27505262ae",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "93ae974b99ca4b76b94c2e64f4ebbbf99e33138a2551c051a4e845b042ea84fc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Single generation, no regeneration of successful image."
+ },
+ "execution": "element-mn-a7c75",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "93ae974b99ca4b76b94c2e64f4ebbbf99e33138a2551c051a4e845b042ea84fc",
+  "passed": false,
+  "observations": [
+   "1024x1536; one focal woman; attached world identity and painterly anime finish maintained.",
+   "Visible arms originate from corresponding shoulders; no extra limbs or disconnected hands observed.",
+   "Requested rear walking view is rendered as front-facing walking instead."
+  ]
+ },
+ "acceptance": "Authorized publication after QA; plan deviations retained without regeneration."
+}
