@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "li",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "li_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "own": "mecha",
+  "placeText": "a counselling room of her element's kingdom — a soft armchair, a low table with a box of tissues and warm indirect light",
+  "light": "top",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "ankles_sit",
+  "prop": "",
+  "outfit": "a counsellor look fitted to her body — an off-shoulder knit worn as a short dress, sheer tights and slim glasses",
+  "scene": "she is a counsellor listening",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "li_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lithium (Li) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a counselling room of her element's kingdom — a soft armchair, a low table with a box of tissues and warm indirect light\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a counsellor look fitted to her body — an off-shoulder knit worn as a short dress, sheer tights and slim glasses, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a counsellor listening\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/li/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "심리 상담사",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "efc569772dbfe84242b6a0e7f7d0c5917042671abd2a199ae2c40c717bec7f17",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8f05e494b64a4232a5daa917be3e114663c5b4caeb544e98215bc17cd6925f8f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8f05e494b64a4232a5daa917be3e114663c5b4caeb544e98215bc17cd6925f8f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Counsellor sits with crossed ankles, one hand on knee and one on seat; two connected arms, legs and pointed shoes.",
+   "Short swept silver-red hair and amber eyes retained; glasses, off-shoulder knit dress, tights and counselling room match plan.",
+   "Reference crystal ornaments and red illuminated accents remain in outfit."
+  ],
+  "cause": "Reference costume palette and crystal motif influence."
+ }
+}

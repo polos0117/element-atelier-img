@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "li",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "li_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "a hypnotist's salon of her element's kingdom — a velvet couch, a ticking metronome and heavy curtains",
+  "ownProp": "a pocket watch on a chain",
+  "light": "top",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "chair_cross_prop",
+  "prop": "0",
+  "outfit": "a salon hypnotist look fitted to her body — a tailored waistcoat over a lace bustier, a short skirt, stockings and pince-nez on a ribbon",
+  "scene": "she is a salon hypnotist swinging her watch",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "li_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lithium (Li) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hypnotist's salon of her element's kingdom — a velvet couch, a ticking metronome and heavy curtains\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a salon hypnotist look fitted to her body — a tailored waistcoat over a lace bustier, a short skirt, stockings and pince-nez on a ribbon, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a pocket watch on a chain at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a salon hypnotist swinging her watch\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lithium: the lightest metal of all, so soft it cuts with a knife and so light it floats on oil; a fresh cut shines silver-white, then dulls to dark grey in open air; it burns with a vivid crimson flame; it stores and releases power inside every rechargeable battery; found in 1817 in a pale stone called petalite and named for stone; drawn from turquoise brine ponds on high salt flats; a medicine that calms a restless mind — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/li/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "최면 요법 살롱 의사",
+  "level": "bold"
+ },
+ "execution": "roots-own-92e465-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved scoped own90 generation and upload on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2f282f3ededcaec1d670c79946cd7313383040dc309b1ec7487bc5ddcdcd310b",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4bd1ff552ba6f735a94fad18a14ce8385a78987c3578740ebc2d56fe15aada33",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original result preserved without regeneration. Exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4bd1ff552ba6f735a94fad18a14ce8385a78987c3578740ebc2d56fe15aada33",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Hypnotist seated with crossed legs, one connected hand holds watch chain and other rests on knee.",
+   "Long twin braids, silver and red hair and facial identity retained; feet outside crop.",
+   "Watch is held still; vest and lace bustier align with plan. Reference crimson palette remains."
+  ],
+  "cause": ""
+ }
+}
