@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "ni",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ni_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a night alley of glowing vending machines of her element's kingdom — rows of lit machines, a stack of drink crates and wet pavement",
+  "ownProp": "a canned drink",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "wistful",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a vending route keeper look fitted to her body — a cropped work jacket open over a tube top, short shorts, a waist pouch of keys and sneakers",
+  "scene": "she is the keeper of a vending-machine street restocking a machine",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ni_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nickel (Ni) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night alley of glowing vending machines of her element's kingdom — rows of lit machines, a stack of drink crates and wet pavement\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a vending route keeper look fitted to her body — a cropped work jacket open over a tube top, short shorts, a waist pouch of keys and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a canned drink at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\nScene note: she is the keeper of a vending-machine street restocking a machine\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nickel: a warm silver-grey metal that fell from the sky — iron meteorites are iron and nickel together, and when a slice is polished and etched a criss-cross lattice of crystal bands, the Widmanstätten pattern, appears that only millions of years of slow cooling in space can grow; it rests with iron in the Earth's core; miners cursed its ore as the 'copper demon' because it looked like copper yet yielded none; it shines as the silver of coins and mirror-bright plating, it is one of the three metals a magnet holds, and its salts dissolve into clear apple green; loyal, steady and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ni/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "자판기 거리 관리인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "de4ef1de8bc417aa0857c451619f6f0718568926c5669b81eda51e8dba213e43",
+  "ref_sha256": "60394b9f4ec5437d93f2ceccd1198c21f4adc05c35ec658333be778fbb41507e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음; 재생성 없이 원본 보존",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "de4ef1de8bc417aa0857c451619f6f0718568926c5669b81eda51e8dba213e43",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명이 초점, 로고·워터마크 없음",
+   "자판기 앞에서 쪼그려 앉아 캔을 듦",
+   "다른 손은 무릎 위; 양팔·양다리와 운동화 이어짐 확인"
+  ]
+ },
+ "execution": "element-ni-9d737359",
+ "imported": "2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — 캐릭터 완료 후 main 반영 승인"
+}

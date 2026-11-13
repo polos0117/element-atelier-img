@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "ni",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ni_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "backstage_dressing",
+  "ofam": "retro",
+  "item": "power_glam",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "flower_trim",
+  "legs": "knees_together",
+  "gaze": "",
+  "hair": "tied",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "vivid",
+  "expr": "pensive",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ni_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nickel (Ni) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a backstage dressing room with a bulb-lit mirror, a vanity table and costume racks\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: an 1980s sequined mini dress with strong padded shoulders — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she trims the stems of a few loose flower stems on the worktable — her own right hand holds small shears, her own left hand holds the stems.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nickel: a warm silver-grey metal that fell from the sky — iron meteorites are iron and nickel together, and when a slice is polished and etched a criss-cross lattice of crystal bands, the Widmanstätten pattern, appears that only millions of years of slow cooling in space can grow; it rests with iron in the Earth's core; miners cursed its ore as the 'copper demon' because it looked like copper yet yielded none; it shines as the silver of coins and mirror-bright plating, it is one of the three metals a magnet holds, and its salts dissolve into clear apple green; loyal, steady and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ni/mecha-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ni",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "ni": {
+    "era": "now",
+    "place": "backstage_dressing",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "flower_trim",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "power_glam",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "hair": "tied",
+    "spot": "left_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "519728658d4b30f48e99ef49faeb4c74528681561c102cd3d196ca766674c36b",
+  "ref_sha256": "60394b9f4ec5437d93f2ceccd1198c21f4adc05c35ec658333be778fbb41507e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음; 재생성 없이 원본 보존"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "519728658d4b30f48e99ef49faeb4c74528681561c102cd3d196ca766674c36b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명이 초점, 로고·워터마크 없음",
+   "공연 대기실에서 꽃 줄기를 두 손과 가위로 다듬음",
+   "양팔·손가락과 두 다리 연결 확인"
+  ]
+ },
+ "execution": "element-ni-9d737359",
+ "imported": "2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — 캐릭터 완료 후 main 반영 승인"
+}

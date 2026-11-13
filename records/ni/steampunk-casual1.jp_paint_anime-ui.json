@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "ni",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ni_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "swimwear",
+  "item": "oring_bikini",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "chin_rail",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "time": "golden",
+  "hair": "braid",
+  "spot": "right_third",
+  "color": "vivid",
+  "expr": "wistful",
+  "preset": "window_chin",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ni_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nickel (Ni) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a bikini joined at the centre and hips by polished metal rings — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nickel: a warm silver-grey metal that fell from the sky — iron meteorites are iron and nickel together, and when a slice is polished and etched a criss-cross lattice of crystal bands, the Widmanstätten pattern, appears that only millions of years of slow cooling in space can grow; it rests with iron in the Earth's core; miners cursed its ore as the 'copper demon' because it looked like copper yet yielded none; it shines as the silver of coins and mirror-bright plating, it is one of the three metals a magnet holds, and its salts dissolve into clear apple green; loyal, steady and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ni/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ni",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "ni": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "window_chin",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "chin_rail",
+    "left": "rail",
+    "legs": "",
+    "gaze": "window",
+    "item": "oring_bikini",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "golden",
+    "hair": "braid",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "48de01aa922af6c9c591d4c29b6721eccaa756bb9b18c11fa4ae4ac795423ce4",
+  "ref_sha256": "752d55ae836f71ea3209fd818ca217bd679798550d62812add79b7c6fa4a5c82",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않음; 재생성 없이 원본 보존"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "48de01aa922af6c9c591d4c29b6721eccaa756bb9b18c11fa4ae4ac795423ce4",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명이 초점, 로고·워터마크 없음",
+   "수중 궁전 창가에서 턱을 괴고 다른 손을 난간에 얹음",
+   "두 팔·손의 연결 확인"
+  ]
+ },
+ "execution": "element-ni-9d737359",
+ "imported": "2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — 캐릭터 완료 후 main 반영 승인"
+}
