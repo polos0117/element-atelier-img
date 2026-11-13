@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "mg",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_mirror",
+  "ofam": "costume",
+  "item": "star_goddess",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "depth": "deep",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mg_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnesium (Mg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mirrored labyrinth of endless reflections and soft coloured light\nOutfit: a star goddess costume — a midnight-blue gown scattered with crystal stars and a crescent headpiece, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a short coil of silvery magnesium ribbon tied with a fresh green leaf low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — magnesium: a soft silvery-white metal hidden at the very heart of every chlorophyll molecule, the quiet centre that lets green leaves drink sunlight; touch it with flame and it bursts into a blinding pure-white blaze that water cannot put out, the burning ribbon and flash powder of old photographers and the white glare of signal flares; the lightest structural metal, and the bitter Epsom salt of healing springs; shy and gentle, then suddenly dazzling — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mg/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mg",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "mg": {
+    "era": "fantasy",
+    "place": "fx_mirror",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "star_goddess",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cc2e81232f43591317dd7343b6b831be6bc3cee9dbc4d6fac6db8dd4d0f5d4c5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP uploaded.",
+  "ref_sha256": "7beb46a108596ed9d8b3b88f25c032fc7ff79df6473cbf378b666ba97eb1a37b"
+ },
+ "execution": "element-mg-1dc44535",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cc2e81232f43591317dd7343b6b831be6bc3cee9dbc4d6fac6db8dd4d0f5d4c5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait. One main adult woman. Painted anime finish matches reference style.",
+   "Visible limbs attach to shoulders/hips; no extra or detached arms, hands or legs observed. Finger visibility varies with crop, grip and overlap.",
+   "Reference face, silver-white and green hair, green eyes and freckles retained; reference armor removed. No readable added text or watermark observed.",
+   "She turns her face back to the viewer instead of keeping head aligned away; mirror reflections are environmental reflections."
+  ],
+  "cause": "She turns her face back to the viewer instead of keeping head aligned away; mirror reflections are environmental reflections."
+ },
+ "acceptance": "User authorized upload and main fast-forward; world selection 1,2,1. Generated images preserved without regeneration."
+}

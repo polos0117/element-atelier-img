@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "mg",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_ballroom",
+  "ofam": "evening",
+  "item": "halter_evening",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "hair": "tied",
+  "light": "side",
+  "color": "pattern",
+  "expr": "half_smile",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mg_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnesium (Mg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chandelier ballroom at a masquerade\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a halter-neck evening dress tied behind the neck — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a short coil of silvery magnesium ribbon tied with a fresh green leaf in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — magnesium: a soft silvery-white metal hidden at the very heart of every chlorophyll molecule, the quiet centre that lets green leaves drink sunlight; touch it with flame and it bursts into a blinding pure-white blaze that water cannot put out, the burning ribbon and flash powder of old photographers and the white glare of signal flares; the lightest structural metal, and the bitter Epsom salt of healing springs; shy and gentle, then suddenly dazzling — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mg/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mg": {
+    "era": "fantasy",
+    "place": "fx_ballroom",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "side_chair_read",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "item": "halter_evening",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "hair": "tied",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "86c703422c2ea8d1a91a9476122df4f136148b3e73b8309e47d05bee64c07541",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP uploaded.",
+  "ref_sha256": "e4f4ac1876f7912976259da2226b5048a585ad2795baff995a0d158aa3e69688"
+ },
+ "execution": "element-mg-1dc44535",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "86c703422c2ea8d1a91a9476122df4f136148b3e73b8309e47d05bee64c07541",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait. One main adult woman. Painted anime finish matches reference style.",
+   "Visible limbs attach to shoulders/hips; no extra or detached arms, hands or legs observed. Finger visibility varies with crop, grip and overlap.",
+   "Reference face, silver-white and green hair, green eyes and freckles retained; reference armor removed. No readable added text or watermark observed.",
+   "Hair is styled into an updo with more apparent length than the short reference cut."
+  ],
+  "cause": "Hair is styled into an updo with more apparent length than the short reference cut."
+ },
+ "acceptance": "User authorized upload and main fast-forward; world selection 1,2,1. Generated images preserved without regeneration."
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "mg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "book_turn",
+  "legs": "",
+  "gaze": "",
+  "weather": "night_snow",
+  "time": "lamplight",
+  "light": "top",
+  "color": "denim",
+  "expr": "curious",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mg_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnesium (Mg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a lace bralette under an open cardigan with soft shorts — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she turns a page of a book lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — magnesium: a soft silvery-white metal hidden at the very heart of every chlorophyll molecule, the quiet centre that lets green leaves drink sunlight; touch it with flame and it bursts into a blinding pure-white blaze that water cannot put out, the burning ribbon and flash powder of old photographers and the white glare of signal flares; the lightest structural metal, and the bitter Epsom salt of healing springs; shy and gentle, then suddenly dazzling — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mg/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "mg": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "book_turn",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "bralette_cardigan",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "time": "lamplight",
+    "weather": "night_snow",
+    "light": "top"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a26bc9d1b6498b0d1c9427b0360643e9f1e72b54586ec16e4a9ce6beb00e861f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP uploaded.",
+  "ref_sha256": "1e7b4a9666a18d77b721ef79d7e2a45426baea7c70c02fff68e5b024bc2577a2"
+ },
+ "execution": "element-mg-1dc44535",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a26bc9d1b6498b0d1c9427b0360643e9f1e72b54586ec16e4a9ce6beb00e861f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait. One main adult woman. Painted anime finish matches reference style.",
+   "Visible limbs attach to shoulders/hips; no extra or detached arms, hands or legs observed. Finger visibility varies with crop, grip and overlap.",
+   "Reference face, silver-white and green hair, green eyes and freckles retained; reference armor removed. No readable added text or watermark observed.",
+   "Image reaches thighs rather than strict waist-up; both hands contact the book."
+  ],
+  "cause": "Image reaches thighs rather than strict waist-up; both hands contact the book."
+ },
+ "acceptance": "User authorized upload and main fast-forward; world selection 1,2,1. Generated images preserved without regeneration."
+}

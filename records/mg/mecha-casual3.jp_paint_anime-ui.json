@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "mg",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_ice",
+  "ofam": "subculture",
+  "item": "visual_kei",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "light": "top",
+  "depth": "flat",
+  "expr": "soft_smile",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mg_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnesium (Mg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an ice palace hall of carved crystal pillars, frosted light and a grand frozen staircase\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: visual kei — a dramatic black-and-silver layered stage outfit with lace cuffs, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — magnesium: a soft silvery-white metal hidden at the very heart of every chlorophyll molecule, the quiet centre that lets green leaves drink sunlight; touch it with flame and it bursts into a blinding pure-white blaze that water cannot put out, the burning ribbon and flash powder of old photographers and the white glare of signal flares; the lightest structural metal, and the bitter Epsom salt of healing springs; shy and gentle, then suddenly dazzling — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mg/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "mg": {
+    "era": "fantasy",
+    "place": "fx_ice",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "visual_kei",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "light": "top",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6672513873a34f9d17d8b952a356ec9c6d2e213066a7141945ffdde265f415a0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP uploaded.",
+  "ref_sha256": "e4f4ac1876f7912976259da2226b5048a585ad2795baff995a0d158aa3e69688"
+ },
+ "execution": "element-mg-1dc44535",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6672513873a34f9d17d8b952a356ec9c6d2e213066a7141945ffdde265f415a0",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait. One main adult woman. Painted anime finish matches reference style.",
+   "Visible limbs attach to shoulders/hips; no extra or detached arms, hands or legs observed. Finger visibility varies with crop, grip and overlap.",
+   "Reference face, silver-white and green hair, green eyes and freckles retained; reference armor removed. No readable added text or watermark observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User authorized upload and main fast-forward; world selection 1,2,1. Generated images preserved without regeneration."
+}

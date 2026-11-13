@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "mg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "spring",
+  "time": "noon",
+  "own": "steampunk",
+  "placeText": "the steps of a city hall of her element's kingdom at night — a crowd barrier, gas lamps and a haze of flash smoke",
+  "ownProp": "a press camera with a flash pan",
+  "light": "side",
+  "expr": "soft_smile",
+  "preset": "camera_shot",
+  "prop": "0",
+  "outfit": "a press photographer look fitted to her body — a short trench vest worn open over a corset top, a mini skirt, stockings, a press card in her hat band",
+  "scene": "she is a press photographer taking the shot",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mg_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnesium (Mg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the steps of a city hall of her element's kingdom at night — a crowd barrier, gas lamps and a haze of flash smoke\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a press photographer look fitted to her body — a short trench vest worn open over a corset top, a mini skirt, stockings, a press card in her hat band, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a press camera with a flash pan in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is a press photographer taking the shot\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — magnesium: a soft silvery-white metal hidden at the very heart of every chlorophyll molecule, the quiet centre that lets green leaves drink sunlight; touch it with flame and it bursts into a blinding pure-white blaze that water cannot put out, the burning ribbon and flash powder of old photographers and the white glare of signal flares; the lightest structural metal, and the bitter Epsom salt of healing springs; shy and gentle, then suddenly dazzling — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/mg/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "섬광 사진기자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "be592d49d63c9d1617913011e037e4931061610abf49736cc08728b1ce512337",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP uploaded.",
+  "ref_sha256": "1e7b4a9666a18d77b721ef79d7e2a45426baea7c70c02fff68e5b024bc2577a2",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-mg-1dc44535",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "be592d49d63c9d1617913011e037e4931061610abf49736cc08728b1ce512337",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait. One main adult woman. Painted anime finish matches reference style.",
+   "Visible limbs attach to shoulders/hips; no extra or detached arms, hands or legs observed. Finger visibility varies with crop, grip and overlap.",
+   "Reference face, silver-white and green hair, green eyes and freckles retained; reference armor removed. No readable added text or watermark observed.",
+   "Camera is held at chest level instead of raised for a shot; background badge details are not legibly textual."
+  ],
+  "cause": "Camera is held at chest level instead of raised for a shot; background badge details are not legibly textual."
+ },
+ "acceptance": "User authorized upload and main fast-forward; world selection 1,2,1. Generated images preserved without regeneration."
+}
