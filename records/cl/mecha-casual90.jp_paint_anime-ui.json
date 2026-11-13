@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "weather": "snow",
+  "own": "mecha",
+  "placeText": "the champion's booth on the main stage of an esports arena of her element's kingdom — a racing-style chair, glowing monitors and a row of trophies",
+  "ownProp": "a game controller",
+  "light": "top",
+  "spot": "right_third",
+  "expr": "sensual",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "outfit": "a pro gamer look fitted to her body — a cropped white and pale green team jersey knotted under the bust, short gym shorts, knee-high socks and a headset around her neck",
+  "scene": "she is a pro gamer called the greatest of all time, calm in the last round",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the champion's booth on the main stage of an esports arena of her element's kingdom — a racing-style chair, glowing monitors and a row of trophies\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a pro gamer look fitted to her body — a cropped white and pale green team jersey knotted under the bust, short gym shorts, knee-high socks and a headset around her neck, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a game controller in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is a pro gamer called the greatest of all time, calm in the last round\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cl/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "프로게이머(역대 최고)",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "1969537a47b8549fe77b8e86c3ed44c12f0032b24d450a53a0833e953a760b56",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "357c8aecc54ea2c4d356b924daacb56d040769c1059d9ea99bb1513f11ba8158",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "357c8aecc54ea2c4d356b924daacb56d040769c1059d9ea99bb1513f11ba8158",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "짧은 연녹색 머리·파란 눈과 화풍 유지. 양손이 게임패드를 잡고 의자에 앉음; 팔·손·다리 연결 정상.",
+   "팀 유니폼·반바지·양말·목 헤드셋, 트로피와 게임 화면.",
+   "계획의 오른쪽 옆모습과 달리 왼쪽을 본다. 화면에 작은 UI 문양·문자가 보인다."
+  ],
+  "cause": "COMPOSITION facing right / no text와 결과 차이"
+ }
+}

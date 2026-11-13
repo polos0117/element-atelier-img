@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a moonlit palace courtyard of her element's kingdom — drifting petals of pale green light, a marble stair and tall dark windows",
+  "ownProp": "a slim crystal-tipped wand",
+  "depth": "flat",
+  "expr": "soft_smile",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "an illusionist look fitted to her body — a deep-cut bodice with a high open collar, a short asymmetric skirt, a long split cape, thigh-high boots and a jewelled circlet",
+  "scene": "she is an illusionist and deceiver, smiling as if the one standing here might not be the real her",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a moonlit palace courtyard of her element's kingdom — drifting petals of pale green light, a marble stair and tall dark windows\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: an illusionist look fitted to her body — a deep-cut bodice with a high open collar, a short asymmetric skirt, a long split cape, thigh-high boots and a jewelled circlet, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a slim crystal-tipped wand up beside her face; it is all she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is an illusionist and deceiver, smiling as if the one standing here might not be the real her\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cl/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "환영 마술사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c839ce6a6e988888f9b21096d2b398ae3fa281849d12bf3cd0420e08bcf54d60",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "af51f229a5bf067b4f63c1927bc2ea67775a9fedcda8166dcdf94e97c722ad0b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "af51f229a5bf067b4f63c1927bc2ea67775a9fedcda8166dcdf94e97c722ad0b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "짧은 연녹색 머리·금녹 눈과 회화적 화풍 유지.",
+   "얼굴 옆에 오른손으로 완드를 든 가슴 위 구도; 보이는 팔·손 연결 정상, 반대 손은 구도 밖.",
+   "높은 칼라의 마술사 의상과 환영 효과."
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "cl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cl_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "a thicket at the edge of a misty moor of her element's kingdom — a screen of leafy branches, a canvas game bag and a brass spyglass on a stump",
+  "ownProp": "a long brass-fitted hunting rifle",
+  "light": "side",
+  "spot": "right_third",
+  "expr": "curious",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a hunter look fitted to her body — a short leaf-netted cape over a khaki corset top, short field breeches, tall boots, a cartridge belt and a feathered hunting hat",
+  "scene": "she is a hunter hidden in the bushes, waiting without a sound",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cl_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Chlorine (Cl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a thicket at the edge of a misty moor of her element's kingdom — a screen of leafy branches, a canvas game bag and a brass spyglass on a stump\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a hunter look fitted to her body — a short leaf-netted cape over a khaki corset top, short field breeches, tall boots, a cartridge belt and a feathered hunting hat, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a long brass-fitted hunting rifle at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is a hunter hidden in the bushes, waiting without a sound\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — chlorine: a pale yellow-green gas that is poison in a cloud and cleanliness in a drop — the clarity of a swimming pool, bleached white linen snapping in the wind, the sharp clean smell; the other half of sea salt; it disinfects, bleaches and purifies — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cl/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "덤불에 숨은 사냥꾼",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "a697e001d3c4f3c881ae1eceb9f4c9b1a443242eb0ef53ec86971f982025ea4d",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ca0ad170af5f2964fde76701553240061895580d8223698e64f52a03a702c509",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ca0ad170af5f2964fde76701553240061895580d8223698e64f52a03a702c509",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "긴 연녹 머리와 녹색 눈 유지. 한쪽 무릎을 꿇고 총을 오른손에 들며 왼손으로 지면을 짚음.",
+   "두 팔·두 손·다리 연결 정상; 손가락 일부는 총과 겹침.",
+   "잎 그물 망토·카키 의상·모자·부츠, 덤불 속 사냥꾼 장면."
+  ]
+ }
+}
