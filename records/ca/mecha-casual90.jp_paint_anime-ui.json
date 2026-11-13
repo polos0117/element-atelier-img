@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "ca",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ca_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "snow",
+  "time": "dusk",
+  "own": "mecha",
+  "placeText": "a dental clinic of her element's kingdom — a reclining chair, an overhead lamp arm and a bright white counter",
+  "ownProp": "a small dental mirror",
+  "light": "back",
+  "depth": "flat",
+  "expr": "serious",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a dentist look fitted to her body — a short white clinic dress zipped low at the front, bare legs, a mask pulled down under her chin",
+  "scene": "she is a dentist ready for the next patient",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ca_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Calcium (Ca) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dental clinic of her element's kingdom — a reclining chair, an overhead lamp arm and a bright white counter\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a dentist look fitted to her body — a short white clinic dress zipped low at the front, bare legs, a mask pulled down under her chin, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a small dental mirror up beside her face; it is all she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is a dentist ready for the next patient\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — calcium: the element living things build their bodies with — bone and teeth, seashells and pearls with a pink-and-silver nacre sheen; limestone cliffs laid down by countless shells, white marble statues, chalk, stalactites dripping for ten thousand years; pale, strong and patient — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ca/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "치과의사",
+  "level": "bold"
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "10e03db0cf625731030e104aee51ac0a98186f881f817d6cb729d522b70442fb",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0f3c0ab1ed2cb254cdd3d2d4d21427de96bbf2ec53083a23baa1f013e2b23ab1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0f3c0ab1ed2cb254cdd3d2d4d21427de96bbf2ec53083a23baa1f013e2b23ab1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "분홍 땋은 머리·호박빛 눈·화풍 유지.",
+   "치과 거울 든 오른손과 팔 연결 정상, 다섯 손가락이 접힌 상태; 왼손은 구도 밖.",
+   "진료복·턱 아래 마스크·치과 조명·치아 모형과 서리 낀 창."
+  ]
+ }
+}
