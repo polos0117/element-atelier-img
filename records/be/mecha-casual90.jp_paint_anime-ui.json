@@ -1,0 +1,93 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "snow",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "the coach's box of an esports arena of her element's kingdom — a tactics screen of map lines, a row of empty player seats and stage light",
+  "ownProp": "a strategy tablet",
+  "light": "dappled",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "calm",
+  "preset": "pocket_look",
+  "prop": "0",
+  "outfit": "an esports coach look fitted to her body — a cropped team jacket open over a sports-bra top, a short pleated skirt, a headset around her neck and sneakers",
+  "scene": "she is the strategy coach who reads the whole game",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the coach's box of an esports arena of her element's kingdom — a tactics screen of map lines, a row of empty player seats and stage light\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: midday — bright even light.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: an esports coach look fitted to her body — a cropped team jacket open over a sports-bra top, a short pleated skirt, a headset around her neck and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a strategy tablet at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the strategy coach who reads the whole game\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "e스포츠 팀 전략 코치",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "00abe29a5cf2a9cd65f8e9868a405d838479724de798b812b2dd0596f7652c45",
+  "ref_sha256": "2813fd31949bd0306dba1a5728bb3b979a6a856398ad57949ee1fc4d4509fead",
+  "webp_sha256": "18e38232b4853a33ae19d30f3fd027b7aaef41625036091b493da83817b551f5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "38c718815fa30c45e79de8a21c1b39231814cf7849eb6816b99c5447f59f15c0",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "00abe29a5cf2a9cd65f8e9868a405d838479724de798b812b2dd0596f7652c45",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "Tablet is held in her left hand instead of the generated right-hand instruction; crop extends below the waist."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}

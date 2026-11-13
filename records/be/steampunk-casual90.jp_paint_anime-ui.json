@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "a chess salon of her element's kingdom — small tables of boards mid-game, brass chess clocks and a haze of lamp light",
+  "ownProp": "a chess piece",
+  "expr": "amused",
+  "preset": "chair_cross_prop",
+  "prop": "0",
+  "outfit": "a chess master look fitted to her body — a waistcoat worn with nothing beneath, a short skirt, stockings, sleeve garters on bare arms and round spectacles",
+  "scene": "she is the chess salon's sage who sees ten moves ahead",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chess salon of her element's kingdom — small tables of boards mid-game, brass chess clocks and a haze of lamp light\nOutfit: a chess master look fitted to her body — a waistcoat worn with nothing beneath, a short skirt, stockings, sleeve garters on bare arms and round spectacles, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a chess piece at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the chess salon's sage who sees ten moves ahead\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "체스 살롱의 훈수 고수",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e0458fc09061215d560aad946c8c5ec56fbcff095b08b81aab6f24fc085c0e09",
+  "ref_sha256": "772ace22742c8e2d129c63020118f7152a3655d2a75ab2c54e0ca76939604d33",
+  "webp_sha256": "0284fa581f8afbc6e249b06aef81139a1cc28a8308618adb5b1295a25b65baf6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "d05cb4c0bf6ab0ddd0f16252b6d2f41bc819819294d876250a4fcee7d99405d7",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e0458fc09061215d560aad946c8c5ec56fbcff095b08b81aab6f24fc085c0e09",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "Additional numbers appear on the small chess clocks."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}

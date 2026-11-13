@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_jungle_ruins",
+  "ofam": "drape",
+  "item": "one_shoulder_goddess",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wave",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "spring",
+  "time": "morning",
+  "hair": "down",
+  "depth": "flat",
+  "color": "denim",
+  "situ": "sweat",
+  "expr": "focused",
+  "preset": "wave_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nWeather / season: spring — blossom petals drifting outside.\nTime of day: early morning — low clean light, long soft shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a one-shoulder goddess gown of flowing chiffon gathered at one shoulder with a gold brooch, the other shoulder and arm bare, a thigh-high slit — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "be": {
+    "era": "fantasy",
+    "place": "fx_jungle_ruins",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wave_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "wave",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "one_shoulder_goddess",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sweat",
+    "color": "denim",
+    "time": "morning",
+    "weather": "spring",
+    "hair": "down",
+    "depth": "flat"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "130b45dad1609731f79ec46d357a43b79b1101d1c76b2d7ca8c655f92bd91f99",
+  "ref_sha256": "2813fd31949bd0306dba1a5728bb3b979a6a856398ad57949ee1fc4d4509fead",
+  "webp_sha256": "1fbb024dafc731b70d7e035e8049478e3cbc31efcdd06b08a13465bfa5bc9e9c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "dd82e953fc12d4b13fdf272359b729bcb16f528ab8c5a970f46f25a0ae78e3f7"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "130b45dad1609731f79ec46d357a43b79b1101d1c76b2d7ca8c655f92bd91f99",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused."
+  ],
+  "cause": ""
+ }
+}

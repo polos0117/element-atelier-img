@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "offshoulder_knit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_carry",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "light": "low_warm",
+  "spot": "right_third",
+  "color": "jewel",
+  "denier": "d40",
+  "expr": "half_smile",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an off-shoulder knit top slipping from one shoulder over shorts — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she carries a small storage box against her waist — her own right hand under the right side of the box, her own left hand under the left side.\nLEGS: weight even on both legs.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "be": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "box_carry",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "offshoulder_knit",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "denier": "d40",
+    "light": "low_warm",
+    "spot": "right_third"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "433ec1276e809bc8d382aba9bc7a2a9ebf3f4284053d0071d05f162388105bbc",
+  "ref_sha256": "2813fd31949bd0306dba1a5728bb3b979a6a856398ad57949ee1fc4d4509fead",
+  "webp_sha256": "937a2616195cacbe34060bd8a0dcce86123a4ce499f0276504e3ecebf5726ca3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "277ce6a7bedf2cfecd8d259a7cfb54be515d176f57a7e8815b8442fd6eb4fc96"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "433ec1276e809bc8d382aba9bc7a2a9ebf3f4284053d0071d05f162388105bbc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "Nation kitchen rendered as ornate crystal architecture rather than a futuristic galley."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}

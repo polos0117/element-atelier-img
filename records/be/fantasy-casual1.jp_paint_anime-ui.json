@@ -1,0 +1,141 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_waterfall",
+  "ofam": "lingerie",
+  "item": "cage_back",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "noon",
+  "hair": "down",
+  "light": "back",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "mono",
+  "expr": "amused",
+  "preset": "kneel_clasp",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rocky waterfall pool under green trees\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: midday — bright even light.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a lingerie set whose bralette back is crossed by geometric straps — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "be": {
+    "era": "now",
+    "place": "water_waterfall",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_clasp",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "cage_back",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "noon",
+    "weather": "snow",
+    "hair": "down",
+    "light": "back",
+    "depth": "deep",
+    "view": "foreground"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e007fe2e125ae55e287a22870dac09c22a5d8e484b2f7d7a29022fb60b557e69",
+  "ref_sha256": "d9150960b2c95eb313a2692c323186a31d74fda150a98f34d8db310cfcb398bf",
+  "webp_sha256": "30f2df9ba712e6e4aa019e688aebc868c95fed9470d47c9ae15f4a1789dd6ea7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "503cdc7cab9273b7cc90a48bc2c7ae3c329c111ab4d2083dde8418771e0d3a5e",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "f4d322e0-3b29-4550-89bf-4e147e51a1b4"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success",
+    "prompt_unchanged": true
+   }
+  ]
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e007fe2e125ae55e287a22870dac09c22a5d8e484b2f7d7a29022fb60b557e69",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused."
+  ],
+  "cause": ""
+ }
+}

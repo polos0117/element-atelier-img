@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_entry",
+  "ofam": "traditional",
+  "item": "poncho_andes",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "hair": "down",
+  "depth": "layered",
+  "situ": "wet",
+  "expr": "wistful",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the entryway of her home with a shoe bench, coat hooks and a long mirror\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: an Andean woven layer — a striped handwoven poncho over a pollera skirt and a felt hat; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a cup at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "be": {
+    "era": "now",
+    "place": "home_entry",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_prop",
+    "use": "cup_hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "poncho_andes",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "hair": "down",
+    "depth": "layered"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a35c03833bde5d09fa4552042827940ba2faac1cd30596d7e193e475bd952b8f",
+  "ref_sha256": "d9150960b2c95eb313a2692c323186a31d74fda150a98f34d8db310cfcb398bf",
+  "webp_sha256": "7b3b27f24be4e19ba8eebfa1f84653b15101444d49dc8c25983f48a3d02d925e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "07235996737fc7134acdecd18f5ebff747de07b3e9232c8e2e9ed174fe000170"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a35c03833bde5d09fa4552042827940ba2faac1cd30596d7e193e475bd952b8f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "She sits on the bench instead of crouching low on her heels."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}

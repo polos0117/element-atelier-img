@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_fireworks",
+  "ofam": "traditional",
+  "item": "kebaya_daily",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "time": "neon",
+  "light": "side",
+  "color": "mono",
+  "expr": "relieved",
+  "preset": "walk_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a riverside seating area waiting for festival fireworks\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daily kebaya — a sheer embroidered fitted blouse over a batik sarong — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "be": {
+    "era": "now",
+    "place": "stage_fireworks",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_lookback",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "kebaya_daily",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "neon",
+    "light": "side"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9736ecfbdedef14317d52b990e2f754c997b977965fbf5eb48df7db020fa7032",
+  "ref_sha256": "2813fd31949bd0306dba1a5728bb3b979a6a856398ad57949ee1fc4d4509fead",
+  "webp_sha256": "ed88ff13135eb247d1148bf29a8efb09cf5184585951a7cc71bce3f6342814b4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "844c151aa7317187337de4dc8bf83c65d53bc93d2a4706b4a272a1a47d119acc"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9736ecfbdedef14317d52b990e2f754c997b977965fbf5eb48df7db020fa7032",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "Body faces three-quarters toward the camera rather than rear three-quarter; firework bursts are not clearly shown."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}

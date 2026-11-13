@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "be",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "be_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "site_pharmacy",
+  "ofam": "adventure",
+  "item": "safari_dress",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "weather": "spring",
+  "time": "golden",
+  "light": "dappled",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "proud",
+  "preset": "counter_work",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "be_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Beryllium (Be) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a pharmacy dispensing room with a long wooden counter, drawers of unlabelled glass jars, a brass scale and tall shelves\nWeather / season: spring — blossom petals drifting outside.\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a safari look — a belted khaki shirt dress with a short hem, a wide-brim hat and tall lace-up boots — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a raw six-sided aquamarine beryl crystal in pale sea blue in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — beryllium: a light, very stiff steel-grey metal hidden inside beryl, the mineral that grows clear as green emerald and sea-blue aquamarine; found in 1798 by Vauquelin and first called glucinium because its salts taste sweet, though its dust is poisonous to breathe; freed as metal in 1828 by Wohler and Bussy using potassium; X-rays pass through it almost untouched; gold-coated hexagonal beryllium mirrors gather the first starlight in a great space telescope — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/be/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "be",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "be": {
+    "era": "now",
+    "place": "site_pharmacy",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_work",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "safari_dress",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "golden",
+    "weather": "spring",
+    "light": "dappled",
+    "depth": "deep"
+   }
+  }
+ },
+ "execution": "element-be-20261113-3749",
+ "imported": "2026-11-13",
+ "acceptance": "Authorized QA and ordinary main publication; preserve generated outputs without exposure-based regeneration.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a11a5526869a0fd20233cbff52433bf3fc32ba5d6b7f5d4c356a7fa3ace966b6",
+  "ref_sha256": "772ace22742c8e2d129c63020118f7152a3655d2a75ab2c54e0ca76939604d33",
+  "webp_sha256": "7f4e9df446b445c2c77a34ec6a29fcf0e72d2868ebcd91522bb8dee8ddde529a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "4f8d3b8a7d5f43a0de68b402060f71f84b21cf9724879039210e9e4a23193e39"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a11a5526869a0fd20233cbff52433bf3fc32ba5d6b7f5d4c356a7fa3ace966b6",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult woman in focus; selected world image attached as the sole reference.",
+   "Visible limbs join naturally; no extra or disconnected arm or leg observed. Fingers in grips or clasped hands partially overlap.",
+   "Aquamarine hair and green eyes retain the selected character identity; no armour or crown reused.",
+   "Standing upright holding the crystal rather than leaning over the worktable."
+  ],
+  "cause": "Generated output deviates from the scene/crop/hand instruction as described."
+ }
+}
