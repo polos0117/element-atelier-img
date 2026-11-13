@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "s",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "s_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "everyday",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "feet_in_water",
+  "gaze": "horizon",
+  "own": "fantasy",
+  "placeText": "a hot-spring inn of her element's kingdom — a steaming rock pool, wooden buckets, folded towels and yellow mineral crust on the stones",
+  "spot": "right_third",
+  "view": "foreground",
+  "expr": "nostalgic",
+  "preset": "edge_dangle",
+  "prop": "",
+  "outfit": "a hot-spring hostess look fitted to her body — a thin bath robe slipping off both shoulders, tied loosely and falling open on her thighs",
+  "scene": "she is the mistress of a hot-spring inn testing the water",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "s_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hot-spring inn of her element's kingdom — a steaming rock pool, wooden buckets, folded towels and yellow mineral crust on the stones\nOutfit: a hot-spring hostess look fitted to her body — a thin bath robe slipping off both shoulders, tied loosely and falling open on her thighs, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the mistress of a hot-spring inn testing the water\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/s/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "온천 여관 안주인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "8857aa00cbaed8aeb4d0441d4097598d931eafaf8c462ee86dae0f8ccb3aa0ac",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "09478f6ff4fcd210536ac13552c5b9a51d3ad5110474bf7fb0e13b72b53d1a55",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "09478f6ff4fcd210536ac13552c5b9a51d3ad5110474bf7fb0e13b72b53d1a55",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "검은 머리의 노란 끝색·금빛 눈·참조 화풍 유지.",
+   "온천 가장자리에 앉아 두 손으로 가장자리를 짚고 발을 물에 담금; 팔·손·다리 연결 정상. 손가락 일부 겹침.",
+   "어깨가 드러나는 여관 차림, 화산 온천과 수건 배경.",
+   "계획의 화면 오른쪽을 보는 옆모습과 달리 화면 왼쪽을 본다."
+  ],
+  "cause": "COMPOSITION facing right와 실제 facing left 차이"
+ }
+}

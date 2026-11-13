@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "s",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "s_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "a pit garage of a race track of her element's kingdom — a racing machine on jacks, stacks of fresh tyres and bright strip lights",
+  "ownProp": "a pneumatic wheel gun",
+  "light": "low_warm",
+  "spot": "right_third",
+  "expr": "focused",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a pit mechanic look fitted to her body — a racing crew suit peeled to the waist with the sleeves tied over a cropped sport top, gloves and boots",
+  "scene": "she is a pit-crew tyre mechanic ready for the stop",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "s_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Sulfur (S) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a pit garage of a race track of her element's kingdom — a racing machine on jacks, stacks of fresh tyres and bright strip lights\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a pit mechanic look fitted to her body — a racing crew suit peeled to the waist with the sleeves tied over a cropped sport top, gloves and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a pneumatic wheel gun at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is a pit-crew tyre mechanic ready for the stop\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — sulfur: bright lemon-yellow crystals blooming at volcanic vents, burning at night with an eerie electric-blue flame, choking yellow fumes, brimstone-and-hellfire legend, one third of black gunpowder, the toughness of vulcanized black rubber, black basalt underfoot — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/s/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "레이싱 타이어 정비사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "00e2e97db04337176564c7fd8dff77405d6078a068f9944869f962fb6f8397ed",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "31f16e2973590c49cdfff317fd80ecbb8dd41dce094ad8fdba83ceefd22fb0c3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "31f16e2973590c49cdfff317fd80ecbb8dd41dce094ad8fdba83ceefd22fb0c3",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "한쪽 무릎을 꿇고 임팩트 공구를 들고 다른 손으로 바닥을 짚음. 두 팔·두 손·두 다리 연결 정상.",
+   "검정·노랑 머리, 금빛 눈, 회화적 화풍 유지.",
+   "레이싱 정비소와 타이어·차체, 허리에 묶은 작업복과 상의."
+  ]
+ }
+}
