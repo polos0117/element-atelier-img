@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "pb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pb_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_clockwork_shop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "the composing room of a newspaper of her element's kingdom — cases of metal type, an iron press and proof sheets hanging to dry",
+  "ownProp": "a composing stick of metal type",
+  "light": "top",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a typesetter look fitted to her body — an ink-stained printer's apron over a cropped camisole and short breeches, sleeve garters on bare arms and a paper cap",
+  "scene": "she is a typesetter setting tomorrow's headline",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pb_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lead (Pb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the composing room of a newspaper of her element's kingdom — cases of metal type, an iron press and proof sheets hanging to dry\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a typesetter look fitted to her body — an ink-stained printer's apron over a cropped camisole and short breeches, sleeve garters on bare arms and a paper cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a composing stick of metal type in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a typesetter setting tomorrow's headline\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lead: a dull blue-grey metal, heavy and soft enough to scratch with a fingernail — the stable end where uranium's long decay chain finally comes to rest; the shield that stops X-rays and radiation, the dark came that joins the pieces of stained glass, the cast type of the printing press, the Roman water pipes that gave plumbing its name; alchemy's Saturn; it tastes sweet but is poison; heavy, quiet and guarding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pb/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "신문사 식자공",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "414f009580862885b0d371ad1624043beaa43d3997ec0a52a8cea8b58a73a154",
+  "ref_sha256": "67c2b06ac5565138af325faef833776754b34fc66efec6dda7ab8763317f8c61",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "anatomy": "ok",
+  "image_sha256": "414f009580862885b0d371ad1624043beaa43d3997ec0a52a8cea8b58a73a154",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영.",
+   "활자와 신문에 작은 글자 획 및 앞치마에 토성형 기호가 보임. 재생성하지 않음."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}

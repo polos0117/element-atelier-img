@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "pb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a chancery scriptorium of her element's kingdom — a slanted writing desk, rolled charters, a seal press and tall candles",
+  "ownProp": "a document with a lead seal on a cord",
+  "light": "top",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "a chancery clerk look fitted to her body — a scholar's robe slipped off her shoulders over a laced bandeau, slit to the thigh, an ink-stained sash",
+  "scene": "she is a chancery clerk sealing a charter",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pb_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lead (Pb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chancery scriptorium of her element's kingdom — a slanted writing desk, rolled charters, a seal press and tall candles\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a chancery clerk look fitted to her body — a scholar's robe slipped off her shoulders over a laced bandeau, slit to the thigh, an ink-stained sash, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a document with a lead seal on a cord in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a chancery clerk sealing a charter\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lead: a dull blue-grey metal, heavy and soft enough to scratch with a fingernail — the stable end where uranium's long decay chain finally comes to rest; the shield that stops X-rays and radiation, the dark came that joins the pieces of stained glass, the cast type of the printing press, the Roman water pipes that gave plumbing its name; alchemy's Saturn; it tastes sweet but is poison; heavy, quiet and guarding — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/pb/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "납 인장 찍는 서기관",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f8ddaa1b618c4477f88b084aece86b2c8e06e69f46e6ef6327ce5ee2bc7e57bb",
+  "ref_sha256": "a1a7689ccd06f75e0d223ba5a61b52b6ecb5ad17226994c0168a57b2a201084e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "anatomy": "ok",
+  "image_sha256": "f8ddaa1b618c4477f88b084aece86b2c8e06e69f46e6ef6327ce5ee2bc7e57bb",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영.",
+   "문서에 유사 글자 획이 보임. 읽히는 문장은 확인되지 않음."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}
