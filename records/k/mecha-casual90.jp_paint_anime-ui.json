@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "own": "mecha",
+  "placeText": "an all-night laundromat of her element's kingdom — a row of round glass washer doors glowing, a folding counter and plastic chairs",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "candid",
+  "preset": "ankles_sit",
+  "prop": "",
+  "outfit": "a laundromat owner look fitted to her body — an oversized shirt worn as a dress and falling off one shoulder, bare legs and slip-on sandals",
+  "scene": "she is the owner of a coin laundry waiting out a cycle",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an all-night laundromat of her element's kingdom — a row of round glass washer doors glowing, a folding counter and plastic chairs\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a laundromat owner look fitted to her body — an oversized shirt worn as a dress and falling off one shoulder, bare legs and slip-on sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the owner of a coin laundry waiting out a cycle\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "코인 세탁소 주인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "faff88ed8bfbf059087d237fa87fb241cab50e35c14cdc96b469893d97a96efe",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c981af7c38be050499bd6b5c2f1166d6b44e93552ce6c68f56eb3fb8acc13340",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c981af7c38be050499bd6b5c2f1166d6b44e93552ce6c68f56eb3fb8acc13340",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "연보라 트윈테일과 녹색 눈·화풍 유지. 코인 세탁소 의자에서 셔츠 원피스와 슬리퍼 차림.",
+   "양팔·두 손·다리 이어짐 정상. 발가락은 작은 묘사로 정확한 개수 단정 어려움.",
+   "다리를 발목에서 모으는 계획과 달리 무릎을 교차함."
+  ],
+  "cause": "LEGS crossed ankles와 결과의 knee crossing 차이"
+ }
+}

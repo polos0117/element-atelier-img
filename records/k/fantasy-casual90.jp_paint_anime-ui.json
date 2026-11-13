@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "everyday",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "feet_in_water",
+  "gaze": "horizon",
+  "own": "fantasy",
+  "placeText": "a washing place by a stream of her element's kingdom — a stone washing slab, a wooden tub of suds and linen spread on the rocks",
+  "light": "dappled",
+  "expr": "candid",
+  "preset": "edge_dangle",
+  "prop": "",
+  "outfit": "a washerwoman look fitted to her body — a wet chemise slipped off one shoulder, a skirt tucked up high at the waist and a headscarf",
+  "scene": "she is a washerwoman cooling her feet after the wash",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a washing place by a stream of her element's kingdom — a stone washing slab, a wooden tub of suds and linen spread on the rocks\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a washerwoman look fitted to her body — a wet chemise slipped off one shoulder, a skirt tucked up high at the waist and a headscarf, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is a washerwoman cooling her feet after the wash\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "빨래터 세탁부",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "25f0932348e5d33a09571fe8b949ea0fb52ce594bdeac832adf087cd3b0d56ef",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cf1c0523d959ce9a5df42324e31f02455d3082c0f078118fc305fb319c822451",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cf1c0523d959ce9a5df42324e31f02455d3082c0f078118fc305fb319c822451",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "보랏빛 포니테일과 녹색 눈·참조 화풍 유지. 옆모습으로 세탁터 가장자리에 앉아 발을 물에 담금.",
+   "두 팔과 손·다리의 이어짐 정상; 양손으로 돌 가장자리를 짚음.",
+   "젖은 슈미즈·치마·머릿수건, 빨래·비누와 물가 배경."
+  ]
+ }
+}

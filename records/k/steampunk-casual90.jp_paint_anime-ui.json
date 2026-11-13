@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "k",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "k_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "own": "steampunk",
+  "placeText": "a soap shop of her element's kingdom — stacked bars of soap, glass jars of scented oils and a brass counter scale",
+  "ownProp": "a paper-wrapped bar of soap",
+  "expr": "soft_smile",
+  "preset": "wrap_close",
+  "prop": "0",
+  "outfit": "a soap seller look fitted to her body — a frilled apron over a lace-trimmed camisole and a short skirt, stockings and a hair ribbon",
+  "scene": "she is a soap-shop keeper wrapping a bar",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "k_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Potassium (K) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a soap shop of her element's kingdom — stacked bars of soap, glass jars of scented oils and a brass counter scale\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a soap seller look fitted to her body — a frilled apron over a lace-trimmed camisole and a short skirt, stockings and a hair ribbon, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a paper-wrapped bar of soap in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is a soap-shop keeper wrapping a bar\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — potassium: a soft silver-white metal that cuts like cold butter and must sleep under oil; dropped in water it skates and bursts into lilac flame, wilder than sodium; named for potash, the ash of burned wood leached in iron pots; the first metal pulled out by electric current, by Humphry Davy in 1807; its ions carry every nerve signal and keep the heart beating; potash feeds the fields and saltpetre feeds gunpowder — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/k/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "비누 가게 주인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "a045e445047a447a544f86bab719ff3541001b5627db28848856a0dd0dcad036",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d49ee6c836fb2e89cec4d9e0106f5fe7daa1eef85cbeed42f6e7597fe7c4b03b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d49ee6c836fb2e89cec4d9e0106f5fe7daa1eef85cbeed42f6e7597fe7c4b03b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "연보라색 머리·청록빛 눈과 화풍 유지. 앞치마·레이스 캐미솔과 리본.",
+   "두 손으로 포장 비누를 들며 양팔과 손 연결 정상, 일부 손가락은 포장 뒤 가림.",
+   "비누·라벤더·저울이 있는 가게의 가슴 위 구도."
+  ]
+ }
+}
