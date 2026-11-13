@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "p",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "p_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "a dance floor of a night club of her element's kingdom — black light, glowing green floor lines and drifting haze",
+  "expr": "pensive",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "a glow dancer look fitted to her body — a glow-trimmed bikini top and micro shorts, glowing body paint lines, leg warmers and platform boots",
+  "scene": "she is a glow dancer on the floor of a night club",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "p_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Phosphorus (P) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dance floor of a night club of her element's kingdom — black light, glowing green floor lines and drifting haze\nTime of day: midday — bright even light.\nOutfit: a glow dancer look fitted to her body — a glow-trimmed bikini top and micro shorts, glowing body paint lines, leg warmers and platform boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is a glow dancer on the floor of a night club\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — phosphorus: its name means light-bringer — the white form glows a ghostly green in the dark, first boiled down by an alchemist in 1669; red phosphorus on every matchbox striker; the phosphate backbone of DNA and the mineral of bones and teeth, spread on fields as fertilizer; white phosphorus bursts into flame on its own in air and must be kept under water; luminous, life-giving and dangerous — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/p/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "야광 클럽 댄서",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "eeb219183fe2e3c112ffa183ebf66ba51db747733d938f5f6e55d9bc45289680",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b4d42797f925a79d7d2a2d7d2dfffec3980b37b0ebe4402568657b4b824453d8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 2,
+   "blocked": [
+    "Initial parallel request returned no image result; error detail was not retained. Same unchanged prompt retried once; successful image preserved."
+   ]
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b4d42797f925a79d7d2a2d7d2dfffec3980b37b0ebe4402568657b4b824453d8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "긴 백금색 포니테일·녹색 눈과 회화적 화풍 유지.",
+   "두 팔·두 손이 머리 옆과 허리에 자연스럽게 연결됨. 손가락 일부는 머리와 겹침.",
+   "클럽의 야광 무늬·비키니 상의·짧은 반바지·레그워머. 배경 인물은 흐린 부차 인물."
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "p",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "p_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_stairs",
+  "ofam": "everyday",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "weather": "summer",
+  "time": "noon",
+  "own": "fantasy",
+  "placeText": "a lamp-lit lane of her element's kingdom at nightfall — a row of iron street lanterns, a short ladder and a long lighting pole against the wall",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "deep",
+  "expr": "proud",
+  "preset": "step_pause",
+  "prop": "",
+  "outfit": "a lamplighter look fitted to her body — a short cloak thrown back over a laced bandeau, short breeches, tall boots and a cap",
+  "scene": "she is a lamplighter pausing on the step between lamps",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "p_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Phosphorus (P) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lamp-lit lane of her element's kingdom at nightfall — a row of iron street lanterns, a short ladder and a long lighting pole against the wall\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: midday — bright even light.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a lamplighter look fitted to her body — a short cloak thrown back over a laced bandeau, short breeches, tall boots and a cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a lamplighter pausing on the step between lamps\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — phosphorus: its name means light-bringer — the white form glows a ghostly green in the dark, first boiled down by an alchemist in 1669; red phosphorus on every matchbox striker; the phosphate backbone of DNA and the mineral of bones and teeth, spread on fields as fertilizer; white phosphorus bursts into flame on its own in air and must be kept under water; luminous, life-giving and dangerous — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/p/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "가로등 점등인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-si-ca-670b-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "67fecbf7a0e3cba7fa0430577219bedbcedca838e13993e010c68952df12463f",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a558a1d13735eb8d831e92496df71ee274039f5f30b796a3d3ead256003e487d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved. Exact generator prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a558a1d13735eb8d831e92496df71ee274039f5f30b796a3d3ead256003e487d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "긴 백금발·녹색 눈·화풍 유지. 계단에 한쪽 발을 올리고 등불 사이에서 쉼.",
+   "양팔·두 손·두 다리 연결 정상; 한 손 허리에, 다른 손 허벅지에 둠.",
+   "짧은 망토·반도·반바지·모자·부츠."
+  ]
+ }
+}
