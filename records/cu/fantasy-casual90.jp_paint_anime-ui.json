@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "cu",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cu_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_roof",
+  "ofam": "everyday",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "own": "fantasy",
+  "placeText": "the open belfry of a bell tower of her element's kingdom — great green-patina bells overhead, coiled bell ropes and the roofs of the town far below",
+  "light": "back",
+  "depth": "deep",
+  "view": "foreground",
+  "expr": "nostalgic",
+  "preset": "floor_horizon",
+  "prop": "",
+  "outfit": "a bell-ringer look fitted to her body — a short laced bodice over a bandeau, a wrap skirt tied high on one hip, rope-worn gloves and soft boots",
+  "scene": "she is the bell-tower keeper resting between the hours",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cu_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the open belfry of a bell tower of her element's kingdom — great green-patina bells overhead, coiled bell ropes and the roofs of the town far below\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a bell-ringer look fitted to her body — a short laced bodice over a bandeau, a wrap skirt tied high on one hip, rope-worn gloves and soft boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the bell-tower keeper resting between the hours\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cu/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "종탑지기",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "0b2146aad48670ddbb31ae56e864f352d1e384daca7792564ea59e942e14e2f0",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8a5f54b29dd51c0fe20cfd18d1c6b058ecb9cc9cb0cebc1eda8797db513226ca",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8a5f54b29dd51c0fe20cfd18d1c6b058ecb9cc9cb0cebc1eda8797db513226ca",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Copper-red braids, teal eyes, freckles and skin retained; seated in bell tower with wrapped skirt and bodice.",
+   "Both arms and hands connected; folded legs and boots coherent.",
+   "Reference motifs remain in bodice and skirt."
+  ],
+  "cause": "Reference colour motifs carried into work outfit."
+ }
+}

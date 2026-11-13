@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "cu",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cu_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "a server aisle of a data centre of her element's kingdom — tall racks of blinking lights, overhead cable trays and a cool blue glow",
+  "ownProp": "a bundle of copper patch cables",
+  "depth": "deep",
+  "expr": "calm",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a network engineer look fitted to her body — a cropped zip hoodie open over a sports-bra top, short cargo shorts, a tool pouch on her hip and sneakers",
+  "scene": "she is a network engineer re-cabling a rack",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cu_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Copper (Cu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a server aisle of a data centre of her element's kingdom — tall racks of blinking lights, overhead cable trays and a cool blue glow\nOutfit: a network engineer look fitted to her body — a cropped zip hoodie open over a sports-bra top, short cargo shorts, a tool pouch on her hip and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a bundle of copper patch cables at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is a network engineer re-cabling a rack\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copper: warm rose-red metal, the first metal humans ever smelted — bronze-age blades, shields and temple bells; it carries electricity through every wire in the world; left in the rain it ages to blue-green verdigris like an old statue; warm, conductive and hard-working — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/cu/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "데이터센터 네트워크 기사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bfe21f0959c6d98c3683b8a2c203d6fc8ca87553278a04bfdca2144db47275f1",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3b343c736ae3c3fe3939587c7f0aab77ce6322018df5896ca1d34bc772b1e841",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3b343c736ae3c3fe3939587c7f0aab77ce6322018df5896ca1d34bc772b1e841",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Short copper hair, teal eyes and freckles retained; half-kneeling engineer holds patch cable bundle.",
+   "Two connected arms and legs; visible fingers attach naturally.",
+   "Patina motifs persist on hoodie and tool pouch."
+  ],
+  "cause": "Reference motifs carried into everyday outfit."
+ }
+}
