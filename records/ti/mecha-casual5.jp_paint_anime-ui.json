@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_pirate_ship",
+  "ofam": "halloween",
+  "item": "hw_ghost_bride",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "summer",
+  "time": "noon",
+  "view": "foreground",
+  "expr": "nostalgic",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the deck of a tall wooden sailing ship at sea — rigging, a ship's wheel, coiled ropes, wooden stairs up to the quarterdeck and billowing sails\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: midday — bright even light.\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small titanium carabiner blooming with rainbow heat-tint bands at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "ti": {
+    "era": "fantasy",
+    "place": "fx_pirate_ship",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_cup",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "hw_ghost_bride",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "noon",
+    "weather": "summer",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "c8418aa16a320f83a0c25a38097252ffd87b6d1c1e55960a7be4dd8a469ba163",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "220b1612473885bb09ac89f246b841cee1a2a848d9b4a5e12e93a862baf2d17a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "91586f0212eabee3dcbf3dde312ed4f3f6b4350cfd5c22437f6597b2b1d8595b",
+  "regenerated": false
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "220b1612473885bb09ac89f246b841cee1a2a848d9b4a5e12e93a862baf2d17a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; selected mecha face, eye colours and hair colours retained.",
+   "Right hand holds the titanium carabiner and left hand rests on the rail; both arms visibly connect to the torso."
+  ]
+ }
+}

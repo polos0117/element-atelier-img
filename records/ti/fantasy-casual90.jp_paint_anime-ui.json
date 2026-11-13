@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "weather": "autumn",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "the sand floor of an arena of her element's kingdom — stone weights, a rack of iron bars and tiers of empty seats",
+  "expr": "proud",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "an arena strongwoman look fitted to her body — a leather wrestling bandeau, a short battle kilt, wrist wraps and laced sandals",
+  "scene": "she is an arena strongwoman chalking up before a lift",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the sand floor of an arena of her element's kingdom — stone weights, a rack of iron bars and tiers of empty seats\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: an arena strongwoman look fitted to her body — a leather wrestling bandeau, a short battle kilt, wrist wraps and laced sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is an arena strongwoman chalking up before a lift\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "투기장 역사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "bfe5e4dba2c219f9e91f18173d4f16371652ce7fe1b7a7489e83bd216b476410",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7018b3d57e738b6d6a9bf09944dd4091207212dc06f7364f93f785613163c6ad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "277a8d514aae630d2617b2ed223167df90174050883c781537ab59f8ab8ea04a",
+  "regenerated": false,
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7018b3d57e738b6d6a9bf09944dd4091207212dc06f7364f93f785613163c6ad",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; same selected-world identity and Japanese painterly finish.",
+   "Both arms and hands have natural connections; chalk is visible on the wrapped wrist.",
+   "The activity reads as a posed preparation rather than actively applying chalk; feet are cropped."
+  ]
+ }
+}

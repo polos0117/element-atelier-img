@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "own": "mecha",
+  "placeText": "a cargo dock of her element's kingdom — stacked containers, a parked load-lifting exoskeleton frame and yellow floor markings",
+  "light": "low_warm",
+  "view": "foreground",
+  "expr": "candid",
+  "preset": "step_pause",
+  "prop": "",
+  "outfit": "a dock loader look fitted to her body — a cropped high-vis vest over a sports-bra top, low-slung work shorts, a support belt and heavy boots",
+  "scene": "she is a dock loader stepping out of her lifting frame for a break",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a cargo dock of her element's kingdom — stacked containers, a parked load-lifting exoskeleton frame and yellow floor markings\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a dock loader look fitted to her body — a cropped high-vis vest over a sports-bra top, low-slung work shorts, a support belt and heavy boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is a dock loader stepping out of her lifting frame for a break\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "외골격 하역 작업자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "c8418aa16a320f83a0c25a38097252ffd87b6d1c1e55960a7be4dd8a469ba163",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "32c89d61acfea174b3d9fc67735630bcb14ba5bad05d6d07df5cc872924b44c1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "1a0a1dbf70facb38d5b8233b9b18027bb2c7d3ecd60a7d9696c641abff9a6d64",
+  "regenerated": false,
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "32c89d61acfea174b3d9fc67735630bcb14ba5bad05d6d07df5cc872924b44c1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; selected mecha face, eye colours and hair colours retained.",
+   "Both arms and hands connect naturally with one hand on the hip and one on the raised knee; both work boots rest on visible supports."
+  ]
+ }
+}

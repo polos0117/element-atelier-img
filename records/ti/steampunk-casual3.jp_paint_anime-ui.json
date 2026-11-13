@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_bookstall",
+  "ofam": "workwear",
+  "item": "painter_dungaree",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "cheek",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "night_snow",
+  "time": "night",
+  "hair": "tied",
+  "light": "side",
+  "depth": "flat",
+  "denier": "d40",
+  "expr": "candid",
+  "preset": "cheek_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a second-hand book stall under an awning on a quiet street, crates of books on trestle tables and a folding stool\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: paint-flecked white painter's dungarees with one strap down over a cropped tee; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ti": {
+    "era": "now",
+    "place": "street_bookstall",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cheek_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "painter_dungaree",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d40",
+    "time": "night",
+    "weather": "night_snow",
+    "hair": "tied",
+    "light": "side",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "769f35eaf5deefc150b756c355c20e89b89b51a9438bfc5fad8f00318b8b790b",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bd08d6b39914519528468bc7ecac55e3871dd9c5ec9d7f32d2c0c9f408c338ed",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "8d2919dda5ce7331299e822fe190d86b16c0946a6147bcb4a22b56c5bfe59b6a",
+  "regenerated": false
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bd08d6b39914519528468bc7ecac55e3871dd9c5ec9d7f32d2c0c9f408c338ed",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; selected steampunk face and hair colours retained.",
+   "The visible hand rests on her cheek; the other hand is out of the planned close crop.",
+   "Book spine ornament resembles lettering although no clear words can be read."
+  ]
+ }
+}

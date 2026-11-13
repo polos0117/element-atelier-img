@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_oasis",
+  "ofam": "lingerie",
+  "item": "slip_lingerie",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "hair": "hat",
+  "color": "earth",
+  "expr": "relieved",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a desert oasis at golden hour — date palms, a still turquoise pool and silk tents on the dunes\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a bias-cut satin slip with narrow straps and a straight hem — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "ti": {
+    "era": "fantasy",
+    "place": "fx_oasis",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "slip_lingerie",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "hair": "hat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "769f35eaf5deefc150b756c355c20e89b89b51a9438bfc5fad8f00318b8b790b",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d1626ac8c082343348a8b3ac830d263349c6e3d915b68916ec285dd2213c2494",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "71ff975aa63d9996019067e1f18136ed45a95e3fba031724460b67f40697cdca",
+  "regenerated": false
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d1626ac8c082343348a8b3ac830d263349c6e3d915b68916ec285dd2213c2494",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; selected steampunk face and hair colours retained.",
+   "The right forearm supports her chin on her raised knee; left palm rests on the ground, both arms naturally joined.",
+   "One bent knee is raised and the other leg rests folded on the rug."
+  ]
+ }
+}

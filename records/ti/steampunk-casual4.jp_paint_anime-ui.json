@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "museum_workshop",
+  "ofam": "adventure",
+  "item": "pirate_captain",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "weather": "rain",
+  "time": "lamplight",
+  "light": "top",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "denim",
+  "situ": "sleeves_up",
+  "expr": "sensual",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a museum hands-on workshop table before opening, glass display cases, stools and tall windows\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a pirate-captain look — a long brocade coat worn open over a cropped bustier top, a wide buckled belt, hot pants and thigh-high boots — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; right now — mid-task she has pushed her sleeves up above the elbows and opened one more button at the collar, baring her forearms and collarbones, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "ti": {
+    "era": "now",
+    "place": "museum_workshop",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "pirate_captain",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sleeves_up",
+    "color": "denim",
+    "time": "lamplight",
+    "weather": "rain",
+    "light": "top",
+    "spot": "right_third",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "769f35eaf5deefc150b756c355c20e89b89b51a9438bfc5fad8f00318b8b790b",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6589939ef6d462327e3e6cd9845d6ef591eead8e9f622fcfe941ccc66f27c842",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "97a06afd55a3f00afee97d46fa34bbbc5ce0fe079040e94f085013d7d1ff4e50",
+  "regenerated": false
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6589939ef6d462327e3e6cd9845d6ef591eead8e9f622fcfe941ccc66f27c842",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; selected steampunk face and hair colours retained.",
+   "Both arms and hands visibly tie a raised boot; two legs and two boots have natural connections."
+  ]
+ }
+}

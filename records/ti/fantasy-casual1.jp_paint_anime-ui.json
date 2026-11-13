@@ -1,0 +1,132 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_indoor_pool",
+  "ofam": "lingerie",
+  "item": "negligee_silk",
+  "posture": "soak",
+  "support": "water",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "water_trail",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dusk",
+  "spot": "left_third",
+  "depth": "layered",
+  "color": "neutral",
+  "expr": "amused",
+  "preset": "soak_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an indoor lap pool with lane ropes, a tiled deck, a starting block and tall windows\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a long silk negligee with a lace bodice, thin straps and a side slit — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "ti": {
+    "era": "now",
+    "place": "water_indoor_pool",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "soak_hair",
+    "use": "",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "negligee_silk",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "dusk",
+    "spot": "left_third",
+    "depth": "layered"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "bfe5e4dba2c219f9e91f18173d4f16371652ce7fe1b7a7489e83bd216b476410",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cebbd2823b237591353e4297663213480428e90c86c74934a6c69ef7074e3106",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "32e026188d983c77c3436326ca4f1fe5b0ff48f5fd6f3fea92c8805ad1d8b935",
+  "regenerated": false,
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked output sexual; no image returned"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated from same unchanged prompt"
+   }
+  ]
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cebbd2823b237591353e4297663213480428e90c86c74934a6c69ef7074e3106",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; same selected-world identity and Japanese painterly finish.",
+   "Both hands connect correctly; the right hand touches hair and left hand trails the water.",
+   "The figure sits higher in the water than the chest-deep instruction."
+  ]
+ }
+}

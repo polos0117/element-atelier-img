@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "ti",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ti_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "maintenance_shed",
+  "ofam": "workwear",
+  "item": "coverall_tied",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "depth": "flat",
+  "view": "glass",
+  "color": "vivid",
+  "expr": "proud",
+  "preset": "light_check",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ti_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Titanium (Ti) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a maintenance shed with a long workbench, tool racks overhead and its door open onto the yard\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a mechanic's coverall with its top half peeled down and the sleeves tied at the waist over a fitted cropped tank top, work boots — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small titanium carabiner blooming with rainbow heat-tint bands up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — titanium: a dark gunmetal-grey metal named for the Titans, the giant children of the Earth — as strong as steel yet far lighter; it shrugs off seawater and never corrodes, and inside the body living bone grows right onto it; heated, its surface blooms into rainbow heat-tint bands of straw gold, purple and deep blue; its oxide is the purest, most brilliant white pigment; quiet, unbending and enduring — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ti/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ti",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ti": {
+    "era": "now",
+    "place": "maintenance_shed",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "light_check",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "coverall_tied",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "lamplight",
+    "depth": "flat",
+    "view": "glass"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "bfe5e4dba2c219f9e91f18173d4f16371652ce7fe1b7a7489e83bd216b476410",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f02267d36c1331156d548d05326335193a047cd93afb48340d404387148ff006",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "b23d54f675690d385136bece9212e13038cd57637fb3d6d158227f2d2fc09d3f",
+  "regenerated": false
+ },
+ "execution": "element-ti-20261113-9355",
+ "imported": "2026-11-13",
+ "acceptance": "user approved selection 3,1,4 and main push; preserve generated image",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f02267d36c1331156d548d05326335193a047cd93afb48340d404387148ff006",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 verified; same selected-world identity and Japanese painterly finish.",
+   "The visible arm and hand hold a titanium carabiner; the far hand is outside the planned crop."
+  ]
+ }
+}
