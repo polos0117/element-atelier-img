@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "fe",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fe_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_platform",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "time": "dusk",
+  "own": "steampunk",
+  "placeText": "a railway platform of her element's kingdom beside the cab of a steam locomotive — a glowing firebox door, brass gauges and drifting steam",
+  "spot": "right_third",
+  "expr": "pensive",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "a locomotive stoker look fitted to her body — soot-smudged bib overalls with the bib dropped to her waist over a cropped tank top, a neckerchief, leather gloves and boots",
+  "scene": "she is a locomotive stoker catching her breath beside the cab",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "fe_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iron (Fe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a railway platform of her element's kingdom beside the cab of a steam locomotive — a glowing firebox door, brass gauges and drifting steam\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a locomotive stoker look fitted to her body — soot-smudged bib overalls with the bib dropped to her waist over a cropped tank top, a neckerchief, leather gloves and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is a locomotive stoker catching her breath beside the cab\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/fe/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "증기기관차 화부",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "73f7a042681ec345a9c7dff46ee6b770d28a48f27444ddfed9e6655db98e7a5f",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "78dd75079a902685029ca39cb3fd72cdf93077617284450d7b738f202a72a87f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "78dd75079a902685029ca39cb3fd72cdf93077617284450d7b738f202a72a87f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Grey wavy hair, blue-grey eyes and skin tone retained; soot-marked stoker workwear and locomotive firebox present.",
+   "Two connected arms; gloved hands attach naturally. Feet cropped in this tighter composition."
+  ],
+  "cause": "Composition is tighter than full-body request; inherited gear emblem remains."
+ }
+}

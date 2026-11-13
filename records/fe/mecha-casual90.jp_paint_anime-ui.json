@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "fe",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fe_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "mecha",
+  "placeText": "a maintenance bay of an orbital elevator of her element's kingdom — a gleaming guide rail rising through the ceiling, tool racks and amber warning lights",
+  "ownProp": "a compact rail-gauge scanner",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "half_smile",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a track technician look fitted to her body — an orange maintenance jumpsuit peeled down and tied at her waist over a cropped compression top, a harness belt and magnetic boots",
+  "scene": "she is a track technician checking the guide rail of an orbital elevator",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "fe_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iron (Fe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a maintenance bay of an orbital elevator of her element's kingdom — a gleaming guide rail rising through the ceiling, tool racks and amber warning lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a track technician look fitted to her body — an orange maintenance jumpsuit peeled down and tied at her waist over a cropped compression top, a harness belt and magnetic boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a compact rail-gauge scanner at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is a track technician checking the guide rail of an orbital elevator\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/fe/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "궤도 선로 정비사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-own-fe-sn-20261113-1e7e",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "99deb575eba9cb7d89ba4e92b75d65245e082e4e949662364b1cdcd139a29982",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5afc88dffe309903534f9b1e2ef6f5254afe3a58ba5f65b2654c0e59c971bc2d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5afc88dffe309903534f9b1e2ef6f5254afe3a58ba5f65b2654c0e59c971bc2d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Grey braids, amber eyes and painterly finish retained; kneeling technician holds scanner beside orbital rail.",
+   "Two arms and two legs connected; visible fingers look naturally attached.",
+   "Mechanical plated boot and some harness detail persist from reference."
+  ],
+  "cause": "Reference armour influenced magnetic boots despite instruction to leave armour behind."
+ }
+}
