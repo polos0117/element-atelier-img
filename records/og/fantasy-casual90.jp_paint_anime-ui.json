@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "og",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "og_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a back-alley corner of her element's kingdom — a low crate with three cups and one bead, a lantern and a quick way out",
+  "ownProp": "a small wooden cup",
+  "light": "side",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a shell-game trickster look fitted to her body — a short patched vest over a bandeau, tiny breeches, striped stockings, fingerless gloves and a cap pulled low",
+  "scene": "she is a shell-game trickster, her hands faster than any eye",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "og_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oganesson (Og) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a back-alley corner of her element's kingdom — a low crate with three cups and one bead, a lantern and a quick way out\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a shell-game trickster look fitted to her body — a short patched vest over a bandeau, tiny breeches, striped stockings, fingerless gloves and a cap pulled low, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small wooden cup at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a shell-game trickster, her hands faster than any eye\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a synthetic superheavy element that exists for less than a millisecond — only a handful of atoms have ever been made, nobody has ever seen it: it flickers in and out of existence, its edges dissolve into light and scatter as it decays into lighter elements; by position it belongs to the noble-gas royalty (aloof, never mixing) yet is predicted to be a strange heavy solid — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/og/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "구슬 야바위꾼",
+  "level": "bold"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2658da3cd05f9ca724c63b9bcd70f93f8f3e823634dda8b656563da1f5b12fa5",
+  "ref_sha256": "c23ed4dec9fd0524b34eebff37f23d8f940249810f6d10dcbcfbf08513a373c0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "2658da3cd05f9ca724c63b9bcd70f93f8f3e823634dda8b656563da1f5b12fa5",
+  "observations": [
+   "세계 참조 인물의 얼굴·눈·머리와 작화 유지. 팔·손 연결에서 추가되거나 분리된 부위는 보이지 않음. 직업 장면 반영."
+  ]
+ },
+ "execution": "element-own-0ce6367026f7-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user authorized 2026-11-13"
+}
