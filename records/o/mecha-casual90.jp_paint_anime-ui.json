@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "o",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a basketball arena of her element's kingdom — a gleaming court, a hoop and backboard high above and banks of light",
+  "ownProp": "a basketball",
+  "light": "top",
+  "depth": "deep",
+  "expr": "confident",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a basketball player look fitted to her body — a cropped sleeveless jersey and short basketball shorts worn low, a wristband and high-top sneakers",
+  "scene": "she is a basketball star famous for hanging in the air, walking out for the last shot",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "o_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oxygen (O) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a basketball arena of her element's kingdom — a gleaming court, a hoop and backboard high above and banks of light\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a basketball player look fitted to her body — a cropped sleeveless jersey and short basketball shorts worn low, a wristband and high-top sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a basketball low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a basketball star famous for hanging in the air, walking out for the last shot\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/o/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "농구 선수(에어)",
+  "level": "bold"
+ },
+ "execution": "element-own-c-na-20261113-8841",
+ "imported": "2026-11-13",
+ "acceptance": "User approved generation and main publication on 2026-11-13",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "6ec83f2eca3a0bfad0db6b1aceee89d1bdc88306c9a8136a0ff05add573edbb3",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1cda3063b25ab9f94b7c6d7e3cfca7a3d3f15bbf3581aec5334646d3fe4def8c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "note": "Original generated image preserved; exact prompt is in prompt field."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1cda3063b25ab9f94b7c6d7e3cfca7a3d3f15bbf3581aec5334646d3fe4def8c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Basketball player walking with ball low in right hand and left arm relaxed, two connected arms and two correctly connected legs.",
+   "Blue short hair, blue eyes and painted anime finish retained, full body visible.",
+   "Original green and orange motifs retained on jersey; only O symbol visible, no other text."
+  ],
+  "cause": "Reference motif influence on outfit."
+ }
+}
