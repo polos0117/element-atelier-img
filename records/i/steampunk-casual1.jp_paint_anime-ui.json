@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "i",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "i_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "swimwear",
+  "item": "crossstrap_swim",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "legs": "",
+  "gaze": "",
+  "weather": "fog",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "denim",
+  "expr": "proud",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "i_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iodine (I) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop lookout over a wide valley\nWeather / season: a misty morning — soft fog outside.\nOutfit: a swimsuit with crossed back straps and a scooped front — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iodine: born in 1811 when Bernard Courtois, a Paris saltpetre maker, saw a violet vapor rise from seaweed ash, and named for the Greek word for violet; lustrous blue-black crystals that skip the liquid and sublime straight into violet vapor, then frost back into crystals on anything cold; the amber-brown tincture painted on wounds, the pinch in iodized salt that keeps the thyroid well; turns starch a deep blue-black; its vapor sensitized the silver plates of the first daguerreotypes; the gentlest and heaviest stable halogen, a healer of the sea who vanishes into mist and reappears — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/i/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4c31314647e6c3d1d509c84db9a3c733d45b2e2b45d93b7d27e2e9bd33473caf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "4feb2b04eb9479010628b8befef44a7aaa9af2824ad27ce8776fd3fee6023d2f"
+ },
+ "execution": "element-i-69fd-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-iodine-69fd",
+  "image_sha256": "4c31314647e6c3d1d509c84db9a3c733d45b2e2b45d93b7d27e2e9bd33473caf",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "전망대에서 두 손으로 컵을 감싼 자세",
+   "단발머리·호박색 눈 유지"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — 캐릭터별 완료 후 일반 main 반영 승인; 생성 이미지 임의 재생성 금지"
+}

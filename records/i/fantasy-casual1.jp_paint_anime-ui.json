@@ -1,0 +1,75 @@
+{
+ "atelier": "element",
+ "card": "i",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "i_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_camp",
+  "ofam": "swimwear",
+  "item": "asymmetric_swim",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "guitar_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "dusk",
+  "spot": "left_third",
+  "depth": "deep",
+  "color": "earth",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "i_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iodine (I) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a quiet campsite with a small tent and a cooking kit\nTime of day: dusk — blue hour, lights coming on.\nOutfit: an asymmetric one-shoulder swimsuit with a clean diagonal neckline — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries an acoustic guitar by its neck at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iodine: born in 1811 when Bernard Courtois, a Paris saltpetre maker, saw a violet vapor rise from seaweed ash, and named for the Greek word for violet; lustrous blue-black crystals that skip the liquid and sublime straight into violet vapor, then frost back into crystals on anything cold; the amber-brown tincture painted on wounds, the pinch in iodized salt that keeps the thyroid well; turns starch a deep blue-black; its vapor sensitized the silver plates of the first daguerreotypes; the gentlest and heaviest stable halogen, a healer of the sea who vanishes into mist and reappears — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/i/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "563027169e72885f1115fa87e9d78420a4807f7ccec68cc75c6d26b5dadb5e3c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "4f3eee5daca7fb9cf2465e31821c4bebf5ca0c6d6253fa18c381c439e9c2f541"
+ },
+ "execution": "element-i-69fd-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-iodine-69fd",
+  "image_sha256": "563027169e72885f1115fa87e9d78420a4807f7ccec68cc75c6d26b5dadb5e3c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "캠프장과 기타·원숄더 수영복 표현",
+   "계획의 뒷모습 대신 정면으로 표현됨",
+   "발과 팔의 추가·분리 없음"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — 캐릭터별 완료 후 일반 main 반영 승인; 생성 이미지 임의 재생성 금지"
+}

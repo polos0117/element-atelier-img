@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "i",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "i_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_footbath",
+  "ofam": "swimwear",
+  "item": "crochet_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "neon",
+  "hair": "tied",
+  "spot": "right_third",
+  "color": "pattern",
+  "expr": "nostalgic",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "i_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iodine (I) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hot-spring town footbath under a wooden roof\nTime of day: night under neon and signage light, coloured reflections.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a fully lined crochet-knit bikini in a sunny resort colour — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iodine: born in 1811 when Bernard Courtois, a Paris saltpetre maker, saw a violet vapor rise from seaweed ash, and named for the Greek word for violet; lustrous blue-black crystals that skip the liquid and sublime straight into violet vapor, then frost back into crystals on anything cold; the amber-brown tincture painted on wounds, the pinch in iodized salt that keeps the thyroid well; turns starch a deep blue-black; its vapor sensitized the silver plates of the first daguerreotypes; the gentlest and heaviest stable halogen, a healer of the sea who vanishes into mist and reappears — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/i/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0ae3bc862658abc3b5c4722cdaa9ef14c80d3481473f2ba2f52bdf152b2da529",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "e93fa36d9151d24ff992a9f827edb29f08d8aef35f54d397b94ce41e7416ba7e",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "0623c9d8-a0df-476c-8c84-b2f65fc9c9a4"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated",
+    "same_prompt": true
+   }
+  ]
+ },
+ "execution": "element-i-69fd-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-iodine-69fd",
+  "image_sha256": "0ae3bc862658abc3b5c4722cdaa9ef14c80d3481473f2ba2f52bdf152b2da529",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "온천 마을에서 카메라로 내민 오른손과 왼손 쇄골 동작",
+   "팔과 손의 연결 자연스러움"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — 캐릭터별 완료 후 일반 main 반영 승인; 생성 이미지 임의 재생성 금지"
+}

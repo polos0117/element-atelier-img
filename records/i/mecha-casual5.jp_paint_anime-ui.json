@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "i",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "i_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_saltpan",
+  "ofam": "traditional",
+  "item": "barong_inspired",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "salt_pinch",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "night_snow",
+  "time": "night",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "deep",
+  "color": "vivid",
+  "expr": "sensual",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "i_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iodine (I) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wide salt pan at low tide, shallow brine mirroring the sky, wooden rakes and heaps of white salt\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a barong-inspired sheer embroidered top over simple trousers or skirt — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a pinch of salt out of a small jar of coarse salt — her own right hand pinches the salt between two fingers, her own left hand holds the jar.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iodine: born in 1811 when Bernard Courtois, a Paris saltpetre maker, saw a violet vapor rise from seaweed ash, and named for the Greek word for violet; lustrous blue-black crystals that skip the liquid and sublime straight into violet vapor, then frost back into crystals on anything cold; the amber-brown tincture painted on wounds, the pinch in iodized salt that keeps the thyroid well; turns starch a deep blue-black; its vapor sensitized the silver plates of the first daguerreotypes; the gentlest and heaviest stable halogen, a healer of the sea who vanishes into mist and reappears — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/i/mecha-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7672814a252e7951b013fc99436515238b8598442cb3af272deb4e796563c80f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "e93fa36d9151d24ff992a9f827edb29f08d8aef35f54d397b94ce41e7416ba7e"
+ },
+ "execution": "element-i-69fd-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-iodine-69fd",
+  "image_sha256": "7672814a252e7951b013fc99436515238b8598442cb3af272deb4e796563c80f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "염전에서 병 속 소금을 집어 올리는 양손",
+   "바롱 응용 의상과 머리색 유지"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — 캐릭터별 완료 후 일반 main 반영 승인; 생성 이미지 임의 재생성 금지"
+}
