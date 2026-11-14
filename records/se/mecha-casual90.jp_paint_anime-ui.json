@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "se",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "se_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "weather": "spring",
+  "own": "mecha",
+  "placeText": "a concert stage of her element's kingdom — a single white spotlight on a glossy black floor, drifting haze and a wall of dim lights behind",
+  "light": "dappled",
+  "spot": "right_third",
+  "depth": "flat",
+  "expr": "focused",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "a stage dancer look fitted to her body — a cropped sequined jacket open over a bandeau top, high-cut black shorts, one sparkling glove, white socks, black loafers and a tilted fedora",
+  "scene": "she is a stage dancer famous for gliding backwards as if walking on the moon, holding her pose under the spotlight",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "se_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Selenium (Se) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a concert stage of her element's kingdom — a single white spotlight on a glossy black floor, drifting haze and a wall of dim lights behind\nWeather / season: spring — blossom petals drifting outside.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a stage dancer look fitted to her body — a cropped sequined jacket open over a bandeau top, high-cut black shorts, one sparkling glove, white socks, black loafers and a tilted fedora, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is a stage dancer famous for gliding backwards as if walking on the moon, holding her pose under the spotlight\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — selenium: named for the Moon, Selene, by Jöns Jacob Berzelius in 1817 because its sibling tellurium had been named for the Earth; grey metallic crystal that barely conducts in the dark but wakes the moment light falls on it — a photoconductivity found in 1873 that let Alexander Graham Bell's photophone carry a voice on a sunbeam in 1880, made the first selenium solar cell of 1883 and the drums of early photocopiers; tints glass a clear ruby red; a trace the body needs and a poison in excess; a shy dreamer who only speaks in the light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/se/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "문워크 무대 댄서",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d8f8b99bc6c2fb82c66fb3385b10665f30878c41183a23d41dc4f4f310cd0030",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; source hash retained.",
+  "ref_sha256": "09f9bcb7c40fae289304f5fbe144ef51aa76105d9a8ebdcf4f8652bc087676d3",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-se-a9fc-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected worlds 2,2,1 and authorized normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d8f8b99bc6c2fb82c66fb3385b10665f30878c41183a23d41dc4f4f310cd0030",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult female subject; painterly anime rendering.",
+   "No obvious extra, disconnected or duplicated limbs observed; fingers partly occluded in grasping or cropped poses.",
+   "Dance-stage outfit, one heel lifted, two arms connected; headwear and pose present; hand without glove visible at ear."
+  ],
+  "cause": "Recorded pose, ornament, crop or scene deviations; output retained under project rules."
+ }
+}

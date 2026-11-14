@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "se",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "se_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "subculture",
+  "item": "grunge",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "time": "night",
+  "hair": "braid",
+  "light": "low_warm",
+  "spot": "left_third",
+  "expr": "amused",
+  "preset": "walk_lookback",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "se_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Selenium (Se) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: grunge — an oversized plaid flannel tied at the waist over a slip dress and combat boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small grey selenium photocell in a brass ring that glows ruby-red when light falls on it low at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — selenium: named for the Moon, Selene, by Jöns Jacob Berzelius in 1817 because its sibling tellurium had been named for the Earth; grey metallic crystal that barely conducts in the dark but wakes the moment light falls on it — a photoconductivity found in 1873 that let Alexander Graham Bell's photophone carry a voice on a sunbeam in 1880, made the first selenium solar cell of 1883 and the drums of early photocopiers; tints glass a clear ruby red; a trace the body needs and a poison in excess; a shy dreamer who only speaks in the light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/se/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "se",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "se": {
+    "era": "site",
+    "place": "site_lab",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_lookback",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "grunge",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "night",
+    "hair": "braid",
+    "light": "low_warm",
+    "spot": "left_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "25649b82ad77a753735d2610495e58290ca025e7b83dec7cc506f0cb03e7c9f3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; source hash retained.",
+  "ref_sha256": "ac109e8362d4d5aafa7ac94ad2f633ca61a46353be4c5db12fd4f7370da1f795"
+ },
+ "execution": "element-se-a9fc-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected worlds 2,2,1 and authorized normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "25649b82ad77a753735d2610495e58290ca025e7b83dec7cc506f0cb03e7c9f3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult female subject; painterly anime rendering.",
+   "No obvious extra, disconnected or duplicated limbs observed; fingers partly occluded in grasping or cropped poses.",
+   "Photocell carried low; body is more front three-quarter than planned rear three-quarter; laboratory labels contain pseudo-writing."
+  ],
+  "cause": "Recorded pose, ornament, crop or scene deviations; output retained under project rules."
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "se",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "se_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_mirror",
+  "ofam": "halloween",
+  "item": "hw_ghost_bride",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "glass_hold",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "hair": "tied",
+  "depth": "deep",
+  "view": "foreground",
+  "expr": "half_smile",
+  "preset": "side_chair_cross",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "se_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Selenium (Se) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mirrored labyrinth of endless reflections and soft coloured light\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a cocktail glass by the stem at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — selenium: named for the Moon, Selene, by Jöns Jacob Berzelius in 1817 because its sibling tellurium had been named for the Earth; grey metallic crystal that barely conducts in the dark but wakes the moment light falls on it — a photoconductivity found in 1873 that let Alexander Graham Bell's photophone carry a voice on a sunbeam in 1880, made the first selenium solar cell of 1883 and the drums of early photocopiers; tints glass a clear ruby red; a trace the body needs and a poison in excess; a shy dreamer who only speaks in the light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/se/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "se",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "se": {
+    "era": "fantasy",
+    "place": "fx_mirror",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_cross",
+    "use": "glass_hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "hw_ghost_bride",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "hair": "tied",
+    "depth": "deep",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ff128982e706ce9bdc2c44968fe7bee09df224f9609e4fad65800796a167b730",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; source hash retained.",
+  "ref_sha256": "4212d14f74edbcfa6f449b2e5164557059b7e8358727cf7310643da82a606185"
+ },
+ "execution": "element-se-a9fc-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected worlds 2,2,1 and authorized normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ff128982e706ce9bdc2c44968fe7bee09df224f9609e4fad65800796a167b730",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult female subject; painterly anime rendering.",
+   "No obvious extra, disconnected or duplicated limbs observed; fingers partly occluded in grasping or cropped poses.",
+   "Crossed legs and glass present, multiple background reflections belong to the same woman."
+  ],
+  "cause": "Recorded pose, ornament, crop or scene deviations; output retained under project rules."
+ }
+}

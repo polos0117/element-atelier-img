@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "se",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "se_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "lodge_terrace",
+  "ofam": "swimwear",
+  "item": "rashguard_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "weather": "rain",
+  "time": "dusk",
+  "hair": "down",
+  "spot": "right_third",
+  "color": "jewel",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "se_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Selenium (Se) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a snowy mountain-lodge terrace with a wooden railing and benches above a winter valley\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a long-sleeve zip rashguard over matching swim bottoms — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — selenium: named for the Moon, Selene, by Jöns Jacob Berzelius in 1817 because its sibling tellurium had been named for the Earth; grey metallic crystal that barely conducts in the dark but wakes the moment light falls on it — a photoconductivity found in 1873 that let Alexander Graham Bell's photophone carry a voice on a sunbeam in 1880, made the first selenium solar cell of 1883 and the drums of early photocopiers; tints glass a clear ruby red; a trace the body needs and a poison in excess; a shy dreamer who only speaks in the light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/se/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "se",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "se": {
+    "era": "now",
+    "place": "lodge_terrace",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "rashguard_set",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "time": "dusk",
+    "weather": "rain",
+    "hair": "down",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "86873bb8777948c3a992bb1e328ef01a20a07c29432ec1ad253fda737947c916",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; source hash retained.",
+  "ref_sha256": "09f9bcb7c40fae289304f5fbe144ef51aa76105d9a8ebdcf4f8652bc087676d3"
+ },
+ "execution": "element-se-a9fc-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected worlds 2,2,1 and authorized normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "86873bb8777948c3a992bb1e328ef01a20a07c29432ec1ad253fda737947c916",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult female subject; painterly anime rendering.",
+   "No obvious extra, disconnected or duplicated limbs observed; fingers partly occluded in grasping or cropped poses.",
+   "Camera low in hand, walking away; turns head farther toward viewer than plan; rashguard gains ornamental motifs."
+  ],
+  "cause": "Recorded pose, ornament, crop or scene deviations; output retained under project rules."
+ }
+}

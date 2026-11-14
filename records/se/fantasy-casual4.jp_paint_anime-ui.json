@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "se",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "se_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_perfumery",
+  "ofam": "costume",
+  "item": "flamenco",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "glass_carry",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "weather": "spring",
+  "time": "noon",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "pattern",
+  "situ": "strap",
+  "expr": "wink",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "se_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Selenium (Se) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a perfumer's desk with tiers of small glass bottles, paper blotter strips and a window onto a herb garden\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nOutfit: a flamenco dress with a ruffled train and a fitted bodice — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a magnifying glass by its handle at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — selenium: named for the Moon, Selene, by Jöns Jacob Berzelius in 1817 because its sibling tellurium had been named for the Earth; grey metallic crystal that barely conducts in the dark but wakes the moment light falls on it — a photoconductivity found in 1873 that let Alexander Graham Bell's photophone carry a voice on a sunbeam in 1880, made the first selenium solar cell of 1883 and the drums of early photocopiers; tints glass a clear ruby red; a trace the body needs and a poison in excess; a shy dreamer who only speaks in the light — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/se/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "se",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "se": {
+    "era": "site",
+    "place": "site_perfumery",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "glass_carry",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "flamenco",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "pattern",
+    "time": "noon",
+    "weather": "spring",
+    "spot": "left_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8b954f66d8605bd2bb881ab5892a1c98474d1c80225d9327386c70808a928337",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; source hash retained.",
+  "ref_sha256": "4212d14f74edbcfa6f449b2e5164557059b7e8358727cf7310643da82a606185"
+ },
+ "execution": "element-se-a9fc-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected worlds 2,2,1 and authorized normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8b954f66d8605bd2bb881ab5892a1c98474d1c80225d9327386c70808a928337",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult female subject; painterly anime rendering.",
+   "No obvious extra, disconnected or duplicated limbs observed; fingers partly occluded in grasping or cropped poses.",
+   "Magnifier and seated pose present; gaze faces viewer instead of screen left, legs are crossed instead of together."
+  ],
+  "cause": "Recorded pose, ornament, crop or scene deviations; output retained under project rules."
+ }
+}
