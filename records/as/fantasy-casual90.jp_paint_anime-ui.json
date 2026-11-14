@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "as",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "as_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "summer",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a palace pantry of her element's kingdom — a table of covered dishes, a row of silver cups and a green-curtained window",
+  "ownProp": "a silver tasting cup",
+  "light": "back",
+  "depth": "flat",
+  "expr": "wink",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a poison taster look fitted to her body — a court gown with bare shoulders and a deep neckline, slit to the thigh, long gloves and a green jewel choker",
+  "scene": "she is the court's poison taster checking a cup",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "as_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Arsenic (As) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a palace pantry of her element's kingdom — a table of covered dishes, a row of silver cups and a green-curtained window\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a poison taster look fitted to her body — a court gown with bare shoulders and a deep neckline, slit to the thigh, long gloves and a green jewel choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a silver tasting cup up beside her face; it is all she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the court's poison taster checking a cup\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — arsenic: the patient, elegant poison — white arsenic, the 'inheritance powder' of whispered court intrigues, until James Marsh's test of 1836 caught it as a dark silvery mirror on porcelain; Scheele's green of 1775, the dazzling poison-emerald pigment that papered nineteenth-century parlours; golden orpiment and red-orange realgar, ancient pigments it forms with sulfur; Salvarsan of 1910, the first 'magic bullet' drug; a steel-grey metalloid that skips melting and sublimes with a smell of garlic; poison and cure held in one smiling hand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/as/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "궁정 독 감별사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "425f75bd3fd80016bf4799405d5d453f4fc33bc381b6ab099ab62ceb3fa4ffe3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "ref_sha256": "5a2fe3420d6352791d9402a6fbe3dd86c10d1ac48d7fa0a155d21e5b4cab3988",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-arsenic-345e",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "425f75bd3fd80016bf4799405d5d453f4fc33bc381b6ab099ab62ceb3fa4ffe3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 세계컷의 얼굴·눈·피부를 비교함",
+   "은잔을 든 한 손·팔 연결, 다른 팔은 구도 밖",
+   "계획의 비오는 밤 대신 낮처럼 밝은 창, 차분한 긴장 표정 대신 미소; 원본 의상 장식 유사"
+  ],
+  "cause": "이미지 모델이 참조 의상/원소 무늬 또는 배경·자세를 일부 재해석함. 지시문 끝의 원소 디테일 허용 줄과 일상 의상 분리 규칙이 충돌할 수 있음."
+ },
+ "acceptance": "user_approval_2026-10-31 — 검수 차이를 기록하고 원본 보존 후 등록"
+}

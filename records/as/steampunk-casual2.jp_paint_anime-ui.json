@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "as",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "as_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "bath",
+  "item": "jjimjil_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "light": "top",
+  "depth": "flat",
+  "view": "glass",
+  "color": "vivid",
+  "expr": "relieved",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "as_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Arsenic (As) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: matching bathhouse loungewear with a towel folded into a sheep-ear headband — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings a cup to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — arsenic: the patient, elegant poison — white arsenic, the 'inheritance powder' of whispered court intrigues, until James Marsh's test of 1836 caught it as a dark silvery mirror on porcelain; Scheele's green of 1775, the dazzling poison-emerald pigment that papered nineteenth-century parlours; golden orpiment and red-orange realgar, ancient pigments it forms with sulfur; Salvarsan of 1910, the first 'magic bullet' drug; a steel-grey metalloid that skips melting and sublimes with a smell of garlic; poison and cure held in one smiling hand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/as/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "as",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "as": {
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "cup_sip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "jjimjil_set",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "night",
+    "light": "top",
+    "depth": "flat",
+    "view": "glass"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "01b344e22e646d6c4d9099b9ef01d6c695625bd9e2eafda72376134ba178f7e6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "ref_sha256": "32624114bd8296827dc8b5493be9125a738aa333efbf0c3d7f8090d63dbca1a9"
+ },
+ "execution": "element-arsenic-345e",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "01b344e22e646d6c4d9099b9ef01d6c695625bd9e2eafda72376134ba178f7e6",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 세계컷의 얼굴·눈·피부를 비교함",
+   "옆으로 돌아보며 잔을 든 손 연결 확인",
+   "찜질복 대신 목욕 가운풍 의상, 원소 무늬 반영"
+  ],
+  "cause": "이미지 모델이 참조 의상/원소 무늬 또는 배경·자세를 일부 재해석함. 지시문 끝의 원소 디테일 허용 줄과 일상 의상 분리 규칙이 충돌할 수 있음."
+ },
+ "acceptance": "user_approval_2026-10-31 — 검수 차이를 기록하고 원본 보존 후 등록"
+}
