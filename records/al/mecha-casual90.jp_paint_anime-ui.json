@@ -1,0 +1,87 @@
+{
+  "atelier": "element",
+  "card": "al",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "al_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_square",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "",
+    "time": "golden",
+    "own": "mecha",
+    "placeText": "a drink cart on a bright street of her element's kingdom — an ice chest of cans, a striped parasol and a neon price sign",
+    "ownProp": "a chilled drink can",
+    "depth": "flat",
+    "expr": "pensive",
+    "preset": "raise_chest",
+    "prop": "0",
+    "outfit": "a drink vendor look fitted to her body — a tied-up crop shirt, denim cut-offs, a waist apron, a sun visor and sneakers",
+    "scene": "she runs a street drink cart on a hot afternoon",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "al_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Aluminium (Al) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a drink cart on a bright street of her element's kingdom — an ice chest of cans, a striped parasol and a neon price sign\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a drink vendor look fitted to her body — a tied-up crop shirt, denim cut-offs, a waist apron, a sun visor and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a chilled drink can up beside her face; it is all she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she runs a street drink cart on a hot afternoon\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — aluminium: a bright satin-silver metal so light it almost floats, the most common metal in the Earth's crust yet locked so tightly in clay and rust-red bauxite that it was once rarer than gold, laid only before an emperor's honoured guests, until electricity set it free; it shields itself in an invisible oxide skin that can be dyed soft anodized pastel colours; the skeleton of airships and aircraft, the humble can and kitchen foil of everyone; ruby and sapphire are nothing but coloured aluminium oxide; light, bright, cheerful and unpretentious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/al/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "길거리 음료 노점",
+    "level": "bold",
+    "example": false
+  },
+  "execution": "element-al-3a193b",
+  "imported": "2026-11-14",
+  "acceptance": "User authorized character completion and normal push to main",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "de9b9f9472af8139a948ac665b02f1af922b403b5ca791ea17a9de7a4db29d63",
+    "ref_sha256": "6b3b630ef65d59e5d10b819d3b3510bf8e05c1f02f11b413ac6f083b3fc975f8",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "de9b9f9472af8139a948ac665b02f1af922b403b5ca791ea17a9de7a4db29d63",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman; face and painterly rendering follow selected world reference.",
+      "Visible arms connect naturally to shoulders; no obvious extra or detached limb.",
+      "Requested scene and outfit are recognizable; no obvious logo or watermark.",
+      "Knot sits at underbust rather than planned waist; no obvious limb duplication."
+    ]
+  }
+}

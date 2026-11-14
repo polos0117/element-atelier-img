@@ -1,0 +1,73 @@
+{
+  "atelier": "element",
+  "card": "al",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "al_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "traditional",
+    "item": "qipao_daily",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "depth": "flat",
+    "color": "denim",
+    "expr": "candid",
+    "preset": "stand_use",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "al_fantasy_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Aluminium (Al) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nOutfit: a modern daily qipao — fitted mandarin-collar dress with frog buttons and side slits — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a feather-light aluminium water bottle anodized in pastel blue in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — aluminium: a bright satin-silver metal so light it almost floats, the most common metal in the Earth's crust yet locked so tightly in clay and rust-red bauxite that it was once rarer than gold, laid only before an emperor's honoured guests, until electricity set it free; it shields itself in an invisible oxide skin that can be dyed soft anodized pastel colours; the skeleton of airships and aircraft, the humble can and kitchen foil of everyone; ruby and sapphire are nothing but coloured aluminium oxide; light, bright, cheerful and unpretentious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/al/fantasy-casual3.jp_paint_anime-ui.json",
+  "execution": "element-al-3a193b",
+  "imported": "2026-11-14",
+  "acceptance": "User authorized character completion and normal push to main",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "1886ccf28a756354d062e82141b28ef13e12321c6d3c03c7f759e1f6287ff9b6",
+    "ref_sha256": "9f8fb0d918284475175cf79c2454ebbc060605f73e5d7698d2a000afabb86197",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "1886ccf28a756354d062e82141b28ef13e12321c6d3c03c7f759e1f6287ff9b6",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman; face and painterly rendering follow selected world reference.",
+      "Visible arms connect naturally to shoulders; no obvious extra or detached limb.",
+      "Hair is tied but longer than the short bob reference; element motifs added to dress."
+    ]
+  }
+}

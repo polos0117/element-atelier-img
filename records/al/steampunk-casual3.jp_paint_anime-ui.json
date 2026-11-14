@@ -1,0 +1,73 @@
+{
+  "atelier": "element",
+  "card": "al",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "al_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_cablecar",
+    "ofam": "retro",
+    "item": "pinup_lingerie",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "cup_set",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "light": "dappled",
+    "color": "mono",
+    "situ": "wet",
+    "expr": "sensual",
+    "preset": "bench_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "al_steampunk_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Aluminium (Al) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a cable car cabin over a misty valley\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a 1950s pin-up lingerie set with a structured bra and high-waisted bottoms — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she sets a cup down on the surface in front of her; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — aluminium: a bright satin-silver metal so light it almost floats, the most common metal in the Earth's crust yet locked so tightly in clay and rust-red bauxite that it was once rarer than gold, laid only before an emperor's honoured guests, until electricity set it free; it shields itself in an invisible oxide skin that can be dyed soft anodized pastel colours; the skeleton of airships and aircraft, the humble can and kitchen foil of everyone; ruby and sapphire are nothing but coloured aluminium oxide; light, bright, cheerful and unpretentious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/al/steampunk-casual3.jp_paint_anime-ui.json",
+  "execution": "element-al-3a193b",
+  "imported": "2026-11-14",
+  "acceptance": "User authorized character completion and normal push to main",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "cd75361ffcb3ad4c3210dc542cb55bdbdcc65ec6d39c7859006ab3fee90ff6d0",
+    "ref_sha256": "01b18e1c4d3ea4606d4eb44cfc19aaf9ef70e3beebb438d85fc1acdb264c3c96",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "cd75361ffcb3ad4c3210dc542cb55bdbdcc65ec6d39c7859006ab3fee90ff6d0",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman; face and painterly rendering follow selected world reference.",
+      "Visible arms connect naturally to shoulders; no obvious extra or detached limb.",
+      "Requested scene and outfit are recognizable; no obvious logo or watermark."
+    ]
+  }
+}

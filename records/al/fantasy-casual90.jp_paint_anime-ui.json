@@ -1,0 +1,86 @@
+{
+  "atelier": "element",
+  "card": "al",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "al_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_square",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "camera",
+    "time": "golden",
+    "own": "fantasy",
+    "placeText": "a banquet hall of the palace of her element's kingdom — a long laid table, tall candelabra and a sideboard of bright tableware",
+    "ownProp": "a polished silver-white serving plate",
+    "light": "dappled",
+    "expr": "calm",
+    "preset": "wrap_close",
+    "prop": "0",
+    "outfit": "a banquet steward look fitted to her body — a butler's tailcoat worn over a strapless bustier, tailored shorts, white gloves and heeled boots",
+    "scene": "she is the steward of the imperial banquet setting the finest plate",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "al_fantasy_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Aluminium (Al) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a banquet hall of the palace of her element's kingdom — a long laid table, tall candelabra and a sideboard of bright tableware\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a banquet steward look fitted to her body — a butler's tailcoat worn over a strapless bustier, tailored shorts, white gloves and heeled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a polished silver-white serving plate in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the steward of the imperial banquet setting the finest plate\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — aluminium: a bright satin-silver metal so light it almost floats, the most common metal in the Earth's crust yet locked so tightly in clay and rust-red bauxite that it was once rarer than gold, laid only before an emperor's honoured guests, until electricity set it free; it shields itself in an invisible oxide skin that can be dyed soft anodized pastel colours; the skeleton of airships and aircraft, the humble can and kitchen foil of everyone; ruby and sapphire are nothing but coloured aluminium oxide; light, bright, cheerful and unpretentious — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/al/fantasy-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "황실 연회 집사",
+    "level": "bold",
+    "example": false
+  },
+  "execution": "element-al-3a193b",
+  "imported": "2026-11-14",
+  "acceptance": "User authorized character completion and normal push to main",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "d3c0e9f2159bf70e77fa21eb6e43efc6f37183c5bcc6519403c6c1ce1ecdf044",
+    "ref_sha256": "9f8fb0d918284475175cf79c2454ebbc060605f73e5d7698d2a000afabb86197",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "d3c0e9f2159bf70e77fa21eb6e43efc6f37183c5bcc6519403c6c1ce1ecdf044",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman; face and painterly rendering follow selected world reference.",
+      "Visible arms connect naturally to shoulders; no obvious extra or detached limb.",
+      "Requested scene and outfit are recognizable; no obvious logo or watermark."
+    ]
+  }
+}
