@@ -1,0 +1,119 @@
+{
+  "atelier": "element",
+  "card": "nd",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nd_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "homewear",
+    "item": "oversized_shirt",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "chin_table",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "window",
+    "time": "morning",
+    "light": "top",
+    "depth": "flat",
+    "color": "vivid",
+    "expr": "pensive",
+    "preset": "chin_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nd_mecha_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Neodymium (Nd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neodymium: a silvery rare-earth metal whose name means the new twin, split in 1885 by Carl Auer von Welsbach from didymium, the twin, by crystallizing its salts again and again, leaving praseodymium, the green twin; its salts are lilac and its glass turns lavender in daylight and blue under fluorescent light, filtering sodium glare in glassblowers' goggles; with iron and boron it makes the strongest permanent magnets known, spinning wind turbines and motors; it powers an infrared laser — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/nd/mecha-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nd",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "nd": {
+        "era": "nation",
+        "place": "nation_room",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "chin_close",
+        "use": "",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "high",
+        "right": "chin_table",
+        "left": "out",
+        "legs": "",
+        "gaze": "window",
+        "item": "oversized_shirt",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "morning",
+        "light": "top",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "ref_sha256": "917726c1e23e584ead07e84b1ec71ee869f77c87d3481787bf4b172ecbee5916",
+    "png_sha256": "335b88f04d9934f432717367c46b1cbf6feb3258d887de65ea7f0580a85a813a",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated image retained; no regeneration after successful output."
+  },
+  "execution": "element-nd-00f3-20261114",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 1,1,1 and authorized registration and main updates without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "335b88f04d9934f432717367c46b1cbf6feb3258d887de65ea7f0580a85a813a",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman in focus; painterly anime rendering and lavender-blue hair retained.",
+      "No obvious extra, disconnected, floating or reversed limb; fingers inspected within visible crop.",
+      "One hand supports chin with connected forearm, other is outside crop as planned; shirt and room window visible."
+    ]
+  }
+}

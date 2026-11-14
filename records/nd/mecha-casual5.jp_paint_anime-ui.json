@@ -1,0 +1,124 @@
+{
+  "atelier": "element",
+  "card": "nd",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nd_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "car_wash",
+    "ofam": "subculture",
+    "item": "decora",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "kind": "hold",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "time": "neon",
+    "hair": "down",
+    "spot": "left_third",
+    "depth": "deep",
+    "view": "foreground",
+    "expr": "pensive",
+    "preset": "walk_lookback",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nd_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Neodymium (Nd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a self-service car wash bay, a small wet car beside her, a foam bucket, a coiled hose and puddles on the concrete\nTime of day: night under neon and signage light, coloured reflections.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: decora — a pastel tutu skirt, layered bright tops and stacks of colourful clips and bracelets, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a pair of small silver-nickel disc magnets snapped tightly together low at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neodymium: a silvery rare-earth metal whose name means the new twin, split in 1885 by Carl Auer von Welsbach from didymium, the twin, by crystallizing its salts again and again, leaving praseodymium, the green twin; its salts are lilac and its glass turns lavender in daylight and blue under fluorescent light, filtering sodium glare in glassblowers' goggles; with iron and boron it makes the strongest permanent magnets known, spinning wind turbines and motors; it powers an infrared laser — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/nd/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nd",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "nd": {
+        "era": "now",
+        "place": "car_wash",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "walk_lookback",
+        "use": "sig_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "decora",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "neon",
+        "hair": "down",
+        "spot": "left_third",
+        "depth": "deep",
+        "view": "foreground"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "ref_sha256": "917726c1e23e584ead07e84b1ec71ee869f77c87d3481787bf4b172ecbee5916",
+    "png_sha256": "3d1fbfa67a2cbeedfb8c4f9c51ac81602d69c36682f60207a3c0cfdbc7abf692",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated image retained; no regeneration after successful output."
+  },
+  "execution": "element-nd-00f3-20261114",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 1,1,1 and authorized registration and main updates without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "3d1fbfa67a2cbeedfb8c4f9c51ac81602d69c36682f60207a3c0cfdbc7abf692",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman in focus; painterly anime rendering and lavender-blue hair retained.",
+      "No obvious extra, disconnected, floating or reversed limb; fingers inspected within visible crop.",
+      "Two visible connected arms, disc magnets held low at side; rear three-quarter stance is closer to side/front than plan. Decora outfit and car wash present."
+    ],
+    "cause": "Reference clothing/ornament carryover, pose or crop differs from supplied scene lines; retained per project QA rule."
+  }
+}

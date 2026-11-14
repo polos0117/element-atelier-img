@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "nd",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nd_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_show",
+    "ofam": "evening",
+    "item": "sequin_mini",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "",
+    "gaze": "at_prop",
+    "light": "low_warm",
+    "depth": "deep",
+    "color": "earth",
+    "expr": "nostalgic",
+    "preset": "bench_fix",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nd_steampunk_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Neodymium (Nd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the front row of a fashion show beside a lit runway\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a sequined bodycon mini dress — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a pair of small silver-nickel disc magnets snapped tightly together in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neodymium: a silvery rare-earth metal whose name means the new twin, split in 1885 by Carl Auer von Welsbach from didymium, the twin, by crystallizing its salts again and again, leaving praseodymium, the green twin; its salts are lilac and its glass turns lavender in daylight and blue under fluorescent light, filtering sodium glare in glassblowers' goggles; with iron and boron it makes the strongest permanent magnets known, spinning wind turbines and motors; it powers an infrared laser — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/nd/steampunk-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nd",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "nd": {
+        "era": "now",
+        "place": "stage_show",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "bench_fix",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "sit_sideways",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "sequin_mini",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "light": "low_warm",
+        "depth": "deep"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "ref_sha256": "a2a429398b6d870d15afd5ff2738773a007f1ec66102f9ae3fc608f44632d6bc",
+    "png_sha256": "fce773bf17dadd94416b900c1d3051aa87efcba548e4d226967d3548bc369f61",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated image retained; no regeneration after successful output."
+  },
+  "execution": "element-nd-00f3-20261114",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 1,1,1 and authorized registration and main updates without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "fce773bf17dadd94416b900c1d3051aa87efcba548e4d226967d3548bc369f61",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman in focus; painterly anime rendering and lavender-blue hair retained.",
+      "No obvious extra, disconnected, floating or reversed limb; fingers inspected within visible crop.",
+      "Two hands hold disc magnets coherently; runway scene and sequin dress present. Crop is closer than planned three-quarter framing."
+    ],
+    "cause": "Reference clothing/ornament carryover, pose or crop differs from supplied scene lines; retained per project QA rule."
+  }
+}

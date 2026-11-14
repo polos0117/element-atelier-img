@@ -1,0 +1,121 @@
+{
+  "atelier": "element",
+  "card": "nd",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nd_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_lanternriver",
+    "ofam": "resort",
+    "item": "romper_wrap",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "use": "bouquet_hold",
+    "kind": "hold",
+    "legs": "",
+    "gaze": "camera",
+    "weather": "night_snow",
+    "light": "side",
+    "color": "pastel",
+    "situ": "wet",
+    "expr": "curious",
+    "preset": "recline_head",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nd_mecha_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Neodymium (Nd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night river covered with floating paper lanterns, stone steps leading down to the water\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a wrap-front holiday romper with a deep V neckline and a tie belt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small bouquet at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neodymium: a silvery rare-earth metal whose name means the new twin, split in 1885 by Carl Auer von Welsbach from didymium, the twin, by crystallizing its salts again and again, leaving praseodymium, the green twin; its salts are lilac and its glass turns lavender in daylight and blue under fluorescent light, filtering sodium glare in glassblowers' goggles; with iron and boron it makes the strongest permanent magnets known, spinning wind turbines and motors; it powers an infrared laser — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/nd/mecha-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nd",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "nd": {
+        "era": "fantasy",
+        "place": "fx_lanternriver",
+        "ofam": "resort",
+        "treeV": 2,
+        "prop": "",
+        "preset": "recline_head",
+        "use": "bouquet_hold",
+        "kind": "hold",
+        "posture": "recline",
+        "support": "back_lounger",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "behind_head",
+        "left": "prop",
+        "legs": "",
+        "gaze": "camera",
+        "item": "romper_wrap",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "wet",
+        "color": "pastel",
+        "weather": "night_snow",
+        "light": "side"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "ref_sha256": "917726c1e23e584ead07e84b1ec71ee869f77c87d3481787bf4b172ecbee5916",
+    "png_sha256": "2a5fee1bba559e8cf0a32a261a8d3c0fda2ded9095a89d4f19defa1b991a3543",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated image retained; no regeneration after successful output."
+  },
+  "execution": "element-nd-00f3-20261114",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 1,1,1 and authorized registration and main updates without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2a5fee1bba559e8cf0a32a261a8d3c0fda2ded9095a89d4f19defa1b991a3543",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman in focus; painterly anime rendering and lavender-blue hair retained.",
+      "No obvious extra, disconnected, floating or reversed limb; fingers inspected within visible crop.",
+      "One arm bends behind head and the other holds bouquet; visible arm-to-shoulder paths coherent, no extra arm. Wet wrap, lantern river and reclined close crop present."
+    ]
+  }
+}

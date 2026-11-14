@@ -1,0 +1,89 @@
+{
+  "atelier": "element",
+  "card": "nd",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nd_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_square",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "camera",
+    "weather": "rain",
+    "time": "dusk",
+    "own": "steampunk",
+    "placeText": "a record shop of her element's kingdom — a great brass-horn gramophone, bins of shellac discs and a listening booth",
+    "ownProp": "a record in a paper sleeve",
+    "light": "side",
+    "expr": "proud",
+    "preset": "wrap_close",
+    "prop": "0",
+    "outfit": "a record-shop girl look fitted to her body — a sleeveless blouse tied under the bust, a short pleated skirt with braces, stockings and a beret",
+    "scene": "she is a record-shop girl with today's pick",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nd_steampunk_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Neodymium (Nd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a record shop of her element's kingdom — a great brass-horn gramophone, bins of shellac discs and a listening booth\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a record-shop girl look fitted to her body — a sleeveless blouse tied under the bust, a short pleated skirt with braces, stockings and a beret, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a record in a paper sleeve in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a record-shop girl with today's pick\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neodymium: a silvery rare-earth metal whose name means the new twin, split in 1885 by Carl Auer von Welsbach from didymium, the twin, by crystallizing its salts again and again, leaving praseodymium, the green twin; its salts are lilac and its glass turns lavender in daylight and blue under fluorescent light, filtering sodium glare in glassblowers' goggles; with iron and boron it makes the strongest permanent magnets known, spinning wind turbines and motors; it powers an infrared laser — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/nd/steampunk-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "축음기 음반 가게 점원",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "ref_sha256": "a2a429398b6d870d15afd5ff2738773a007f1ec66102f9ae3fc608f44632d6bc",
+    "png_sha256": "331f295459e9b0e34e49e3a722d62540505f309be6553209164de5618543b545",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original generated image retained; no regeneration after successful output.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-nd-00f3-20261114",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 1,1,1 and authorized registration and main updates without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "331f295459e9b0e34e49e3a722d62540505f309be6553209164de5618543b545",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; one adult woman in focus; painterly anime rendering and lavender-blue hair retained.",
+      "No obvious extra, disconnected, floating or reversed limb; fingers inspected within visible crop.",
+      "Both hands grip record sleeve; gramophone and record-shop shelves recognizable. Crop is upper body, skirt outside frame."
+    ],
+    "cause": "Reference clothing/ornament carryover, pose or crop differs from supplied scene lines; retained per project QA rule."
+  }
+}
