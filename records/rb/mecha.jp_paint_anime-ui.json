@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "monolid_long",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "crimson",
+   "age": "mid_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "calm"
+  },
+  "silhouette": {
+   "body": "lanky",
+   "hair": "asymmetric_bob",
+   "hair_color": "rubidium_red",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "rb_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Rubidium (루비듐) itself — the sovereign of the Rubidium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a cool, aloof beauty; porcelain-pale skin; diamond-shaped face; medium-sized eyes — long monolid eyes, outer eye corners slightly lifted; sharp angled brows; straight narrow nose; thin long lips; crimson eyes; dark berry lipstick.\nBody and hair: lean and long-legged, with a natural neck length build; an asymmetric bob, longer on one side with long bangs falling over one eye; silvery-white hair deepening into dark spectral red toward the ends.\nExpression: a relaxed, unforced face, lips gently closed.\nHer element, carried in her design: rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Slim silvery-white armor with a pair of large wing binders made of deep-red-tinted solar panels spread symmetrically behind her like a navigation satellite, a small glowing deep-red atomic-clock core at the chest, thin antenna fins at the shoulders, faint lilac rings of light at the waist; the plates must read as solid armor, not a gown.\nSilhouette: large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: dark spectral red, silvery white, lilac-pink mica, cold ice blue.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, an orbit of navigation satellites: a ring of satellites circling the Earth, each carrying a small rubidium clock that tells everyone below exactly where they are, a servicing station spreading wide solar-panel wings, a vacuum laboratory where a faint red cloud of atoms chilled almost to absolute zero moves as one.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Rb) and atomic number (37) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-14",
+ "record": "records/rb/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rb",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "rb|mecha": {}
+  },
+  "looks": {
+   "rb|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "rb|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0b4cf6631d33540da34d52af4e60b12caf3693c7f5b7adeeac183baab79beb95",
+  "prompt_sha256": "9cec277318d032d59fef021990f4cadfa9c436a89482ad7e8031b3a7d1b948da",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "selection": {
+   "number": 2,
+   "user": "2,1,2",
+   "design": "project"
+  }
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0b4cf6631d33540da34d52af4e60b12caf3693c7f5b7adeeac183baab79beb95",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Selected original is 1024x1536, one dominant adult woman in full-body framing.",
+   "Two arms and two legs join naturally; both hands and both feet inside the frame.",
+   "Element symbol Rb and number 37 occur on in-scene banners or costume; no overlay labels.",
+   "World concept and silver-white-to-deep-red hair match the selected design."
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_quarry",
+  "ofam": "roleplay",
+  "item": "cabaret_dancer",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "",
+  "color": "vivid",
+  "expr": "proud",
+  "preset": "raise_chest",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rb_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rubidium (Rb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a marble quarry of stepped white terraces, cut blocks and a still green pool at the bottom\nOutfit: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a palm-sized lump of lilac-pink lepidolite mica flaking like thin pages up beside her face; it is all she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/rb/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rb",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "rb": {
+    "era": "site",
+    "place": "site_quarry",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "raise_chest",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "cabaret_dancer",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b7284636de7b2074163555f990a47f104eeb5b3436b5e898569d499c2f8ee1a0",
+  "prompt_sha256": "7e1d93faca70dadeb1658e111807e67a88fec103f6e1601090faf32ee34f44f7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "29c202e0b96e8d88c10ebc307f9526d42b511aaa7edff6f3d1a4db1ea84b9553"
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b7284636de7b2074163555f990a47f104eeb5b3436b5e898569d499c2f8ee1a0",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 chest-up portrait at marble quarry; long fantasy-source hair, eyes and complexion retained.",
+   "Right gloved hand raises mica beside face with no obvious extra or detached hand; left hand outside crop as planned.",
+   "Cabaret costume and layered mica specimen read clearly; no reference crown or armor."
+  ]
+ }
+}

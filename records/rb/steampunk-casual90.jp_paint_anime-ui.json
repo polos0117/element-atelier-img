@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rb_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_temple",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "morning",
+  "own": "steampunk",
+  "placeText": "the choir loft of a stone chapel of her element's kingdom — rows of carved choir stalls, tall organ pipes and sunlight through a round rose window",
+  "ownProp": "a slim white conductor's baton",
+  "light": "side",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a choir conductor look fitted to her body — a cropped tailcoat over a lace-edged corset top, a short skirt, sheer stockings and a ribbon at the collar",
+  "scene": "she is a choir conductor raising the beat so a hundred voices come in as one",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rb_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rubidium (Rb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the choir loft of a stone chapel of her element's kingdom — rows of carved choir stalls, tall organ pipes and sunlight through a round rose window\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a choir conductor look fitted to her body — a cropped tailcoat over a lace-edged corset top, a short skirt, sheer stockings and a ribbon at the collar, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slim white conductor's baton up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a choir conductor raising the beat so a hundred voices come in as one\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/rb/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "합창단 지휘자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0ea63e7890457303dee178407d232e1c729de87afc88f5315d8e26f1df50aded",
+  "prompt_sha256": "fdcfc18adbe2af5df9c4df85461e67fb6d34cbce25c42dca1c1b18f62bb3a20a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "a96fec1afbb63a2e3ef77c3690c34c52640618a9dd639b50737632885dbce920",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0ea63e7890457303dee178407d232e1c729de87afc88f5315d8e26f1df50aded",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 choir-conductor portrait, same face and low ponytail as steampunk source.",
+   "A natural raised hand holds the thin baton, visible arm connects to shoulder; no obvious extra limbs in crop.",
+   "Chapel organ and rose window, lace-edged conductor outfit and look-back gesture match own-cut concept."
+  ]
+ }
+}

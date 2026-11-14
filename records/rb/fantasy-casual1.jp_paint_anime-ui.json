@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_living",
+  "ofam": "swimwear",
+  "item": "burkini_modest",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "guitar_play",
+  "legs": "knees_together",
+  "gaze": "",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "neutral",
+  "expr": "candid",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rb_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rubidium (Rb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nOutfit: a modest full-cover swimsuit with long sleeves, full legs and a fitted hood — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she plays an acoustic guitar — her own right hand strums the strings over the sound hole, her own left hand frets chords on the neck.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes are lowered.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/rb/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rb",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "rb": {
+    "era": "now",
+    "place": "home_living",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "guitar_play",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "burkini_modest",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "spot": "right_third",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a26197ef82d657399548bd639c1069bba707072274ab7090a8af9347d9f95fd8",
+  "prompt_sha256": "2ed848892ae1a04bd2dae4542aca4c67fd4e97af393bc3103b68eab4d669c558",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "29c202e0b96e8d88c10ebc307f9526d42b511aaa7edff6f3d1a4db1ea84b9553"
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a26197ef82d657399548bd639c1069bba707072274ab7090a8af9347d9f95fd8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536. Same long silver-white/red hair and facial profile as selected fantasy source.",
+   "Seated guitar-playing pose with two connected arms and hands on the guitar; no obvious extra limbs.",
+   "Burkini-like pale full-coverage outfit and head covering visible.",
+   "The room inherited elaborate element-themed palace and instrument decoration rather than an ordinary contemporary living room."
+  ],
+  "cause": "Reference palace materials and Her element motifs outweigh the planned now-era living room in the output."
+ }
+}

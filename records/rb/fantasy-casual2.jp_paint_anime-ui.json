@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "bath",
+  "item": "peshtemal",
+  "posture": "soak",
+  "support": "water",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "water_trail",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "light": "side",
+  "expr": "half_smile",
+  "preset": "soak_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rb_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rubidium (Rb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor bath, stream or fountain built in the style of her element's kingdom\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a striped cotton peshtemal wrapped like a dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/rb/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rb",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "rb": {
+    "era": "nation",
+    "place": "nation_bath",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "soak_hair",
+    "use": "",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "peshtemal",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "golden",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3ae6f94ec53cd5682b52be7a8bf93d58d18dd6cf10ca8a89d5d6ca3d416c4087",
+  "prompt_sha256": "77184c45493add349b341d3cfcd584e824734399325fbec01026097033a4858f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "29c202e0b96e8d88c10ebc307f9526d42b511aaa7edff6f3d1a4db1ea84b9553"
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3ae6f94ec53cd5682b52be7a8bf93d58d18dd6cf10ca8a89d5d6ca3d416c4087",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 waist-up bathing scene; long fantasy-source hair and face retained.",
+   "Right hand sweeps hair and left hand touches water, two natural arm paths and no additional visible limbs.",
+   "Wrapped pestemal towel securely covers torso; ice-kingdom bath matches nation setting."
+  ]
+ }
+}

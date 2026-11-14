@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "rb",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "deep_set",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "crimson",
+   "age": "mid_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "calm"
+  },
+  "silhouette": {
+   "body": "lanky",
+   "hair": "low_ponytail",
+   "hair_color": "rubidium_red",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "rb_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Rubidium (루비듐) itself — the sovereign of the Rubidium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a cool, aloof beauty; porcelain-pale skin; oval face; medium-sized eyes — deep-set eyes, outer eye corners slightly lifted; sharp angled brows; straight narrow nose; thin long lips; crimson eyes; dark berry lipstick.\nBody and hair: lean and long-legged, with a natural neck length build; a low ponytail tied at the nape with side-swept bangs; silvery-white hair deepening into dark spectral red toward the ends.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a relaxed, unforced face, lips gently closed.\nHer element, carried in her design: rubidium: a soft silvery-white alkali metal that bursts into flame on its own in air and explodes in water; found in 1861 in lilac-pink lepidolite mica, the second element ever discovered with the spectroscope, named from Latin rubidus, deep red, for the dark red lines of its spectrum; in 1995 its atoms, chilled to a hair above absolute zero, merged into a single cloud moving as one; small rubidium clocks ride aboard navigation satellites, telling everyone below exactly where they stand.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: dark spectral red, silvery white, lilac-pink mica, cold ice blue.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1861, a mica mine in wooded hills: a mine gallery of lilac-pink lepidolite mica that flakes apart like the pages of a book, ore carts of rosy stone on narrow rails, an assay house where the ore is melted into a flame that shows two deep red lines no one had seen before.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Rb) and atomic number (37) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-14",
+ "record": "records/rb/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rb",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "rb|steampunk": {}
+  },
+  "looks": {
+   "rb|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "rb|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a96fec1afbb63a2e3ef77c3690c34c52640618a9dd639b50737632885dbce920",
+  "prompt_sha256": "c6d53e5566b7aac1f760c0db1b7feda4795e1a74310555d586a531274eeb147f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "selection": {
+   "number": 1,
+   "user": "2,1,2",
+   "design": "project"
+  }
+ },
+ "execution": "element-rb-1b6c",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 2,1,2 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a96fec1afbb63a2e3ef77c3690c34c52640618a9dd639b50737632885dbce920",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Selected original is 1024x1536, one dominant adult woman in full-body framing.",
+   "Two arms and two legs join naturally; both hands and both feet inside the frame.",
+   "Element symbol Rb and number 37 occur on in-scene banners or costume; no overlay labels.",
+   "World concept and silver-white-to-deep-red hair match the selected design."
+  ]
+ }
+}
