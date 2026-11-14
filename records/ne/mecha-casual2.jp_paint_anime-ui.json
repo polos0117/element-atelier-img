@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "ne",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ne_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_temple",
+  "ofam": "homewear",
+  "item": "offshoulder_knit",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "color": "denim",
+  "denier": "d40",
+  "expr": "wistful",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ne_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neon (Ne) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a temple or shrine in her element's kingdom\nOutfit: an off-shoulder knit top slipping from one shoulder over shorts — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neon: the 'new one', found in 1898 by distilling liquefied air; a sealed glass tube that blazes red-orange the moment current runs through it — the glow of every neon sign on a night street since the 1910s; a noble gas that mixes with nothing and forms no stable compounds at all; paired with helium it fires the thin, perfectly straight red beam of a helium-neon laser; showy light around an untouchable heart — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/ne/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ne",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ne": {
+    "era": "nation",
+    "place": "nation_temple",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "floor_brace",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "offshoulder_knit",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "denier": "d40"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b704c2126c8d0e4237626ec3b7f9c32863d54c3a0f174a5ff218d433feb6741c",
+  "ref_sha256": "0c9e14886c55a47e06b18527d721ecf5a3a476556a6d1080708db1cf049561e7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "neon-20261112-74f1",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized upload after choosing worlds 4,1,1",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b704c2126c8d0e4237626ec3b7f9c32863d54c3a0f174a5ff218d433feb6741c",
+  "passed": false,
+  "observations": [
+   "1024×1536 확인",
+   "선택한 세계컷의 머리색·눈색과 화풍을 유지함",
+   "주인공 한 명, 갑옷·왕관 없이 계획 의상으로 변경됨",
+   "보이는 팔과 손은 몸에 연결되어 있으며 명백한 추가 팔다리는 보이지 않음",
+   "계획은 옆으로 누운 자세이나 결과는 몸을 세워 기대 앉은 자세에 가까움."
+  ],
+  "cause": "프롬프트의 장면·구도·상황 세부 지시가 일부 약하게 반영됨"
+ }
+}

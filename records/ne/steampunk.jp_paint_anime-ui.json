@@ -1,0 +1,112 @@
+{
+ "atelier": "element",
+ "card": "ne",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "angled_sharp",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "eye_color": "coral",
+   "age": "mid_20s",
+   "impression": "sharp",
+   "skin_tone": "warm_beige",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "red_lip",
+   "expr": "smug"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "flipped_shoulder",
+   "hair_color": "neon_red",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "ne_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Neon (네온) itself — the sovereign of the Neon Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a sharp, striking, intense look; warm beige skin; heart-shaped face; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; sharp angled brows; upturned nose; full heart-shaped lips; coral-orange eyes; a soft rose-red tint on the lips.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; shoulder-length hair with outward-flipped ends with blunt straight bangs; glowing neon red-orange hair like a lit sign tube.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a faint knowing smile.\nHer element, carried in her design: neon: the 'new one', found in 1898 by distilling liquefied air; a sealed glass tube that blazes red-orange the moment current runs through it — the glow of every neon sign on a night street since the 1910s; a noble gas that mixes with nothing and forms no stable compounds at all; paired with helium it fires the thin, perfectly straight red beam of a helium-neon laser; showy light around an untouchable heart.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: one large brass mechanical gauntlet covering a whole arm over an otherwise trim outfit — the contrast makes the shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: neon red-orange discharge glow, warm coral, clear glass-tube white, soft twilight blue.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1910, twelve years after neon was found in liquefied air: a grand exposition pavilion under a glass roof where the first long neon tubes blaze red-orange in public, a glassblower's workshop bending tubes over gas flames, a frost-covered air-liquefaction column distilling the rare gas drop by drop.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Ne) and atomic number (10) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-11",
+ "record": "records/ne/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ne",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "ne|steampunk": {}
+  },
+  "looks": {
+   "ne|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "ne|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "83c02f10128141ea1cdf10244a5d3e49c75071fe381ab077a140d655dff7230f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selected_number": 1,
+  "free_prompt": ""
+ },
+ "qa": {
+  "size": [
+   1024,
+   1536
+  ],
+  "reviewer": "gpt",
+  "observations": [
+   "전신과 양손이 프레임 안에 있음",
+   "세계별 의상과 네온 주홍 머리색 확인"
+  ],
+  "issues": [
+   "기계 건틀릿이 손까지 덮음; 우리 설계의 건틀릿과 일반 인간 손 지시가 충돌함. 계기판에 작은 눈금 표시가 보임."
+  ],
+  "passed": false
+ },
+ "execution": "neon-20261112-74f1",
+ "imported": "2026-11-12",
+ "acceptance": "User selected 4,1,1 and authorized commit and normal push to main"
+}

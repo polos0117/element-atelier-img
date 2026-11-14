@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "ne",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ne_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_dunes",
+  "ofam": "swimwear",
+  "item": "sarong_wrap",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "vivid",
+  "expr": "confident",
+  "preset": "camera_shot",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ne_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neon (Ne) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wind-rippled desert dune trail\nOutfit: swimwear with a printed sarong knotted at the hip — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a short glass tube bent into a small loop, glowing neon red-orange in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neon: the 'new one', found in 1898 by distilling liquefied air; a sealed glass tube that blazes red-orange the moment current runs through it — the glow of every neon sign on a night street since the 1910s; a noble gas that mixes with nothing and forms no stable compounds at all; paired with helium it fires the thin, perfectly straight red beam of a helium-neon laser; showy light around an untouchable heart — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-12",
+ "record": "records/ne/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ne",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ne": {
+    "era": "now",
+    "place": "travel_dunes",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "camera_shot",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "sarong_wrap",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5bb73822011535f4dc98208d87403b77122f1e2a21c684196b67ef17e021170d",
+  "ref_sha256": "0c9e14886c55a47e06b18527d721ecf5a3a476556a6d1080708db1cf049561e7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "neon-20261112-74f1",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized upload after choosing worlds 4,1,1",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5bb73822011535f4dc98208d87403b77122f1e2a21c684196b67ef17e021170d",
+  "passed": true,
+  "observations": [
+   "1024×1536 확인",
+   "선택한 세계컷의 머리색·눈색과 화풍을 유지함",
+   "주인공 한 명, 갑옷·왕관 없이 계획 의상으로 변경됨",
+   "보이는 팔과 손은 몸에 연결되어 있으며 명백한 추가 팔다리는 보이지 않음"
+  ],
+  "cause": ""
+ }
+}
