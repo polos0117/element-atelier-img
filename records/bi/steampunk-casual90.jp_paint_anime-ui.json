@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "the lift lobby of a grand department store of her element's kingdom — a brass cage elevator, a floor dial above the door and marble stairs",
+  "light": "side",
+  "spot": "left_third",
+  "view": "foreground",
+  "expr": "curious",
+  "preset": "clasp_low",
+  "prop": "",
+  "outfit": "an elevator attendant look fitted to her body — a short double-breasted uniform dress with a keyhole neckline, bare legs in heels, white gloves and a small tilted hat",
+  "scene": "she is an elevator attendant welcoming the next ride",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the lift lobby of a grand department store of her element's kingdom — a brass cage elevator, a floor dial above the door and marble stairs\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an elevator attendant look fitted to her body — a short double-breasted uniform dress with a keyhole neckline, bare legs in heels, white gloves and a small tilted hat, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is an elevator attendant welcoming the next ride\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "백화점 승강기 안내원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a61f4b91278ec8b0181de8a9818134597d1d49f5747c61b836a6d3f34bfd2e3f",
+  "ref_sha256": "de58bc87c55079b3c3a9c4d862b4a0a596cb4a159098c5594660fdfb05b633df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "a61f4b91278ec8b0181de8a9818134597d1d49f5747c61b836a6d3f34bfd2e3f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "Elevator attendant uniform, white gloved hands clasped, brass cage elevator and marble stairs.",
+   "Readable floor-dial numbers are present despite the no-text rule; hands are held higher and crop is tighter than the planned low-clasp pose."
+  ],
+  "cause": "Deviation between the generated image and the prompt composition/outfit constraints; original output retained under user instruction, no regeneration."
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_circus",
+  "ofam": "halloween",
+  "item": "hw_black_cat",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "time": "lamplight",
+  "light": "top",
+  "view": "foreground",
+  "expr": "proud",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a circus tent ring under a striped canopy\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a black cat costume — a glossy black strapless bodysuit, sheer black tights, a cat-ear headband, a curling tail and a bell choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bi",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "bi": {
+    "era": "fantasy",
+    "place": "fx_circus",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "hw_black_cat",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "lamplight",
+    "light": "top",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ea65b3db75b825325f7cac6ee2a63a094d3cf28499d59195d1986d86d70b5a80",
+  "ref_sha256": "de58bc87c55079b3c3a9c4d862b4a0a596cb4a159098c5594660fdfb05b633df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "ea65b3db75b825325f7cac6ee2a63a094d3cf28499d59195d1986d86d70b5a80",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "Black-cat event costume, cross-legged seated pose; one hand on knee, other on ground, two connected legs."
+  ]
+ }
+}

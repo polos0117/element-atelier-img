@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_kitchen",
+  "ofam": "resort",
+  "item": "aloha_knot",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "time": "golden",
+  "hair": "down",
+  "spot": "right_third",
+  "depth": "layered",
+  "situ": "sweat",
+  "expr": "proud",
+  "preset": "hip_contra",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her home kitchen with a counter, open shelves and hanging pans\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a tropical-print shirt knotted at the waist over a bikini-style top with denim cut-offs; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bi",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "bi": {
+    "era": "now",
+    "place": "home_kitchen",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hip_contra",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "item": "aloha_knot",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sweat",
+    "time": "golden",
+    "hair": "down",
+    "spot": "right_third",
+    "depth": "layered"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3e3059d655b45d4548a07fa8603a9be94476bd8ae535c0d056d6c65da27a60f5",
+  "ref_sha256": "b1949732d6fca3c14f7e3054ed31d4f41c3341943b42e050e93e2de27ace9c04",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3e3059d655b45d4548a07fa8603a9be94476bd8ae535c0d056d6c65da27a60f5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "Hand on hip and other hand beside the hair; tropical shirt, denim shorts and warm kitchen light.",
+   "Royal crystal architecture and extensive ornament carry into the otherwise everyday kitchen scene."
+  ],
+  "cause": "Deviation between the generated image and the prompt composition/outfit constraints; original output retained under user instruction, no regeneration."
+ }
+}

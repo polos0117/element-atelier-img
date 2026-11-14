@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_jeweler",
+  "ofam": "workwear",
+  "item": "utility_vest_shorts",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "pocket",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "foot_on_wall",
+  "gaze": "camera",
+  "time": "dusk",
+  "depth": "layered",
+  "color": "pattern",
+  "expr": "nostalgic",
+  "preset": "wall_foot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a jeweller's bench with a loupe lamp, trays of cut stones and fine tools, a shop window behind\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a multi-pocket utility vest worn closed over bare shoulders with high-waisted cargo shorts and ankle boots — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is tucked into a pocket.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: one foot lifted flat against the wall behind her.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/mecha-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bi",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "bi": {
+    "era": "site",
+    "place": "site_jeweler",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_foot",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "pocket",
+    "left": "hair_tuck",
+    "legs": "foot_on_wall",
+    "gaze": "camera",
+    "item": "utility_vest_shorts",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "dusk",
+    "depth": "layered"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1d545cb07841e925262459dbbea2668044dee7b80b2115f5fc6ef39dccafcf08",
+  "ref_sha256": "5a641cf8227e449d9824400588197d19061b3224a6cd506d29ece86e65790b9a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "1d545cb07841e925262459dbbea2668044dee7b80b2115f5fc6ef39dccafcf08",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "Full body leaning on wall by jeweller bench, one hand pocketed, other at hair, one boot against wall; leg joints connected."
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_park",
+  "ofam": "swimwear",
+  "item": "crossstrap_swim",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dusk",
+  "light": "back",
+  "color": "mono",
+  "expr": "focused",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city park with benches, old trees and a fountain\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a swimsuit with crossed back straps and a scooped front — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bi",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "bi": {
+    "era": "now",
+    "place": "street_park",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wrap_close",
+    "use": "cup_wrap",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "crossstrap_swim",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "dusk",
+    "light": "back"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2c6a77a5ae151678abafd69ca5b5df3b73fc1fe5c23010afb8a5d8fc5033f5dc",
+  "ref_sha256": "b1949732d6fca3c14f7e3054ed31d4f41c3341943b42e050e93e2de27ace9c04",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "2c6a77a5ae151678abafd69ca5b5df3b73fc1fe5c23010afb8a5d8fc5033f5dc",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "City park fountain at dusk; both hands wrap the cup, black swimsuit and reference face retained."
+  ]
+ }
+}

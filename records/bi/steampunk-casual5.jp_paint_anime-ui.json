@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "bi",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bi_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_wall",
+  "ofam": "resort",
+  "item": "palazzo_bandeau",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "lamplight",
+  "light": "side",
+  "color": "pastel",
+  "situ": "strap",
+  "expr": "curious",
+  "preset": "kneel_clasp",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bi_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bismuth (Bi) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an indoor climbing wall of coloured holds\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: wide-leg palazzo trousers with a bandeau top and a wide-brimmed straw hat — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bismuth: a heavy pinkish-silver metal that, melted and cooled, grows stepped square hopper crystals spiralling inward like staircases, its thin oxide skin splitting light into gold, rose, blue and green; gentle for a heavy metal, it soothes upset stomachs and gives makeup its pearly shimmer; it expands as it freezes and is pushed away by magnets; its low-melting alloys seal fire sprinklers; in 2003 it was found to decay, with a half-life over a billion times the age of the universe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/bi/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bi",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "bi": {
+    "era": "now",
+    "place": "sports_wall",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_clasp",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "palazzo_bandeau",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "pastel",
+    "time": "lamplight",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "54854bf65dfdc5ae856078a08145db60dd93bfc8c2414ff515b6a627e50a2089",
+  "ref_sha256": "de58bc87c55079b3c3a9c4d862b4a0a596cb4a159098c5594660fdfb05b633df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-bi-128d-20261114",
+ "imported": "2026-11-14",
+ "acceptance": "User selected 2,2,2 and authorized image/data commits and main updates without further confirmation.",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "54854bf65dfdc5ae856078a08145db60dd93bfc8c2414ff515b6a627e50a2089",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, one adult main woman, Japanese painterly anime rendering; face, hair colour and skin treatment follow the selected world reference.",
+   "No obvious extra or disconnected arms or legs; hands consistent with the visible framing.",
+   "Kneeling in wide palazzo trousers and bandeau, clasped hands, straw hat and climbing holds visible.",
+   "The original combination of resort clothing with a climbing gym is intentionally retained; lowered side of neckline gives the situational beat."
+  ],
+  "cause": "Deviation between the generated image and the prompt composition/outfit constraints; original output retained under user instruction, no regeneration."
+ }
+}
