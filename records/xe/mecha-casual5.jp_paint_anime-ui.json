@@ -1,0 +1,117 @@
+{
+  "atelier": "element",
+  "card": "xe",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "xe_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_moonpond",
+    "ofam": "editorial",
+    "item": "harness_tailoring",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "hair": "down",
+    "light": "side",
+    "color": "vivid",
+    "expr": "relieved",
+    "preset": "soak_hair",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "xe_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a moonlit lotus pond with stepping stones and glowing fireflies\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: tailoring with harness-like belts and buckles crossing the torso as decoration — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/xe/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "xe",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "xe": {
+        "era": "fantasy",
+        "place": "fx_moonpond",
+        "ofam": "editorial",
+        "treeV": 2,
+        "prop": "",
+        "preset": "soak_hair",
+        "use": "",
+        "posture": "soak",
+        "support": "water",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "hair_tuck",
+        "left": "water_trail",
+        "legs": "",
+        "gaze": "camera",
+        "item": "harness_tailoring",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "hair": "down",
+        "light": "side"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9ca9ad0b32201e5b75eff008f2c4ec57c7be36964475715e036a2c8ffe79a832",
+    "ref_sha256": "06dfb10c759d11374cd11d497626c849d668f55de0ed561ff3f75266b2f6ec30",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a moonlit lotus pond with stepping stones and glowing fireflies\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: tailoring with harness-like belts and buckles crossing the torso as decoration — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "Original PNG preserved; WebP only in the image repository."
+  },
+  "execution": "element-xenon-e6df",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 4,3,4 and authorized image and catalog registration without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "9ca9ad0b32201e5b75eff008f2c4ec57c7be36964475715e036a2c8ffe79a832",
+    "anatomy": "ok",
+    "passed": true,
+    "observations": [
+      "Waist-deep moonlit pond view; right hand touches the hair and left fingertips touch the water.",
+      "Both visible arms join naturally; the lower body is hidden by the water as framed, and blue harness tailoring remains opaque over intimate areas."
+    ]
+  }
+}

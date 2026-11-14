@@ -1,0 +1,117 @@
+{
+  "atelier": "element",
+  "card": "xe",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "xe_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "item": "camisole_wrap",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "time": "noon",
+    "light": "side",
+    "color": "pattern",
+    "expr": "gentle",
+    "preset": "floor_horizon",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "xe_steampunk_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/xe/steampunk-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "xe",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "xe": {
+        "era": "nation",
+        "place": "nation_forest",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_horizon",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "high",
+        "right": "lap",
+        "left": "floor_brace",
+        "legs": "cross_legged",
+        "gaze": "horizon",
+        "item": "camisole_wrap",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "noon",
+        "light": "side"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "fe32671c8e9ad09e7801edbb49481345a769d936a40dca863b35427bca16d415",
+    "ref_sha256": "75dff561b5811d18a5a444368c3c0914b0b6b2278824c34d80091e07e575dba9",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "Original PNG preserved; WebP only in the image repository."
+  },
+  "execution": "element-xenon-e6df",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 4,3,4 and authorized image and catalog registration without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "fe32671c8e9ad09e7801edbb49481345a769d936a40dca863b35427bca16d415",
+    "anatomy": "ok",
+    "passed": true,
+    "observations": [
+      "Seated side profile on a forest path, one hand supports her on the ground and the other rests on the raised knee.",
+      "Two connected arms and folded legs are visible; yellow floral camisole and wrap bottoms replace regalia."
+    ]
+  }
+}

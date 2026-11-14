@@ -1,0 +1,89 @@
+{
+  "atelier": "element",
+  "card": "xe",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "xe_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_inn",
+    "ofam": "everyday",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "use": "sig_hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "time": "lamplight",
+    "own": "mecha",
+    "placeText": "an arrivals hall of a spaceport of her element's kingdom — a glass immigration booth, a scanner arch and a board of far-off origins",
+    "ownProp": "an entry stamp",
+    "light": "top",
+    "depth": "deep",
+    "expr": "gentle",
+    "preset": "counter_cup",
+    "prop": "0",
+    "outfit": "an immigration officer look fitted to her body — a fitted uniform shirt unbuttoned low with short sleeves, a tight mini skirt, sheer tights and a peaked cap",
+    "scene": "she is an immigration officer welcoming strangers in",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "xe_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arrivals hall of a spaceport of her element's kingdom — a glass immigration booth, a scanner arch and a board of far-off origins\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an immigration officer look fitted to her body — a fitted uniform shirt unbuttoned low with short sleeves, a tight mini skirt, sheer tights and a peaked cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds an entry stamp at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is an immigration officer welcoming strangers in\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/xe/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "입국 심사관",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "fb2109bfbd0253b95fecba0b4de74ddf86270ada72cd987db1cc308d29efc53c",
+    "ref_sha256": "06dfb10c759d11374cd11d497626c849d668f55de0ed561ff3f75266b2f6ec30",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arrivals hall of a spaceport of her element's kingdom — a glass immigration booth, a scanner arch and a board of far-off origins\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an immigration officer look fitted to her body — a fitted uniform shirt unbuttoned low with short sleeves, a tight mini skirt, sheer tights and a peaked cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds an entry stamp at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is an immigration officer welcoming strangers in\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "Original PNG preserved; WebP only in the image repository.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-xenon-e6df",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 4,3,4 and authorized image and catalog registration without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "fb2109bfbd0253b95fecba0b4de74ddf86270ada72cd987db1cc308d29efc53c",
+    "anatomy": "ok",
+    "passed": false,
+    "observations": [
+      "Immigration officer in side profile, right hand holds an entry stamp and left hand rests on the booth railing; both arms connect coherently.",
+      "Short reference bob, violet eye and warm skin remain; framing extends to the upper thighs rather than stopping at the requested waist."
+    ],
+    "cause": "Observed scene, pose or framing differs from prompt; generated original preserved without regeneration."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "atelier": "element",
+  "card": "xe",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "xe_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_resort",
+    "ofam": "swimwear",
+    "item": "highleg_onepiece",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "time": "noon",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep",
+    "color": "pastel",
+    "expr": "sensual",
+    "preset": "floor_knee",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "xe_mecha_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a resort cabana with a shaded daybed by the water\nTime of day: midday — bright even light.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a high-leg one-piece swimsuit with a high neckline — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/xe/mecha-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "xe",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "xe": {
+        "era": "now",
+        "place": "water_resort",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_knee",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "chin_knee",
+        "left": "floor_brace",
+        "legs": "knee_up",
+        "gaze": "camera",
+        "item": "highleg_onepiece",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "time": "noon",
+        "light": "back",
+        "spot": "right_third",
+        "depth": "deep"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "7dc3cf7bd453f998ed4b89a5aeea78b066b9eb6fb19e33a8768a0fb0698566ee",
+    "ref_sha256": "06dfb10c759d11374cd11d497626c849d668f55de0ed561ff3f75266b2f6ec30",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Xenon (Xe) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a resort cabana with a shaded daybed by the water\nTime of day: midday — bright even light.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a high-leg one-piece swimsuit with a high neckline — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "Original PNG preserved; WebP only in the image repository."
+  },
+  "execution": "element-xenon-e6df",
+  "imported": "2026-11-14",
+  "acceptance": "User selected worlds 4,3,4 and authorized image and catalog registration without further confirmation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "7dc3cf7bd453f998ed4b89a5aeea78b066b9eb6fb19e33a8768a0fb0698566ee",
+    "anatomy": "ok",
+    "passed": true,
+    "observations": [
+      "Resort cabana seated pose, right elbow on raised knee and right hand at chin; left hand supports her on the floor.",
+      "Bobbed silver-white hair, violet eyes and warm skin follow the reference; opaque high-cut one-piece replaces all armour; two coherent legs visible within the planned crop."
+    ]
+  }
+}

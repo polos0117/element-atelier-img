@@ -1,0 +1,109 @@
+{
+  "atelier": "element",
+  "card": "xe",
+  "tier": "root",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "oval",
+      "eyes": "narrow_upturned",
+      "brows": "straight_thick",
+      "nose": "straight_narrow",
+      "lips": "thin_long",
+      "eye_color": "ion_blue",
+      "age": "early_20s",
+      "impression": "cool",
+      "skin_tone": "deep_brown",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "winged_liner",
+      "expr": "curious"
+    },
+    "silhouette": {
+      "body": "lanky",
+      "hair": "short_crop",
+      "hair_color": "xenon_flash",
+      "bangs": "side_swept"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "xe_mecha_jp_paint_anime_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Xenon (제논) itself — the sovereign of the Xenon Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a cool, aloof beauty; deep brown skin; oval face; medium-sized eyes — narrow upturned eyes, level outer eye corners; thick straight brows; straight narrow nose; thin long lips; glowing pale ion-blue eyes; sharp winged eyeliner.\nBody and hair: lean and long-legged, with a natural neck length build; short cropped hair with side-swept bangs; silver-white hair flashing pale ion-blue at the ends like a strobe.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Separate armor pieces in deep space black and pale silver on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them, blue-white ion-glow lines along every edge, small xenon-ion thruster nozzles at the hips and shoulder blades trailing pale blue exhaust, one orange-gold accent at the collar; calm, daring, far-travelling; the plates must read as solid armor, not a gown.\nSilhouette: separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: pale ion-blue glow, strobe-flash white, deep space black, a single accent of hexafluoroplatinate orange-gold.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a deep-space probe harbour at the edge of the solar system: slender probes drifting out on long blue tails of xenon-ion engines, great spheres of liquid xenon fuel, bright docks under a deep black sky where white strobe beacons flash in a steady rhythm.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Xe) and atomic number (54) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+  "date": "2026-11-14",
+  "record": "records/xe/mecha.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "xe",
+    "out": "world",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {
+      "xe|mecha": {}
+    },
+    "looks": {
+      "xe|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "xe|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "design": "gpt_free",
+    "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Xenon (제논) itself — the sovereign of the Xenon Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: about twenty — a fresh young-adult face; no facial lines.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: xenon: 'the stranger', found in 1898 by William Ramsay and Morris Travers in the last residue of liquefied air, the rarest and heaviest stable noble gas, less than one part in ten million of the air; glows blue in a discharge tube and blazes white in camera flashes and cinema arc lamps; in 1962 Neil Bartlett made it the first noble gas ever to form a compound, an orange-yellow solid with fluorine and platinum; its ions stream as the blue exhaust of deep-space probe engines; a calm, daring wanderer who broke the nobles' rule. Palette: pale ion-blue glow, strobe-flash white, deep space black, a single accent of hexafluoroplatinate orange-gold.\n\nWorld (fixed): year 2200, a deep-space probe harbour at the edge of the solar system: slender probes drifting out on long blue tails of xenon-ion engines, great spheres of liquid xenon fuel, bright docks under a deep black sky where white strobe beacons flash in a steady rhythm. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 2) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) light body armor with several small shield and drone units floating symmetrically around her; 5) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 6) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 7) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 8) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 9) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 10) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): pale ion-blue glow, strobe-flash white, deep space black, a single accent of hexafluoroplatinate orange-gold.\n\nHair colour (fixed — ours): silver-white hair flashing pale ion-blue at the ends like a strobe. Keep exactly this hair colour; only the hairstyle is yours.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Xe) and atomic number (54) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nMy detailed design for this image:\nChoose silhouette 7, large ring halo behind her head, crown-like head unit and long rigid shoulder plates. Invent an adult woman with dark olive skin, compact diamond-soft face, pale lavender eyes, silver-white hair with pale ion-blue tips in a smooth chin-length bob. Her halo is built as a segmented circular xenon discharge chamber with black outer casing, white inner reflectors and a blue-white flash slit; the long shoulder plates narrow into paired ion-engine nozzles. A single orange-gold collar junction. Bare shoulders and deep chest window, intimate areas covered, full solid armour everywhere else. She stands at the fuel-sphere dock, both empty hands visible, slight playful brow lift, deep-space probes beyond. Keep all fixed composition and style constraints.",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "06dfb10c759d11374cd11d497626c849d668f55de0ed561ff3f75266b2f6ec30",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "selection": 4
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "anatomy": "ok",
+    "passed": false,
+    "observations": [
+      "성인 여성 한 명, 해당 세계와 은백색·이온 블루 머리색 반영",
+      "뚜렷한 추가·분리된 팔다리 없음. 두 손이 보이나 일부 손가락은 자세상 겹쳐 개별 개수 판독 제한",
+      "전신은 들어오지만 요청한 상하 여백보다 좁음",
+      "고체 메카 장갑과 장비는 유지되지만 허벅지 일부가 노출되어 전신 장갑 제약과 차이 있음"
+    ],
+    "cause": "일부 구도·문자 또는 장갑 범위 제약과 생성 결과 차이. 재생성하지 않고 선택용 원본 보존."
+  },
+  "execution": "element-xenon-e6df",
+  "imported": "2026-11-14",
+  "acceptance": "User selected fantasy 4, steampunk 3, mecha 4 and authorized registration without further confirmation."
+}

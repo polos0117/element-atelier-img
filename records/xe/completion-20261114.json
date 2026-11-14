@@ -1,0 +1,38 @@
+{
+  "card": "xe",
+  "status": "completed",
+  "execution": "element-xenon-e6df",
+  "world_selection": {
+    "fantasy": 4,
+    "steampunk": 3,
+    "mecha": 4
+  },
+  "images": 27,
+  "world_images": 3,
+  "casual_images": 24,
+  "own_images": 3,
+  "size": [
+    1024,
+    1536
+  ],
+  "style": "jp_paint_anime",
+  "final_world_sheet_library_file_id": "libfile_3a2e3ac676b08191abe0bc4d562abba0",
+  "casual_plan_checks": "fantasy, steampunk and mecha passed",
+  "qa_differences": [
+    "fantasy-casual1",
+    "fantasy-casual7",
+    "steampunk-casual3",
+    "steampunk-casual5",
+    "steampunk-casual90",
+    "mecha-casual2",
+    "mecha-casual90"
+  ],
+  "anatomy": "No obvious extra, disconnected or reversed limbs observed; occluded fingers cannot be counted individually.",
+  "generated_outputs_regenerated": 0,
+  "completed_at": "2026-11-14T07:37:21.972898+00:00",
+  "commits": {
+    "images": "00e2174f7afa2bd6aba33dd88ea8c027575d926c",
+    "catalog": "0f999d3c561f078ffd9b3ceff0295037558b9025"
+  },
+  "selection_record_integrity": "Full original JSON restored; all uploaded record JSON parses successfully."
+}
