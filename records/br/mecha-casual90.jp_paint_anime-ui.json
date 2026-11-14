@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "br",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "br_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "a flower shop of her element's kingdom — buckets of cut flowers, a wrapping counter with ribbon reels and a glass cooler",
+  "ownProp": "a wrapped bouquet",
+  "expr": "serious",
+  "preset": "wrap_close",
+  "prop": "0",
+  "outfit": "a florist look fitted to her body — a linen apron over a strappy sundress cut short, bare shoulders and sandals",
+  "scene": "she is a florist with a finished bouquet",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "br_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bromine (Br) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a flower shop of her element's kingdom — buckets of cut flowers, a wrapping counter with ribbon reels and a glass cooler\nTime of day: midday — bright even light.\nOutfit: a florist look fitted to her body — a linen apron over a strappy sundress cut short, bare shoulders and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a wrapped bouquet in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is a florist with a finished bouquet\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bromine: the only nonmetal that is liquid at room temperature, a heavy red-brown liquid that breathes off orange-red fumes; named from the Greek for 'stench' after Antoine-Jérôme Balard drew it from the bitter brine left in the salt marshes of Montpellier in 1826; the bromine inside the molecule of Tyrian purple, the royal dye wrung from murex sea snails; silver bromide in the gelatin dry plates that caught the light of photographs; flame retardants that smother fire; lavish, decadent, dangerous to breathe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/br/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "플로리스트",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-bromine-20261114",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e83c45d5c3f8d12f68528c54c3bce09f28c9ff2493747f97c725ad221d969e7f",
+  "ref_sha256": "58d24d8785107be6064038878c2633138eaae3e09fc4738ddc89d8292afd50b5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e83c45d5c3f8d12f68528c54c3bce09f28c9ff2493747f97c725ad221d969e7f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 기준 세계컷의 붉은 머리·보라색 눈·구릿빛 피부의 성인 여성 한 명을 확인했다.",
+   "보이는 팔·다리·손의 연결에 명확한 추가·분리 이상은 보이지 않는다.",
+   "꽃다발을 두 손으로 받친 플로리스트 차림, 꽃 냉장고와 리본 선반을 확인했다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-14 — 선택 1,2,2 및 검수 후 추가 확인 없이 일반 main 반영 승인"
+}

@@ -1,0 +1,78 @@
+{
+ "atelier": "element",
+ "card": "br",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "br_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "active",
+  "item": "boxing_set",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "knees_together",
+  "gaze": "",
+  "weather": "summer",
+  "hair": "braid",
+  "depth": "flat",
+  "color": "vivid",
+  "expr": "pensive",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "br_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bromine (Br) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nWeather / season: high summer — strong sunlight and deep shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a sports top, boxing shorts and wrapped hands or gloves — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground, level with her face as she sits or kneels; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a small heavy stoppered glass vial of red-brown liquid breathing an orange-red wisp in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bromine: the only nonmetal that is liquid at room temperature, a heavy red-brown liquid that breathes off orange-red fumes; named from the Greek for 'stench' after Antoine-Jérôme Balard drew it from the bitter brine left in the salt marshes of Montpellier in 1826; the bromine inside the molecule of Tyrian purple, the royal dye wrung from murex sea snails; silver bromide in the gelatin dry plates that caught the light of photographs; flame retardants that smother fire; lavish, decadent, dangerous to breathe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/br/mecha-casual3.jp_paint_anime-ui.json",
+ "execution": "element-bromine-20261114",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0289257283a448fd1ae0d9b7ac8324fba82db9df99c79f2e44102de00ed6af1a",
+  "ref_sha256": "58d24d8785107be6064038878c2633138eaae3e09fc4738ddc89d8292afd50b5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0289257283a448fd1ae0d9b7ac8324fba82db9df99c79f2e44102de00ed6af1a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 기준 세계컷의 붉은 머리·보라색 눈·구릿빛 피부의 성인 여성 한 명을 확인했다.",
+   "보이는 팔·다리·손의 연결에 명확한 추가·분리 이상은 보이지 않는다.",
+   "실험실에서 권투복과 핸드랩을 착용하고 두 손으로 원소 소병을 든다.",
+   "배경 병 라벨에 글씨 모양의 작은 획이 보이며 판독 가능한 단어는 확인되지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-14 — 선택 1,2,2 및 검수 후 추가 확인 없이 일반 main 반영 승인"
+}

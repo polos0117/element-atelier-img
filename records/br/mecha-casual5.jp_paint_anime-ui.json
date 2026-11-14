@@ -1,0 +1,79 @@
+{
+ "atelier": "element",
+ "card": "br",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "br_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_moonpond",
+  "ofam": "retro",
+  "item": "swing_dress",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "weather": "night_snow",
+  "hair": "tied",
+  "light": "side",
+  "depth": "deep",
+  "color": "pastel",
+  "situ": "wet",
+  "expr": "relieved",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "br_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bromine (Br) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a moonlit lotus pond with stepping stones and glowing fireflies\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a 1940s swing dress with a sweetheart neckline — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bromine: the only nonmetal that is liquid at room temperature, a heavy red-brown liquid that breathes off orange-red fumes; named from the Greek for 'stench' after Antoine-Jérôme Balard drew it from the bitter brine left in the salt marshes of Montpellier in 1826; the bromine inside the molecule of Tyrian purple, the royal dye wrung from murex sea snails; silver bromide in the gelatin dry plates that caught the light of photographs; flame retardants that smother fire; lavish, decadent, dangerous to breathe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/br/mecha-casual5.jp_paint_anime-ui.json",
+ "execution": "element-bromine-20261114",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "647194f32396c127e87f22d37368e8e36bcfd3bf51423525a27f6fe3f1fbc739",
+  "ref_sha256": "58d24d8785107be6064038878c2633138eaae3e09fc4738ddc89d8292afd50b5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "647194f32396c127e87f22d37368e8e36bcfd3bf51423525a27f6fe3f1fbc739",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 기준 세계컷의 붉은 머리·보라색 눈·구릿빛 피부의 성인 여성 한 명을 확인했다.",
+   "보이는 팔·다리·손의 연결에 명확한 추가·분리 이상은 보이지 않는다.",
+   "옆으로 누워 왼팔로 머리를 받치고 오른손은 바닥을 짚고 있다.",
+   "전신 계획이지만 화면 왼쪽 발끝 여백이 부족해 일부 잘려 보인다."
+  ],
+  "cause": "프레이밍·좌우 방향·장면 요청 일부가 결과에서 달라짐"
+ },
+ "acceptance": "user_approval_2026-11-14 — 선택 1,2,2 및 검수 후 추가 확인 없이 일반 main 반영 승인"
+}

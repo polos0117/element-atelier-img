@@ -1,0 +1,75 @@
+{
+ "atelier": "element",
+ "card": "br",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "br_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_bike_path",
+  "ofam": "roleplay",
+  "item": "event_staff",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "neon",
+  "depth": "deep",
+  "color": "jewel",
+  "expr": "focused",
+  "preset": "edge_brace",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "br_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bromine (Br) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a riverside cycle path with a parked bicycle, a low stone wall and reeds along the water\nTime of day: night under neon and signage light, coloured reflections.\nOutfit: an event staff costume with a fitted vest, name-tag ribbon and lanyard — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bromine: the only nonmetal that is liquid at room temperature, a heavy red-brown liquid that breathes off orange-red fumes; named from the Greek for 'stench' after Antoine-Jérôme Balard drew it from the bitter brine left in the salt marshes of Montpellier in 1826; the bromine inside the molecule of Tyrian purple, the royal dye wrung from murex sea snails; silver bromide in the gelatin dry plates that caught the light of photographs; flame retardants that smother fire; lavish, decadent, dangerous to breathe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/br/steampunk-casual1.jp_paint_anime-ui.json",
+ "execution": "element-bromine-20261114",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7f7fb49102ca2b878fbd31028ab50cd7118753f508326bb15d0374ede84de58b",
+  "ref_sha256": "3ff59ff4298282e9f0200e0d3d56f67501fb490187b1bdc912d5457aae781def",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7f7fb49102ca2b878fbd31028ab50cd7118753f508326bb15d0374ede84de58b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 기준 세계컷의 붉은 머리·보라색 눈·구릿빛 피부의 성인 여성 한 명을 확인했다.",
+   "보이는 팔·다리·손의 연결에 명확한 추가·분리 이상은 보이지 않는다.",
+   "강변 자전거 길의 돌턱에 앉아 두 손으로 가장자리를 짚고 있다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-14 — 선택 1,2,2 및 검수 후 추가 확인 없이 일반 main 반영 승인"
+}

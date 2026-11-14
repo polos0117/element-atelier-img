@@ -1,0 +1,79 @@
+{
+ "atelier": "element",
+ "card": "br",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "br_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "soft_tank_shorts",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "weather": "rain",
+  "time": "night",
+  "light": "side",
+  "view": "foreground",
+  "color": "denim",
+  "denier": "d60",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "br_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Bromine (Br) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a soft ribbed tank top and short cotton shorts — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — bromine: the only nonmetal that is liquid at room temperature, a heavy red-brown liquid that breathes off orange-red fumes; named from the Greek for 'stench' after Antoine-Jérôme Balard drew it from the bitter brine left in the salt marshes of Montpellier in 1826; the bromine inside the molecule of Tyrian purple, the royal dye wrung from murex sea snails; silver bromide in the gelatin dry plates that caught the light of photographs; flame retardants that smother fire; lavish, decadent, dangerous to breathe — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/br/mecha-casual2.jp_paint_anime-ui.json",
+ "execution": "element-bromine-20261114",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3a70ac9187b307f0a5ca07653b26a4b9174aee7dc020b0aa082b058d040ba410",
+  "ref_sha256": "58d24d8785107be6064038878c2633138eaae3e09fc4738ddc89d8292afd50b5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3a70ac9187b307f0a5ca07653b26a4b9174aee7dc020b0aa082b058d040ba410",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 기준 세계컷의 붉은 머리·보라색 눈·구릿빛 피부의 성인 여성 한 명을 확인했다.",
+   "보이는 팔·다리·손의 연결에 명확한 추가·분리 이상은 보이지 않는다.",
+   "뒤로 멀어지는 환경 구도 계획과 달리 정면으로 걷는 전신 구도다.",
+   "군영은 미래 장비보다 천막·동제 기구가 중심이어서 세계감이 약하다."
+  ],
+  "cause": "프레이밍·좌우 방향·장면 요청 일부가 결과에서 달라짐"
+ },
+ "acceptance": "user_approval_2026-11-14 — 선택 1,2,2 및 검수 후 추가 확인 없이 일반 main 반영 승인"
+}
