@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "cs",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cs_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a dueling lawn at dawn in her element's kingdom — paces marked out in the dewy grass, an open case of two sabres on a bench and mist along the hedges",
+  "ownProp": "a gold pocket watch with its lid open",
+  "light": "side",
+  "expr": "curious",
+  "preset": "pocket_look",
+  "prop": "0",
+  "outfit": "a duelling second's look fitted to her body — a cropped riding coat open over a laced bandeau, short breeches, tall boots and a cravat pin",
+  "scene": "she is the second at a duel, watch in hand, counting down the last seconds before she gives the signal",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cs_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Caesium (Cs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dueling lawn at dawn in her element's kingdom — paces marked out in the dewy grass, an open case of two sabres on a bench and mist along the hedges\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a duelling second's look fitted to her body — a cropped riding coat open over a laced bandeau, short breeches, tall boots and a cravat pin, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a gold pocket watch with its lid open at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the second at a duel, watch in hand, counting down the last seconds before she gives the signal\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — caesium: a soft, pale-gold alkali metal that melts in a warm hand at about 28 degrees and explodes on touching water, the most violently reactive of the stable alkali metals, so it is kept sealed in glass ampoules under inert gas; found in 1860 in boiled-down spring water, the first element ever discovered with the spectroscope, and named from Latin caesius, sky blue, for the two bright blue lines in its flame; since 1967 the second is defined as 9,192,631,770 vibrations of the caesium atom, counted by atomic clocks — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/cs/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "결투 입회인(세컨드)",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "04e60f8971727da21b050de1e6a674449b7b647975f518f0637cdb5cbe3400f0",
+  "ref_sha256": "5e56a31f63639f8234e1d6d726659c54d3492b2dc93b57b658f02c8dbb257d8b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-cs-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "user chose 1,1,1 and authorized main publication",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "04e60f8971727da21b050de1e6a674449b7b647975f518f0637cdb5cbe3400f0",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Original verified 1024x1536; one adult woman in focus; reference face/hair colour and painterly rendering followed.",
+   "Waist-up crop with one connected hand holding pocket watch; no extra limbs.",
+   "Dueling lawn and watch motif, decorated jacket follows reference palette."
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "cs",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cs_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_indoor_pool",
+  "ofam": "retro",
+  "item": "nineties_windbreaker_track",
+  "posture": "swim",
+  "support": "water",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "out",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "morning",
+  "light": "top",
+  "view": "glass",
+  "color": "neutral",
+  "situ": "wet",
+  "expr": "wistful",
+  "preset": "swim_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cs_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Caesium (Cs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an indoor lap pool with lane ropes, a tiled deck, a starting block and tall windows\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a color-blocked 1990s windbreaker with matching track pants — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: swimming breaststroke, head and shoulders above the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand stays outside the frame.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — caesium: a soft, pale-gold alkali metal that melts in a warm hand at about 28 degrees and explodes on touching water, the most violently reactive of the stable alkali metals, so it is kept sealed in glass ampoules under inert gas; found in 1860 in boiled-down spring water, the first element ever discovered with the spectroscope, and named from Latin caesius, sky blue, for the two bright blue lines in its flame; since 1967 the second is defined as 9,192,631,770 vibrations of the caesium atom, counted by atomic clocks — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/cs/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cs",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "cs": {
+    "era": "now",
+    "place": "water_indoor_pool",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "swim_close",
+    "use": "",
+    "posture": "swim",
+    "support": "water",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "out",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "nineties_windbreaker_track",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "neutral",
+    "time": "morning",
+    "light": "top",
+    "view": "glass"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e5dc1db1134937a434a317489a9bebf8713ea6d594079c7eede13c2ee4f58570",
+  "ref_sha256": "5e56a31f63639f8234e1d6d726659c54d3492b2dc93b57b658f02c8dbb257d8b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-cs-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "user chose 1,1,1 and authorized main publication",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e5dc1db1134937a434a317489a9bebf8713ea6d594079c7eede13c2ee4f58570",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Original verified 1024x1536; one adult woman in focus; reference face/hair colour and painterly rendering followed.",
+   "Chest-up crop; hands and legs outside frame or underwater according to composition.",
+   "Background starting block contains an incidental numeral; retained."
+  ],
+  "cause": "Generation departed from a planned prop, pose, costume or text constraint; original preserved without regeneration."
+ }
+}

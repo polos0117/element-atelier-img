@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "cs",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cs_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_marble_bath",
+  "ofam": "lingerie",
+  "item": "bralette_highwaist",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "hair": "braid",
+  "spot": "right_third",
+  "view": "foreground",
+  "color": "mono",
+  "expr": "focused",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cs_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Caesium (Cs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a Roman marble bath hall — columns, mosaic floors and a wide steaming pool lit from high windows\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a soft-cup bralette with wide straps and matching high-waisted bottoms — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — caesium: a soft, pale-gold alkali metal that melts in a warm hand at about 28 degrees and explodes on touching water, the most violently reactive of the stable alkali metals, so it is kept sealed in glass ampoules under inert gas; found in 1860 in boiled-down spring water, the first element ever discovered with the spectroscope, and named from Latin caesius, sky blue, for the two bright blue lines in its flame; since 1967 the second is defined as 9,192,631,770 vibrations of the caesium atom, counted by atomic clocks — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/cs/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cs",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "cs": {
+    "era": "fantasy",
+    "place": "fx_marble_bath",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "bralette_highwaist",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "hair": "braid",
+    "spot": "right_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f7ca977fdadfe428d637d9fdd60ab3757b9b1bc65ffbf310174398620ee2e21a",
+  "ref_sha256": "5e56a31f63639f8234e1d6d726659c54d3492b2dc93b57b658f02c8dbb257d8b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "element-cs-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "user chose 1,1,1 and authorized main publication",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f7ca977fdadfe428d637d9fdd60ab3757b9b1bc65ffbf310174398620ee2e21a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Original verified 1024x1536; one adult woman in focus; reference face/hair colour and painterly rendering followed.",
+   "Both arms join naturally; visible fingers; no extra limbs.",
+   "Bralette and high-waisted bottoms, marble bath setting, seated pose."
+  ]
+ }
+}

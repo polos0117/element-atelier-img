@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "cs",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cs_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "a countdown stage in the main square of her element's kingdom on the last night of the year — a giant ring of light segments ticking away, confetti cannons and a blurred crowd beyond the stage",
+  "ownProp": "a slim handheld microphone",
+  "light": "side",
+  "expr": "focused",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a countdown host look fitted to her body — a sequined mini dress with a deep neckline, sheer tights and ankle-strap heels",
+  "scene": "she is the host of the year's-end countdown, counting off the final seconds into the microphone",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cs_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Caesium (Cs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a countdown stage in the main square of her element's kingdom on the last night of the year — a giant ring of light segments ticking away, confetti cannons and a blurred crowd beyond the stage\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a countdown host look fitted to her body — a sequined mini dress with a deep neckline, sheer tights and ankle-strap heels, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a slim handheld microphone up beside her face; it is all she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the host of the year's-end countdown, counting off the final seconds into the microphone\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — caesium: a soft, pale-gold alkali metal that melts in a warm hand at about 28 degrees and explodes on touching water, the most violently reactive of the stable alkali metals, so it is kept sealed in glass ampoules under inert gas; found in 1860 in boiled-down spring water, the first element ever discovered with the spectroscope, and named from Latin caesius, sky blue, for the two bright blue lines in its flame; since 1967 the second is defined as 9,192,631,770 vibrations of the caesium atom, counted by atomic clocks — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-14",
+ "record": "records/cs/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "새해 카운트다운 진행자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "79d8aefaf0abc67709f1d818f627a08df7d4e5ee223e64abc245b3a51aaf8b59",
+  "ref_sha256": "2a1e7c43630fe9c761e8dcc35fd0384f46ad70a059ce333b5a71d78c1c76fa09",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-cs-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "user chose 1,1,1 and authorized main publication",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "79d8aefaf0abc67709f1d818f627a08df7d4e5ee223e64abc245b3a51aaf8b59",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Original verified 1024x1536; one adult woman in focus; reference face/hair colour and painterly rendering followed.",
+   "Chest-up portrait, natural connected hand holds microphone; other hand intentionally outside crop.",
+   "Countdown host in sequin dress, segmented light ring, confetti and blurred audience; reference short hair and face retained."
+  ]
+ }
+}
