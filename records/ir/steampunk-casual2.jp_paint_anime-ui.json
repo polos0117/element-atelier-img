@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "ir",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ir_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_shelf",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "hair": "braid",
+  "light": "two_tone",
+  "spot": "right_third",
+  "view": "glass",
+  "color": "pattern",
+  "expr": "curious",
+  "preset": "hang_line",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ir_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a lace bralette under an open cardigan with soft shorts — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ir/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ir",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ir": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hang_line",
+    "use": "box_shelf",
+    "kind": "both",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "bralette_cardigan",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "hair": "braid",
+    "light": "two_tone",
+    "spot": "right_third",
+    "view": "glass"
+   }
+  }
+ },
+ "execution": "element-ir-20261114-389616",
+ "imported": "2026-11-14",
+ "acceptance": "user approved main publication; preserve generated results",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2b3926d6678ca5c6a2891ff131da662670ed94a440bbcb30136feae57f2b0a29",
+  "ref_sha256": "01e550cca8642eed3f2ca993a8818684170aaf977e97d13ffed79478ad8fcd6b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a lace bralette under an open cardigan with soft shorts — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2b3926d6678ca5c6a2891ff131da662670ed94a440bbcb30136feae57f2b0a29",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, one adult woman in focus; reference face, eye colour and platinum-white hair are recognisable.",
+   "Both arms reach from their shoulders to place a small box on a high shelf.",
+   "A long braid has been introduced behind the reference bob haircut."
+  ],
+  "cause": "Generated deviation from planned scene/outfit/composition; original preserved without regeneration."
+ }
+}

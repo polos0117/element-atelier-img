@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "ir",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ir_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "satin_lounge",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "weather": "snow",
+  "time": "dusk",
+  "light": "dappled",
+  "spot": "left_third",
+  "depth": "flat",
+  "color": "neutral",
+  "expr": "gentle",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ir_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a satin lounge set of button shirt and shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ir/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ir",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ir": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "satin_lounge",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "dusk",
+    "weather": "snow",
+    "light": "dappled",
+    "spot": "left_third",
+    "depth": "flat"
+   }
+  }
+ },
+ "execution": "element-ir-20261114-389616",
+ "imported": "2026-11-14",
+ "acceptance": "user approved main publication; preserve generated results",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "95d377e4b1c0eeb781f9de1a98e449448fbc1a47b07f66010e4063ea4c985199",
+  "ref_sha256": "df6242ebaea4ccc779f66394036fea6aee77ef9f25cf49b6f584926b821367e8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a satin lounge set of button shirt and shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "95d377e4b1c0eeb781f9de1a98e449448fbc1a47b07f66010e4063ea4c985199",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, one adult woman in focus; reference face, eye colour and platinum-white hair are recognisable.",
+   "Garden pond scene, one foot on a step, one hand on hip, other rests on thigh.",
+   "Left hand rests on raised thigh rather than relaxed at side."
+  ],
+  "cause": "Generated deviation from planned scene/outfit/composition; original preserved without regeneration."
+ }
+}

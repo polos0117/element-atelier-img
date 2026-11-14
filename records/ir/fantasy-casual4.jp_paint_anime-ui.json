@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "ir",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ir_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_forest",
+  "ofam": "bridal",
+  "item": "beaded_mini",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "bouquet_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "hair": "down",
+  "light": "back",
+  "color": "earth",
+  "situ": "wet",
+  "expr": "wistful",
+  "preset": "recline_head",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ir_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a misty enchanted garden of moss, ivy and lanterns\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a short beaded after-party wedding dress — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small bouquet at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ir/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ir",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "ir": {
+    "era": "fantasy",
+    "place": "fx_forest",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "recline_head",
+    "use": "bouquet_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "beaded_mini",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "earth",
+    "time": "golden",
+    "hair": "down",
+    "light": "back"
+   }
+  }
+ },
+ "execution": "element-ir-20261114-389616",
+ "imported": "2026-11-14",
+ "acceptance": "user approved main publication; preserve generated results",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "254a5fcad7e77bee388054dabb3204d16ebaf2fa2aec25bd7e80e767b4d68ed3",
+  "ref_sha256": "df6242ebaea4ccc779f66394036fea6aee77ef9f25cf49b6f584926b821367e8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a misty enchanted garden of moss, ivy and lanterns\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a short beaded after-party wedding dress — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small bouquet at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "254a5fcad7e77bee388054dabb3204d16ebaf2fa2aec25bd7e80e767b4d68ed3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, one adult woman in focus; reference face, eye colour and platinum-white hair are recognisable.",
+   "Wet dress and bouquet in an enchanted garden, chest-up composition and one elbow raised beside her head.",
+   "Dress includes metallic-looking jewel ornament derived from the reference styling."
+  ],
+  "cause": "Generated deviation from planned scene/outfit/composition; original preserved without regeneration."
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "ir",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ir_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "studio_sound",
+  "ofam": "roleplay",
+  "item": "adult_librarian",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "time": "lamplight",
+  "color": "jewel",
+  "expr": "gentle",
+  "preset": "side_chair_cross",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ir_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a foley recording booth with microphones and boxes of noisy props\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a librarian-inspired costume with a fitted cardigan, pencil skirt and glasses — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slim fountain pen with a hard iridium-tipped gold nib at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ir/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ir",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ir": {
+    "era": "now",
+    "place": "studio_sound",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "side_chair_cross",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "adult_librarian",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "time": "lamplight"
+   }
+  }
+ },
+ "execution": "element-ir-20261114-389616",
+ "imported": "2026-11-14",
+ "acceptance": "user approved main publication; preserve generated results",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "44259c2978a7c2bfac80ea15ad394a09e9a0dc28a995eb81f9c8ccbbe6654fe7",
+  "ref_sha256": "41449804ef530acc15076ddc04df5eadc879226d765c933ffb1870581396f663",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a foley recording booth with microphones and boxes of noisy props\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a librarian-inspired costume with a fitted cardigan, pencil skirt and glasses — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slim fountain pen with a hard iridium-tipped gold nib at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "44259c2978a7c2bfac80ea15ad394a09e9a0dc28a995eb81f9c8ccbbe6654fe7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, one adult woman in focus; reference face, eye colour and platinum-white hair are recognisable.",
+   "Seated with crossed legs in librarian-inspired outfit at recording studio, fountain pen in right hand.",
+   "Body faces three-quarter front rather than planned strict side view; studio contains added storage props."
+  ],
+  "cause": "Generated deviation from planned scene/outfit/composition; original preserved without regeneration."
+ }
+}

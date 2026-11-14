@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "ir",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ir_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_jeweler",
+  "ofam": "traditional",
+  "item": "boubou_flow",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "knees_together",
+  "gaze": "",
+  "weather": "fog",
+  "hair": "braid",
+  "light": "side",
+  "color": "mono",
+  "expr": "pensive",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ir_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a jeweller's bench with a loupe lamp, trays of cut stones and fine tools, a shop window behind\nWeather / season: a misty morning — soft fog outside.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a flowing West African boubou — a wide floor-length embroidered robe with a matching head wrap — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a slim fountain pen with a hard iridium-tipped gold nib in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/ir/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ir",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ir": {
+    "era": "site",
+    "place": "site_jeweler",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "table_lean_use",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "boubou_flow",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "weather": "fog",
+    "hair": "braid",
+    "light": "side"
+   }
+  }
+ },
+ "execution": "element-ir-20261114-389616",
+ "imported": "2026-11-14",
+ "acceptance": "user approved main publication; preserve generated results",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3c7709bf512b1dfb3c55eeec716beaa2833ec3ca0a4fb892f51b1a13364fa58d",
+  "ref_sha256": "df6242ebaea4ccc779f66394036fea6aee77ef9f25cf49b6f584926b821367e8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Iridium (Ir) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a jeweller's bench with a loupe lamp, trays of cut stones and fine tools, a shop window behind\nWeather / season: a misty morning — soft fog outside.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a flowing West African boubou — a wide floor-length embroidered robe with a matching head wrap — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a slim fountain pen with a hard iridium-tipped gold nib in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — iridium: a hard silvery-white metal, one of the two densest elements with osmium, and the most corrosion-resistant metal known, untouched even by aqua regia; found in 1803 by Smithson Tennant in the black residue of dissolved platinum and named for Iris, goddess of the rainbow, for its many-coloured salts; in 1889 platinum-iridium became the prototype metre and kilogram; a thin iridium layer in rocks worldwide marks the asteroid that ended the dinosaurs; it tips fountain-pen nibs — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3c7709bf512b1dfb3c55eeec716beaa2833ec3ca0a4fb892f51b1a13364fa58d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, one adult woman in focus; reference face, eye colour and platinum-white hair are recognisable.",
+   "Seated in patterned traditional dress, inspecting the fountain pen with both hands at a jeweller bench."
+  ]
+ }
+}
