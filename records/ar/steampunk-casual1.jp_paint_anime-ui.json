@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "ar",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ar_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "spa_sauna",
+    "ofam": "lingerie",
+    "item": "satin_teddy",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "time": "lamplight",
+    "hair": "tied",
+    "color": "neutral",
+    "expr": "nostalgic",
+    "preset": "lie_front_full",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ar_steampunk_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Argon (Ar) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wooden sauna and cold plunge with a cooling lounge\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a satin teddy, one smooth piece from neckline to hip — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — argon: 'the lazy one', a noble gas that reacts with nothing, yet makes up nearly one percent of the air — more than all the other noble gases together; found in 1894 by Lord Rayleigh and William Ramsay because nitrogen taken from air weighed a little more than nitrogen made from chemicals, a stubborn residue Henry Cavendish had already noticed in 1785; glows soft lavender-violet in a discharge tube; a heavy, idle blanket laid over welding arcs, sealed inside light bulbs to keep their filaments alive, and over precious old documents to stop time; drowsy, gentle, protective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/ar/steampunk-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ar",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "ar": {
+        "era": "now",
+        "place": "spa_sauna",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_full",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "full_body",
+        "body": "front",
+        "head": "with_body",
+        "camera": "low",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "feet_up",
+        "gaze": "camera",
+        "item": "satin_teddy",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "lamplight",
+        "hair": "tied"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0fa6847185052cc73fbec93ab5c070df616c08c122f4937ba63b6de7cc5ed193",
+    "ref_sha256": "e57eb2c6ea2d17be2a16e9297c55e66e1b494387805f96e82cd396a7893bf688",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG preserved; only WebP uploaded."
+  },
+  "execution": "element-argon-5a631",
+  "imported": "2026-11-14",
+  "acceptance": "User approved selected worlds 3,4,4 and automatic registration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "0fa6847185052cc73fbec93ab5c070df616c08c122f4937ba63b6de7cc5ed193",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Prone sauna lounge pose, both hands support chin; two bent legs visible; pale satin teddy."
+    ],
+    "cause": ""
+  }
+}

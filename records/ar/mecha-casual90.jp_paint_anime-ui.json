@@ -1,0 +1,84 @@
+{
+  "atelier": "element",
+  "card": "ar",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ar_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_inn",
+    "ofam": "everyday",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lap",
+    "left": "natural",
+    "use": "",
+    "legs": "ankles_crossed",
+    "gaze": "camera",
+    "own": "mecha",
+    "placeText": "a sleeper bay of a long-haul ship of her element's kingdom — rows of softly lit sleep capsules, a watch chair and a slow status board",
+    "spot": "left_third",
+    "expr": "confident",
+    "preset": "ankles_sit",
+    "prop": "",
+    "outfit": "a sleeper attendant look fitted to her body — a cropped crew tank, low-slung lounge shorts, a blanket around her shoulders slipping down and grip socks",
+    "scene": "she is the sleeper-bay attendant on a very quiet watch",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ar_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Argon (Ar) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sleeper bay of a long-haul ship of her element's kingdom — rows of softly lit sleep capsules, a watch chair and a slow status board\nOutfit: a sleeper attendant look fitted to her body — a cropped crew tank, low-slung lounge shorts, a blanket around her shoulders slipping down and grip socks, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the sleeper-bay attendant on a very quiet watch\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — argon: 'the lazy one', a noble gas that reacts with nothing, yet makes up nearly one percent of the air — more than all the other noble gases together; found in 1894 by Lord Rayleigh and William Ramsay because nitrogen taken from air weighed a little more than nitrogen made from chemicals, a stubborn residue Henry Cavendish had already noticed in 1785; glows soft lavender-violet in a discharge tube; a heavy, idle blanket laid over welding arcs, sealed inside light bulbs to keep their filaments alive, and over precious old documents to stop time; drowsy, gentle, protective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/ar/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "동면 캡슐 관리인",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9f968508c3e9b5cb5e36a7b78a9ce278ee8b73b564c90e39259be7243a18874a",
+    "ref_sha256": "8907366258887b26b6d1bbb856b1ff353896b4389226572cb23a216897fc659c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG preserved; only WebP uploaded.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-argon-5a631",
+  "imported": "2026-11-14",
+  "acceptance": "User approved selected worlds 3,4,4 and automatic registration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "9f968508c3e9b5cb5e36a7b78a9ce278ee8b73b564c90e39259be7243a18874a",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Sleep-capsule attendant seated in watch chair; two arms with hands on thigh and armrest; ankle socks and joined legs."
+    ],
+    "cause": ""
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "atelier": "element",
+  "card": "ar",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ar_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "lingerie",
+    "item": "back_strap",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "use": "",
+    "legs": "",
+    "gaze": "window",
+    "time": "noon",
+    "hair": "tied",
+    "depth": "layered",
+    "color": "vivid",
+    "expr": "proud",
+    "preset": "window_chin",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "low"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ar_mecha_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Argon (Ar) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hotel suite with a city view and an open suitcase\nTime of day: midday — bright even light.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a lingerie set with a decorative strap arrangement across the upper back — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, mostly covered, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — argon: 'the lazy one', a noble gas that reacts with nothing, yet makes up nearly one percent of the air — more than all the other noble gases together; found in 1894 by Lord Rayleigh and William Ramsay because nitrogen taken from air weighed a little more than nitrogen made from chemicals, a stubborn residue Henry Cavendish had already noticed in 1785; glows soft lavender-violet in a discharge tube; a heavy, idle blanket laid over welding arcs, sealed inside light bulbs to keep their filaments alive, and over precious old documents to stop time; drowsy, gentle, protective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/ar/mecha-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ar",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "ar": {
+        "era": "now",
+        "place": "evening_hotel",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "window_chin",
+        "use": "",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "chin_rail",
+        "left": "rail",
+        "legs": "",
+        "gaze": "window",
+        "item": "back_strap",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "low"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "noon",
+        "hair": "tied",
+        "depth": "layered"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "12206a24847b822fb498e431563ac02d79f0eb4ba0fcae1db847766fbd255536",
+    "ref_sha256": "8907366258887b26b6d1bbb856b1ff353896b4389226572cb23a216897fc659c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG preserved; only WebP uploaded.",
+    "retries": [
+      {
+        "attempt": 1,
+        "exposure": "bold",
+        "result": "moderation_blocked",
+        "request_id": "c07e804b-b011-4f09-bd2a-5dd0f714915b"
+      },
+      {
+        "attempt": 2,
+        "exposure": "bold",
+        "result": "moderation_blocked",
+        "request_id": "706dc6f0-1c09-4df5-b3f0-47a80a46ffbf"
+      },
+      {
+        "attempt": 3,
+        "exposure": "moderate",
+        "result": "moderation_blocked",
+        "request_id": "118b35e7-98eb-4eb5-b213-d4f10bb397f2"
+      },
+      {
+        "attempt": 4,
+        "exposure": "low",
+        "result": "success"
+      }
+    ]
+  },
+  "execution": "element-argon-5a631",
+  "imported": "2026-11-14",
+  "acceptance": "User approved selected worlds 3,4,4 and automatic registration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "12206a24847b822fb498e431563ac02d79f0eb4ba0fcae1db847766fbd255536",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Hotel window pose, chin supported by one hand and other rests on rail; green lingerie; lowest exposure prompt used but model still shows substantial skin."
+    ],
+    "cause": "Observed pose, scene or ornamental styling differs from prompt; original preserved per user instruction."
+  }
+}

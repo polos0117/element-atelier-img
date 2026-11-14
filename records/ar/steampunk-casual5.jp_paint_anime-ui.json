@@ -1,0 +1,114 @@
+{
+  "atelier": "element",
+  "card": "ar",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ar_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_dunes",
+    "ofam": "adventure",
+    "item": "cowgirl",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "hair": "down",
+    "denier": "d40",
+    "expr": "curious",
+    "preset": "cheek_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ar_steampunk_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Argon (Ar) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wind-rippled desert dune trail\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a cowgirl look — a cropped plaid shirt knotted under the bust, frayed denim shorts, a leather belt with a big buckle, cowboy boots and a cowboy hat; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — argon: 'the lazy one', a noble gas that reacts with nothing, yet makes up nearly one percent of the air — more than all the other noble gases together; found in 1894 by Lord Rayleigh and William Ramsay because nitrogen taken from air weighed a little more than nitrogen made from chemicals, a stubborn residue Henry Cavendish had already noticed in 1785; glows soft lavender-violet in a discharge tube; a heavy, idle blanket laid over welding arcs, sealed inside light bulbs to keep their filaments alive, and over precious old documents to stop time; drowsy, gentle, protective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/ar/steampunk-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ar",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "ar": {
+        "era": "now",
+        "place": "travel_dunes",
+        "ofam": "adventure",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cheek_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "cheek",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "cowgirl",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "denier": "d40",
+        "hair": "down"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0767150f6cf615395050f651578318a9b1f111b63272c9548d6a4d39c85e866f",
+    "ref_sha256": "e57eb2c6ea2d17be2a16e9297c55e66e1b494387805f96e82cd396a7893bf688",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG preserved; only WebP uploaded."
+  },
+  "execution": "element-argon-5a631",
+  "imported": "2026-11-14",
+  "acceptance": "User approved selected worlds 3,4,4 and automatic registration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "0767150f6cf615395050f651578318a9b1f111b63272c9548d6a4d39c85e866f",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Face close-up with hand at cheek, cowboy hat and desert; cropped lower body and other hand match framing."
+    ],
+    "cause": ""
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "atelier": "element",
+  "card": "ar",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ar_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_roof",
+    "ofam": "everyday",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "time": "morning",
+    "own": "fantasy",
+    "placeText": "an orchard terrace of her element's kingdom — a hammock between two fruit trees, a tipped basket of fruit and warm afternoon light",
+    "spot": "left_third",
+    "depth": "deep",
+    "expr": "half_smile",
+    "preset": "floor_horizon",
+    "prop": "",
+    "outfit": "an orchard keeper look fitted to her body — a loose off-shoulder blouse tied under the bust, a short skirt hitched up, bare feet and a straw hat",
+    "scene": "she is the orchard keeper who would rather nap than pick",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ar_fantasy_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Argon (Ar) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an orchard terrace of her element's kingdom — a hammock between two fruit trees, a tipped basket of fruit and warm afternoon light\nTime of day: early morning — low clean light, long soft shadows.\nOutfit: an orchard keeper look fitted to her body — a loose off-shoulder blouse tied under the bust, a short skirt hitched up, bare feet and a straw hat, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the orchard keeper who would rather nap than pick\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — argon: 'the lazy one', a noble gas that reacts with nothing, yet makes up nearly one percent of the air — more than all the other noble gases together; found in 1894 by Lord Rayleigh and William Ramsay because nitrogen taken from air weighed a little more than nitrogen made from chemicals, a stubborn residue Henry Cavendish had already noticed in 1785; glows soft lavender-violet in a discharge tube; a heavy, idle blanket laid over welding arcs, sealed inside light bulbs to keep their filaments alive, and over precious old documents to stop time; drowsy, gentle, protective — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-14",
+  "record": "records/ar/fantasy-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "해먹의 과수원지기",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e2764e40998b4b327f857fd0e06a6387359e78d5e7895af0d08f073889bb7217",
+    "ref_sha256": "e490dc40c867fa0162942b697f6d88c668fe49b2ec073f337ea8aa7ebe52dc94",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG preserved; only WebP uploaded.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-argon-5a631",
+  "imported": "2026-11-14",
+  "acceptance": "User approved selected worlds 3,4,4 and automatic registration.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e2764e40998b4b327f857fd0e06a6387359e78d5e7895af0d08f073889bb7217",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Orchard and empty hammock, fruit basket; seated on blanket rather than hammock; both arms and bent legs read naturally."
+    ],
+    "cause": "Observed pose, scene or ornamental styling differs from prompt; original preserved per user instruction."
+  }
+}
