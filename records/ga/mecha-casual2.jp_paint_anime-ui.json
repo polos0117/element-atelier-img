@@ -1,0 +1,117 @@
+{
+  "atelier": "element",
+  "card": "ga",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ga_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "item": "camisole_wrap",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "high",
+    "right": "prop",
+    "left": "down",
+    "use": "sword_low",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "light": "dappled",
+    "color": "pattern",
+    "denier": "d80",
+    "expr": "proud",
+    "preset": "walk_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ga_mecha_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a wooden practice sword point-down at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ga/mecha-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ga",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "ga": {
+        "era": "nation",
+        "place": "nation_garden",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_lookback",
+        "use": "sword_low",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "high",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "camisole_wrap",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "denier": "d80",
+        "light": "dappled"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2470b36b0fabea665dba7e3192b1017c7fd4168bd07e1df24de5529796bf5125",
+    "ref_sha256": "9b6c24691026231786d9b2e8a493d43def049011eedbd0adf58a0889ac1e36a8",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a wooden practice sword point-down at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+  },
+  "execution": "element-ga-28f736",
+  "imported": "2026-11-15",
+  "acceptance": "user selection 2,1,2; authorized publication to main",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2470b36b0fabea665dba7e3192b1017c7fd4168bd07e1df24de5529796bf5125",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; 1024x1536 portrait.",
+      "Reference identity and painterly anime finish retained; no detached limbs observed.",
+      "Body parts outside the planned crop are not counted as missing."
+    ]
+  }
+}

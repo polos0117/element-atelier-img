@@ -1,0 +1,115 @@
+{
+  "atelier": "element",
+  "card": "ga",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ga_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_festival",
+    "ofam": "bridal",
+    "item": "beaded_mini",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "light": "dappled",
+    "color": "neutral",
+    "expr": "half_smile",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ga_fantasy_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a festival street of lanterns, food stalls and paper decorations\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a short beaded after-party wedding dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ga/fantasy-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ga",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "ga": {
+        "era": "now",
+        "place": "stage_festival",
+        "ofam": "bridal",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "beaded_mini",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "light": "dappled"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0fdea4298d2d94ab744e4ef1ec074ea4d633514116dabe5a055db531d45216e0",
+    "ref_sha256": "31e03087e36bcd17599ccad5e68117fc1102dc1dee2fb69c093e5263e8b21553",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a festival street of lanterns, food stalls and paper decorations\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a short beaded after-party wedding dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+  },
+  "execution": "element-ga-28f736",
+  "imported": "2026-11-15",
+  "acceptance": "user selection 2,1,2; authorized publication to main",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "0fdea4298d2d94ab744e4ef1ec074ea4d633514116dabe5a055db531d45216e0",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; 1024x1536 portrait.",
+      "Reference identity and painterly anime finish retained; no detached limbs observed.",
+      "Body parts outside the planned crop are not counted as missing."
+    ]
+  }
+}

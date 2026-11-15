@@ -1,0 +1,87 @@
+{
+  "atelier": "element",
+  "card": "ga",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ga_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_stairs",
+    "ofam": "everyday",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "weather": "spring",
+    "time": "noon",
+    "own": "steampunk",
+    "placeText": "a cobbled lane of her element's kingdom at dawn — doorsteps with empty bottles, shuttered shops and the first light on the roofs",
+    "ownProp": "a wire carrier of glass milk bottles",
+    "expr": "candid",
+    "preset": "stride_prop",
+    "prop": "0",
+    "outfit": "a milk carrier look fitted to her body — a cropped short-sleeved blouse tied under the bust, a short pinafore skirt, a little cap and ankle boots",
+    "scene": "she is the dawn milk carrier making her round before the town wakes",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ga_steampunk_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a cobbled lane of her element's kingdom at dawn — doorsteps with empty bottles, shuttered shops and the first light on the roofs\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nOutfit: a milk carrier look fitted to her body — a cropped short-sleeved blouse tied under the bust, a short pinafore skirt, a little cap and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a wire carrier of glass milk bottles low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the dawn milk carrier making her round before the town wakes\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ga/steampunk-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "새벽 우유 배달부",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0c072246913c8ade63e72791204eaf9cc0f52d1f80c067d66665f0ce594984f0",
+    "ref_sha256": "d94f219e56a5408756e88bab1f39c3a4c096efc97ecc883aa5f3f4bffffa6f81",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Gallium (Ga) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a cobbled lane of her element's kingdom at dawn — doorsteps with empty bottles, shuttered shops and the first light on the roofs\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nOutfit: a milk carrier look fitted to her body — a cropped short-sleeved blouse tied under the bust, a short pinafore skirt, a little cap and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a wire carrier of glass milk bottles low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the dawn milk carrier making her round before the town wakes\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gallium: a soft bluish-silver metal that melts at about 29.8 degrees Celsius, so a piece held in a warm palm slumps into a bright liquid bead, and that expands as it freezes; predicted in 1871 as eka-aluminium in an empty space below aluminium, then found in 1875 by a French chemist through two faint violet lines in the spectrum of zinc-blende ore from the Pyrenees and named for Gallia, old France; liquid gallium wets glass into a mirror and seeps into aluminium until it crumbles; with arsenic it makes fast chips and space solar cells, with nitrogen the bright blue LED — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-ga-28f736",
+  "imported": "2026-11-15",
+  "acceptance": "user selection 2,1,2; authorized publication to main",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "0c072246913c8ade63e72791204eaf9cc0f52d1f80c067d66665f0ce594984f0",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; 1024x1536 portrait.",
+      "Reference identity and painterly anime finish retained; no detached limbs observed.",
+      "Body parts outside the planned crop are not counted as missing."
+    ]
+  }
+}
