@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "tc",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tc_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_greenhouse",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "weather": "summer",
+  "own": "steampunk",
+  "placeText": "a silk-flower atelier set inside a glass conservatory of her element's kingdom — bolts of coloured silk, trays of hand-made roses beside real ones and crimping irons",
+  "ownProp": "a half-made silk rose",
+  "depth": "deep",
+  "expr": "gentle",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a flower maker look fitted to her body — a lace-edged corset top, a short bustle skirt, sleeve garters on bare arms and a ribbon choker",
+  "scene": "she makes silk flowers so fine they pass for real ones",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tc_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Technetium (Tc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a silk-flower atelier set inside a glass conservatory of her element's kingdom — bolts of coloured silk, trays of hand-made roses beside real ones and crimping irons\nWeather / season: high summer — strong sunlight and deep shadows.\nOutfit: a flower maker look fitted to her body — a lace-edged corset top, a short bustle skirt, sleeve garters on bare arms and a ribbon choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a half-made silk rose in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she makes silk flowers so fine they pass for real ones\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — technetium: a silvery-grey metal and the first element made by human hands, found in 1937 in a strip of molybdenum sent across the ocean from a cyclotron and later named from the Greek word for artificial; the lightest element with no stable isotope, so almost none survives on Earth; for decades the gap below manganese held only mistaken claims, yet in 1952 its lines were seen in the light of red giant stars, proof that stars forge elements; today it is the most used medical tracer, lighting up bones and hearts — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/tc/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "비단 조화 공방 장인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-tc-1fe8c405",
+ "imported": "2026-11-15",
+ "acceptance": "user_selected_1_1_1_and_authorized_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c2d286a5690bd4b9070e12110efe9961e691215d4c505e6e434257a3ef587530",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Technetium (Tc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a silk-flower atelier set inside a glass conservatory of her element's kingdom — bolts of coloured silk, trays of hand-made roses beside real ones and crimping irons\nWeather / season: high summer — strong sunlight and deep shadows.\nOutfit: a flower maker look fitted to her body — a lace-edged corset top, a short bustle skirt, sleeve garters on bare arms and a ribbon choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a half-made silk rose in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she makes silk flowers so fine they pass for real ones\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — technetium: a silvery-grey metal and the first element made by human hands, found in 1937 in a strip of molybdenum sent across the ocean from a cyclotron and later named from the Greek word for artificial; the lightest element with no stable isotope, so almost none survives on Earth; for decades the gap below manganese held only mistaken claims, yet in 1952 its lines were seen in the light of red giant stars, proof that stars forge elements; today it is the most used medical tracer, lighting up bones and hearts — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "tries": 1,
+  "note": "Generated once; no replacement or exposure-based regeneration.",
+  "ref_sha256": "2165aa5c368fb28a00a452ff2c8a8c6a69bed2a87083eb8d40c8a50088afa78f",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "gpt-element-tc-1fe8c405",
+  "image_sha256": "c2d286a5690bd4b9070e12110efe9961e691215d4c505e6e434257a3ef587530",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult main woman; painterly anime finish.",
+   "Visible arms attach naturally; no extra or detached human limb observed.",
+   "Reference hair color and broad face identity retained; no reference armor retained.",
+   "Repeated atomic/anatomical motifs appear in clothing and surroundings.",
+   "Occupation tools visible; time/light and motif choices may differ from plan."
+  ],
+  "cause": "Generated interpretation of scene/framing/figure instructions; retained as generated."
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "atelier": "element",
+ "card": "tc",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "eye_color": "steel_blue",
+   "age": "early_20s",
+   "impression": "innocent",
+   "skin_tone": "olive",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair": "hime_cut",
+   "hair_color": "technetium_silver",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "tc_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Technetium (테크네튬) itself — the sovereign of the Technetium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a clear, innocent purity; olive skin; round face; large eyes — large round eyes, level outer eye corners; soft rounded brows; upturned nose; full heart-shaped lips; steel-blue eyes; a bare, makeup-free face.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; a hime cut — long straight hair with blunt cheek-length sidelocks with blunt straight bangs; smooth satin silver-grey hair with a machined lustre and a cool cyclotron-violet sheen in the shadows.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: technetium: a silvery-grey metal and the first element made by human hands, found in 1937 in a strip of molybdenum sent across the ocean from a cyclotron and later named from the Greek word for artificial; the lightest element with no stable isotope, so almost none survives on Earth; for decades the gap below manganese held only mistaken claims, yet in 1952 its lines were seen in the light of red giant stars, proof that stars forge elements; today it is the most used medical tracer, lighting up bones and hearts.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: tarnished silver grey, cyclotron violet-blue, red-giant ember red, clean workshop cream.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a tower city of artificers beneath a hand-made star: a small red star forged by human hands hanging above the highest tower, streets of silver-geared workshops ringing with tools, a quiet garden of empty stone pedestals left by those who once claimed to have found her first.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Tc) and atomic number (43) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-15",
+ "record": "records/tc/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "tc",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "tc|fantasy": {}
+  },
+  "looks": {
+   "tc|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "tc|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "element-tc-1fe8c405",
+ "imported": "2026-11-15",
+ "acceptance": "user_selected_1_1_1_and_authorized_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a3da3539a299f126c21b735b195421fb7f0aab22cbc3527e38fd2c2526df7e05",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Technetium (테크네튬) itself — the sovereign of the Technetium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a clear, innocent purity; olive skin; round face; large eyes — large round eyes, level outer eye corners; soft rounded brows; upturned nose; full heart-shaped lips; steel-blue eyes; a bare, makeup-free face.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; a hime cut — long straight hair with blunt cheek-length sidelocks with blunt straight bangs; smooth satin silver-grey hair with a machined lustre and a cool cyclotron-violet sheen in the shadows.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: technetium: a silvery-grey metal and the first element made by human hands, found in 1937 in a strip of molybdenum sent across the ocean from a cyclotron and later named from the Greek word for artificial; the lightest element with no stable isotope, so almost none survives on Earth; for decades the gap below manganese held only mistaken claims, yet in 1952 its lines were seen in the light of red giant stars, proof that stars forge elements; today it is the most used medical tracer, lighting up bones and hearts.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: tarnished silver grey, cyclotron violet-blue, red-giant ember red, clean workshop cream.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a tower city of artificers beneath a hand-made star: a small red star forged by human hands hanging above the highest tower, streets of silver-geared workshops ringing with tools, a quiet garden of empty stone pedestals left by those who once claimed to have found her first.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Tc) and atomic number (43) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+  "tries": 1,
+  "note": "Generated once; no replacement or exposure-based regeneration.",
+  "selection_number": 1
+ },
+ "qa": {
+  "reviewer": "gpt-element-tc-1fe8c405",
+  "image_sha256": "a3da3539a299f126c21b735b195421fb7f0aab22cbc3527e38fd2c2526df7e05",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536; one adult main woman; painterly anime finish.",
+   "Visible arms attach naturally; no extra or detached human limb observed.",
+   "Chosen world and full body visible; chemical symbol/number integrated into scene."
+  ],
+  "cause": ""
+ }
+}
