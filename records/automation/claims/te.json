@@ -3,11 +3,21 @@
  "runs": [
   {
    "execution": "element-te-7568",
-   "status": "working",
+   "status": "complete",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-15",
    "started": "2026-11-15T14:48:29.361Z",
-   "note": "World selection: four candidates per world; pending user selection"
+   "note": "User selected fantasy 4, steampunk 3, mecha 4. All 27 images registered; thumbnails and registration workflows succeeded.",
+   "done_at": "2026-11-15T21:33:54.698Z",
+   "done_by": "element-te-7568",
+   "selected": {
+    "fantasy": 4,
+    "steampunk": 3,
+    "mecha": 4
+   },
+   "images_commit": "1162fdae489ad6012fa745687c5404068b29779e",
+   "records_commit": "f3a663247ded6e1043a36fd110b6f805ae21a684",
+   "registration_commit": "c41fb1e"
   }
  ]
 }
