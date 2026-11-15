@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "v",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "v_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "drying_terrace",
+  "ofam": "retro",
+  "item": "deco_gown",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_shelf",
+  "legs": "",
+  "gaze": "",
+  "hair": "tied",
+  "light": "dappled",
+  "color": "earth",
+  "situ": "wet",
+  "expr": "candid",
+  "preset": "hang_line",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "v_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Vanadium (V) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop drying terrace with laundry lines overhead, a low stool, a parapet and the city beyond\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a 1920s bias-cut satin lounge gown — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — vanadium: a hard steel-grey metal named in 1830 for Vanadis, the Norse goddess of beauty, because its compounds come in so many fine colours; dissolved, it changes colour with each charge, violet, green, blue and yellow; first found in 1801 in a brown lead ore in Mexico and called erythronium for salts that turn red when heated, then given up as mere chromium; a pinch of it makes steel tough, and traces of it hid in the watered patterns of old Damascus blades; sea squirts gather it in their blood; tanks of its four-coloured solutions store power in great flow batteries — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/v/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "v",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "v": {
+    "era": "now",
+    "place": "drying_terrace",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hang_line",
+    "use": "box_shelf",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "deco_gown",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "color": "earth",
+    "hair": "tied",
+    "light": "dappled"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b832f475f94dab6f9f99b5bc4f9e0f92f8052f95706fb8061d5038f29626c98b",
+  "prompt_sha256": "9db08660d06621ddb23e631df1ab94c1b286e24230f67553c898a2259e3f2cbc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Only WebP is published; original PNG SHA256 retained.",
+  "ref_sha256": "0f7546e217e3b9bfe4a00545a96184390fd7567e2e5f86cff1961cb35e29e2d8"
+ },
+ "execution": "element-v-a821-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,1,2 and authorized image/data commits and normal main publication.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b832f475f94dab6f9f99b5bc4f9e0f92f8052f95706fb8061d5038f29626c98b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical, one focal adult woman.",
+   "No disconnected or extra human arms or legs observed; visible hands reviewed.",
+   "Painterly anime rendering retained; no readable words, logos or watermarks observed.",
+   "Both arms raise the box toward the shelf; lounge gown includes extra four-colour ornamental trim."
+  ],
+  "cause": ""
+ }
+}

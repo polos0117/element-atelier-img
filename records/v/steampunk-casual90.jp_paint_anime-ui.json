@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "v",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "v_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "an amber carver's bench in her element's kingdom — lumps of golden amber, a small treadle lathe, polishing cloths and a sunny window",
+  "ownProp": "a polished piece of golden amber",
+  "light": "low_warm",
+  "expr": "curious",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "an amber carver look fitted to her body — a short work apron over a strapless corset top, a short skirt, sleeve garters on bare arms and a loupe on a chain",
+  "scene": "she is the amber carver holding a polished piece up to the light",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "v_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Vanadium (V) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an amber carver's bench in her element's kingdom — lumps of golden amber, a small treadle lathe, polishing cloths and a sunny window\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an amber carver look fitted to her body — a short work apron over a strapless corset top, a short skirt, sleeve garters on bare arms and a loupe on a chain, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a polished piece of golden amber up beside her face; it is all she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the amber carver holding a polished piece up to the light\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — vanadium: a hard steel-grey metal named in 1830 for Vanadis, the Norse goddess of beauty, because its compounds come in so many fine colours; dissolved, it changes colour with each charge, violet, green, blue and yellow; first found in 1801 in a brown lead ore in Mexico and called erythronium for salts that turn red when heated, then given up as mere chromium; a pinch of it makes steel tough, and traces of it hid in the watered patterns of old Damascus blades; sea squirts gather it in their blood; tanks of its four-coloured solutions store power in great flow batteries — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/v/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "호박 세공사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e54695e9e2fe881d49290c40b89abf3269865a8670386c4f1873f81115f1e2f1",
+  "prompt_sha256": "57f803adf9fd71f06edf85905fdf64ccc1ef7d084c9f42815a3648bb634098be",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Only WebP is published; original PNG SHA256 retained.",
+  "ref_sha256": "723c5ae34678a78850155d8ce5b65adaa69fb5c2f250b4151bb28dad2f637d63",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-v-a821-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,1,2 and authorized image/data commits and normal main publication.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e54695e9e2fe881d49290c40b89abf3269865a8670386c4f1873f81115f1e2f1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical, one focal adult woman.",
+   "No disconnected or extra human arms or legs observed; visible hands reviewed.",
+   "Painterly anime rendering retained; no readable words, logos or watermarks observed.",
+   "The amber is raised in her own left hand rather than the requested right hand; anatomy itself remains connected."
+  ],
+  "cause": "Reference design transfer or pose interpretation; generated result preserved without regeneration."
+ }
+}

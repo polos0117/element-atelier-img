@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "v",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "v_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "color": "denim",
+  "expr": "curious",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "v_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Vanadium (V) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nOutfit: a soft body-hugging knit dress — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — vanadium: a hard steel-grey metal named in 1830 for Vanadis, the Norse goddess of beauty, because its compounds come in so many fine colours; dissolved, it changes colour with each charge, violet, green, blue and yellow; first found in 1801 in a brown lead ore in Mexico and called erythronium for salts that turn red when heated, then given up as mere chromium; a pinch of it makes steel tough, and traces of it hid in the watered patterns of old Damascus blades; sea squirts gather it in their blood; tanks of its four-coloured solutions store power in great flow batteries — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/v/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "v",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "v": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "knit_dress_home",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8b06721ff73bbedb3e405822dca32fde805b4a3ff492dd1930c66b730da3b232",
+  "prompt_sha256": "04a5d9fcf4a0fbcec3e465273b91201a6859c560a2e97b7ed5cd98f33ceaf1d7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Only WebP is published; original PNG SHA256 retained.",
+  "ref_sha256": "dd9a5aa2dffbda7bad2ed8093aa0a1675db47a07b0df1f4be971c4fa9c5c3e0b"
+ },
+ "execution": "element-v-a821-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,1,2 and authorized image/data commits and normal main publication.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8b06721ff73bbedb3e405822dca32fde805b4a3ff492dd1930c66b730da3b232",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical, one focal adult woman.",
+   "No disconnected or extra human arms or legs observed; visible hands reviewed.",
+   "Painterly anime rendering retained; no readable words, logos or watermarks observed.",
+   "The reference earrings remain; profile close-up, hair-tucking hand and knit dress are visible."
+  ],
+  "cause": ""
+ }
+}

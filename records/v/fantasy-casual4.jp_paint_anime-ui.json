@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "v",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "v_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_trail",
+  "ofam": "evening",
+  "item": "slip_dress",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "autumn",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "jewel",
+  "situ": "wind",
+  "expr": "focused",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "v_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Vanadium (V) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest trail junction with a wooden marker\nWeather / season: autumn — falling leaves and warm low light outside.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a thin-strapped satin slip dress that flows along the body — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — vanadium: a hard steel-grey metal named in 1830 for Vanadis, the Norse goddess of beauty, because its compounds come in so many fine colours; dissolved, it changes colour with each charge, violet, green, blue and yellow; first found in 1801 in a brown lead ore in Mexico and called erythronium for salts that turn red when heated, then given up as mere chromium; a pinch of it makes steel tough, and traces of it hid in the watered patterns of old Damascus blades; sea squirts gather it in their blood; tanks of its four-coloured solutions store power in great flow batteries — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/v/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "v",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "v": {
+    "era": "now",
+    "place": "travel_trail",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "legs": "",
+    "gaze": "camera",
+    "item": "slip_dress",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wind",
+    "color": "jewel",
+    "weather": "autumn",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a6103cf7911b1a493d55fefe98d07b90c95a462fce1038a96bc72770e1bcd1a9",
+  "prompt_sha256": "2e67c64669d6415c35ba9a1d5aff0507fa2a1343f371645a8c889977cee99f5b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Only WebP is published; original PNG SHA256 retained.",
+  "ref_sha256": "dd9a5aa2dffbda7bad2ed8093aa0a1675db47a07b0df1f4be971c4fa9c5c3e0b"
+ },
+ "execution": "element-v-a821-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,1,2 and authorized image/data commits and normal main publication.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a6103cf7911b1a493d55fefe98d07b90c95a462fce1038a96bc72770e1bcd1a9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical, one focal adult woman.",
+   "No disconnected or extra human arms or legs observed; visible hands reviewed.",
+   "Painterly anime rendering retained; no readable words, logos or watermarks observed.",
+   "The slip dress retains a prominent four-colour pattern from the reference rather than a plain everyday dress."
+  ],
+  "cause": "Reference design transfer or pose interpretation; generated result preserved without regeneration."
+ }
+}

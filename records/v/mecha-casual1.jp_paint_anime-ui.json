@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "v",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "v_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_mirror",
+  "ofam": "lingerie",
+  "item": "slip_lingerie",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "fan_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "hair": "braid",
+  "light": "top",
+  "depth": "deep",
+  "color": "vivid",
+  "expr": "relieved",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "v_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Vanadium (V) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mirrored labyrinth of endless reflections and soft coloured light\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a bias-cut satin slip with narrow straps and a straight hem — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a folding fan open near her chest; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — vanadium: a hard steel-grey metal named in 1830 for Vanadis, the Norse goddess of beauty, because its compounds come in so many fine colours; dissolved, it changes colour with each charge, violet, green, blue and yellow; first found in 1801 in a brown lead ore in Mexico and called erythronium for salts that turn red when heated, then given up as mere chromium; a pinch of it makes steel tough, and traces of it hid in the watered patterns of old Damascus blades; sea squirts gather it in their blood; tanks of its four-coloured solutions store power in great flow batteries — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/v/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "v",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "v": {
+    "era": "fantasy",
+    "place": "fx_mirror",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "fan_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "slip_lingerie",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "hair": "braid",
+    "light": "top",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dad94fca22b03c7a045d0f7726bccf008ed14a7df97ca2ce84d245886e506fa4",
+  "prompt_sha256": "83580854fca0b59a26b2c27357b3709ca4bdc675289c52cf277c60793423fcaa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Only WebP is published; original PNG SHA256 retained.",
+  "ref_sha256": "0f7546e217e3b9bfe4a00545a96184390fd7567e2e5f86cff1961cb35e29e2d8"
+ },
+ "execution": "element-v-a821-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,1,2 and authorized image/data commits and normal main publication.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "dad94fca22b03c7a045d0f7726bccf008ed14a7df97ca2ce84d245886e506fa4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical, one focal adult woman.",
+   "No disconnected or extra human arms or legs observed; visible hands reviewed.",
+   "Painterly anime rendering retained; no readable words, logos or watermarks observed.",
+   "Hair is extended into a long braid rather than retaining the selected bob; fan held in one hand and the other hand rests on her knees."
+  ],
+  "cause": "Reference design transfer or pose interpretation; generated result preserved without regeneration."
+ }
+}
