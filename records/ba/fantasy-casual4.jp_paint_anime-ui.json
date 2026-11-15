@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "ba",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ba_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_dam",
+  "ofam": "active",
+  "item": "running_set",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "light": "back",
+  "view": "foreground",
+  "color": "pastel",
+  "expr": "focused",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ba_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Barium (Ba) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the crest walkway of a hydroelectric dam, a steel railing, spillway gates and a wide reservoir below\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a running top and split shorts — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a heavy cluster of white bladed barite crystals that is surprisingly weighty for its size at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — barium: a soft silvery alkaline-earth metal named from Greek barys, heavy, after barite, the startlingly heavy white spar of barium sulfate; around 1600 a shoemaker-alchemist roasted pebbles of it into the Bologna stone, which drank in sunlight and glowed in the dark; the metal was freed in 1808; its salts burn apple green in fireworks; a chalk-white drink of insoluble barium sulfate blocks X-rays and shows the hidden inside of the body in shadow; so like radium that radium was first separated from ore together with barium — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ba/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ba",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "ba": {
+    "era": "site",
+    "place": "site_dam",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_cup",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "running_set",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "light": "back",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dc90dbb76ed0149ca287add34f20b75353708cb731334503c61e81af6152d77f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in deliverables; repository stores WebP and SHA256 only. No regeneration after output.",
+  "retries": [],
+  "ref_sha256": "a8ccc1ccb586cc1548a4bfa746c18903332111109596618c4852d2913dcf12e8"
+ },
+ "execution": "element-ba-20261115-edcc6",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "dc90dbb76ed0149ca287add34f20b75353708cb731334503c61e81af6152d77f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Runner outfit at dam, barite cluster in right hand and left hand on rail; both arms clearly connected.",
+   "Crystal motifs added to outfit."
+  ],
+  "cause": "Rendered result differs from planned framing, world period, prop or clothing constraints; generator permits element motifs in clothes although general rules restrict them. Preserve generated output under user instruction."
+ },
+ "acceptance": "user 2026-11-15 selection 4,4,3 and authorization to publish after QA without confirmation"
+}

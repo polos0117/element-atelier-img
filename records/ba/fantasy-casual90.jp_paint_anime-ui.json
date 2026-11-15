@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "ba",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ba_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "summer",
+  "own": "fantasy",
+  "placeText": "a skittle alley behind a tavern of her element's kingdom — a long wooden lane, nine wooden pins at the far end and a rack of heavy wooden balls",
+  "ownProp": "a heavy wooden skittle ball",
+  "depth": "deep",
+  "expr": "amused",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a skittle-alley keeper look fitted to her body — a laced bodice over a chemise slipped off the shoulders, a short skirt, an apron and soft boots",
+  "scene": "she runs the skittle alley and is about to roll a heavy ball down the lane",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ba_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Barium (Ba) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a skittle alley behind a tavern of her element's kingdom — a long wooden lane, nine wooden pins at the far end and a rack of heavy wooden balls\nWeather / season: high summer — strong sunlight and deep shadows.\nOutfit: a skittle-alley keeper look fitted to her body — a laced bodice over a chemise slipped off the shoulders, a short skirt, an apron and soft boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a heavy wooden skittle ball at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she runs the skittle alley and is about to roll a heavy ball down the lane\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — barium: a soft silvery alkaline-earth metal named from Greek barys, heavy, after barite, the startlingly heavy white spar of barium sulfate; around 1600 a shoemaker-alchemist roasted pebbles of it into the Bologna stone, which drank in sunlight and glowed in the dark; the metal was freed in 1808; its salts burn apple green in fireworks; a chalk-white drink of insoluble barium sulfate blocks X-rays and shows the hidden inside of the body in shadow; so like radium that radium was first separated from ore together with barium — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ba/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "나인핀 볼링장 주인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "99542ef6f355f7e58a9e410b45603553286150a1f4a23b8a195e130387ec996a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in deliverables; repository stores WebP and SHA256 only. No regeneration after output.",
+  "retries": [],
+  "ref_sha256": "a8ccc1ccb586cc1548a4bfa746c18903332111109596618c4852d2913dcf12e8",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ba-20261115-edcc6",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "99542ef6f355f7e58a9e410b45603553286150a1f4a23b8a195e130387ec996a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Adult skittle-alley owner with wooden ball in right hand, left palm on ground; half-kneeling pose and attached limbs.",
+   "Decorative mineral motif carried into clothing."
+  ],
+  "cause": "Rendered result differs from planned framing, world period, prop or clothing constraints; generator permits element motifs in clothes although general rules restrict them. Preserve generated output under user instruction."
+ },
+ "acceptance": "user 2026-11-15 selection 4,4,3 and authorization to publish after QA without confirmation"
+}

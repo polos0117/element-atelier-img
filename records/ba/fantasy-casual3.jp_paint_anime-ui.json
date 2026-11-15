@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "ba",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ba_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_river",
+  "ofam": "drape",
+  "item": "arabian_nights",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "feet_in_water",
+  "gaze": "horizon",
+  "time": "noon",
+  "spot": "left_third",
+  "color": "earth",
+  "denier": "d40",
+  "situ": "tie_loose",
+  "expr": "wistful",
+  "preset": "edge_dangle",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ba_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Barium (Ba) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wooden river dock above calm water\nTime of day: midday — bright even light.\nOutfit: an Arabian-nights look — a jewelled cropped top, a sheer veil scarf over the shoulders, low-slung flowing chiffon trousers and gold coin anklets — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — she has pulled her tie or neck scarf loose and let it hang open, the collar unfastened over her collarbones, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — barium: a soft silvery alkaline-earth metal named from Greek barys, heavy, after barite, the startlingly heavy white spar of barium sulfate; around 1600 a shoemaker-alchemist roasted pebbles of it into the Bologna stone, which drank in sunlight and glowed in the dark; the metal was freed in 1808; its salts burn apple green in fireworks; a chalk-white drink of insoluble barium sulfate blocks X-rays and shows the hidden inside of the body in shadow; so like radium that radium was first separated from ore together with barium — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ba/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ba",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ba": {
+    "era": "now",
+    "place": "water_river",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_dangle",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "feet_in_water",
+    "gaze": "horizon",
+    "item": "arabian_nights",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "tie_loose",
+    "color": "earth",
+    "denier": "d40",
+    "time": "noon",
+    "spot": "left_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c1f0b6e1395b13763539c5aa682a791dab8d64f21eba5df7e41f384e6bf0d708",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in deliverables; repository stores WebP and SHA256 only. No regeneration after output.",
+  "retries": [],
+  "ref_sha256": "a8ccc1ccb586cc1548a4bfa746c18903332111109596618c4852d2913dcf12e8"
+ },
+ "execution": "element-ba-20261115-edcc6",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c1f0b6e1395b13763539c5aa682a791dab8d64f21eba5df7e41f384e6bf0d708",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Full-body side view seated on dock, feet in water, near hand attached and visible.",
+   "Far supporting hand is occluded; town background is more historical than the planned present-day dock."
+  ],
+  "cause": "Rendered result differs from planned framing, world period, prop or clothing constraints; generator permits element motifs in clothes although general rules restrict them. Preserve generated output under user instruction."
+ },
+ "acceptance": "user 2026-11-15 selection 4,4,3 and authorization to publish after QA without confirmation"
+}

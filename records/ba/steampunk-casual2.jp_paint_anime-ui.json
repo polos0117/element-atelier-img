@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "ba",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ba_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "camisole_wrap",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "compass_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "noon",
+  "light": "side",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "mono",
+  "denier": "d40",
+  "expr": "relieved",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ba_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Barium (Ba) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a brass compass flat in her palm at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — barium: a soft silvery alkaline-earth metal named from Greek barys, heavy, after barite, the startlingly heavy white spar of barium sulfate; around 1600 a shoemaker-alchemist roasted pebbles of it into the Bologna stone, which drank in sunlight and glowed in the dark; the metal was freed in 1808; its salts burn apple green in fireworks; a chalk-white drink of insoluble barium sulfate blocks X-rays and shows the hidden inside of the body in shadow; so like radium that radium was first separated from ore together with barium — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ba/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ba",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ba": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_use",
+    "use": "compass_hold",
+    "kind": "hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "camisole_wrap",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "denier": "d40",
+    "time": "noon",
+    "light": "side",
+    "spot": "left_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b4a0a4b18955cc5a3e49cef0b3e92682913055784f9911b51c43fe914bea2b05",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in deliverables; repository stores WebP and SHA256 only. No regeneration after output.",
+  "retries": [],
+  "ref_sha256": "8c9babd98a09b761006995d51b3cda2c893ec4bba72034129b1164c39e14f627"
+ },
+ "execution": "element-ba-20261115-edcc6",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b4a0a4b18955cc5a3e49cef0b3e92682913055784f9911b51c43fe914bea2b05",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Full-body half kneel on forest path, right palm supports compass and left hand braces ground; limbs connected.",
+   "Background architecture is fantasy-like instead of strongly industrial steampunk."
+  ],
+  "cause": "Rendered result differs from planned framing, world period, prop or clothing constraints; generator permits element motifs in clothes although general rules restrict them. Preserve generated output under user instruction."
+ },
+ "acceptance": "user 2026-11-15 selection 4,4,3 and authorization to publish after QA without confirmation"
+}

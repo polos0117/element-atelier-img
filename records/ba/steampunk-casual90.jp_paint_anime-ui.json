@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "ba",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ba_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_steam_carriage",
+  "ofam": "everyday",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a new road being laid in her element's kingdom — a steam roller with a huge iron front roller, fresh gravel and a row of brass lamp posts",
+  "expr": "soft_smile",
+  "preset": "crossed_wall",
+  "prop": "",
+  "outfit": "a road crew look fitted to her body — a short open work jacket over a corset top, short canvas breeches, thick gloves, goggles on her cap and boots",
+  "scene": "she drives the steam roller and leans back against its great iron roller during a break",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ba_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Barium (Ba) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a new road being laid in her element's kingdom — a steam roller with a huge iron front roller, fresh gravel and a row of brass lamp posts\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a road crew look fitted to her body — a short open work jacket over a corset top, short canvas breeches, thick gloves, goggles on her cap and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she drives the steam roller and leans back against its great iron roller during a break\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — barium: a soft silvery alkaline-earth metal named from Greek barys, heavy, after barite, the startlingly heavy white spar of barium sulfate; around 1600 a shoemaker-alchemist roasted pebbles of it into the Bologna stone, which drank in sunlight and glowed in the dark; the metal was freed in 1808; its salts burn apple green in fireworks; a chalk-white drink of insoluble barium sulfate blocks X-rays and shows the hidden inside of the body in shadow; so like radium that radium was first separated from ore together with barium — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ba/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "증기 롤러 운전사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a919e37b9528bc87dd1240d97bae74b8a8dddd11f850398606da617df9c73df1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in deliverables; repository stores WebP and SHA256 only. No regeneration after output.",
+  "retries": [],
+  "ref_sha256": "8c9babd98a09b761006995d51b3cda2c893ec4bba72034129b1164c39e14f627",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ba-20261115-edcc6",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a919e37b9528bc87dd1240d97bae74b8a8dddd11f850398606da617df9c73df1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Steam-roller driver beside large roller, cap and goggles, arms crossed with connected elbows; blurred workers in background.",
+   "No prominent anatomy defect seen in the visible area."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user 2026-11-15 selection 4,4,3 and authorization to publish after QA without confirmation"
+}
