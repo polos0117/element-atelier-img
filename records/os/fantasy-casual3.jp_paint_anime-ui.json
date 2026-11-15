@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "os",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "os_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "car_wash",
+  "ofam": "drape",
+  "item": "roman_stola",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sponge_hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "time": "morning",
+  "spot": "right_third",
+  "color": "pattern",
+  "situ": "wind",
+  "expr": "pensive",
+  "preset": "walk_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "os_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Osmium (Os) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a self-service car wash bay, a small wet car beside her, a foam bucket, a coiled hose and puddles on the concrete\nTime of day: early morning — low clean light, long soft shadows.\nOutfit: a Roman-style draped stola in a jewel tone, wrapped low across the back and pinned at one shoulder, with a gold collar necklace — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a soapy sponge dripping at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — osmium: a hard, brittle blue-white metal, the densest natural element at about 22.6 grams per cubic centimetre, twice as heavy as lead and rivalled only by iridium; found in 1803 together with iridium in the black residue left after platinum dissolves in aqua regia, and named from the Greek word for smell because its volatile oxide gives off a sharp, chlorine-like stench; that oxide vapour stains fats black and has long been used to reveal the shapes of cells under the microscope; its hard alloys once tipped fountain-pen nibs and gramophone needles — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/os/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "os",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "os": {
+    "era": "now",
+    "place": "car_wash",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_lookback",
+    "use": "sponge_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "roman_stola",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wind",
+    "color": "pattern",
+    "time": "morning",
+    "spot": "right_third"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cca47157f5c51018c4ba0ff1d9661cd8c5589141e1a3eea6c6e207f43e85ef7c",
+  "ref_sha256": "8ecf800f617beedf596628a8059ccf20492c5408064d38679ab0243eb01bce27",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "bf334848a8a52641ffe5ef79ebd40ea2b85241ddc5aa6659ffeca86e8290ddec",
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-osmium-bf2106",
+ "imported": "2026-11-15",
+ "acceptance": "user authorized publishing; preserve generated image without regeneration",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cca47157f5c51018c4ba0ff1d9661cd8c5589141e1a3eea6c6e207f43e85ef7c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 confirmed; one adult woman in focus; painted anime finish.",
+   "Both hands attached; sponge lowered beside body. Fabric is patterned and more decorative than plain everyday clothing."
+  ],
+  "cause": "Generated detail, framing, setting or identity differs from requested reference/scene; retained under project QA rule."
+ }
+}

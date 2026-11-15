@@ -1,0 +1,128 @@
+{
+ "atelier": "element",
+ "card": "os",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "os_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "roleplay",
+  "item": "masquerade_costume",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "flask_swirl",
+  "legs": "",
+  "gaze": "",
+  "time": "dusk",
+  "hair": "down",
+  "light": "side",
+  "spot": "left_third",
+  "color": "pastel",
+  "expr": "calm",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "os_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Osmium (Os) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nTime of day: dusk — blue hour, lights coming on.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a masquerade costume with a feathered eye mask, a structured bodice and a full skirt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she swirls the liquid in a round glass flask with a slow circling motion — her own right hand holds the neck, her own left hand cups the round base.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — osmium: a hard, brittle blue-white metal, the densest natural element at about 22.6 grams per cubic centimetre, twice as heavy as lead and rivalled only by iridium; found in 1803 together with iridium in the black residue left after platinum dissolves in aqua regia, and named from the Greek word for smell because its volatile oxide gives off a sharp, chlorine-like stench; that oxide vapour stains fats black and has long been used to reveal the shapes of cells under the microscope; its hard alloys once tipped fountain-pen nibs and gramophone needles — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/os/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "os",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "os": {
+    "era": "site",
+    "place": "site_lab",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "flask_swirl",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "masquerade_costume",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "time": "dusk",
+    "hair": "down",
+    "light": "side",
+    "spot": "left_third"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "04941338c90452e1d1e27e8628339eac57c7e3129cc884cab277459b4b864be2",
+  "ref_sha256": "3b518867ae1883b279663a4492267e7e6e81316f7ae7f14922180fb3da060940",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "c6e1edace56038bef7d12e03b1a817a35974aa57ab3ebead691c8ed7636c8e45",
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-osmium-bf2106",
+ "imported": "2026-11-15",
+ "acceptance": "user authorized publishing; preserve generated image without regeneration",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "04941338c90452e1d1e27e8628339eac57c7e3129cc884cab277459b4b864be2",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 confirmed; one adult woman in focus; painted anime finish.",
+   "Both arms attached to hands supporting flask; face seen behind decorative masquerade mask. Tiny label-like marks appear on background bottles."
+  ],
+  "cause": "Generated detail, framing, setting or identity differs from requested reference/scene; retained under project QA rule."
+ }
+}

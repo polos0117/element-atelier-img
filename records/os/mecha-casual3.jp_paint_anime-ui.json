@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "os",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "os_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_mirror",
+  "ofam": "subculture",
+  "item": "decora",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "hair": "tied",
+  "light": "low_warm",
+  "view": "foreground",
+  "expr": "sensual",
+  "preset": "bench_sit",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "os_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Osmium (Os) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mirrored labyrinth of endless reflections and soft coloured light\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: decora — a pastel tutu skirt, layered bright tops and stacks of colourful clips and bracelets, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small blue-white osmium pellet, startlingly heavy for its size, resting in her palm at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — osmium: a hard, brittle blue-white metal, the densest natural element at about 22.6 grams per cubic centimetre, twice as heavy as lead and rivalled only by iridium; found in 1803 together with iridium in the black residue left after platinum dissolves in aqua regia, and named from the Greek word for smell because its volatile oxide gives off a sharp, chlorine-like stench; that oxide vapour stains fats black and has long been used to reveal the shapes of cells under the microscope; its hard alloys once tipped fountain-pen nibs and gramophone needles — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/os/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "os",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "os": {
+    "era": "fantasy",
+    "place": "fx_mirror",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "bench_sit",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "decora",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "hair": "tied",
+    "light": "low_warm",
+    "view": "foreground"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a6e3bb8ac0aae2fa44af11febd5567aa24df5f6e27bb04c72b9ce17a6c684fca",
+  "ref_sha256": "3b518867ae1883b279663a4492267e7e6e81316f7ae7f14922180fb3da060940",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "49f0a9b565a2448817d06ff29cbb5404469f6d35741799d9ed7d3ada4737dcfb",
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-osmium-bf2106",
+ "imported": "2026-11-15",
+ "acceptance": "user authorized publishing; preserve generated image without regeneration",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a6e3bb8ac0aae2fa44af11febd5567aa24df5f6e27bb04c72b9ce17a6c684fca",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 confirmed; one adult woman in focus; painted anime finish.",
+   "Primary seated woman has two connected arms and legs; background figures are mirror reflections."
+  ]
+ }
+}

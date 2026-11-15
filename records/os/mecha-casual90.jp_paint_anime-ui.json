@@ -1,0 +1,94 @@
+{
+ "atelier": "element",
+ "card": "os",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "os_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "a utility corridor under a city of her element's kingdom — gas pipes and valves, warning stripes and a handheld light",
+  "ownProp": "a handheld gas detector",
+  "light": "back",
+  "depth": "layered",
+  "expr": "amused",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a gas inspector look fitted to her body — a cropped hi-vis vest over a sports-bra top, cargo shorts, a tool belt and work boots",
+  "scene": "she is the gas safety inspector following a faint smell along the pipes",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "os_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Osmium (Os) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a utility corridor under a city of her element's kingdom — gas pipes and valves, warning stripes and a handheld light\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a gas inspector look fitted to her body — a cropped hi-vis vest over a sports-bra top, cargo shorts, a tool belt and work boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a handheld gas detector at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the gas safety inspector following a faint smell along the pipes\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — osmium: a hard, brittle blue-white metal, the densest natural element at about 22.6 grams per cubic centimetre, twice as heavy as lead and rivalled only by iridium; found in 1803 together with iridium in the black residue left after platinum dissolves in aqua regia, and named from the Greek word for smell because its volatile oxide gives off a sharp, chlorine-like stench; that oxide vapour stains fats black and has long been used to reveal the shapes of cells under the microscope; its hard alloys once tipped fountain-pen nibs and gramophone needles — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/os/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "도시가스 안전 점검원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ee6be2ce6054ff35dd10f7f4323594ec5c427d293b37509492ed0342f21d6fb2",
+  "ref_sha256": "3b518867ae1883b279663a4492267e7e6e81316f7ae7f14922180fb3da060940",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "dbfc2ebf8af1d68e4f78c999273143a14443e3c10ca68218bc0bcbaf83830065",
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated"
+   }
+  ],
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-osmium-bf2106",
+ "imported": "2026-11-15",
+ "acceptance": "user authorized publishing; preserve generated image without regeneration",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ee6be2ce6054ff35dd10f7f4323594ec5c427d293b37509492ed0342f21d6fb2",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 confirmed; one adult woman in focus; painted anime finish.",
+   "Two arms visibly connected, detector held in one hand and other palm on floor; kneeling legs connected. Tiny instrument marks present."
+  ],
+  "cause": "Generated detail, framing, setting or identity differs from requested reference/scene; retained under project QA rule."
+ }
+}

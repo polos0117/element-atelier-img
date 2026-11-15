@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "os",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "os_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "bath",
+  "item": "robe_over_swim",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "golden",
+  "hair": "down",
+  "light": "side",
+  "color": "vivid",
+  "expr": "half_smile",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "os_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Osmium (Os) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor bath, stream or fountain built in the style of her element's kingdom\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a spa robe open over a swimsuit — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — osmium: a hard, brittle blue-white metal, the densest natural element at about 22.6 grams per cubic centimetre, twice as heavy as lead and rivalled only by iridium; found in 1803 together with iridium in the black residue left after platinum dissolves in aqua regia, and named from the Greek word for smell because its volatile oxide gives off a sharp, chlorine-like stench; that oxide vapour stains fats black and has long been used to reveal the shapes of cells under the microscope; its hard alloys once tipped fountain-pen nibs and gramophone needles — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/os/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "os",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "os": {
+    "era": "nation",
+    "place": "nation_bath",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "robe_over_swim",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "golden",
+    "hair": "down",
+    "light": "side"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d27c4d97e39d2a4be9d3f61f38dae7ebe3922b1493ae2fbece04bc8b3d5f7e6d",
+  "ref_sha256": "2cbdd2ebbefe42b7c2bf3bc4a8a6ec89f19f8b69169925467d2fd9adfc50bb4e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "fe84c7818f872262ea9b84595bc3a9ec54f0169951c8ad6aefbb12214bd3afbb",
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-osmium-bf2106",
+ "imported": "2026-11-15",
+ "acceptance": "user authorized publishing; preserve generated image without regeneration",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d27c4d97e39d2a4be9d3f61f38dae7ebe3922b1493ae2fbece04bc8b3d5f7e6d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 confirmed; one adult woman in focus; painted anime finish.",
+   "Face and ponytail match reference; close side view with one hand in hair; far hand outside crop."
+  ]
+ }
+}
