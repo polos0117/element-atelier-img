@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "ge",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ge_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "everyday",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "weather": "spring",
+  "time": "noon",
+  "own": "fantasy",
+  "placeText": "a harbour wall of her element's kingdom — a carved tide-mark pillar, moored boats waiting on the mud and a wide grey sea",
+  "light": "back",
+  "expr": "proud",
+  "preset": "edge_brace",
+  "prop": "",
+  "outfit": "a tide reckoner look fitted to her body — a cropped oilskin jacket open over a bandeau, short sailcloth shorts, rolled knee socks and boots",
+  "scene": "she is the harbour's tide reckoner who calls the hour the water will turn",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ge_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Germanium (Ge) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a harbour wall of her element's kingdom — a carved tide-mark pillar, moored boats waiting on the mud and a wide grey sea\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a tide reckoner look fitted to her body — a cropped oilskin jacket open over a bandeau, short sailcloth shorts, rolled knee socks and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the harbour's tide reckoner who calls the hour the water will turn\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — germanium: a brittle, lustrous grey-white semimetal predicted in 1871 as eka-silicon, with its weight, density, grey colour and even a chloride boiling below 100 degrees written down before anyone had seen it; found in 1886 when a silver ore from a Saxon mine called the Prince of Heaven kept weighing seven percent more than its silver and sulphur, every forecast number nearly right, and named for Germania; opaque to visible light yet clear to infrared, it makes the dark mirror-like lenses of heat cameras; in 1947 a small slab of germanium touched by two gold contacts became the first transistor; it dopes the cores of optical fibres — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/ge/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "항구 물때꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "1d18feea7fa086c4309808977d7b830b8c9ea6f0cec4eed581d28e6eb92f2539",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9785cac35cd386532d3ed53a3caea2d201817e7ae24e8498fa64945079ceecb6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 이미지 저장소에 올리지 않고 sha256을 기록",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ge-c8c53",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 4,2,4; QA then commit and normal main push authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "9785cac35cd386532d3ed53a3caea2d201817e7ae24e8498fa64945079ceecb6",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 원본의 얼굴·머리색·눈색과 화풍 유지. 프레이밍 안에서 추가되거나 끊긴 팔·다리는 보이지 않음.",
+   "항구와 조위 기둥, 양손으로 가장자리를 짚는 자세 확인. 기둥에 허용되지 않은 글자 모양이 보이고 의상에 원본 결정 장식이 반복됨."
+  ],
+  "cause": "장면·자세·프레이밍·의상 줄의 일부 차이 또는 원본 장식의 잔류. 원소 설명의 may show in the outfit 줄도 모티브 반복에 영향을 줄 수 있음. 받은 이미지는 재생성하지 않고 보존."
+ }
+}

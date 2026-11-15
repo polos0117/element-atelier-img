@@ -1,0 +1,75 @@
+{
+ "atelier": "element",
+ "card": "ge",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ge_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "time": "night",
+  "light": "low_warm",
+  "spot": "right_third",
+  "color": "pastel",
+  "expr": "curious",
+  "preset": "lie_front_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ge_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Germanium (Ge) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a one-shoulder lounge top and matching soft pants — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — germanium: a brittle, lustrous grey-white semimetal predicted in 1871 as eka-silicon, with its weight, density, grey colour and even a chloride boiling below 100 degrees written down before anyone had seen it; found in 1886 when a silver ore from a Saxon mine called the Prince of Heaven kept weighing seven percent more than its silver and sulphur, every forecast number nearly right, and named for Germania; opaque to visible light yet clear to infrared, it makes the dark mirror-like lenses of heat cameras; in 1947 a small slab of germanium touched by two gold contacts became the first transistor; it dopes the cores of optical fibres — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/ge/mecha-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "a508720d525a237a9810f9df378ce79ae15b8fc359570991ce2e5396321ef2fa",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b76eff9edd47ae40b3f1541eda0011819232b2fd13b38aa02b6bf47412850024",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 이미지 저장소에 올리지 않고 sha256을 기록"
+ },
+ "execution": "element-ge-c8c53",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 4,2,4; QA then commit and normal main push authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "b76eff9edd47ae40b3f1541eda0011819232b2fd13b38aa02b6bf47412850024",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 원본의 얼굴·머리색·눈색과 화풍 유지. 프레이밍 안에서 추가되거나 끊긴 팔·다리는 보이지 않음.",
+   "서재에서 엎드려 양손으로 턱을 받치는 자세, 두 발 확인."
+  ]
+ }
+}

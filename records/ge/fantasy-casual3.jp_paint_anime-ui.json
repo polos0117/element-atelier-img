@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "ge",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ge_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "time": "lamplight",
+  "light": "side",
+  "cosplay": {
+   "game": "tomb_raider",
+   "character": "Lara Croft",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "candid",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ge_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Germanium (Ge) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Lara Croft from Tomb Raider — Lara Croft's classic look — a teal tank top, brown cargo shorts, fingerless gloves, a small brown leather backpack and twin empty thigh holsters, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/ge/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "1d18feea7fa086c4309808977d7b830b8c9ea6f0cec4eed581d28e6eb92f2539",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a143562017afc715031a346ec86b1dc3e9c9b8f72db8fccfc765a2a59874f244",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 이미지 저장소에 올리지 않고 sha256을 기록",
+  "cosplay": {
+   "game": "tomb_raider",
+   "character": "Lara Croft",
+   "cut": "idol"
+  }
+ },
+ "execution": "element-ge-c8c53",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 4,2,4; QA then commit and normal main push authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "a143562017afc715031a346ec86b1dc3e9c9b8f72db8fccfc765a2a59874f244",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 원본의 얼굴·머리색·눈색과 화풍 유지. 프레이밍 안에서 추가되거나 끊긴 팔·다리는 보이지 않음.",
+   "라라 크로프트 색과 장비가 표현됨. 아이돌 재단보다는 기본 탐험가 코스튬에 가까움."
+  ],
+  "cause": "장면·자세·프레이밍·의상 줄의 일부 차이 또는 원본 장식의 잔류. 원소 설명의 may show in the outfit 줄도 모티브 반복에 영향을 줄 수 있음. 받은 이미지는 재생성하지 않고 보존."
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "atelier": "element",
+ "card": "ge",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ge_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_noodle_stall",
+  "ofam": "roleplay",
+  "item": "lifeguard_event",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "weather": "night_snow",
+  "light": "side",
+  "expr": "focused",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ge_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Germanium (Ge) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a street food stall at night under a tarp, a narrow counter with stools, steaming pots and a bare bulb\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a lifeguard event costume — a red one-piece-style costume with a whistle on a cord, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — germanium: a brittle, lustrous grey-white semimetal predicted in 1871 as eka-silicon, with its weight, density, grey colour and even a chloride boiling below 100 degrees written down before anyone had seen it; found in 1886 when a silver ore from a Saxon mine called the Prince of Heaven kept weighing seven percent more than its silver and sulphur, every forecast number nearly right, and named for Germania; opaque to visible light yet clear to infrared, it makes the dark mirror-like lenses of heat cameras; in 1947 a small slab of germanium touched by two gold contacts became the first transistor; it dopes the cores of optical fibres — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/ge/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "7ef5c3df07b581775d9d913264021f8b2e57f5c57f4e3a534087ed50f2cd55a4",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "50a9ef5a19070c58ac13e5b725d41437bfe2604274b6742b78d1c080c7e1c904",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 이미지 저장소에 올리지 않고 sha256을 기록"
+ },
+ "execution": "element-ge-c8c53",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 4,2,4; QA then commit and normal main push authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "50a9ef5a19070c58ac13e5b725d41437bfe2604274b6742b78d1c080c7e1c904",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 원본의 얼굴·머리색·눈색과 화풍 유지. 프레이밍 안에서 추가되거나 끊긴 팔·다리는 보이지 않음.",
+   "머리를 넘기는 근접 옆모습. 수영복에 원소 장식이 반복됨."
+  ],
+  "cause": "장면·자세·프레이밍·의상 줄의 일부 차이 또는 원본 장식의 잔류. 원소 설명의 may show in the outfit 줄도 모티브 반복에 영향을 줄 수 있음. 받은 이미지는 재생성하지 않고 보존."
+ }
+}

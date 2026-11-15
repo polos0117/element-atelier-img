@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "ge",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ge_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "the analysts' booth behind home plate of a ballpark in her element's kingdom — screens of pitch tracks, a radar readout and the bright diamond below",
+  "ownProp": "a tablet of pitch charts",
+  "spot": "left_third",
+  "expr": "candid",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "outfit": "a ballpark analyst look fitted to her body — a cropped team jersey, short athletic shorts, a ball cap and sneakers",
+  "scene": "she is the team's data analyst who calls the next pitch before it is thrown",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ge_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Germanium (Ge) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the analysts' booth behind home plate of a ballpark in her element's kingdom — screens of pitch tracks, a radar readout and the bright diamond below\nOutfit: a ballpark analyst look fitted to her body — a cropped team jersey, short athletic shorts, a ball cap and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a tablet of pitch charts in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the team's data analyst who calls the next pitch before it is thrown\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — germanium: a brittle, lustrous grey-white semimetal predicted in 1871 as eka-silicon, with its weight, density, grey colour and even a chloride boiling below 100 degrees written down before anyone had seen it; found in 1886 when a silver ore from a Saxon mine called the Prince of Heaven kept weighing seven percent more than its silver and sulphur, every forecast number nearly right, and named for Germania; opaque to visible light yet clear to infrared, it makes the dark mirror-like lenses of heat cameras; in 1947 a small slab of germanium touched by two gold contacts became the first transistor; it dopes the cores of optical fibres — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/ge/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "야구 전력 분석원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "a508720d525a237a9810f9df378ce79ae15b8fc359570991ce2e5396321ef2fa",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "26b46422f7b9c18946e64c52127f262cf0f7126a7fb97f39416fd7d2b002989e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 이미지 저장소에 올리지 않고 sha256을 기록",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ge-c8c53",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 4,2,4; QA then commit and normal main push authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "26b46422f7b9c18946e64c52127f262cf0f7126a7fb97f39416fd7d2b002989e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 참조 원본의 얼굴·머리색·눈색과 화풍 유지. 프레이밍 안에서 추가되거나 끊긴 팔·다리는 보이지 않음.",
+   "야구장 관제석과 양손으로 든 태블릿, 양팔·양다리 연결 확인. 원소 모티브가 유니폼에 반복됨."
+  ],
+  "cause": "장면·자세·프레이밍·의상 줄의 일부 차이 또는 원본 장식의 잔류. 원소 설명의 may show in the outfit 줄도 모티브 반복에 영향을 줄 수 있음. 받은 이미지는 재생성하지 않고 보존."
+ }
+}
