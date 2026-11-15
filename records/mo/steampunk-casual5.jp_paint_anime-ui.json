@@ -1,0 +1,123 @@
+{
+ "atelier": "element",
+ "card": "mo",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mo_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_furnace",
+  "ofam": "workwear",
+  "item": "painter_dungaree",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "hammer_side",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "hair": "braid",
+  "light": "side",
+  "spot": "low_small",
+  "denier": "d60",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mo_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Molybdenum (Mo) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a steelworks floor beside a glowing blast furnace, sparks and molten metal pouring under a high iron roof\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: paint-flecked white painter's dungarees with one strap down over a cropped tee; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small forging hammer head-down at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — molybdenum: a hard silver-grey metal whose name comes from the Greek word for lead, because the soft, greasy black mineral molybdenite, which leaves a silvery streak on paper, was long confused with graphite and with lead ore; in 1778 it was boiled in nitric acid into a white earth that was neither, and in 1781 freed as metal; it melts above 2600 degrees Celsius, and a little of it keeps steel strong and unbending when hot, in bicycle frames, aircraft, turbines and gun barrels; one atom of it sits at the heart of the enzyme that pulls nitrogen from the air in the root nodules of beans and peas — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/mo/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mo",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mo": {
+    "era": "site",
+    "place": "site_furnace",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "hammer_side",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "painter_dungaree",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d60",
+    "hair": "braid",
+    "light": "side",
+    "spot": "low_small"
+   }
+  }
+ },
+ "execution": "element-molybdenum-fd29863",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 3,3,3; authorized main publication without additional confirmation",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a9e04bb4c18fb5546a01956a7a3ed211ee95614ced5701a6c73e9d2be3995f02",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "2768ac7551523dbdf90022ef47574fe8ae7194a097efb61834bc601fb927e61f",
+  "prompt_sha256": "5f5315aba68240a429d06baed2898548c4ac49d8f8535a0bbac1a80eee27a4af"
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt-element-molybdenum-fd29863",
+  "image_sha256": "a9e04bb4c18fb5546a01956a7a3ed211ee95614ced5701a6c73e9d2be3995f02",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; attached selected world design used for identity and rendering.",
+   "Hammer held by connected hand and both feet visible; front-facing walk instead of planned back-facing walk away."
+  ],
+  "cause": "Generated result deviates from planned outfit, pose, framing or no-text constraint as described; retained without regeneration."
+ }
+}

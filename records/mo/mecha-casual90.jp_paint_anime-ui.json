@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "mo",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mo_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "the backstage wings of a big theatre of her element's kingdom — a cue desk, ropes and counterweights, and the lit stage glimpsed past the curtain",
+  "ownProp": "a cue-script tablet",
+  "light": "back",
+  "depth": "deep",
+  "expr": "wistful",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a stage manager look fitted to her body — a cropped black tee, black cargo shorts, a headset and a tool belt",
+  "scene": "she is the stage manager calling cues from the dark",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mo_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Molybdenum (Mo) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the backstage wings of a big theatre of her element's kingdom — a cue desk, ropes and counterweights, and the lit stage glimpsed past the curtain\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a stage manager look fitted to her body — a cropped black tee, black cargo shorts, a headset and a tool belt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cue-script tablet in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\nScene note: she is the stage manager calling cues from the dark\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — molybdenum: a hard silver-grey metal whose name comes from the Greek word for lead, because the soft, greasy black mineral molybdenite, which leaves a silvery streak on paper, was long confused with graphite and with lead ore; in 1778 it was boiled in nitric acid into a white earth that was neither, and in 1781 freed as metal; it melts above 2600 degrees Celsius, and a little of it keeps steel strong and unbending when hot, in bicycle frames, aircraft, turbines and gun barrels; one atom of it sits at the heart of the enzyme that pulls nitrogen from the air in the root nodules of beans and peas — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/mo/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "무대 감독",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-molybdenum-fd29863",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 3,3,3; authorized main publication without additional confirmation",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9dafe60b25113fdb9cef604e0c6c790d3a43733efa02e08c314897cf54017f04",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "e89d2e3975f491769862ae26767ceb0959cb852955839a55d895515a8d3d755d",
+  "prompt_sha256": "1d299cf1bc3be3a8aa515287d800ba7e1278f80d518691b02b35f36949e609ff"
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt-element-molybdenum-fd29863",
+  "image_sha256": "9dafe60b25113fdb9cef604e0c6c790d3a43733efa02e08c314897cf54017f04",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; attached selected world design used for identity and rendering.",
+   "Two connected hands hold stage tablet; headset and backstage cues present; no readable words apparent."
+  ]
+ }
+}

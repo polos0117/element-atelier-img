@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "mo",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mo_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_livehouse",
+  "ofam": "swimwear",
+  "item": "heritage_pattern_swim",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "light": "low_warm",
+  "spot": "right_third",
+  "color": "vivid",
+  "expr": "wistful",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mo_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Molybdenum (Mo) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small live house with a low stage, a crowd barrier and amps\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a swimsuit in a heritage textile pattern with matching trim — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — molybdenum: a hard silver-grey metal whose name comes from the Greek word for lead, because the soft, greasy black mineral molybdenite, which leaves a silvery streak on paper, was long confused with graphite and with lead ore; in 1778 it was boiled in nitric acid into a white earth that was neither, and in 1781 freed as metal; it melts above 2600 degrees Celsius, and a little of it keeps steel strong and unbending when hot, in bicycle frames, aircraft, turbines and gun barrels; one atom of it sits at the heart of the enzyme that pulls nitrogen from the air in the root nodules of beans and peas — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/mo/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mo",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "mo": {
+    "era": "now",
+    "place": "night_livehouse",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "heritage_pattern_swim",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "light": "low_warm",
+    "spot": "right_third"
+   }
+  }
+ },
+ "execution": "element-molybdenum-fd29863",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 3,3,3; authorized main publication without additional confirmation",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d8cfdb002cf44aaeb7c5be647366c5ba46a4f96e62ee344f06e5e08130ddff28",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "2768ac7551523dbdf90022ef47574fe8ae7194a097efb61834bc601fb927e61f",
+  "prompt_sha256": "64f2cedba0a12f53c19b300bacb2d82d93594cd6a94a97de60d7c77ec6a47ea2"
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt-element-molybdenum-fd29863",
+  "image_sha256": "d8cfdb002cf44aaeb7c5be647366c5ba46a4f96e62ee344f06e5e08130ddff28",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; attached selected world design used for identity and rendering.",
+   "Full body with raised foot and swimwear in live venue; background poster contains forbidden writing-like marks."
+  ],
+  "cause": "Generated result deviates from planned outfit, pose, framing or no-text constraint as described; retained without regeneration."
+ }
+}

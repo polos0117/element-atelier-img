@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "mo",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mo_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_shipyard",
+  "ofam": "subculture",
+  "item": "steampunk",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "light": "side",
+  "spot": "right_third",
+  "color": "jewel",
+  "situ": "strap",
+  "expr": "sensual",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mo_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Molybdenum (Mo) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a shipyard slipway beside a half-built steel hull, scaffolding, cranes and coiled cables under an open sky\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: steampunk — a brocade underbust corset belt over a blouse, a short bustle skirt and brass goggles — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — molybdenum: a hard silver-grey metal whose name comes from the Greek word for lead, because the soft, greasy black mineral molybdenite, which leaves a silvery streak on paper, was long confused with graphite and with lead ore; in 1778 it was boiled in nitric acid into a white earth that was neither, and in 1781 freed as metal; it melts above 2600 degrees Celsius, and a little of it keeps steel strong and unbending when hot, in bicycle frames, aircraft, turbines and gun barrels; one atom of it sits at the heart of the enzyme that pulls nitrogen from the air in the root nodules of beans and peas — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/mo/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mo",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "mo": {
+    "era": "site",
+    "place": "site_shipyard",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "steampunk",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "color": "jewel",
+    "time": "night",
+    "light": "side",
+    "spot": "right_third"
+   }
+  }
+ },
+ "execution": "element-molybdenum-fd29863",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 3,3,3; authorized main publication without additional confirmation",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "63c819c84259b3b74690d99ef74cdedf30e5d6f002fc1f96708e637af7019745",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "78b3d6522070e7a59d38bb561094301f2509b2df906bdd3fb1cc1aef21cceb5a",
+  "prompt_sha256": "077c13e011a3e8d6f71c918285839eaf3bd1f4ff7b47cdc44019b987df4fe393"
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt-element-molybdenum-fd29863",
+  "image_sha256": "63c819c84259b3b74690d99ef74cdedf30e5d6f002fc1f96708e637af7019745",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; attached selected world design used for identity and rendering.",
+   "Outstretched open hand and opposite hand at chest are connected; shipyard and slipped shoulder sleeve present."
+  ]
+ }
+}

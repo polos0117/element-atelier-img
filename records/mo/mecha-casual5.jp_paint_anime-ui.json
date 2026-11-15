@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "mo",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mo_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_station",
+  "ofam": "workwear",
+  "item": "dungaree_bandeau",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "depth": "deep",
+  "expr": "candid",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mo_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Molybdenum (Mo) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city station platform or the inside of a commuter train\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: short denim dungarees over a bandeau top, one strap unhooked, canvas sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a flat flake of soft, greasy black molybdenite that leaves a silver streak on her fingers at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — molybdenum: a hard silver-grey metal whose name comes from the Greek word for lead, because the soft, greasy black mineral molybdenite, which leaves a silvery streak on paper, was long confused with graphite and with lead ore; in 1778 it was boiled in nitric acid into a white earth that was neither, and in 1781 freed as metal; it melts above 2600 degrees Celsius, and a little of it keeps steel strong and unbending when hot, in bicycle frames, aircraft, turbines and gun barrels; one atom of it sits at the heart of the enzyme that pulls nitrogen from the air in the root nodules of beans and peas — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/mo/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mo",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mo": {
+    "era": "now",
+    "place": "street_station",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_cup",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "dungaree_bandeau",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "lamplight",
+    "depth": "deep"
+   }
+  }
+ },
+ "execution": "element-molybdenum-fd29863",
+ "imported": "2026-11-15",
+ "acceptance": "user selected 3,3,3; authorized main publication without additional confirmation",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "884612491585fc11e4d6530863d15589250e4c35f365e2897f2a759bde923e32",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "e89d2e3975f491769862ae26767ceb0959cb852955839a55d895515a8d3d755d",
+  "prompt_sha256": "871e462e333234f8f4ec292aef0e63b9b02dea32df65f271cf6e0eb213cf406d"
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt-element-molybdenum-fd29863",
+  "image_sha256": "884612491585fc11e4d6530863d15589250e4c35f365e2897f2a759bde923e32",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; attached selected world design used for identity and rendering.",
+   "One hand holds flake and other rests on rail; profile and denim overalls at station present."
+  ]
+ }
+}
