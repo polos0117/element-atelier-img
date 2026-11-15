@@ -1,0 +1,137 @@
+{
+ "atelier": "element",
+ "card": "sr",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sr_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_marble_temple",
+  "ofam": "resort",
+  "item": "sundress_backless",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "bouquet_both",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "noon",
+  "light": "back",
+  "spot": "right_third",
+  "view": "foreground",
+  "color": "denim",
+  "situ": "sheer_light",
+  "expr": "wink",
+  "preset": "bench_fix",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sr_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Strontium (Sr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunlit white marble temple — tall fluted columns and a terrace above a deep blue sea\nTime of day: midday — bright even light.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a backless halter sundress with a short flared hem and espadrilles — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small bouquet in both hands at her waist — her own right hand around the stems, her own left hand around the stems.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — strontium: a soft silvery alkaline-earth metal that yellows in air, named for Strontian, a village in the Scottish Highlands whose lead mines yielded the strange stone strontianite around 1790, its metal freed by electricity in 1808; its salts burn the deepest crimson red of any flame, the red of fireworks and of distress flares at sea; strontium aluminate glow paint drinks in light and gives it back as a soft aqua-green afterglow for hours in the dark; like calcium it settles into bones and seashells — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-15",
+ "record": "records/sr/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sr",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "sr": {
+    "era": "fantasy",
+    "place": "fx_marble_temple",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_fix",
+    "use": "bouquet_both",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "sundress_backless",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sheer_light",
+    "color": "denim",
+    "time": "noon",
+    "light": "back",
+    "spot": "right_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7b5a715bce447dd9d7c1d303c940d5548728a7fa5090edab49ab05bacbea042e",
+  "prompt_sha256": "e5fab079ee9519b22c3503b40725a2981fa7ff6b725b1a62ba54d1503b5786df",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "01e660d3927ec8765d555d7f7fc2f2a688b5dd0c16a49a60f465512a037698ca",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "execution": "element-sr-11b08-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 1,1,1 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7b5a715bce447dd9d7c1d303c940d5548728a7fa5090edab49ab05bacbea042e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both hands hold bouquet, seated figure with connected limbs.",
+   "Temple and sundress present; backlit silhouette effect weak."
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "sr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "a mountain rescue base of her element's kingdom — a rescue craft on the pad, coiled ropes on hooks and a rack of red signal flares",
+  "ownProp": "a red signal flare",
+  "light": "side",
+  "depth": "flat",
+  "expr": "amused",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a mountain rescuer look fitted to her body — a cropped red shell jacket open over a sports-bra top, short climbing shorts, a harness and hiking boots",
+  "scene": "she is a mountain rescuer checking a red signal flare before a night search",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sr_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Strontium (Sr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mountain rescue base of her element's kingdom — a rescue craft on the pad, coiled ropes on hooks and a rack of red signal flares\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a mountain rescuer look fitted to her body — a cropped red shell jacket open over a sports-bra top, short climbing shorts, a harness and hiking boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a red signal flare up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is a mountain rescuer checking a red signal flare before a night search\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — strontium: a soft silvery alkaline-earth metal that yellows in air, named for Strontian, a village in the Scottish Highlands whose lead mines yielded the strange stone strontianite around 1790, its metal freed by electricity in 1808; its salts burn the deepest crimson red of any flame, the red of fireworks and of distress flares at sea; strontium aluminate glow paint drinks in light and gives it back as a soft aqua-green afterglow for hours in the dark; like calcium it settles into bones and seashells — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-15",
+ "record": "records/sr/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "산악 구조대원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "25ee1eb4db14bdb6c4c008e4746457312763ce3849ab3f821768cb515ccc92c9",
+  "prompt_sha256": "73160d48074d0169a8d2fcda9c2e82753cc7f9fd38759decc881a3f840443501",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "3efc022f1cf3d2d0bb517cad8dbf04b9b18c18318df439ed62fe8d5ea0e1ce96",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sr-11b08-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 1,1,1 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "25ee1eb4db14bdb6c4c008e4746457312763ce3849ab3f821768cb515ccc92c9",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One arm and hand hold signal light; other arm cropped.",
+   "Mountain rescue scene, rescue vehicle and fitted gear present."
+  ]
+ }
+}

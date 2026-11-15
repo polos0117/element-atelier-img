@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "sr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sr_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "spring",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a weaving shed of her element's kingdom — a wooden hand loom strung with a crimson and green plaid, skeins of wool on pegs and a window over the hills",
+  "ownProp": "a wooden weaving shuttle",
+  "light": "top",
+  "spot": "right_third",
+  "depth": "flat",
+  "expr": "gentle",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a weaver look fitted to her body — a linen chemise slipped off the shoulders, a laced corset bodice, a short wool skirt and an apron",
+  "scene": "she is a weaver standing at the loom, throwing the shuttle across a crimson plaid",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sr_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Strontium (Sr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a weaving shed of her element's kingdom — a wooden hand loom strung with a crimson and green plaid, skeins of wool on pegs and a window over the hills\nWeather / season: spring — blossom petals drifting outside.\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a weaver look fitted to her body — a linen chemise slipped off the shoulders, a laced corset bodice, a short wool skirt and an apron, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a wooden weaving shuttle in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a weaver standing at the loom, throwing the shuttle across a crimson plaid\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — strontium: a soft silvery alkaline-earth metal that yellows in air, named for Strontian, a village in the Scottish Highlands whose lead mines yielded the strange stone strontianite around 1790, its metal freed by electricity in 1808; its salts burn the deepest crimson red of any flame, the red of fireworks and of distress flares at sea; strontium aluminate glow paint drinks in light and gives it back as a soft aqua-green afterglow for hours in the dark; like calcium it settles into bones and seashells — may show in the outfit's details, motifs or small accessories.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
+ "date": "2026-11-15",
+ "record": "records/sr/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "격자무늬 모직 직조공",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "62ddfe8c6efcf49c327f4ed83808360450b57a780b776aa8a2632afcb83fc8d4",
+  "prompt_sha256": "e4200cb2c189270df806bd565bf5c59479d63815e858601ddff27455ec1e868a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved separately; only WebP is published.",
+  "ref_sha256": "01e660d3927ec8765d555d7f7fc2f2a688b5dd0c16a49a60f465512a037698ca",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sr-11b08-20261115",
+ "imported": "2026-11-15",
+ "acceptance": "User selected 1,1,1 and authorized image/data commits and normal main updates.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "62ddfe8c6efcf49c327f4ed83808360450b57a780b776aa8a2632afcb83fc8d4",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Two connected arms operate shuttle at loom.",
+   "Plaid weaving scene and fitted occupational outfit present; period room retained."
+  ]
+ }
+}
