@@ -1,0 +1,106 @@
+{
+  "atelier": "element",
+  "card": "pd",
+  "tier": "root",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "heart",
+      "eyes": "round_large",
+      "brows": "soft_round",
+      "nose": "straight_narrow",
+      "lips": "small_bow",
+      "eye_color": "storm_grey",
+      "age": "late_20s",
+      "impression": "elegant",
+      "skin_tone": "olive",
+      "eye_size": "large",
+      "eye_tilt": "level",
+      "mark": "mole_eye",
+      "expr": "curious"
+    },
+    "silhouette": {
+      "body": "curvy",
+      "hair": "long_curly",
+      "hair_color": "palladium_owl",
+      "bangs": "side_swept"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "pd_steampunk_jp_paint_anime_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Palladium (팔라듐) itself — the sovereign of the Palladium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: an elegant, refined presence; olive skin; heart-shaped face; large eyes — large round eyes, level outer eye corners; soft rounded brows; straight narrow nose; small bow lips; storm-grey eyes; a small beauty mark under one eye.\nBody and hair: curvy build; long spiral curls with side-swept bangs; soft silver-white hair banded with warm dove grey like owl feathers.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: palladium: a soft silver-white metal that never tarnishes, named for the asteroid Pallas, found the year before and itself named for Pallas Athena, goddess of wisdom; in 1803 it was first offered anonymously as a new silver in a small London shop, with a reward promised to anyone who could make it themselves; at room temperature it soaks up hydrogen like a sponge, up to nine hundred times its own volume, and a thin palladium sheet lets only hydrogen pass through; it cleans car exhaust as a catalyst and whitens gold.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a fitted bodice and a long bustled ball gown sweeping out behind her, long gloves — an elegant, wide-trailing shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: soft silver-white, owl-feather dove grey, olive green, pale hydrogen blue, storm grey.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1803, a small mineral dealer's shop in Soho, London, where a mysterious new silver is sold with no maker's name: a bow window of glass domes over small bright metal samples, polished wooden counters with velvet trays, a fashionable evening crowd on the lamplit street outside come to see the metal no one else can make.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Pd) and atomic number (46) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+  "date": "2026-11-15",
+  "record": "records/pd/steampunk.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pd",
+    "out": "world",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {
+      "pd|steampunk": {}
+    },
+    "looks": {
+      "pd|steampunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "pd|steampunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/generations",
+    "png_sha256": "b3edbac0715b88ceaf0140fcfa0f7f9bfa9ac84b1dda56f87c7b7f6927a056f7",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "selection": 2,
+    "design": "generator"
+  },
+  "execution": "element-palladium-49fd17",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536; full body and feet visible; two connected arms and hands; no extra limbs apparent.",
+      "Correct world and palette; original output preserved.",
+      "Tiny clock and gauge marks may contain non-permitted numeral-like details; bodice reads partly corset-like; retained without regeneration."
+    ],
+    "passed": false
+  },
+  "acceptance": "User selected 4,2,2; upload authorized"
+}

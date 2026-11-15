@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "pd",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pd_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_coast",
+    "ofam": "costume",
+    "item": "ballet_tutu",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "weather": "autumn",
+    "time": "golden",
+    "hair": "braid",
+    "light": "dappled",
+    "color": "pattern",
+    "expr": "curious",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pd_fantasy_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Palladium (Pd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rocky coast path with tide pools\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a ballet stage costume — a fitted bodice, a short stiff tutu and satin pointe shoes — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — palladium: a soft silver-white metal that never tarnishes, named for the asteroid Pallas, found the year before and itself named for Pallas Athena, goddess of wisdom; in 1803 it was first offered anonymously as a new silver in a small London shop, with a reward promised to anyone who could make it themselves; at room temperature it soaks up hydrogen like a sponge, up to nine hundred times its own volume, and a thin palladium sheet lets only hydrogen pass through; it cleans car exhaust as a catalyst and whitens gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/pd/fantasy-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pd",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "pd": {
+        "era": "now",
+        "place": "travel_coast",
+        "ofam": "costume",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "ballet_tutu",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "golden",
+        "weather": "autumn",
+        "hair": "braid",
+        "light": "dappled"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "6cb71f1b8ff1222f3b7de7a3edfefcd78d7d55c4d1bff245b942cf4fd2bc848c",
+    "png_sha256": "30a47bb4f7feae7d26e64f996aec744b60439834820545042b2424584ab3a896",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "execution": "element-palladium-49fd17",
+  "imported": "2026-11-15",
+  "acceptance": "user authorization; selected world 4,2,2",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "30a47bb4f7feae7d26e64f996aec744b60439834820545042b2424584ab3a896",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536 verified. Adult figure; face, hair colour and body broadly consistent with attached selected world. No extra, disconnected or reversed limb observed; occluded fingers are not fully countable.",
+      "Close profile and one visible hand match planned framing; the second hand is outside frame as specified."
+    ],
+    "cause": "Reference motifs are explicitly allowed by generated Her element clause, conflicting with the general casual no-clothing-motif instruction; pose/crop differences described in observations."
+  }
+}

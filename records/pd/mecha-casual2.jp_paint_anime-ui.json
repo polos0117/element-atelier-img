@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "pd",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pd_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "bath",
+    "item": "robe_over_swim",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "use": "box_shelf",
+    "kind": "both",
+    "legs": "",
+    "gaze": "",
+    "light": "low_warm",
+    "spot": "left_third",
+    "depth": "flat",
+    "color": "earth",
+    "expr": "soft_smile",
+    "preset": "hang_line",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pd_mecha_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Palladium (Pd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a spa robe open over a swimsuit — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — palladium: a soft silver-white metal that never tarnishes, named for the asteroid Pallas, found the year before and itself named for Pallas Athena, goddess of wisdom; in 1803 it was first offered anonymously as a new silver in a small London shop, with a reward promised to anyone who could make it themselves; at room temperature it soaks up hydrogen like a sponge, up to nine hundred times its own volume, and a thin palladium sheet lets only hydrogen pass through; it cleans car exhaust as a catalyst and whitens gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/pd/mecha-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pd",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "pd": {
+        "era": "nation",
+        "place": "nation_kitchen",
+        "ofam": "bath",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hang_line",
+        "use": "box_shelf",
+        "kind": "both",
+        "posture": "reach_up",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "low",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "",
+        "item": "robe_over_swim",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "light": "low_warm",
+        "spot": "left_third",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "d225e2f96cb526e19ce0f7533c122594526f500d3311b256f8834c52b5f7b0cf",
+    "png_sha256": "dd7c4f12d6d349b0c2a8c0bb9c120f85261814cfc5886b882c7925b720ccabec",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "execution": "element-palladium-49fd17",
+  "imported": "2026-11-15",
+  "acceptance": "user authorization; selected world 4,2,2",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "dd7c4f12d6d349b0c2a8c0bb9c120f85261814cfc5886b882c7925b720ccabec",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536 verified. Adult figure; face, hair colour and body broadly consistent with attached selected world. No extra, disconnected or reversed limb observed; occluded fingers are not fully countable.",
+      "Two hands hold the box on a shelf; owl and leaf motifs have transferred onto casual clothing."
+    ],
+    "cause": "Reference motifs are explicitly allowed by generated Her element clause, conflicting with the general casual no-clothing-motif instruction; pose/crop differences described in observations."
+  }
+}

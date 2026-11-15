@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "pd",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "pd_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "item": "sleep_shirt",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "hair": "tied",
+    "light": "low_warm",
+    "color": "neutral",
+    "expr": "focused",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "pd_fantasy_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Palladium (Pd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a loose off-shoulder sleep shirt — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — palladium: a soft silver-white metal that never tarnishes, named for the asteroid Pallas, found the year before and itself named for Pallas Athena, goddess of wisdom; in 1803 it was first offered anonymously as a new silver in a small London shop, with a reward promised to anyone who could make it themselves; at room temperature it soaks up hydrogen like a sponge, up to nine hundred times its own volume, and a thin palladium sheet lets only hydrogen pass through; it cleans car exhaust as a catalyst and whitens gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/pd/fantasy-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "pd",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "pd": {
+        "era": "nation",
+        "place": "nation_kitchen",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "sleep_shirt",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "hair": "tied",
+        "light": "low_warm"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "6cb71f1b8ff1222f3b7de7a3edfefcd78d7d55c4d1bff245b942cf4fd2bc848c",
+    "png_sha256": "ad4b621c55f60a137930bfafa83595cf0f7a9628f6b89b448c5ed5162ffedabe",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "execution": "element-palladium-49fd17",
+  "imported": "2026-11-15",
+  "acceptance": "user authorization; selected world 4,2,2",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ad4b621c55f60a137930bfafa83595cf0f7a9628f6b89b448c5ed5162ffedabe",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024x1536 verified. Adult figure; face, hair colour and body broadly consistent with attached selected world. No extra, disconnected or reversed limb observed; occluded fingers are not fully countable.",
+      "Olive-leaf motif follows the reference onto the clothing; crossed arms naturally obscure part of one hand."
+    ],
+    "cause": "Reference motifs are explicitly allowed by generated Her element clause, conflicting with the general casual no-clothing-motif instruction; pose/crop differences described in observations."
+  }
+}
