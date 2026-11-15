@@ -1,0 +1,107 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "amber",
+   "age": "late_20s",
+   "impression": "sharp",
+   "skin_tone": "deep_brown",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "smug"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair": "bob",
+   "hair_color": "antimony_kohl",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sb_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Antimony (안티모니) itself — the sovereign of the Antimony Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; deep brown skin; diamond-shaped face; medium-sized eyes — narrow upturned eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; full heart-shaped lips; amber eyes; smoky dark eye makeup.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; a bob with blunt straight bangs; kohl-black hair with streaks of bluish-silver metallic needle sheen.\nExpression: a faint knowing smile.\nHer element, carried in her design: antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a sun-baked river kingdom of the desert: riverbank temples under a hard blue sky, stone mortars where grey needle-crystal ore is ground into black kohl for lining the eyes beside jars of white alabaster, a refining hall of wolf-headed crucibles where molten grey ore devours every base metal and leaves only pure gold.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sb) and atomic number (51) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-15",
+ "record": "records/sb/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sb",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sb|fantasy": {}
+  },
+  "looks": {
+   "sb|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sb|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b8fbee134676bbc2e938e4d99706fbe6b18060b9c98cd6aa04db6a5bd532d961",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "selection": 2
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b8fbee134676bbc2e938e4d99706fbe6b18060b9c98cd6aa04db6a5bd532d961",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; selected original retained.",
+   "Selected full-body world image; one adult woman, two natural arms and legs; hands connected, no extra human limbs; Sb/51 embedded in scene allowed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}

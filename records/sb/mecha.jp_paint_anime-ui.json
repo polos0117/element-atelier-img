@@ -1,0 +1,109 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "deep_set",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "amber",
+   "age": "late_20s",
+   "impression": "sharp",
+   "skin_tone": "deep_brown",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "smug"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair": "slicked_back",
+   "hair_color": "antimony_kohl",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sb_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Antimony (안티모니) itself — the sovereign of the Antimony Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; deep brown skin; heart-shaped face; medium-sized eyes — deep-set eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; full heart-shaped lips; amber eyes; smoky dark eye makeup.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; sleek slicked-back hair with no bangs, forehead bare; kohl-black hair with streaks of bluish-silver metallic needle sheen.\nExpression: a faint knowing smile.\nHer element, carried in her design: antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Bluish-silver armor etched with fern-like star patterns over a kohl-black inner suit, a symmetrical pair of mechanical sub-arms reaching from her back and ending in clusters of long grey needle-crystal claws, a narrow visor of cold infrared sensors resting on her brow above dark-lined eyes, a lapis-blue core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a mountain citadel that sees in the dark: watchtowers whose cold infrared eyes of indium antimonide read the faint heat of everything moving through the night, spires clustered like grey needle crystals along the ridge, bluish-silver walls etched with fern-like star patterns.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sb) and atomic number (51) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-15",
+ "record": "records/sb/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sb",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sb|mecha": {}
+  },
+  "looks": {
+   "sb|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sb|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "84a27fae949a93fa0ba6577c585cb914d3052ec1316fc62cfc0220a2322df124",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "selection": 4,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Antimony (안티모니) itself — the sovereign of the Antimony Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns. Palette: kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\n\nWorld (fixed): year 2200, a mountain citadel that sees in the dark: watchtowers whose cold infrared eyes of indium antimonide read the faint heat of everything moving through the night, spires clustered like grey needle crystals along the ridge, bluish-silver walls etched with fern-like star patterns. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 2) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 3) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\n\nHair colour (fixed — ours): kohl-black hair with streaks of bluish-silver metallic needle sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Sb) and atomic number (51) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nMy detailed design: Choose silhouette 1, heavy assault bulk, broad thick shoulders and huge shin armor with large rigid back thrusters, fitted torso and narrow waist. Signature construction: nested wolf-jaw-shaped bluish-silver shoulder plates close around black sensor cavities, layered expanding fern-star cooling blades form the rigid backpack vents. Dark lapis inner joints, sand-gold narrow edges, entirely solid hard-surface plated body and no cloth. Adult human face with deep copper skin, rounded diamond outline, icy turquoise eyes, strong kohl liner, serene commanding closed smile; fixed kohl-black metallic silver-streaked hair in two thick low braids. Two human arms, large articulated gauntlets with five fingers empty and visible. Frontal planted balanced stance on a citadel rampart beside cold infrared watchtowers, luminous twilight and distant needle spires, full-body eye-level."
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "84a27fae949a93fa0ba6577c585cb914d3052ec1316fc62cfc0220a2322df124",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; selected original retained.",
+   "Selected full-body world image; one adult woman, two natural arms and legs; hands connected, no extra human limbs; Sb/51 embedded in scene allowed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}

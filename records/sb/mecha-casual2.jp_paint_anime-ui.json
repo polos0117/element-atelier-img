@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "light_slip",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "compass_read",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "spring",
+  "time": "golden",
+  "spot": "right_third",
+  "depth": "flat",
+  "color": "vivid",
+  "expr": "soft_smile",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sb_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Antimony (Sb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nWeather / season: spring — blossom petals drifting outside.\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a light cotton slip dress — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she reads a brass compass held level in both hands — her own right hand holds the case, her own left hand shades the glass.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/sb/mecha-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f9eb3d8e0145a492c467930a30d3b8da68f86219be028903f99e7c62bb4498fa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "ref_sha256": "84a27fae949a93fa0ba6577c585cb914d3052ec1316fc62cfc0220a2322df124"
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f9eb3d8e0145a492c467930a30d3b8da68f86219be028903f99e7c62bb4498fa",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; painterly game/anime finish; reference face, hair colour and skin tone retained.",
+   "Seated by path and wall, compass held by two connected hands; source motif repeated on slip dress."
+  ],
+  "cause": "Reference ornament carry-over conflicts with everyday element-motif restriction; generator itself allows outfit motifs. Kept without regeneration under user instruction."
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}

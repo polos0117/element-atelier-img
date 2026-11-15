@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sb_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_cafe",
+  "ofam": "roleplay",
+  "item": "majorette",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "teapot_pour",
+  "legs": "knees_together",
+  "gaze": "",
+  "weather": "snow",
+  "time": "dusk",
+  "light": "two_tone",
+  "depth": "layered",
+  "color": "vivid",
+  "expr": "serious",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sb_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Antimony (Sb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a neighbourhood café with a counter and window seats\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a marching majorette costume — a plumed shako, a braided short jacket and a pleated mini skirt — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground, level with her face as she sits or kneels; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she pours tea from a small teapot into a cup on the table — her own right hand holds the handle, her own left hand steadies the lid.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/sb/steampunk-casual4.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "09e1af342b1f47b373034b1456a7ebb995f5cc341e12b7b2719a1ea1838b28bc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "ref_sha256": "d879cb31d595ed3e09d5bc72ef99a3a3ed79a9038c3ec3fcba54df2923af41ce"
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "09e1af342b1f47b373034b1456a7ebb995f5cc341e12b7b2719a1ea1838b28bc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; painterly game/anime finish; reference face, hair colour and skin tone retained.",
+   "Seated cafe tea pour with two connected hands, one on handle and one on lid; source fern decoration appears on majorette costume."
+  ],
+  "cause": "Reference ornament carry-over conflicts with everyday element-motif restriction; generator itself allows outfit motifs. Kept without regeneration under user instruction."
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}

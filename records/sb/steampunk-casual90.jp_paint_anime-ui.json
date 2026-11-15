@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sb_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "autumn",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a masquerade mask workshop of her element's kingdom — feathered half-masks on a wall of hooks, pots of black and silver paint and a gas lamp",
+  "ownProp": "a silver half-mask",
+  "light": "top",
+  "depth": "flat",
+  "expr": "gentle",
+  "preset": "bench_fix",
+  "prop": "0",
+  "outfit": "a mask maker look fitted to her body — a paint-smudged apron over a black lace corset top and a short bustle skirt, sheer stockings and fingerless lace gloves",
+  "scene": "she is a mask maker painting the dark line around a mask's eyes",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sb_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Antimony (Sb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a masquerade mask workshop of her element's kingdom — feathered half-masks on a wall of hooks, pots of black and silver paint and a gas lamp\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a mask maker look fitted to her body — a paint-smudged apron over a black lace corset top and a short bustle skirt, sheer stockings and fingerless lace gloves, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a silver half-mask in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a mask maker painting the dark line around a mask's eyes\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/sb/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "가면무도회 가면 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ea626f524de3c46a4364473fe4187f84e3816a752da43ded62674593c9e8e72e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "ref_sha256": "d879cb31d595ed3e09d5bc72ef99a3a3ed79a9038c3ec3fcba54df2923af41ce",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ea626f524de3c46a4364473fe4187f84e3816a752da43ded62674593c9e8e72e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; painterly game/anime finish; reference face, hair colour and skin tone retained.",
+   "Mask held in left hand while right paints it; two connected arms and coherent fingers; source motifs on apron and skirt."
+  ],
+  "cause": "Reference ornament carry-over conflicts with everyday element-motif restriction; generator itself allows outfit motifs. Kept without regeneration under user instruction."
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}

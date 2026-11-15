@@ -1,0 +1,109 @@
+{
+ "atelier": "element",
+ "card": "sb",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "almond_wide",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "amber",
+   "age": "late_20s",
+   "impression": "sharp",
+   "skin_tone": "deep_brown",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "smug"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair": "wolf_cut",
+   "hair_color": "antimony_kohl",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sb_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Antimony (안티모니) itself — the sovereign of the Antimony Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; deep brown skin; gently long oval face; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; full heart-shaped lips; amber eyes; smoky dark eye makeup.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; a shaggy layered wolf cut with choppy uneven bangs; kohl-black hair with streaks of bluish-silver metallic needle sheen.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a faint knowing smile.\nHer element, carried in her design: antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: in the 1890s, a grey mountain long called the tin mine though its ore was never tin: slopes of grey needle-streaked stibnite ore, a smelter where ingots of bright bluish-silver metal cool with fern-like star patterns blooming across their surface, mine galleries bristling with long grey needle crystals.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sb) and atomic number (51) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-15",
+ "record": "records/sb/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sb",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sb|steampunk": {}
+  },
+  "looks": {
+   "sb|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sb|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d879cb31d595ed3e09d5bc72ef99a3a3ed79a9038c3ec3fcba54df2923af41ce",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; only WebP uploaded.",
+  "selection": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Antimony (안티모니) itself — the sovereign of the Antimony Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: antimony: a brittle, bluish-silver metalloid whose grey sulfide ore, stibnite, grows in long metallic needles and was ground five thousand years ago into black kohl to line the eyes, its Latin name stibium giving the symbol Sb; alchemists called molten stibnite the grey wolf of metals because it devoured every base metal mixed into gold and left only the pure gold behind; it expands as it freezes, sharpening the letters of cast type, and cooling ingots bloom with fern-like star patterns. Palette: kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\n\nWorld (fixed): in the 1890s, a grey mountain long called the tin mine though its ore was never tin: slopes of grey needle-streaked stibnite ore, a smelter where ingots of bright bluish-silver metal cool with fern-like star patterns blooming across their surface, mine galleries bristling with long grey needle crystals. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape; 2) a cropped flight jacket, goggles on her head, crossing harness straps and a long scarf streaming in the wind — an airborne shape; 3) a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; 4) a clockwork gear rig worn on her back over a fitted vest, small brass fittings on arms and legs — the machinery makes the shape; 5) a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): kohl black, bluish silver, stibnite lead grey, sun-baked sand gold, deep lapis blue.\n\nHair colour (fixed — ours): kohl-black hair with streaks of bluish-silver metallic needle sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Sb) and atomic number (51) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nMy detailed design: Select silhouette 2, cropped black leather flight jacket over a deep lapis fitted top, crossing harness, goggles above hair and long sand-gold scarf, short tailored dark shorts and tall boots. Signature antimony construction: overlapping bluish-silver needle lamellae form the jacket's shoulder yoke and rigid winglike lapels, opening like fern stars as her shoulders turn. Late-twenties warm olive skin, angular oval face, violet eyes, slightly asymmetrical mischievous smile and kohl liner; high ponytail of fixed kohl-black and silver-streaked hair, windswept bangs. Empty hands visible, one on belt, other relaxed. Standing on a mining cableway landing over the grey crystal mountain, sunlit steam behind her, facing camera full-body eye-level."
+ },
+ "execution": "element-sb-92c677",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d879cb31d595ed3e09d5bc72ef99a3a3ed79a9038c3ec3fcba54df2923af41ce",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; selected original retained.",
+   "Selected full-body world image; one adult woman, two natural arms and legs; hands connected, no extra human limbs; Sb/51 embedded in scene allowed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected 2,3,4 and authorized main publication; preserve generated images."
+}
