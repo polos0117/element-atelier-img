@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "po",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "po_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "noon",
+  "own": "fantasy",
+  "placeText": "the ramparts of her element's kingdom at dawn — a crimson banner with a white eagle on a tall pole, battlements and mist in the valley below",
+  "ownProp": "a tall pole with a furled crimson and white banner",
+  "light": "dappled",
+  "expr": "curious",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a standard-bearer look fitted to her body — a short crimson tabard over a laced bandeau, short breeches, tall boots, a white sash and bare arms",
+  "scene": "she is the standard-bearer who carries the kingdom's banner",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "po_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Polonium (Po) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the ramparts of her element's kingdom at dawn — a crimson banner with a white eagle on a tall pole, battlements and mist in the valley below\nTime of day: midday — bright even light.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a standard-bearer look fitted to her body — a short crimson tabard over a laced bandeau, short breeches, tall boots, a white sash and bare arms, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a tall pole with a furled crimson and white banner low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the standard-bearer who carries the kingdom's banner\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — polonium: a rare silvery metal found in July 1898 by a husband-and-wife pair of chemists in pitchblende and named for Poland, the wife's homeland then erased from the map, so the world would not forget it; so fiercely radioactive that a small piece heats itself to hundreds of degrees and makes the air around it glow blue; polonium-210 lasts only 138 days before decaying into quiet lead; it once kept a rover warm through the long lunar night — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/po/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "왕국 깃발 기수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "18cfc26951bf40f64fa59f18dad860d40de3e4cb3434ead28b66e8966ecfad9c",
+  "png_sha256": "2a41921b21c82be73a574feb52d2205c3d8a541827aa5aa0ca48a71f175f00c0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "189d9d6f3cd355caecd907d03da3a8bff1b6d8b30c7d6c38a86fd7bbd378c0f9",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-po-3a2de",
+ "imported": "2026-11-15",
+ "acceptance": "user_approval_2026-10-31; user main push authorization",
+ "qa": {
+  "reviewer": "element-po-3a2de",
+  "image_sha256": "2a41921b21c82be73a574feb52d2205c3d8a541827aa5aa0ca48a71f175f00c0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult woman; painterly anime finish.",
+   "Standard-bearer strides along battlements with a furled banner held low, both hands visible.",
+   "Background is sunny rather than misty dawn, and the outfit carries decorative elements resembling the reference regalia."
+  ],
+  "cause": "Documented composition/costume/text deviation from the submitted prompt; original generated image retained without regeneration."
+ }
+}

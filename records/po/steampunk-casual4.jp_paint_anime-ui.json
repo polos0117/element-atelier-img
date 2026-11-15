@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "po",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "po_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_cafe",
+  "ofam": "workwear",
+  "item": "dungaree_bandeau",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "light": "dappled",
+  "depth": "flat",
+  "expr": "sensual",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "po_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Polonium (Po) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a neighbourhood café with a counter and window seats\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: short denim dungarees over a bandeau top, one strap unhooked, canvas sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — polonium: a rare silvery metal found in July 1898 by a husband-and-wife pair of chemists in pitchblende and named for Poland, the wife's homeland then erased from the map, so the world would not forget it; so fiercely radioactive that a small piece heats itself to hundreds of degrees and makes the air around it glow blue; polonium-210 lasts only 138 days before decaying into quiet lead; it once kept a rover warm through the long lunar night — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/po/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "po",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "po": {
+    "era": "now",
+    "place": "street_cafe",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "dungaree_bandeau",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "light": "dappled",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "64842b25efb127e0399b7d75b2145ef85aa22934e3ac4e8d8641c84efaaf40e9",
+  "png_sha256": "1d21b7fd5be175c8f5c8a305e9da108c6734ed0cb6ac6365a9939c4cf1389f66",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "submitted_prompt_sha256": "0043265fa60a007cc7f1e93904291007b7021a2134dea399ca0f999fcd30cf6a"
+ },
+ "execution": "element-po-3a2de",
+ "imported": "2026-11-15",
+ "acceptance": "user_approval_2026-10-31; user main push authorization",
+ "qa": {
+  "reviewer": "element-po-3a2de",
+  "image_sha256": "1d21b7fd5be175c8f5c8a305e9da108c6734ed0cb6ac6365a9939c4cf1389f66",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one main adult woman; painterly anime finish.",
+   "Cafe portrait with chin resting on one hand and other arm below crop; overall-clothing motif retained.",
+   "Gaze meets the viewer rather than looking out the window; crop is looser than a face close-up."
+  ],
+  "cause": "Documented composition/costume/text deviation from the submitted prompt; original generated image retained without regeneration."
+ }
+}
