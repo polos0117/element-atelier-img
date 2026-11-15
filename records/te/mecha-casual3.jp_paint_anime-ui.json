@@ -1,0 +1,159 @@
+{
+ "atelier": "element",
+ "card": "te",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "te_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "time": "lamplight",
+  "view": "foreground",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "",
+   "cut": "lingerie",
+   "round": 1,
+   "used": []
+  },
+  "expr": "nostalgic",
+  "preset": "ankles_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "low"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "te_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a convention photo zone under ring lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a daring adult cosplay of Imelda from Langrisser II — purple sorceress regalia with a gold wing-shaped collar, long purple gloves and tall matching boots, cut as a lace bralette and high-waisted briefs with garter straps, mostly covered, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/te/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "te",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "te": {
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "ankles_sit",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lap",
+    "left": "natural",
+    "legs": "ankles_crossed",
+    "gaze": "camera",
+    "item": "gc_lingerie",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "low"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "langrisser_2",
+     "character": "",
+     "cut": "lingerie",
+     "round": 1,
+     "used": []
+    },
+    "time": "lamplight",
+    "view": "foreground"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a convention photo zone under ring lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a daring adult cosplay of Imelda from Langrisser II — purple sorceress regalia with a gold wing-shaped collar, long purple gloves and tall matching boots, cut as a lace bralette and high-waisted briefs with garter straps, mostly covered, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Imelda",
+   "cut": "lingerie"
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fd1bbfda109322d5b93f5aefc9cf1b4c13acdea1b7b941a8959760290adb61ad",
+  "png_sha256": "d1e057263d7fddce22b05038f141e6f0c5d071b765da0d815d0ed805173399c9",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "source_path": "/workspace/scratch/7568e3c58e87/generated_images/exec-34c33223-212e-4642-957b-0ad4d14790d6.png",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual"
+   },
+   {
+    "n": 2,
+    "exposure": "moderate",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual",
+    "request_id": "abedee2c-d47f-44f7-98c3-d42a346d28e4"
+   },
+   {
+    "n": 3,
+    "exposure": "low",
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-te-7568",
+ "imported": "2026-11-16",
+ "acceptance": "user approved selection 4,3,4 and publication to main",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d1e057263d7fddce22b05038f141e6f0c5d071b765da0d815d0ed805173399c9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; same adult woman as selected world reference, with matching hair colour and facial identity.",
+   "Visible arms and legs connect naturally; no extra limbs or floating hands; no logo or watermark.",
+   "Imelda cosplay in purple and gold, seated with crossed ankles; low exposure requested after two output blocks, but generated costume still leaves torso exposed."
+  ],
+  "cause": "Generated result differs from pose, reference hairstyle or requested exposure; preserved under project rules."
+ }
+}

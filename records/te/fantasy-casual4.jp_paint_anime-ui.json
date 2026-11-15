@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "te",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "te_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_sauna",
+  "ofam": "dongtan",
+  "item": "club_metallic",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "hair": "wet",
+  "spot": "left_third",
+  "depth": "deep",
+  "color": "pastel",
+  "expr": "proud",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "te_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wooden sauna and cold plunge with a cooling lounge\nHair: her hair wet and slicked back or dripping — same colour and length as the attached image.\nOutfit: a club outfit — a liquid-metallic cowl-neck slip mini dress with thin straps and strappy heels — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tellurium: a brittle, lustrous silver-white metalloid found in 1782 in gold ore from the mountains of Transylvania, so puzzling it was called paradoxical gold, and named in 1798 from Latin tellus, the earth, so that its look-alike found later was named selenium, for the moon; one of the very few elements that join with gold, it formed the grey telluride ores of the 1890s gold rushes; a trace of it leaves a garlic smell on the breath; its compounds turn heat straight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/te/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "te",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "te": {
+    "era": "now",
+    "place": "spa_sauna",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "club_metallic",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "hair": "wet",
+    "spot": "left_third",
+    "depth": "deep"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2cddf9e5133e5260d859b683d3a585a31cb5c4fdc240478599aeb19aea6a65a9",
+  "png_sha256": "20c46d21708af495d223b48c7447228d72c5268a6f120de6b293d0c8e42a5f59",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "source_path": "/workspace/scratch/7568e3c58e87/generated_images/exec-2956a577-9051-4326-a058-bca246f188f4.png"
+ },
+ "execution": "element-te-7568",
+ "imported": "2026-11-16",
+ "acceptance": "user approved selection 4,3,4 and publication to main",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "20c46d21708af495d223b48c7447228d72c5268a6f120de6b293d0c8e42a5f59",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; same adult woman as selected world reference, with matching hair colour and facial identity.",
+   "Visible arms and legs connect naturally; no extra limbs or floating hands; no logo or watermark.",
+   "Side reclining in metallic slip dress at sauna; two arms connected; head-supporting and floor-resting arms are mirrored relative to requested sides."
+  ],
+  "cause": "Generated result differs from pose, reference hairstyle or requested exposure; preserved under project rules."
+ }
+}

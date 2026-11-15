@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "te",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "te_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "lingerie",
+  "item": "bralette_highwaist",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "hair": "tied",
+  "light": "low_warm",
+  "view": "foreground",
+  "color": "pattern",
+  "expr": "curious",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "te_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a soft-cup bralette with wide straps and matching high-waisted bottoms — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tellurium: a brittle, lustrous silver-white metalloid found in 1782 in gold ore from the mountains of Transylvania, so puzzling it was called paradoxical gold, and named in 1798 from Latin tellus, the earth, so that its look-alike found later was named selenium, for the moon; one of the very few elements that join with gold, it formed the grey telluride ores of the 1890s gold rushes; a trace of it leaves a garlic smell on the breath; its compounds turn heat straight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/te/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "te",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "te": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_hair",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "bralette_highwaist",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "hair": "tied",
+    "light": "low_warm",
+    "view": "foreground"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fd1bbfda109322d5b93f5aefc9cf1b4c13acdea1b7b941a8959760290adb61ad",
+  "png_sha256": "c548090ff176d8c584e0580ae38b9e0bf1266a846ea59da765adf4afbd7f8ebe",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "source_path": "/workspace/scratch/7568e3c58e87/generated_images/exec-26ade19a-95d5-4c06-bafb-68302df191ad.png"
+ },
+ "execution": "element-te-7568",
+ "imported": "2026-11-16",
+ "acceptance": "user approved selection 4,3,4 and publication to main",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c548090ff176d8c584e0580ae38b9e0bf1266a846ea59da765adf4afbd7f8ebe",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; same adult woman as selected world reference, with matching hair colour and facial identity.",
+   "Visible arms and legs connect naturally; no extra limbs or floating hands; no logo or watermark.",
+   "Bralette and high-waisted bottoms at underwater palace; right hand in hair; hair appears longer and tied up compared with selected pixie reference."
+  ],
+  "cause": "Generated result differs from pose, reference hairstyle or requested exposure; preserved under project rules."
+ }
+}

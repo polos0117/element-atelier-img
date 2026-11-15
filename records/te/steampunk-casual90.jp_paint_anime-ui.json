@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "te",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "te_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "a globe maker's workshop of her element's kingdom — printed map strips without lettering drying on a line, plaster globe balls on stands and a brass meridian ring",
+  "ownProp": "a small terrestrial globe on a brass stand",
+  "light": "back",
+  "depth": "flat",
+  "expr": "wink",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a globe maker look fitted to her body — a canvas apron over a lace camisole and short bloomers, sleeve garters on bare arms and a pencil in her hair",
+  "scene": "she is a globe maker smoothing a strip of map onto a new globe",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "te_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a globe maker's workshop of her element's kingdom — printed map strips without lettering drying on a line, plaster globe balls on stands and a brass meridian ring\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a globe maker look fitted to her body — a canvas apron over a lace camisole and short bloomers, sleeve garters on bare arms and a pencil in her hair, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small terrestrial globe on a brass stand in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is a globe maker smoothing a strip of map onto a new globe\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tellurium: a brittle, lustrous silver-white metalloid found in 1782 in gold ore from the mountains of Transylvania, so puzzling it was called paradoxical gold, and named in 1798 from Latin tellus, the earth, so that its look-alike found later was named selenium, for the moon; one of the very few elements that join with gold, it formed the grey telluride ores of the 1890s gold rushes; a trace of it leaves a garlic smell on the breath; its compounds turn heat straight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/te/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "지구본 제작자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "b5f7e216dc614248e48dd950b18c35776487b7a75a216e4ac2207b97cc1862d7",
+  "png_sha256": "19d4b71fce314d05d87552a5b39a13e3f927eb395c3aabb56649e0252484f456",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "source_path": "/workspace/scratch/7568e3c58e87/generated_images/exec-37b63062-d0dd-4de2-85cd-a83283c7918d.png"
+ },
+ "execution": "element-te-7568",
+ "imported": "2026-11-16",
+ "acceptance": "user approved selection 4,3,4 and publication to main",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "19d4b71fce314d05d87552a5b39a13e3f927eb395c3aabb56649e0252484f456",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; same adult woman as selected world reference, with matching hair colour and facial identity.",
+   "Visible arms and legs connect naturally; no extra limbs or floating hands; no logo or watermark.",
+   "Map strip smoothed onto globe with both hands in globe workshop; no readable map labels."
+  ]
+ }
+}

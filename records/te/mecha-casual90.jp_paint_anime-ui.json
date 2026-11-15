@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "te",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "te_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a mud spa of her element's kingdom — warm pools of smooth brown clay, stone basins and soft steam over terracotta tiles",
+  "ownProp": "a stone bowl of warm brown clay",
+  "light": "back",
+  "expr": "relieved",
+  "preset": "wrap_close",
+  "prop": "0",
+  "outfit": "a spa therapist look fitted to her body — a short wrap tunic tied at the waist over a bandeau, bare legs and spa sandals",
+  "scene": "she is a mud spa therapist mixing a bowl of warm earth clay for the next guest",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "te_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Tellurium (Te) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mud spa of her element's kingdom — warm pools of smooth brown clay, stone basins and soft steam over terracotta tiles\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a spa therapist look fitted to her body — a short wrap tunic tied at the waist over a bandeau, bare legs and spa sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a stone bowl of warm brown clay in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is a mud spa therapist mixing a bowl of warm earth clay for the next guest\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tellurium: a brittle, lustrous silver-white metalloid found in 1782 in gold ore from the mountains of Transylvania, so puzzling it was called paradoxical gold, and named in 1798 from Latin tellus, the earth, so that its look-alike found later was named selenium, for the moon; one of the very few elements that join with gold, it formed the grey telluride ores of the 1890s gold rushes; a trace of it leaves a garlic smell on the breath; its compounds turn heat straight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "refDesign": "gpt_free",
+ "record": "records/te/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "머드 스파 테라피스트",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fd1bbfda109322d5b93f5aefc9cf1b4c13acdea1b7b941a8959760290adb61ad",
+  "png_sha256": "bf70cfb350c7d05606c8cca5dfa686bf6ccbccf3d97dcb8b56438f8edc9f49b2",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "source_path": "/workspace/scratch/7568e3c58e87/generated_images/exec-f8453ceb-3ade-4acd-9d66-e3ebb5b4bb0c.png"
+ },
+ "execution": "element-te-7568",
+ "imported": "2026-11-16",
+ "acceptance": "user approved selection 4,3,4 and publication to main",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bf70cfb350c7d05606c8cca5dfa686bf6ccbccf3d97dcb8b56438f8edc9f49b2",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; same adult woman as selected world reference, with matching hair colour and facial identity.",
+   "Visible arms and legs connect naturally; no extra limbs or floating hands; no logo or watermark.",
+   "Spa therapist holding a bowl of prepared clay with both hands, rather than mixing it; pixie reference retained."
+  ],
+  "cause": "Generated result differs from pose, reference hairstyle or requested exposure; preserved under project rules."
+ }
+}
