@@ -1,0 +1,119 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "subculture",
+    "item": "skater",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_check",
+    "kind": "both",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "hair": "braid",
+    "spot": "right_third",
+    "depth": "flat",
+    "color": "jewel",
+    "expr": "sensual",
+    "preset": "side_chair_read",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_steampunk_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: skater — a cropped hoodie, low-slung cargo shorts and high socks — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she checks the photo on the back screen of a camera at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ta/steampunk-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ta",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "ta": {
+        "era": "now",
+        "place": "stage_event",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "camera_check",
+        "kind": "both",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "skater",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "hair": "braid",
+        "spot": "right_third",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b2193c3f286971c1ed0c08dc26e4771f87e480d77b95256675855274355ef446",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "80a2ccb190c54e698435677be6b7f917805d016572703800b161b5f1f79a0924",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration."
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "80a2ccb190c54e698435677be6b7f917805d016572703800b161b5f1f79a0924",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Seated full figure in side view checking a camera with both connected hands; knees and feet readable; skater outfit in a themed exhibition venue; unfocused people remain in background."
+    ]
+  }
+}

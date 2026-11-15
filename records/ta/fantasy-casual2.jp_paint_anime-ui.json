@@ -1,0 +1,121 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "item": "knit_dress_home",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "cup_wrap",
+    "kind": "both",
+    "legs": "",
+    "gaze": "camera",
+    "weather": "fog",
+    "light": "side",
+    "depth": "flat",
+    "color": "pastel",
+    "denier": "d60",
+    "expr": "sensual",
+    "preset": "wrap_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_fantasy_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: a misty morning — soft fog outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a soft body-hugging knit dress — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ta/fantasy-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ta",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "ta": {
+        "era": "nation",
+        "place": "nation_study",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "wrap_close",
+        "use": "cup_wrap",
+        "kind": "both",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "camera",
+        "item": "knit_dress_home",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "denier": "d60",
+        "weather": "fog",
+        "light": "side",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "c7d370020ef6a980f0736ea4d5977f9cae2c3a3c1ca8b8e387a107722a0a778f",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e9401e2c302adc7c6215619b5a556d501509cf2eb789ea0a45d25845191e58c7",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration."
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e9401e2c302adc7c6215619b5a556d501509cf2eb789ea0a45d25845191e58c7",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Reference face and eye colour retained; knit homewear and study setting; two connected hands around cup; head tilt and chest-up framing."
+    ]
+  }
+}

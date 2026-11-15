@@ -1,0 +1,119 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_lanternriver",
+    "ofam": "bridal",
+    "item": "slip_wedding",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "time": "night",
+    "light": "side",
+    "depth": "deep",
+    "color": "neutral",
+    "expr": "calm",
+    "preset": "squat_prop",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_mecha_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night river covered with floating paper lanterns, stone steps leading down to the water\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a simple slip wedding dress with a long veil — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small polished blue-grey tantalum goblet, empty at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ta/mecha-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ta",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "ta": {
+        "era": "fantasy",
+        "place": "fx_lanternriver",
+        "ofam": "bridal",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "squat_prop",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "squat",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "squat_heels",
+        "gaze": "at_prop",
+        "item": "slip_wedding",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "night",
+        "light": "side",
+        "depth": "deep"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "1b19619ce6f342115dc77560ed40b9d9f9e080011979ee1799225cd156e42675",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e6ade9423fe32387ae4e98852d16d9a2d68d51ffc80a147398e9fa885a4c7fbb",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration."
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e6ade9423fe32387ae4e98852d16d9a2d68d51ffc80a147398e9fa885a4c7fbb",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Full crouched figure at river with floating lanterns; opaque slip wedding dress; goblet in right hand and left hand on knee; both feet visible and naturally joined legs."
+    ]
+  }
+}

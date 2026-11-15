@@ -1,0 +1,119 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "swimwear",
+    "item": "bandeau_bikini",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "time": "night",
+    "hair": "tied",
+    "light": "side",
+    "view": "foreground",
+    "color": "earth",
+    "expr": "amused",
+    "preset": "floor_knee",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_steampunk_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunny beach with wet sand and shallow surf\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a bandeau bikini with a straight strapless top — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ta/steampunk-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ta",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "ta": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_knee",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "chin_knee",
+        "left": "floor_brace",
+        "legs": "knee_up",
+        "gaze": "camera",
+        "item": "bandeau_bikini",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "time": "night",
+        "hair": "tied",
+        "light": "side",
+        "view": "foreground"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b2193c3f286971c1ed0c08dc26e4771f87e480d77b95256675855274355ef446",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "07497025bc9e6b31d45a468bedb4fc130519a852631e097ed7ebdf63ad69ec5f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration."
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "07497025bc9e6b31d45a468bedb4fc130519a852631e097ed7ebdf63ad69ec5f",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Reference warm brown skin, golden eyes, slate wavy hair and lip colour retained; connected right arm supports chin on raised knee, left hand on ground; opaque bandeau swimwear at night beach."
+    ]
+  }
+}

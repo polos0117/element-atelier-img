@@ -1,0 +1,86 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "everyday",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "window",
+    "weather": "fog",
+    "time": "morning",
+    "own": "mecha",
+    "placeText": "an edit suite of her element's kingdom — wide monitors of frozen frames, a glowing timeline and a dark room",
+    "light": "back",
+    "depth": "flat",
+    "expr": "pensive",
+    "preset": "chin_close",
+    "prop": "",
+    "outfit": "an editor look fitted to her body — an oversized shirt slipping off one shoulder over a bandeau, bike shorts and socks",
+    "scene": "she is the trailer editor cutting a teaser that shows everything but the ending",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an edit suite of her element's kingdom — wide monitors of frozen frames, a glowing timeline and a dark room\nWeather / season: a misty morning — soft fog outside.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: an editor look fitted to her body — an oversized shirt slipping off one shoulder over a bandeau, bike shorts and socks, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is the trailer editor cutting a teaser that shows everything but the ending\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/ta/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "영화 예고편 편집자",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "1b19619ce6f342115dc77560ed40b9d9f9e080011979ee1799225cd156e42675",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8b4297cdf2d3e5cfaf018c3da2c19a40f0ceead88878ea013b1be8774f74c391",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8b4297cdf2d3e5cfaf018c3da2c19a40f0ceead88878ea013b1be8774f74c391",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Trailer editor at timeline screens; close face with one connected hand supporting cheek; relaxed shirt over opaque top; Venus cloud-city backdrop and reference identity retained."
+    ]
+  }
+}

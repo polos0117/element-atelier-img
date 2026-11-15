@@ -1,0 +1,85 @@
+{
+  "atelier": "element",
+  "card": "ta",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ta_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_greenhouse",
+    "ofam": "everyday",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "use": "",
+    "legs": "tiptoe",
+    "gaze": "",
+    "time": "noon",
+    "own": "fantasy",
+    "placeText": "an orchard terrace of her element's kingdom — a heavy-laden fruit tree, baskets of golden fruit and a stream below",
+    "depth": "flat",
+    "expr": "gentle",
+    "preset": "reach_shelf",
+    "prop": "",
+    "outfit": "a fruit picker look fitted to her body — a short wrap top, a hip-slit skirt, a picking basket on a strap and sandals",
+    "scene": "she is reaching for the ripest fruit just beyond her fingertips",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ta_fantasy_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tantalum (Ta) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an orchard terrace of her element's kingdom — a heavy-laden fruit tree, baskets of golden fruit and a stream below\nTime of day: midday — bright even light.\nOutfit: a fruit picker look fitted to her body — a short wrap top, a hip-slit skirt, a picking basket on a strap and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is reaching for the ripest fruit just beyond her fingertips\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tantalum: a dense, hard blue-grey metal named in 1802 for Tantalus, the king of myth punished to stand in water that drew away whenever he bent to drink, beneath fruit that lifted out of reach, because its oxide sat in strong acid without taking up any of it; nearly untouched even by aqua regia, it gave the word tantalize; for decades it was confused with its twin metal, which in 1844 was split from it and named for his daughter Niobe; the body accepts it without harm, so it makes bone implants and surgical clips; tiny tantalum capacitors hide inside phones — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "refDesign": "gpt_free",
+  "record": "records/ta/fantasy-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "과수원 열매 따는 일꾼",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "c7d370020ef6a980f0736ea4d5977f9cae2c3a3c1ca8b8e387a107722a0a778f",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a7b64fd670944916b9a683089c07f1298ee5da3ae8fb23aef7243d1c63b52645",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-ta-aaa53",
+  "imported": "2026-11-15",
+  "acceptance": "User authorized registration and main update; chosen worlds 4,4,1.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a7b64fd670944916b9a683089c07f1298ee5da3ae8fb23aef7243d1c63b52645",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Orchard fruit harvesting occupation; raised reaching hand connects naturally to shoulder; opposite arm relaxed; basket carried by a shoulder strap; full figure with both feet visible."
+    ]
+  }
+}
