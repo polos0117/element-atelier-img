@@ -1,0 +1,91 @@
+{
+  "atelier": "element",
+  "card": "kr",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "kr_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_workshop",
+    "ofam": "everyday",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "use": "",
+    "legs": "tiptoe",
+    "gaze": "",
+    "weather": "autumn",
+    "time": "noon",
+    "own": "mecha",
+    "placeText": "an escape room being built in her element's kingdom — a fake bookshelf door standing ajar, a locked chest and a panel of hidden switches",
+    "spot": "right_third",
+    "depth": "deep",
+    "expr": "curious",
+    "preset": "reach_shelf",
+    "prop": "",
+    "outfit": "an escape room designer look fitted to her body — a cropped open shirt over a bandeau top, high-waisted shorts, a tool belt and sneakers",
+    "scene": "she is an escape room designer reaching up to hide the last switch where no player will think to look",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "kr_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Krypton (Kr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an escape room being built in her element's kingdom — a fake bookshelf door standing ajar, a locked chest and a panel of hidden switches\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: midday — bright even light.\nOutfit: an escape room designer look fitted to her body — a cropped open shirt over a bandeau top, high-waisted shorts, a tool belt and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is an escape room designer reaching up to hide the last switch where no player will think to look\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — krypton: a colourless, odourless noble gas, about one part in a million of the air we breathe, found in 1898 in the last residue of evaporating liquid air and named from Greek kryptos, the hidden one; in a discharge tube it glows a smoky white-violet, and from 1960 to 1983 a single orange-red line of its light defined the length of the metre; it flares in photographic flash lamps and rests sealed between the panes of triple-glazed windows — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/kr/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "방탈출 카페 설계자",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "d7fbe87682ee7748dc55cffa9a04bd72d9f96c14b28c1bb1e165bd1eabf08d65",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG is preserved; repository stores WebP and original SHA-256 only.",
+    "source_basename": "exec-fe196952-b4a5-47c7-b525-42897fcd4ab3.png",
+    "ref_sha256": "80c7d08c460b00ce5a1a590cd430fb4d7d357b1e88be16cacd59c8a63b208f78",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-krypton-f6450c",
+  "imported": "2026-11-16",
+  "acceptance": "user_selection_2_1_1_and_authorized_commit_main",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "d7fbe87682ee7748dc55cffa9a04bd72d9f96c14b28c1bb1e165bd1eabf08d65",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; selected reference face and silver/orange hair remain recognisable.",
+      "One head, two attached arms; no obvious extra/disconnected limbs or hands.",
+      "1024×1536 portrait; painterly anime finish, no watermark.",
+      "Escape-room shelf reach shown; workshop outfit retains element-style trim."
+    ],
+    "cause": "Model variation; retain output without regeneration."
+  }
+}

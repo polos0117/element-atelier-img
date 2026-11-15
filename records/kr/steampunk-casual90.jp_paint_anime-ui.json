@@ -1,0 +1,92 @@
+{
+  "atelier": "element",
+  "card": "kr",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "kr_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "everyday",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "knees_together",
+    "gaze": "",
+    "weather": "summer",
+    "time": "noon",
+    "own": "steampunk",
+    "placeText": "a cipher room of her element's kingdom — a desk of brass cipher wheels, stacks of sealed envelopes and a green-shaded lamp",
+    "ownProp": "a brass cipher wheel",
+    "light": "side",
+    "view": "foreground",
+    "expr": "curious",
+    "preset": "table_lean_use",
+    "prop": "0",
+    "outfit": "a codebreaker look fitted to her body — a waistcoat over a lace bralette, a short pencil skirt, sheer stockings and a loosened necktie",
+    "scene": "she is a codebreaker turning a brass cipher wheel late into the night",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "kr_steampunk_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Krypton (Kr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a cipher room of her element's kingdom — a desk of brass cipher wheels, stacks of sealed envelopes and a green-shaded lamp\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a codebreaker look fitted to her body — a waistcoat over a lace bralette, a short pencil skirt, sheer stockings and a loosened necktie, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a brass cipher wheel in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is a codebreaker turning a brass cipher wheel late into the night\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — krypton: a colourless, odourless noble gas, about one part in a million of the air we breathe, found in 1898 in the last residue of evaporating liquid air and named from Greek kryptos, the hidden one; in a discharge tube it glows a smoky white-violet, and from 1960 to 1983 a single orange-red line of its light defined the length of the metre; it flares in photographic flash lamps and rests sealed between the panes of triple-glazed windows — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/kr/steampunk-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "암호 해독가",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6fca04bdc8b7fd44861c2f81c1a892493ec4b4671f51d599e6a60ed8f40e462a",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG is preserved; repository stores WebP and original SHA-256 only.",
+    "source_basename": "exec-c56c2f17-12fb-419e-87b3-7240f8361854.png",
+    "ref_sha256": "3866ffdafc2f3592213b7d21c6460a62a830a306b8dcba32954fa6f0a8cf8bbf",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "execution": "element-krypton-f6450c",
+  "imported": "2026-11-16",
+  "acceptance": "user_selection_2_1_1_and_authorized_commit_main",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "6fca04bdc8b7fd44861c2f81c1a892493ec4b4671f51d599e6a60ed8f40e462a",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; selected reference face and silver/orange hair remain recognisable.",
+      "One head, two attached arms; no obvious extra/disconnected limbs or hands.",
+      "1024×1536 portrait; painterly anime finish, no watermark.",
+      "Seated rather than clearly leaning over table; cipher cylinder contains small glyphs beyond Kr/36."
+    ],
+    "cause": "Model variation; retain output without regeneration."
+  }
+}

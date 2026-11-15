@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "kr",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "kr_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "car_wash",
+    "ofam": "subculture",
+    "item": "steampunk",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "towel_dry",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "time": "dusk",
+    "hair": "tied",
+    "color": "neutral",
+    "expr": "wistful",
+    "preset": "camera_shot",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "kr_steampunk_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Krypton (Kr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a self-service car wash bay, a small wet car beside her, a foam bucket, a coiled hose and puddles on the concrete\nTime of day: dusk — blue hour, lights coming on.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: steampunk — a brocade underbust corset belt over a blouse, a short bustle skirt and brass goggles — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nLEGS: weight even on both legs.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — krypton: a colourless, odourless noble gas, about one part in a million of the air we breathe, found in 1898 in the last residue of evaporating liquid air and named from Greek kryptos, the hidden one; in a discharge tube it glows a smoky white-violet, and from 1960 to 1983 a single orange-red line of its light defined the length of the metre; it flares in photographic flash lamps and rests sealed between the panes of triple-glazed windows — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/kr/steampunk-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "kr",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "kr": {
+        "era": "now",
+        "place": "car_wash",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "camera_shot",
+        "use": "towel_dry",
+        "posture": "stand",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "steampunk",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "dusk",
+        "hair": "tied"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "00d9fd8c8aa45898390c0c4cd45677bf8be6be2554b7b3c817dc946564c5d939",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG is preserved; repository stores WebP and original SHA-256 only.",
+    "source_basename": "exec-b8ee0055-7395-408b-bb1f-b2b576bd2389.png",
+    "ref_sha256": "3866ffdafc2f3592213b7d21c6460a62a830a306b8dcba32954fa6f0a8cf8bbf"
+  },
+  "execution": "element-krypton-f6450c",
+  "imported": "2026-11-16",
+  "acceptance": "user_selection_2_1_1_and_authorized_commit_main",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "00d9fd8c8aa45898390c0c4cd45677bf8be6be2554b7b3c817dc946564c5d939",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; selected reference face and silver/orange hair remain recognisable.",
+      "One head, two attached arms; no obvious extra/disconnected limbs or hands.",
+      "1024×1536 portrait; painterly anime finish, no watermark.",
+      "Goggles and reference-like steampunk ornament retained; requested towel action visible."
+    ],
+    "cause": "Model variation; retain output without regeneration."
+  }
+}

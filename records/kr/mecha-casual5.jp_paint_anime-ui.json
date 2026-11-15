@@ -1,0 +1,118 @@
+{
+  "atelier": "element",
+  "card": "kr",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "kr_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stair_landing",
+    "ofam": "roleplay",
+    "item": "adult_nurse",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "time": "lamplight",
+    "depth": "flat",
+    "expr": "wistful",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "kr_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Krypton (Kr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stairwell landing with a tall window, a handrail and worn stone steps\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a retro nurse-style party costume — a fitted white button-front dress with short puffed sleeves and a folded cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — krypton: a colourless, odourless noble gas, about one part in a million of the air we breathe, found in 1898 in the last residue of evaporating liquid air and named from Greek kryptos, the hidden one; in a discharge tube it glows a smoky white-violet, and from 1960 to 1983 a single orange-red line of its light defined the length of the metre; it flares in photographic flash lamps and rests sealed between the panes of triple-glazed windows — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/kr/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "kr",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "kr": {
+        "era": "now",
+        "place": "stair_landing",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "adult_nurse",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "lamplight",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6e01e9aa1d60b0a1aa67fbfeced43d9ad9f3d9597fc9f73912e039931ecc9764",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG is preserved; repository stores WebP and original SHA-256 only.",
+    "source_basename": "exec-5b02a67b-c46c-4ee9-a9d7-7f1509843001.png",
+    "ref_sha256": "80c7d08c460b00ce5a1a590cd430fb4d7d357b1e88be16cacd59c8a63b208f78"
+  },
+  "execution": "element-krypton-f6450c",
+  "imported": "2026-11-16",
+  "acceptance": "user_selection_2_1_1_and_authorized_commit_main",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "6e01e9aa1d60b0a1aa67fbfeced43d9ad9f3d9597fc9f73912e039931ecc9764",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman; selected reference face and silver/orange hair remain recognisable.",
+      "One head, two attached arms; no obvious extra/disconnected limbs or hands.",
+      "1024×1536 portrait; painterly anime finish, no watermark.",
+      "One hand visible, other outside frame as planned; nurse cap uses a generic cross symbol."
+    ],
+    "cause": "Model variation; retain output without regeneration."
+  }
+}
