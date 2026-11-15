@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nb_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "night_karaoke",
+    "ofam": "resort",
+    "item": "sarong_set",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "light": "low_warm",
+    "color": "pattern",
+    "situ": "strap",
+    "expr": "wistful",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nb_fantasy_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a private karaoke room with spinning coloured lights\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a knotted sarong skirt with a matching halter crop top and a shell anklet — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/nb/fantasy-casual3.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "nb": {
+        "era": "now",
+        "place": "night_karaoke",
+        "ofam": "resort",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "sarong_set",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "strap",
+        "color": "pattern",
+        "light": "low_warm"
+      }
+    }
+  },
+  "refDesign": "gpt_free",
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2d81a60711f519e47b1fd07208b8c63c494890adbfa62591d78ba9dcc1e127be",
+    "ref_sha256": "99a008631c891e47fcd62510dff314c24416f43a8dcd3d71f03394f30005139b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a private karaoke room with spinning coloured lights\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a knotted sarong skirt with a matching halter crop top and a shell anklet — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "생성된 원본 유지; 임의 재생성 없음",
+    "refDesign": "gpt_free"
+  },
+  "execution": "element-nb-45c635",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2d81a60711f519e47b1fd07208b8c63c494890adbfa62591d78ba9dcc1e127be",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 한 명의 주인공, 참조 얼굴·머리색과 일본 유화 애니 렌더 유지.",
+      "노래방, 팔짱과 어깨끈 상황. 원본 귀걸이와 색 장식 일부 전이."
+    ],
+    "cause": "세부 의상·장식·카메라 해석이 계획과 다름"
+  },
+  "acceptance": "user_approval_2026-11-15 — 3,2,1 선택 및 이미지·기록·도감 main 반영 승인"
+}

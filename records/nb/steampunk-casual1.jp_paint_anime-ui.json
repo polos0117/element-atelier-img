@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nb_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "repair_kiosk",
+    "ofam": "roleplay",
+    "item": "idol_stage",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "use": "phone_selfie",
+    "legs": "",
+    "gaze": "",
+    "time": "golden",
+    "color": "vivid",
+    "expr": "relieved",
+    "preset": "raise_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nb_steampunk_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small repair kiosk with a cluttered workbench, a low stool, tools hanging on the wall and an open shutter onto the street\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a K-pop idol stage outfit — a sparkling cropped corset top, high-waisted hot pants with a sheer side panel and glossy knee-high boots — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/nb/steampunk-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "nb": {
+        "era": "now",
+        "place": "repair_kiosk",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "raise_chest",
+        "use": "phone_selfie",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "",
+        "item": "idol_stage",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "golden"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8bf8986717b547ab9980be534e96ad7925cd427732068d94e8a76484c40a929d",
+    "ref_sha256": "a3020325480f0bbbff9c388f4b5f17c3d74dc683d1897ac9c65fa231d53097fe",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small repair kiosk with a cluttered workbench, a low stool, tools hanging on the wall and an open shutter onto the street\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a K-pop idol stage outfit — a sparkling cropped corset top, high-waisted hot pants with a sheer side panel and glossy knee-high boots — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "생성된 원본 유지; 임의 재생성 없음"
+  },
+  "execution": "element-nb-45c635",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8bf8986717b547ab9980be534e96ad7925cd427732068d94e8a76484c40a929d",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 한 명의 주인공, 참조 얼굴·머리색과 일본 유화 애니 렌더 유지.",
+      "수리 가게에서 휴대폰 셀카, 반대 손 화면 밖. 의상에 원본의 무지갯빛 전이."
+    ],
+    "cause": "세부 의상·장식·카메라 해석이 계획과 다름"
+  },
+  "acceptance": "user_approval_2026-11-15 — 3,2,1 선택 및 이미지·기록·도감 main 반영 승인"
+}

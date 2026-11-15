@@ -1,0 +1,124 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nb_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_retro_home",
+    "ofam": "retro",
+    "item": "flapper",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "time": "noon",
+    "hair": "braid",
+    "light": "top",
+    "view": "foreground",
+    "color": "neutral",
+    "expr": "serious",
+    "preset": "side_chair_read",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nb_steampunk_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro-futurist home of rounded chrome appliances and soft panels\nTime of day: midday — bright even light.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a 1920s flapper fringe dress with a dropped waist and a beaded headband — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a small niobium ring anodized in shining blue, violet and gold in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/nb/steampunk-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "nb": {
+        "era": "fantasy",
+        "place": "fx_retro_home",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "side_chair_read",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "low",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "flapper",
+        "expr": "serious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "noon",
+        "hair": "braid",
+        "light": "top",
+        "view": "foreground"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a9a7dbe46de655f95e13586b15246ab6968929f329aa9ae790da2f08b65c958c",
+    "ref_sha256": "a3020325480f0bbbff9c388f4b5f17c3d74dc683d1897ac9c65fa231d53097fe",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro-futurist home of rounded chrome appliances and soft panels\nTime of day: midday — bright even light.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a 1920s flapper fringe dress with a dropped waist and a beaded headband — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a small niobium ring anodized in shining blue, violet and gold in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "생성된 원본 유지; 임의 재생성 없음"
+  },
+  "execution": "element-nb-45c635",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a9a7dbe46de655f95e13586b15246ab6968929f329aa9ae790da2f08b65c958c",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 한 명의 주인공, 참조 얼굴·머리색과 일본 유화 애니 렌더 유지.",
+      "레트로 퓨처 집에서 양손에 반지. 단발보다 긴 땋은 머리로 변형됨."
+    ],
+    "cause": "세부 의상·장식·카메라 해석이 계획과 다름"
+  },
+  "acceptance": "user_approval_2026-11-15 — 3,2,1 선택 및 이미지·기록·도감 main 반영 승인"
+}

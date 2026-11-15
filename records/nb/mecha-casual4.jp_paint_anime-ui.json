@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nb_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_chapel",
+    "ofam": "retro",
+    "item": "nineties_slip",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "use": "",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "time": "night",
+    "color": "vivid",
+    "denier": "d60",
+    "situ": "undone",
+    "expr": "wink",
+    "preset": "edge_brace",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nb_mecha_jp_paint_anime_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an old stone chapel lit by candles\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a 1990s minimal satin slip dress under a small cropped cardigan — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/nb/mecha-casual4.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "nb": {
+        "era": "fantasy",
+        "place": "fx_chapel",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "edge_brace",
+        "use": "",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "three_quarter",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "edge_brace_both",
+        "left": "edge_brace_both",
+        "legs": "knees_together",
+        "gaze": "camera",
+        "item": "nineties_slip",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "undone",
+        "color": "vivid",
+        "denier": "d60",
+        "time": "night"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "53001530d9f6e5d13560c96253bba7c0c1ec5d198883b4fa0beded39743f7d5c",
+    "ref_sha256": "a52fd76bd00d879821f1fd3ae711d1a91f6dba7557c5c6a5251b6cecb7862a6d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an old stone chapel lit by candles\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a 1990s minimal satin slip dress under a small cropped cardigan — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "생성된 원본 유지; 임의 재생성 없음"
+  },
+  "execution": "element-nb-45c635",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "53001530d9f6e5d13560c96253bba7c0c1ec5d198883b4fa0beded39743f7d5c",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 한 명의 주인공, 참조 얼굴·머리색과 일본 유화 애니 렌더 유지.",
+      "예배당 가장자리에 앉아 양손 짚기. 자연스러운 연결."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-15 — 3,2,1 선택 및 이미지·기록·도감 main 반영 승인"
+}

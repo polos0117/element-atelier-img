@@ -1,0 +1,101 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "heart",
+      "eyes": "almond_wide",
+      "brows": "soft_round",
+      "nose": "small_button",
+      "lips": "small_bow",
+      "eye_color": "niobium_blue",
+      "age": "early_20s",
+      "impression": "melancholic",
+      "skin_tone": "porcelain",
+      "eye_size": "large",
+      "eye_tilt": "down",
+      "mark": "bare",
+      "expr": "wistful"
+    },
+    "silhouette": {
+      "body": "petite",
+      "hair": "side_braid",
+      "hair_color": "niobium_tear",
+      "bangs": "side_swept"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "nb_mecha_jp_paint_anime_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Niobium (나이오븀) itself — the sovereign of the Niobium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a quiet melancholy; porcelain-pale skin; heart-shaped face; large eyes — wide almond eyes, outer eye corners drooping downward; soft rounded brows; small button nose; small bow lips; vivid anodized-blue eyes, bright as if wet with tears; a bare, makeup-free face.\nBody and hair: petite, small-framed build; a single thick braid over one shoulder with side-swept bangs; pale weeping-stone grey hair streaked with vivid anodized blue and violet like rainbow tears.\nExpression: a faint wistful smile, soft eyes.\nHer element, carried in her design: niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Light pale-grey armor with rings of plate hovering apart from her body around the waist and ankles, held in place by a faint frost-white levitation glow, every ring and plate edge anodized in a rainbow of blue, violet and gold, a small tear-shaped blue core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: pale weeping-stone grey, anodized blue, violet and gold rainbow sheen, cold cryogenic white.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a city along a vast ring of cold: a particle-accelerator ring curving away to the horizon, strings of silver accelerating cavities threaded like pearls, frost-breathing halls of superconducting magnets chilled to near absolute zero, rainbow-anodized panels marking every sector.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Nb) and atomic number (41) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+  "date": "2026-11-15",
+  "record": "records/nb/mecha.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "world",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {
+      "nb|mecha": {}
+    },
+    "looks": {
+      "nb|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "nb|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "design": "generator",
+    "free_prompt": null,
+    "png_sha256": "4a93bed5adf46a99df3f6984ecd13b156e617aac0eb555036a9ff756e6187940",
+    "size": [
+      1024,
+      1536
+    ],
+    "selection": 1
+  },
+  "execution": "element-nb-45c635",
+  "qa": {
+    "reviewer": "gpt",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 두 팔·두 다리·양손 연결 자연스러움.",
+      "세계별 의상과 배경 일치."
+    ]
+  },
+  "acceptance": "user selected 3,2,1 on 2026-11-15"
+}

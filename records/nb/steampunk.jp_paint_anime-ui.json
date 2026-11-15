@@ -1,0 +1,101 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "round",
+      "eyes": "round_large",
+      "brows": "soft_round",
+      "nose": "small_button",
+      "lips": "small_bow",
+      "eye_color": "niobium_blue",
+      "age": "early_20s",
+      "impression": "melancholic",
+      "skin_tone": "porcelain",
+      "eye_size": "large",
+      "eye_tilt": "down",
+      "mark": "bare",
+      "expr": "wistful"
+    },
+    "silhouette": {
+      "body": "petite",
+      "hair": "bob",
+      "hair_color": "niobium_tear",
+      "bangs": "curtain"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "nb_steampunk_jp_paint_anime_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Niobium (나이오븀) itself — the sovereign of the Niobium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a quiet melancholy; porcelain-pale skin; round face; large eyes — large round eyes, outer eye corners drooping downward; soft rounded brows; small button nose; small bow lips; vivid anodized-blue eyes, bright as if wet with tears; a bare, makeup-free face.\nBody and hair: petite, small-framed build; a bob with curtain bangs; pale weeping-stone grey hair streaked with vivid anodized blue and violet like rainbow tears.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a faint wistful smile, soft eyes.\nHer element, carried in her design: niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: layered linen with a wide-brimmed hat, a belt of glass specimen jars and vine motifs — a greenhouse botanist's soft shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: pale weeping-stone grey, anodized blue, violet and gold rainbow sheen, cold cryogenic white.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1801, a mineral gallery in a great London museum: tall glass cabinets and long drawers full of specimens, a heavy black stone sent across the ocean from New England a century before, an analyst's small worktable beneath a round skylight.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Nb) and atomic number (41) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+  "date": "2026-11-15",
+  "record": "records/nb/steampunk.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "world",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {
+      "nb|steampunk": {}
+    },
+    "looks": {
+      "nb|steampunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "nb|steampunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "design": "generator",
+    "free_prompt": null,
+    "png_sha256": "2b3c5d8b3bf646f98474f9679b35cabe21747bc6349d1dc675f72b9cdb32f0d1",
+    "size": [
+      1024,
+      1536
+    ],
+    "selection": 2
+  },
+  "execution": "element-nb-45c635",
+  "qa": {
+    "reviewer": "gpt",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 두 팔·두 다리·양손 연결 자연스러움.",
+      "세계별 의상과 배경 일치."
+    ]
+  },
+  "acceptance": "user selected 3,2,1 on 2026-11-15"
+}

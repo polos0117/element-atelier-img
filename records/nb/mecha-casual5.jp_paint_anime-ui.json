@@ -1,0 +1,120 @@
+{
+  "atelier": "element",
+  "card": "nb",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "nb_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_shipyard",
+    "ofam": "traditional",
+    "item": "caftan_evening",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "golden",
+    "light": "side",
+    "depth": "flat",
+    "color": "earth",
+    "expr": "wink",
+    "preset": "vsign_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "nb_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a shipyard slipway beside a half-built steel hull, scaffolding, cranes and coiled cables under an open sky\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a Moroccan evening caftan — a long embroidered robe with a decorated belt — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-15",
+  "record": "records/nb/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "nb",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "nb": {
+        "era": "site",
+        "place": "site_shipyard",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "vsign_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "v_sign",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "caftan_evening",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "time": "golden",
+        "light": "side",
+        "depth": "flat"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "180a6e855c93eb55b3ebf80e68d213d646485f280ad9f40fcc3ea06f7fdb1343",
+    "ref_sha256": "a52fd76bd00d879821f1fd3ae711d1a91f6dba7557c5c6a5251b6cecb7862a6d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt": "Use the attached image as the reference: the same woman — the personification of Niobium (Nb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a shipyard slipway beside a half-built steel hull, scaffolding, cranes and coiled cables under an open sky\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a Moroccan evening caftan — a long embroidered robe with a decorated belt — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — niobium: a soft, grey, ductile metal first found in 1801 in a heavy black stone from New England kept in a London museum and called columbium; long thought the same as tantalum, it was split from it in 1844 and named for Niobe, daughter of Tantalus, who wept for her fourteen lost children until she turned to a stone that still weeps on a mountainside; an electric current grows a thin oxide on it that shines blue, violet, gold or green by its thickness, used for body jewellery; cooled near absolute zero it carries current without resistance in the great superconducting magnets of scanners and particle accelerators — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "note": "생성된 원본 유지; 임의 재생성 없음"
+  },
+  "execution": "element-nb-45c635",
+  "imported": "2026-11-15",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "180a6e855c93eb55b3ebf80e68d213d646485f280ad9f40fcc3ea06f7fdb1343",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 한 명의 주인공, 참조 얼굴·머리색과 일본 유화 애니 렌더 유지.",
+      "조선소에서 브이 클로즈업. 손가락 자연스러움."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-15 — 3,2,1 선택 및 이미지·기록·도감 main 반영 승인"
+}
