@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "rn",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_retro_home",
+  "ofam": "roleplay",
+  "item": "diner_waitress",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "weather": "snow",
+  "time": "noon",
+  "light": "low_warm",
+  "depth": "layered",
+  "color": "pattern",
+  "expr": "wistful",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rn_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Radon (Rn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro-futurist home of rounded chrome appliances and soft panels\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: midday — bright even light.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a retro diner waitress costume — a fitted short-sleeved dress with a short flared skirt, a frilled half apron and a little paper cap — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — radon: a colourless, odourless radioactive noble gas, one of the heaviest of all gases, breathed out by radium as it decays and identified in 1900 as radium emanation; seeping up from uranium in the rock, it drifts low and pools unseen in cellars and basements; half of it is gone in under four days; frozen solid it glows bright yellow, turning orange-red as it grows colder — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/rn/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rn",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "rn": {
+    "era": "fantasy",
+    "place": "fx_retro_home",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "diner_waitress",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "noon",
+    "weather": "snow",
+    "light": "low_warm",
+    "depth": "layered"
+   }
+  }
+ },
+ "execution": "element-radon-4dc504",
+ "imported": "2026-11-16",
+ "acceptance": "user_selection_4,1,2_and_authorized_main_push",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "42f25ca479fe70fe95b62e5e8dc46115eb7e019c886dc92aa6953b8fddcea686",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original retained; no regeneration. PNG not committed.",
+  "ref_sha256": "bb629cb2c95d94d823ae6247eff2d2c8156834847385470bb6e8d3ab4eeff01a"
+ },
+ "qa": {
+  "reviewer": "element-radon-4dc504",
+  "image_sha256": "42f25ca479fe70fe95b62e5e8dc46115eb7e019c886dc92aa6953b8fddcea686",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 일본 애니 페인터리 화풍.",
+   "보이는 팔·다리와 손 연결에 추가되거나 분리된 팔다리는 보이지 않음; 화면 밖 부위의 손가락 수는 확인 불가.",
+   "바닥 책상다리, 무릎 위 손과 바닥 짚은 손 확인."
+  ]
+ }
+}

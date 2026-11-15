@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "rn",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "fleece_joggers",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "lantern_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "noon",
+  "light": "low_warm",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "earth",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rn_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Radon (Rn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nTime of day: midday — bright even light.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a soft fleece pullover with relaxed jogger pants — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a small hand lantern low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — radon: a colourless, odourless radioactive noble gas, one of the heaviest of all gases, breathed out by radium as it decays and identified in 1900 as radium emanation; seeping up from uranium in the rock, it drifts low and pools unseen in cellars and basements; half of it is gone in under four days; frozen solid it glows bright yellow, turning orange-red as it grows colder — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/rn/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rn",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "rn": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "lantern_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "fleece_joggers",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "noon",
+    "light": "low_warm",
+    "spot": "left_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "execution": "element-radon-4dc504",
+ "imported": "2026-11-16",
+ "acceptance": "user_selection_4,1,2_and_authorized_main_push",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5eb31f6912f4b11210b02ff55c276c8758d96643e9b67b3e5ee72d467a238709",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original retained; no regeneration. PNG not committed.",
+  "ref_sha256": "9c8ff10d02fc98aed6440d050598d326feb744604d22c751709a90a587182e42"
+ },
+ "qa": {
+  "reviewer": "element-radon-4dc504",
+  "image_sha256": "5eb31f6912f4b11210b02ff55c276c8758d96643e9b67b3e5ee72d467a238709",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 일본 애니 페인터리 화풍.",
+   "보이는 팔·다리와 손 연결에 추가되거나 분리된 팔다리는 보이지 않음; 화면 밖 부위의 손가락 수는 확인 불가.",
+   "서재와 등불은 일치; 계획의 뒷모습/멀어지는 걷기 대신 정면으로 다가오는 모습."
+  ],
+  "cause": "Scene, composition, prop, wardrobe or pose deviation recorded above; original retained without regeneration."
+ }
+}

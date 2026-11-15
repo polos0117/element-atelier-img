@@ -1,0 +1,95 @@
+{
+ "atelier": "element",
+ "card": "rn",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a retro-futurist home of rounded chrome appliances and soft panels — sitting on the ground",
+   "her own room in a house of her element's kingdom — standing",
+   "a convention photo zone under ring lights — holds a masquerade mask on a stick up to her eyes",
+   "a themed costume event venue with props and a photo wall — holds a small stoppered glass bottle that looks empty but glows faint pale yellow at the bottom in both hands in front of her",
+   "a hillside wind farm — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rn_steampunk_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Radon (Rn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a retro-futurist home of rounded chrome appliances and soft panels — sitting on the ground; her own room in a house of her element's kingdom — standing; a convention photo zone under ring lights — holds a masquerade mask on a stick up to her eyes; a themed costume event venue with props and a photo wall — holds a small stoppered glass bottle that looks empty but glows faint pale yellow at the bottom in both hands in front of her; a hillside wind farm — standing.\nPlace: a small public planetarium after closing, under a slowly rotating painted star dome\nActivity: reclining in a viewing chair and balancing a paper star on her raised palm as the lights dim\nPose: seated back in a tilted chair; right elbow rests on the right armrest, right palm raised forward supporting one folded paper star; left arm follows the left armrest and left hand lies open on it; legs extended comfortably, both feet visible\nFraming: full-body slightly front three-quarter view from eye level with the star dome deep behind\nOutfit: a cobalt wraparound bandeau blouse with an opaque structured front and a single diagonal shoulder loop, high-waisted asymmetrical satin skort with overlapping curved panels and ankle-strap flats, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — radon: a colourless, odourless radioactive noble gas, one of the heaviest of all gases, breathed out by radium as it decays and identified in 1900 as radium emanation; seeping up from uranium in the rock, it drifts low and pools unseen in cellars and basements; half of it is gone in under four days; frozen solid it glows bright yellow, turning orange-red as it grows colder — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-15",
+ "record": "records/rn/steampunk-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rn",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "rn": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a retro-futurist home of rounded chrome appliances and soft panels — sitting on the ground",
+     "her own room in a house of her element's kingdom — standing",
+     "a convention photo zone under ring lights — holds a masquerade mask on a stick up to her eyes",
+     "a themed costume event venue with props and a photo wall — holds a small stoppered glass bottle that looks empty but glows faint pale yellow at the bottom in both hands in front of her",
+     "a hillside wind farm — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "element-radon-4dc504",
+ "imported": "2026-11-16",
+ "acceptance": "user_selection_4,1,2_and_authorized_main_push",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ca7a728dc72c94cd3d720c0840e24ab74ad94bc891ec10290a90c1031b53ebcc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original retained; no regeneration. PNG not committed.",
+  "ref_sha256": "bb629cb2c95d94d823ae6247eff2d2c8156834847385470bb6e8d3ab4eeff01a",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Radon (Rn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a retro-futurist home of rounded chrome appliances and soft panels — sitting on the ground; her own room in a house of her element's kingdom — standing; a convention photo zone under ring lights — holds a masquerade mask on a stick up to her eyes; a themed costume event venue with props and a photo wall — holds a small stoppered glass bottle that looks empty but glows faint pale yellow at the bottom in both hands in front of her; a hillside wind farm — standing.\nPlace: a small public planetarium after closing, under a slowly rotating painted star dome\nActivity: reclining in a viewing chair and balancing a paper star on her raised palm as the lights dim\nPose: seated back in a tilted chair; right elbow rests on the right armrest, right palm raised forward supporting one folded paper star; left arm follows the left armrest and left hand lies open on it; legs extended comfortably, both feet visible\nFraming: full-body slightly front three-quarter view from eye level with the star dome deep behind\nOutfit: a cobalt wraparound bandeau blouse with an opaque structured front and a single diagonal shoulder loop, high-waisted asymmetrical satin skort with overlapping curved panels and ankle-strap flats, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — radon: a colourless, odourless radioactive noble gas, one of the heaviest of all gases, breathed out by radium as it decays and identified in 1900 as radium emanation; seeping up from uranium in the rock, it drifts low and pools unseen in cellars and basements; half of it is gone in under four days; frozen solid it glows bright yellow, turning orange-red as it grows colder — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a retro-futurist home of rounded chrome appliances and soft panels — sitting on the ground; her own room in a house of her element's kingdom — standing; a convention photo zone under ring lights — holds a masquerade mask on a stick up to her eyes; a themed costume event venue with props and a photo wall — holds a small stoppered glass bottle that looks empty but glows faint pale yellow at the bottom in both hands in front of her; a hillside wind farm — standing.\nPlace: a small public planetarium after closing, under a slowly rotating painted star dome\nActivity: reclining in a viewing chair and balancing a paper star on her raised palm as the lights dim\nPose: seated back in a tilted chair; right elbow rests on the right armrest, right palm raised forward supporting one folded paper star; left arm follows the left armrest and left hand lies open on it; legs extended comfortably, both feet visible\nFraming: full-body slightly front three-quarter view from eye level with the star dome deep behind\nOutfit: a cobalt wraparound bandeau blouse with an opaque structured front and a single diagonal shoulder loop, high-waisted asymmetrical satin skort with overlapping curved panels and ankle-strap flats, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "qa": {
+  "reviewer": "element-radon-4dc504",
+  "image_sha256": "ca7a728dc72c94cd3d720c0840e24ab74ad94bc891ec10290a90c1031b53ebcc",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 성인 여성 한 명, 일본 애니 페인터리 화풍.",
+   "보이는 팔·다리와 손 연결에 추가되거나 분리된 팔다리는 보이지 않음; 화면 밖 부위의 손가락 수는 확인 불가.",
+   "천체관 의자, 종이 별과 양손 연결 확인."
+  ]
+ }
+}
