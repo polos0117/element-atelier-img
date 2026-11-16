@@ -1,0 +1,77 @@
+{
+ "atelier": "element",
+ "card": "gd",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "gd_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "drying_terrace",
+  "ofam": "resort",
+  "item": "sundress_backless",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "snow",
+  "time": "morning",
+  "light": "back",
+  "depth": "deep",
+  "color": "mono",
+  "situ": "sheer_light",
+  "expr": "half_smile",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "gd_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gadolinium (Gd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop drying terrace with laundry lines overhead, a low stool, a parapet and the city beyond\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a backless halter sundress with a short flared hem and espadrilles — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small silver gadolinium disc beaded with frost, clinging to a horseshoe magnet at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gadolinium: a silvery-white rare-earth metal named through the black mineral gadolinite for a Finnish chemist, first seen in 1880 and named in 1886; it is magnetic like iron only when cool and lets go just above room temperature, around 20 degrees; it warms as it is pulled into a magnet and chills when released, the heart of magnetic refrigeration; it brightens the body's water in MRI scans and captures neutrons better than any other stable element — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/gd/steampunk-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2069e4bcdd44755540421a40f942235a6f32bb3b1afa3fef603018da6900156c",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ce87083e309606e39c52b0f74281747be67bf6827b593985b4727b3eacc6b697",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "element-gd-59960",
+  "image_sha256": "ce87083e309606e39c52b0f74281747be67bf6827b593985b4727b3eacc6b697",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman; source-world face, eyes and hair colour retained.",
+   "Visible limbs attach naturally; no extra arms, legs or detached hands observed.",
+   "Everyday outfit replaces source armor and regalia."
+  ]
+ },
+ "execution": "element-gd-59960-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "User approved generation, commits and normal main publication; preserve generated output."
+}

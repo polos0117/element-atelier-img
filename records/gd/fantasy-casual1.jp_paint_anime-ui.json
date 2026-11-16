@@ -1,0 +1,73 @@
+{
+ "atelier": "element",
+ "card": "gd",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "gd_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_park",
+  "ofam": "swimwear",
+  "item": "crochet_bikini",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "icecream_taste",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "summer",
+  "color": "jewel",
+  "expr": "relieved",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "gd_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gadolinium (Gd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city park with benches, old trees and a fountain\nWeather / season: high summer — strong sunlight and deep shadows.\nOutfit: a fully lined crochet-knit bikini in a sunny resort colour — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brings an ice cream cone to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gadolinium: a silvery-white rare-earth metal named through the black mineral gadolinite for a Finnish chemist, first seen in 1880 and named in 1886; it is magnetic like iron only when cool and lets go just above room temperature, around 20 degrees; it warms as it is pulled into a magnet and chills when released, the heart of magnetic refrigeration; it brightens the body's water in MRI scans and captures neutrons better than any other stable element — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/gd/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c3b94b8ee4ce8efe50f5b1dd2d9395483061583ad4a672710d66b62afec8b419",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "efa50746e4d044c35884d99dafdd813da61ffe0850a86b1786ab1d9e9537c5cd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "element-gd-59960",
+  "image_sha256": "efa50746e4d044c35884d99dafdd813da61ffe0850a86b1786ab1d9e9537c5cd",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman; source-world face, eyes and hair colour retained.",
+   "Visible limbs attach naturally; no extra arms, legs or detached hands observed.",
+   "Everyday outfit replaces source armor and regalia.",
+   "Framing includes the chest rather than ending at the collarbones."
+  ]
+ },
+ "execution": "element-gd-59960-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "User approved generation, commits and normal main publication; preserve generated output."
+}

@@ -1,0 +1,107 @@
+{
+ "atelier": "element",
+ "card": "gd",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "azure",
+   "age": "late_20s",
+   "impression": "soft",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "blush",
+   "expr": "pensive"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair": "side_braid",
+   "hair_color": "gadolinium_blush",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "gd_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Gadolinium (가돌리늄) itself — the sovereign of the Gadolinium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a soft, gentle warmth; fair skin; heart-shaped face; large eyes — large round eyes, outer eye corners drooping downward; soft rounded brows; small button nose; small bow lips; azure-blue eyes; rosy flushed cheeks.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; a single thick braid over one shoulder with curtain bangs; cool silver hair with a faint rosy warmth at the roots that cools to icy pale blue at the tips.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a quiet, thoughtful look, lips lightly closed.\nHer element, carried in her design: gadolinium: a silvery-white rare-earth metal named through the black mineral gadolinite for a Finnish chemist, first seen in 1880 and named in 1886; it is magnetic like iron only when cool and lets go just above room temperature, around 20 degrees; it warms as it is pulled into a magnet and chills when released, the heart of magnetic refrigeration; it brightens the body's water in MRI scans and captures neutrons better than any other stable element.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a many-pocketed expedition jacket, a wide-brimmed hat, a cross-body satchel and laced boots — a far-travelling explorer's shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: cool silver-white, frost blue, faint warm rose, scan black and bright white.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: the 1880s, the island village of Ytterby near Stockholm, whose single feldspar quarry gave its name to four elements: a quarry face of pale feldspar and black mineral lumps, a field hut where heavy black gadolinite stones are sorted and weighed, a wintry island jetty with a steam crane loading feldspar.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Gd) and atomic number (64) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-16",
+ "record": "records/gd/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "gd",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "gd|steampunk": {}
+  },
+  "looks": {
+   "gd|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "gd|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2069e4bcdd44755540421a40f942235a6f32bb3b1afa3fef603018da6900156c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "project",
+  "selection": 1
+ },
+ "qa": {
+  "reviewer": "element-gd-59960",
+  "image_sha256": "2069e4bcdd44755540421a40f942235a6f32bb3b1afa3fef603018da6900156c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman, full body, hands and feet present.",
+   "Selected by user: 1",
+   "Modern brain scan display occurs in the Victorian scene; preserved user-selected image."
+  ]
+ },
+ "execution": "element-gd-59960-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 1,1,2; commit and main publication already approved."
+}

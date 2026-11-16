@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "gd",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "gd_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "time": "noon",
+  "own": "fantasy",
+  "placeText": "a frozen town square of her element's kingdom — towering ice sculptures, braziers kept well away and fresh snow on the cobbles",
+  "ownProp": "an ice chisel",
+  "light": "side",
+  "spot": "right_third",
+  "depth": "deep",
+  "expr": "gentle",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "an ice carver look fitted to her body — a cropped fur-trimmed jacket open over a knit bandeau, short wool shorts over thick tights and fur boots",
+  "scene": "she is an ice carver shaping a sculpture that keeps its form only in the cold",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "gd_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gadolinium (Gd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a frozen town square of her element's kingdom — towering ice sculptures, braziers kept well away and fresh snow on the cobbles\nTime of day: midday — bright even light.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an ice carver look fitted to her body — a cropped fur-trimmed jacket open over a knit bandeau, short wool shorts over thick tights and fur boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds an ice chisel in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is an ice carver shaping a sculpture that keeps its form only in the cold\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gadolinium: a silvery-white rare-earth metal named through the black mineral gadolinite for a Finnish chemist, first seen in 1880 and named in 1886; it is magnetic like iron only when cool and lets go just above room temperature, around 20 degrees; it warms as it is pulled into a magnet and chills when released, the heart of magnetic refrigeration; it brightens the body's water in MRI scans and captures neutrons better than any other stable element — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/gd/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "얼음 조각가",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c3b94b8ee4ce8efe50f5b1dd2d9395483061583ad4a672710d66b62afec8b419",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4535a43e48c7507d9a05ba4c77953f025def1b605114ba5e7d7d50704209ab28",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-gd-59960",
+  "image_sha256": "4535a43e48c7507d9a05ba4c77953f025def1b605114ba5e7d7d50704209ab28",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman; source-world face, eyes and hair colour retained.",
+   "Visible limbs attach naturally; no extra arms, legs or detached hands observed.",
+   "Everyday outfit replaces source armor and regalia."
+  ]
+ },
+ "execution": "element-gd-59960-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "User approved generation, commits and normal main publication; preserve generated output."
+}

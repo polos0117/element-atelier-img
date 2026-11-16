@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "gd",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "gd_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_platform",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "night",
+  "own": "steampunk",
+  "placeText": "the cold loading dock of an ice house in her element's kingdom — blocks of lake ice packed in straw, an iron ice wagon and a frosted brass scale",
+  "ownProp": "a pair of iron ice tongs",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "curious",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "an ice delivery look fitted to her body — a short wool jacket open over a corset top, short knickerbockers, wool stockings, a leather shoulder pad and a flat cap",
+  "scene": "she delivers ice, hooking the next block for the wagon",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "gd_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Gadolinium (Gd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the cold loading dock of an ice house in her element's kingdom — blocks of lake ice packed in straw, an iron ice wagon and a frosted brass scale\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an ice delivery look fitted to her body — a short wool jacket open over a corset top, short knickerbockers, wool stockings, a leather shoulder pad and a flat cap, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a pair of iron ice tongs at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she delivers ice, hooking the next block for the wagon\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — gadolinium: a silvery-white rare-earth metal named through the black mineral gadolinite for a Finnish chemist, first seen in 1880 and named in 1886; it is magnetic like iron only when cool and lets go just above room temperature, around 20 degrees; it warms as it is pulled into a magnet and chills when released, the heart of magnetic refrigeration; it brightens the body's water in MRI scans and captures neutrons better than any other stable element — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/gd/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "얼음 마차 배달부",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "2069e4bcdd44755540421a40f942235a6f32bb3b1afa3fef603018da6900156c",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5c8363cc04a35f1627a19c19d6805adb813ee16c158c922215c1a6cf34f24d74",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-gd-59960",
+  "image_sha256": "5c8363cc04a35f1627a19c19d6805adb813ee16c158c922215c1a6cf34f24d74",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman; source-world face, eyes and hair colour retained.",
+   "Visible limbs attach naturally; no extra arms, legs or detached hands observed.",
+   "Everyday outfit replaces source armor and regalia."
+  ]
+ },
+ "execution": "element-gd-59960-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "User approved generation, commits and normal main publication; preserve generated output."
+}
