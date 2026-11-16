@@ -1,7 +1,7 @@
 {
   "card": "hf",
   "execution": "element-hafnium-60ae",
-  "status": "images_complete_pending_registration",
+  "status": "complete",
   "style": "jp_paint_anime",
   "world_order": [
     "fantasy",
@@ -23,5 +23,15 @@
     "mecha": 2
   },
   "image_count": 27,
-  "image_commit": "5f07f562fafb390c6cca5e02b6d1f7a9758fdf96"
+  "image_commit": "5f07f562fafb390c6cca5e02b6d1f7a9758fdf96",
+  "complete_sheet_library_file_id": "libfile_8b75b69ae1588191b6269d61de33f3c4",
+  "selected_worlds_sheet_library_file_id": "libfile_32f89a2ab9f48191b60dedd1e188cf24",
+  "registry_commit": "618d3a3",
+  "documentation_commit": "fe36978d2d342c148aed506ee16e16ad27d1da94",
+  "validation": {
+    "casual_plans": "passed for fantasy, steampunk, mecha",
+    "registry": "passed",
+    "shard_addresses": "passed",
+    "patch_log": "pre-existing main date ordering and missing introduction failures; unrelated entries retained"
+  }
 }
