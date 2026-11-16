@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "ce",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ce_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "weather": "fog",
+  "time": "morning",
+  "own": "fantasy",
+  "placeText": "a water mill at the edge of the barley fields of her element's kingdom — a turning wooden wheel, stacked flour sacks and a millstone dusted white",
+  "ownProp": "a wooden flour scoop",
+  "light": "back",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "soft_smile",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a miller look fitted to her body — a flour-dusted laced bodice over an off-shoulder chemise, a short work skirt, a kerchief and wooden-soled boots",
+  "scene": "she is the miller, flour on her hands, checking the fresh grind",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ce_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Cerium (Ce) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a water mill at the edge of the barley fields of her element's kingdom — a turning wooden wheel, stacked flour sacks and a millstone dusted white\nWeather / season: a misty morning — soft fog outside.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a miller look fitted to her body — a flour-dusted laced bodice over an off-shoulder chemise, a short work skirt, a kerchief and wooden-soled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a wooden flour scoop at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the miller, flour on her hands, checking the fresh grind\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "refDesign": "gpt_free",
+ "record": "records/ce/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "물레방앗간 주인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e2ef634c518a534918e4bad9af884c387477c0a0ca5bfcca033b0cc6ae3decb1",
+  "ref_sha256": "3516bd092ee504dd4d3bcbd6035b937de494227d56e967506b05d78361c39a73",
+  "refDesign": "gpt_free",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Cerium (Ce) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a water mill at the edge of the barley fields of her element's kingdom — a turning wooden wheel, stacked flour sacks and a millstone dusted white\nWeather / season: a misty morning — soft fog outside.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a miller look fitted to her body — a flour-dusted laced bodice over an off-shoulder chemise, a short work skirt, a kerchief and wooden-soled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a wooden flour scoop at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the miller, flour on her hands, checking the fresh grind\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ce-27d7605d",
+ "imported": "2026-11-16",
+ "acceptance": "user approved generation and nonforce main update; retain generated images",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "e2ef634c518a534918e4bad9af884c387477c0a0ca5bfcca033b0cc6ae3decb1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; selected world image attached; painterly anime finish.",
+   "Squatting miller with flour scoop; both hands visible, feet and knees naturally joined."
+  ]
+ }
+}
