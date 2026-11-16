@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "sc",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sc_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_shipyard",
+  "ofam": "workwear",
+  "item": "lab_coat_crop",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "time": "night",
+  "hair": "braid",
+  "situ": "wet",
+  "expr": "amused",
+  "preset": "counter_work",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sc_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Scandium (Sc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a shipyard slipway beside a half-built steel hull, scaffolding, cranes and coiled cables under an open sky\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a short white lab coat worn open over a cropped knit top and a pencil mini skirt; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small glass metal-halide lamp capsule glowing a crisp, sun-like white in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — scandium: a light, soft silvery-white metal with a faint yellowish tarnish, predicted in 1871 as eka-boron in an empty space below boron and found in 1879 in Uppsala in Scandinavian euxenite and gadolinite ore, then quietly shown to fit the prediction exactly, and named for Scandinavia; a pinch of it alloyed into aluminium makes racing-bicycle frames and fighter-jet parts far stronger without adding weight; scandium iodide in metal-halide lamps gives the crisp, sun-like white light of night stadiums and film sets; it is scattered thinly through the earth and rarely gathered in one ore — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/sc/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sc",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "sc": {
+    "era": "site",
+    "place": "site_shipyard",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_work",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "lab_coat_crop",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "time": "night",
+    "hair": "braid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "714f8c044858405b407dedb751756b3bed05c0626957b0f41c0d6b50839e9e1e",
+  "ref_sha256": "71272fe68aec27091c69660edad34632bd421b55dc5a33b5831509ed3a73d2ee",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "714f8c044858405b407dedb751756b3bed05c0626957b0f41c0d6b50839e9e1e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Both hands hold opposite ends of the lamp capsule with joined arms.",
+   "Reference motifs carried onto clothes; pose more upright than planned."
+  ]
+ },
+ "execution": "element-scandium-486e08",
+ "imported": "2026-11-16",
+ "acceptance": "User approved publish after QA; preserve generated image without exposure-based regeneration."
+}
