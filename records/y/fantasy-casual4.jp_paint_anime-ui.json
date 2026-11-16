@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "y",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "y_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_sauna",
+  "ofam": "drape",
+  "item": "egyptian_linen",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "hair": "braid",
+  "depth": "flat",
+  "color": "neutral",
+  "situ": "sweat",
+  "expr": "relieved",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "y_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Yttrium (Y) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wooden sauna and cold plunge with a cooling lounge\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: an Egyptian-inspired look — a sheer pleated linen sheath over an opaque inner slip dress, a broad jewelled collar and gold arm bands — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — yttrium: a soft silvery metal, the first rare earth ever separated, drawn in 1794 from a heavy black stone found in a Swedish quarry that gave its name to four elements, yttrium the eldest; decades later its oxide was split again and two younger sisters were found hiding inside it; with aluminium it forms yttrium aluminium garnet, the clear crystal at the heart of powerful lasers that cut steel and of the fine green beams of eye surgery; with cerium it is the yellow phosphor that turns a blue LED warm white, with europium the red glow of screens; in 1987 it joined barium and copper in a ceramic that loses all electrical resistance at the temperature of liquid nitrogen, and it keeps zirconia from cracking — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/y/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "y",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "y": {
+    "era": "now",
+    "place": "spa_sauna",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "egyptian_linen",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "situ": "sweat",
+    "hair": "braid",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3657b8a318efec23e0d989423fcbf92363c239408e2e1913a736ec1c173a524b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; repository contains WebP only.",
+  "ref_sha256": "a237e6c22ae9b5ae970b0c0f23734cf179fdbfb84eb7e30fe486bd398fb960c4"
+ },
+ "execution": "element-yttrium-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3657b8a318efec23e0d989423fcbf92363c239408e2e1913a736ec1c173a524b",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; adult single focal figure; painted anime rendering. Visible limbs are naturally connected; cropped parts cannot be counted.",
+   "Complete standing figure, one foot on step, linen drape and sauna. Reference-style jewellery and crystal motifs remain."
+  ],
+  "cause": "Visual deviations recorded without regenerating the accepted output."
+ },
+ "acceptance": "User authorized QA and normal main integration, 2026-11-16; no exposure-based regeneration."
+}

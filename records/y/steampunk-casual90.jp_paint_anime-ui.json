@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "y",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "y_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_stairs",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "own": "steampunk",
+  "placeText": "the dormitory staircase of a girls' boarding school in her element's kingdom — polished banisters, a bell on the landing and lamps on the wall",
+  "ownProp": "a small brass hand bell",
+  "light": "side",
+  "depth": "flat",
+  "expr": "focused",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a house mistress look fitted to her body — a cropped fitted jacket over a low-cut blouse, a short skirt, a chatelaine of keys and ankle boots",
+  "scene": "she is the house mistress ringing the evening bell to send the girls up to bed",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "y_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Yttrium (Y) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the dormitory staircase of a girls' boarding school in her element's kingdom — polished banisters, a bell on the landing and lamps on the wall\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a house mistress look fitted to her body — a cropped fitted jacket over a low-cut blouse, a short skirt, a chatelaine of keys and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small brass hand bell up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the house mistress ringing the evening bell to send the girls up to bed\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — yttrium: a soft silvery metal, the first rare earth ever separated, drawn in 1794 from a heavy black stone found in a Swedish quarry that gave its name to four elements, yttrium the eldest; decades later its oxide was split again and two younger sisters were found hiding inside it; with aluminium it forms yttrium aluminium garnet, the clear crystal at the heart of powerful lasers that cut steel and of the fine green beams of eye surgery; with cerium it is the yellow phosphor that turns a blue LED warm white, with europium the red glow of screens; in 1987 it joined barium and copper in a ceramic that loses all electrical resistance at the temperature of liquid nitrogen, and it keeps zirconia from cracking — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/y/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "기숙학교 사감 선생",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "994690fc0d45eca146932fd9cd2be3d5786b3f3a96a2f338b4f680c0c82d1b19",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; repository contains WebP only.",
+  "ref_sha256": "0f874ce9d5e41db9d823da2f28fe7f0cfbfb7103a478c6db4b7781685b56157b",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-yttrium-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "994690fc0d45eca146932fd9cd2be3d5786b3f3a96a2f338b4f680c0c82d1b19",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; adult single focal figure; painted anime rendering. Visible limbs are naturally connected; cropped parts cannot be counted.",
+   "Bell held beside face, boarding school stairs, turned head and fitted burgundy uniform. Framing shows waist instead of chest-up only; jewellery motifs recur."
+  ],
+  "cause": "Visual deviations recorded without regenerating the accepted output."
+ },
+ "acceptance": "User authorized QA and normal main integration, 2026-11-16; no exposure-based regeneration."
+}

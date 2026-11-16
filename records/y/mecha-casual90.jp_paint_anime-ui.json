@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "y",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "y_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "snow",
+  "own": "mecha",
+  "placeText": "a dance practice room of her element's kingdom — a wall of mirrors, four water bottles in a row and a speaker on the floor",
+  "ownProp": "a small wireless microphone",
+  "light": "dappled",
+  "expr": "pensive",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a girl-group leader practice look fitted to her body — a cropped tank top, low-rise track shorts, a loose open shirt slipping off one shoulder and sneakers",
+  "scene": "she is the eldest and leader of a four-member girl group, counting the beat for her younger members",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "y_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Yttrium (Y) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dance practice room of her element's kingdom — a wall of mirrors, four water bottles in a row and a speaker on the floor\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a girl-group leader practice look fitted to her body — a cropped tank top, low-rise track shorts, a loose open shirt slipping off one shoulder and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a small wireless microphone up beside her face; it is all she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is the eldest and leader of a four-member girl group, counting the beat for her younger members\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — yttrium: a soft silvery metal, the first rare earth ever separated, drawn in 1794 from a heavy black stone found in a Swedish quarry that gave its name to four elements, yttrium the eldest; decades later its oxide was split again and two younger sisters were found hiding inside it; with aluminium it forms yttrium aluminium garnet, the clear crystal at the heart of powerful lasers that cut steel and of the fine green beams of eye surgery; with cerium it is the yellow phosphor that turns a blue LED warm white, with europium the red glow of screens; in 1987 it joined barium and copper in a ceramic that loses all electrical resistance at the temperature of liquid nitrogen, and it keeps zirconia from cracking — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/y/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "4인조 걸그룹 리더(맏언니)",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8c061d6f5958a122221ce0d8c05ecbaee474a345901008a651de879800d4206b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; repository contains WebP only.",
+  "ref_sha256": "278764dacd48fcb1d17d56cd025780a0672db2dc1b91aae0e24eca490f2b66b3",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-yttrium-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "8c061d6f5958a122221ce0d8c05ecbaee474a345901008a651de879800d4206b",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; adult single focal figure; painted anime rendering. Visible limbs are naturally connected; cropped parts cannot be counted.",
+   "Microphone held at face in practice room, snow through windows, shoulder-open shirt and cropped top. Remaining hand outside frame as planned."
+  ],
+  "cause": "Visual deviations recorded without regenerating the accepted output."
+ },
+ "acceptance": "User authorized QA and normal main integration, 2026-11-16; no exposure-based regeneration."
+}

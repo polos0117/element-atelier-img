@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "y",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "y_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "fantasy",
+  "placeText": "a royal dressing chamber of her element's kingdom — a tall mirror, gowns on stands, a jewel tray and a sunlit arched window",
+  "ownProp": "a small velvet tray of pearl hairpins",
+  "light": "top",
+  "view": "foreground",
+  "expr": "confident",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a lady-in-waiting look fitted to her body — a short-sleeved fitted bodice with a low neckline, a short skirt with a sash, a pearl hair ribbon and slippers",
+  "scene": "she is the head lady-in-waiting laying out the princesses' jewels for the evening, the eldest who keeps her younger charges shining",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "y_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Yttrium (Y) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a royal dressing chamber of her element's kingdom — a tall mirror, gowns on stands, a jewel tray and a sunlit arched window\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a lady-in-waiting look fitted to her body — a short-sleeved fitted bodice with a low neckline, a short skirt with a sash, a pearl hair ribbon and slippers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small velvet tray of pearl hairpins at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the head lady-in-waiting laying out the princesses' jewels for the evening, the eldest who keeps her younger charges shining\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — yttrium: a soft silvery metal, the first rare earth ever separated, drawn in 1794 from a heavy black stone found in a Swedish quarry that gave its name to four elements, yttrium the eldest; decades later its oxide was split again and two younger sisters were found hiding inside it; with aluminium it forms yttrium aluminium garnet, the clear crystal at the heart of powerful lasers that cut steel and of the fine green beams of eye surgery; with cerium it is the yellow phosphor that turns a blue LED warm white, with europium the red glow of screens; in 1987 it joined barium and copper in a ceramic that loses all electrical resistance at the temperature of liquid nitrogen, and it keeps zirconia from cracking — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/y/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "공주들의 시녀장",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ef37d2fa509203eebcc5ea05e548435ea9dd6fa762d1c71739c631c83d14815d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; repository contains WebP only.",
+  "ref_sha256": "a237e6c22ae9b5ae970b0c0f23734cf179fdbfb84eb7e30fe486bd398fb960c4",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-yttrium-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "ef37d2fa509203eebcc5ea05e548435ea9dd6fa762d1c71739c631c83d14815d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; adult single focal figure; painted anime rendering. Visible limbs are naturally connected; cropped parts cannot be counted.",
+   "Crouched lady-in-waiting holding a velvet hairpin tray, opposite hand on knee, both feet visible. Costume retains the world palette and ornate motifs."
+  ],
+  "cause": "Visual deviations recorded without regenerating the accepted output."
+ },
+ "acceptance": "User authorized QA and normal main integration, 2026-11-16; no exposure-based regeneration."
+}
