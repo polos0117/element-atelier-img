@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "backless_lounge",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "meal_eat",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "noon",
+  "hair": "hat",
+  "light": "dappled",
+  "depth": "deep",
+  "color": "earth",
+  "expr": "pensive",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nTime of day: midday — bright even light.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a lounge dress with a deeply open back — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she eats from a bowl of hot food set on the table in front of her — her own right hand lifts a bite with chopsticks or a spoon, her own left hand steadies the bowl.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — americium: a soft silvery synthetic metal first identified in late 1944, born on its own as plutonium-241 decays, and named for the Americas just as europium above it was named for Europe; a speck smaller than a grain of dust sits inside household smoke detectors, gently ionizing the air between two plates, and when smoke drifts in it notices and sounds the alarm; with a half-life of 432 years it is a tiny lamp that stays awake while everyone sleeps — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "am",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "am": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_wall_use",
+    "use": "meal_eat",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "backless_lounge",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "noon",
+    "hair": "hat",
+    "light": "dappled",
+    "depth": "deep"
+   }
+  }
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fbfd024f93cca1a27b8125bea36cb09c41dc94b967bc81dc6b6ed80f14f8e61a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "7a37f269d34bd11fa3acc874b6ba8a82d3843236f434b50a29c17035f1701162"
+ },
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "fbfd024f93cca1a27b8125bea36cb09c41dc94b967bc81dc6b6ed80f14f8e61a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "Bowl and chopsticks visible; sitting at table rather than on floor; added beret and decorative motif."
+  ],
+  "cause": "Generated image departs from one or more scene, crop, text or costume details; preserved unchanged per user instruction."
+ }
+}

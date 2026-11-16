@@ -1,0 +1,148 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_living",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "dusk",
+  "depth": "layered",
+  "cosplay": {
+   "game": "street_fighter_2",
+   "character": "E. Honda",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "half_smile",
+  "preset": "lie_front_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a daring adult cosplay of E. Honda from Street Fighter II — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; camera slightly below, looking up at her; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "am",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "am": {
+    "era": "now",
+    "place": "home_living",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_full",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "item": "gc_lingerie",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "street_fighter_2",
+     "character": "E. Honda",
+     "cut": "lingerie",
+     "round": 1
+    },
+    "time": "dusk",
+    "weather": "snow",
+    "depth": "layered"
+   }
+  }
+ },
+ "generation": {
+  "cosplay": {
+   "game": "street_fighter_2",
+   "character": "E. Honda",
+   "cut": "lingerie"
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ca0b71872fdfe36706672d7a713b7724de1d65f0d6312b33af8cf7aa0c06ee84",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "7a37f269d34bd11fa3acc874b6ba8a82d3843236f434b50a29c17035f1701162",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d51fad11-93cc-4f3d-a723-aa7dbea25590. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated",
+    "prompt_unchanged": true
+   }
+  ]
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "ca0b71872fdfe36706672d7a713b7724de1d65f0d6312b33af8cf7aa0c06ee84",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "E. Honda colours and rope motif; prone pose with both hands at chin and raised feet."
+  ]
+ }
+}

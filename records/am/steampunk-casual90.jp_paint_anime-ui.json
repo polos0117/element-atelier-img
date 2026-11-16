@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "the night desk of a grand hotel of her element's kingdom — a brass bell, a wall of room keys and one dim lamp over the sleeping lobby",
+  "ownProp": "a brass room key on a tassel",
+  "expr": "soft_smile",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "a night manager look fitted to her body — a short tailored jacket open over a lace-trimmed bustier, a short skirt, sheer stockings and a name pin",
+  "scene": "she is the night manager, awake while every guest sleeps",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the night desk of a grand hotel of her element's kingdom — a brass bell, a wall of room keys and one dim lamp over the sleeping lobby\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a night manager look fitted to her body — a short tailored jacket open over a lace-trimmed bustier, a short skirt, sheer stockings and a name pin, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a brass room key on a tassel at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the night manager, awake while every guest sleeps\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — americium: a soft silvery synthetic metal first identified in late 1944, born on its own as plutonium-241 decays, and named for the Americas just as europium above it was named for Europe; a speck smaller than a grain of dust sits inside household smoke detectors, gently ionizing the air between two plates, and when smoke drifts in it notices and sounds the alarm; with a half-life of 432 years it is a tiny lamp that stays awake while everyone sleeps — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "호텔 야간 지배인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c17b0c6451454c8155c54461a07fc9e1742fd2ffee9013cc0581924ae2d6121c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "feb9c66e8a98cb5bb875d5df88877d2d37d99f163907d2d071e9d49b9499da6d",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "c17b0c6451454c8155c54461a07fc9e1742fd2ffee9013cc0581924ae2d6121c",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "Hotel reception counter, key and service bell visible; face side-profile, both hands shown."
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "time": "lamplight",
+  "light": "top",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Nova",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "wink",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Nova from StarCraft — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "am",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "am": {
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "phone_selfie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "starcraft",
+     "character": "Nova",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "lamplight",
+    "light": "top"
+   }
+  }
+ },
+ "generation": {
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Nova",
+   "cut": "leotard"
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "01c044e1d92aabc45c9a06e3ee755e8221d264587d84c1ed834282e2f9ff3b9b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "feb9c66e8a98cb5bb875d5df88877d2d37d99f163907d2d071e9d49b9499da6d"
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "01c044e1d92aabc45c9a06e3ee755e8221d264587d84c1ed834282e2f9ff3b9b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "Nova-inspired dark leotard and armour details, phone selfie and arcade background visible."
+  ]
+ }
+}

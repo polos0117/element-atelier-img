@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "weather": "autumn",
+  "hair": "tied",
+  "light": "back",
+  "color": "pattern",
+  "expr": "sensual",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nWeather / season: autumn — falling leaves and warm low light outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a loosely tied robe — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — americium: a soft silvery synthetic metal first identified in late 1944, born on its own as plutonium-241 decays, and named for the Americas just as europium above it was named for Europe; a speck smaller than a grain of dust sits inside household smoke detectors, gently ionizing the air between two plates, and when smoke drifts in it notices and sounds the alarm; with a half-life of 432 years it is a tiny lamp that stays awake while everyone sleeps — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "am",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "am": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "robe_morning",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "weather": "autumn",
+    "hair": "tied",
+    "light": "back"
+   }
+  }
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "795fd08fac30eef0e0548fa19e8a736408ce16f68294e076ad7ba090b515598a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "7ee30d626834c44e99f857267ec67d7d749434ea9ca3adb4f45a6ddb62c49572"
+ },
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "795fd08fac30eef0e0548fa19e8a736408ce16f68294e076ad7ba090b515598a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "Pond garden, knee-supported chin and planted hand visible; robe and face maintain reference identity."
+  ]
+ }
+}

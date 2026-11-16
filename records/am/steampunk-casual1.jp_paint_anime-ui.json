@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "am",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "am_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_lanternriver",
+  "ofam": "lingerie",
+  "item": "longline_bra",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "weather": "night_snow",
+  "time": "night",
+  "light": "side",
+  "depth": "deep",
+  "color": "vivid",
+  "expr": "candid",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "am_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Americium (Am) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night river covered with floating paper lanterns, stone steps leading down to the water\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a longline bra set with a wide underband and matching high-waisted bottoms — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — americium: a soft silvery synthetic metal first identified in late 1944, born on its own as plutonium-241 decays, and named for the Americas just as europium above it was named for Europe; a speck smaller than a grain of dust sits inside household smoke detectors, gently ionizing the air between two plates, and when smoke drifts in it notices and sounds the alarm; with a half-life of 432 years it is a tiny lamp that stays awake while everyone sleeps — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/am/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "am",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "am": {
+    "era": "fantasy",
+    "place": "fx_lanternriver",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "longline_bra",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "night",
+    "weather": "night_snow",
+    "light": "side",
+    "depth": "deep"
+   }
+  }
+ },
+ "execution": "element-am-327fa6",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_1,1,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3215a8bf666b05402a680d3311a7a953da1ec838cd28dd33474dff3bed1973e4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original kept; no recreation of an existing image",
+  "ref_sha256": "feb9c66e8a98cb5bb875d5df88877d2d37d99f163907d2d071e9d49b9499da6d"
+ },
+ "qa": {
+  "reviewer": "element-am-327fa6",
+  "image_sha256": "3215a8bf666b05402a680d3311a7a953da1ec838cd28dd33474dff3bed1973e4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference face, mauve-rose hair and brown skin retained.",
+   "No extra or detached limbs observed; visible hands reviewed in final contact sheet.",
+   "Lantern river and cross-legged seated pose visible; red outfit has gold trim beyond single-colour request."
+  ],
+  "cause": "Generated image departs from one or more scene, crop, text or costume details; preserved unchanged per user instruction."
+ }
+}
