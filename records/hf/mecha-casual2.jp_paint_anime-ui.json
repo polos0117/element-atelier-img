@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "hf",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hf_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "oversized_tee",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_shelf",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "color": "earth",
+  "denier": "d60",
+  "expr": "amused",
+  "preset": "hang_line",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hf_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hafnium (Hf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nOutfit: an oversized tee and shorts — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hafnium: a heavy, lustrous steel-grey metal so chemically identical to its twin zirconium that it hid unseen inside every zirconium ore for well over a century, until 1923, when X-ray spectra taken in Copenhagen revealed its lines exactly where atomic theory said they must be, and it was named for Hafnia, the old Latin name of that harbour city; where zirconium lets neutrons pass, hafnium swallows them, so it makes the control rods that hold a reactor in check; it is nearly twice as dense as its twin; its oxide, a few atoms thick, guards the switches inside chips, and its carbide survives some of the fiercest heat known — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/hf/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hf",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "hf": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hang_line",
+    "use": "box_shelf",
+    "kind": "both",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "oversized_tee",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "denier": "d60"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d0c9dc0b9ea8e5b19d51d61c11d42c3d9667855d5bfb4ae144ccdbb913063426",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved in ChatGPT Library; only WebP committed.",
+  "ref_sha256": "d5e71c556cfd1b15ed84cad6080d3d7799d50959f2ab39eb96438834bb4ba61b"
+ },
+ "execution": "element-hafnium-60ae",
+ "imported": "2026-11-16",
+ "acceptance": "User approved selected worlds 2,3,2 and commits/normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "gpt element-hafnium-60ae",
+  "image_sha256": "d0c9dc0b9ea8e5b19d51d61c11d42c3d9667855d5bfb4ae144ccdbb913063426",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Two connected arms raise a box to a kitchen shelf; face turned toward viewer; shirt and shorts read more fitted than the planned oversized shirt."
+  ],
+  "cause": "Generated clothing fit differs from outfit description."
+ }
+}

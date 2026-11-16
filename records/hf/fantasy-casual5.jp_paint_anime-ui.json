@@ -1,0 +1,115 @@
+{
+ "atelier": "element",
+ "card": "hf",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hf_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_karaoke",
+  "ofam": "resort",
+  "item": "sarong_set",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "hair": "tied",
+  "light": "low_warm",
+  "color": "jewel",
+  "expr": "nostalgic",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hf_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hafnium (Hf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a private karaoke room with spinning coloured lights\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a knotted sarong skirt with a matching halter crop top and a shell anklet — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a cup at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hafnium: a heavy, lustrous steel-grey metal so chemically identical to its twin zirconium that it hid unseen inside every zirconium ore for well over a century, until 1923, when X-ray spectra taken in Copenhagen revealed its lines exactly where atomic theory said they must be, and it was named for Hafnia, the old Latin name of that harbour city; where zirconium lets neutrons pass, hafnium swallows them, so it makes the control rods that hold a reactor in check; it is nearly twice as dense as its twin; its oxide, a few atoms thick, guards the switches inside chips, and its carbide survives some of the fiercest heat known — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/hf/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hf",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "hf": {
+    "era": "now",
+    "place": "night_karaoke",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "cup_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "sarong_set",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "hair": "tied",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b9c045d2f37c37c0b8387d963e4df60f250f492464793b6a09e95aba00e7a669",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved in ChatGPT Library; only WebP committed.",
+  "ref_sha256": "6264bad6ecff76186b428eb185f1e9eab1b7467f953f71cf811f8b3053f7dc08"
+ },
+ "execution": "element-hafnium-60ae",
+ "imported": "2026-11-16",
+ "acceptance": "User approved selected worlds 2,3,2 and commits/normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "gpt element-hafnium-60ae",
+  "image_sha256": "b9c045d2f37c37c0b8387d963e4df60f250f492464793b6a09e95aba00e7a669",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Seated karaoke break in purple sarong outfit; cup in one hand and other hand on thigh; connected legs and sandals."
+  ]
+ }
+}

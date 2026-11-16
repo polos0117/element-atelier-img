@@ -1,0 +1,80 @@
+{
+ "atelier": "element",
+ "card": "hf",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hf_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "spring",
+  "own": "steampunk",
+  "placeText": "a fairground square of her element's kingdom — a steam-driven carousel of painted horses, a brass brake lever and strings of bulbs",
+  "ownProp": "a brass signal whistle on a chain",
+  "expr": "proud",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a carousel operator look fitted to her body — a cropped striped waistcoat over a low-cut blouse, short breeches, a little bowler hat and ankle boots",
+  "scene": "she is the carousel operator blowing her whistle as she brings the horses to a gentle stop",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hf_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hafnium (Hf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fairground square of her element's kingdom — a steam-driven carousel of painted horses, a brass brake lever and strings of bulbs\nWeather / season: spring — blossom petals drifting outside.\nOutfit: a carousel operator look fitted to her body — a cropped striped waistcoat over a low-cut blouse, short breeches, a little bowler hat and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a brass signal whistle on a chain up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the carousel operator blowing her whistle as she brings the horses to a gentle stop\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hafnium: a heavy, lustrous steel-grey metal so chemically identical to its twin zirconium that it hid unseen inside every zirconium ore for well over a century, until 1923, when X-ray spectra taken in Copenhagen revealed its lines exactly where atomic theory said they must be, and it was named for Hafnia, the old Latin name of that harbour city; where zirconium lets neutrons pass, hafnium swallows them, so it makes the control rods that hold a reactor in check; it is nearly twice as dense as its twin; its oxide, a few atoms thick, guards the switches inside chips, and its carbide survives some of the fiercest heat known — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "refDesign": "gpt_free",
+ "record": "records/hf/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "회전목마 운전수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d4aeb5228f399d526e51135ae460ac6e6c3e4312a87b132348896e7536348f1a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved in ChatGPT Library; only WebP committed.",
+  "ref_sha256": "99a70fd64bbfcc3d8ed21dc86b30e346020b7d54e97504c0208dbf6aad43994b"
+ },
+ "execution": "element-hafnium-60ae",
+ "imported": "2026-11-16",
+ "acceptance": "User approved selected worlds 2,3,2 and commits/normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "gpt element-hafnium-60ae",
+  "image_sha256": "d4aeb5228f399d526e51135ae460ac6e6c3e4312a87b132348896e7536348f1a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Carousel operator holds whistle at lips; three-quarter face and cropped second arm, no extra limb."
+  ]
+ }
+}
