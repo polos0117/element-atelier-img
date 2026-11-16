@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "noon",
+  "own": "steampunk",
+  "placeText": "a tea tasting room of her element's kingdom — a long white counter of tasting bowls and lidded cups, tins of tea leaves and a tall north window",
+  "ownProp": "a white tasting cup and a silver spoon",
+  "depth": "deep",
+  "expr": "gentle",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "a tea taster look fitted to her body — a short tailored waistcoat over a lace camisole, a short skirt, sleeve garters on bare arms and a white apron",
+  "scene": "she is a tea taster judging each leaf and liquor in turn",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a tea tasting room of her element's kingdom — a long white counter of tasting bowls and lidded cups, tins of tea leaves and a tall north window\nTime of day: midday — bright even light.\nOutfit: a tea taster look fitted to her body — a short tailored waistcoat over a lace camisole, a short skirt, sleeve garters on bare arms and a white apron, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a white tasting cup and a silver spoon in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a tea taster judging each leaf and liquor in turn\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "홍차 감별사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "45e7aa3fa2a5df58cdfa8251e210e9c24758f918fd0c82f2cde6f034b2509310",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "807e1081589ee4e59cc079d46cfa86a8c17c2f25cdbd184f1e9f678ae9d7fec5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "807e1081589ee4e59cc079d46cfa86a8c17c2f25cdbd184f1e9f678ae9d7fec5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged.",
+   "She sits beside the tea counter rather than leaning forward over it as specified."
+  ],
+  "cause": "Generated variation from the listed prompt constraints; original retained under the user instruction."
+ }
+}

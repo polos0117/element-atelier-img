@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_mine",
+  "ofam": "roleplay",
+  "item": "expo_model",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cloth_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "light": "side",
+  "color": "pattern",
+  "expr": "gentle",
+  "preset": "",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mine gallery of rough rock walls, timber props, an ore cart on its track and a line of hanging lamps\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a game-show booth model outfit — a sleek bodycon mini dress with glowing trim and a fitted cropped jacket, thigh-high boots — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a folded cleaning cloth at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "cm": {
+    "era": "site",
+    "place": "site_mine",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "",
+    "use": "cloth_hold",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "expo_model",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "4b0c75f67069decc026e1445226bfd39fd0ad1e6d8681ca4e3c597e3d42d0641",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6619c377f145744be8c1c1dfcf26914307f4a77d869e8673fce2d9f195978145",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed"
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "6619c377f145744be8c1c1dfcf26914307f4a77d869e8673fce2d9f195978145",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged.",
+   "The figure fills more of the frame than the specified environmental composition."
+  ],
+  "cause": "Generated variation from the listed prompt constraints; original retained under the user instruction."
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "mic_sing",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Reinhardt",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "curious",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nOutfit: a daring adult cosplay of Reinhardt from Overwatch — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a microphone close to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "cm": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "mic_sing",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_bikini",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "overwatch",
+     "character": "Reinhardt",
+     "cut": "bikini",
+     "round": 1
+    }
+   }
+  }
+ },
+ "generation": {
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Reinhardt",
+   "cut": "bikini"
+  },
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "83fbadcfe5288f5dae749abada05d65a9e619c5307b205816181920c41db6f3e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "67e2efede65dc5066702ac78cd0af47af825b7c1a9e91ef0b39c1f5b499fcaeb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "c98028f3-c0f2-47bb-97fb-43bebfcb8cd3"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success_same_prompt"
+   }
+  ]
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "67e2efede65dc5066702ac78cd0af47af825b7c1a9e91ef0b39c1f5b499fcaeb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged."
+  ]
+ }
+}

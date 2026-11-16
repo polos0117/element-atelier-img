@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "repair_kiosk",
+  "ofam": "drape",
+  "item": "greek_chiton",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "rain",
+  "time": "lamplight",
+  "light": "low_warm",
+  "depth": "flat",
+  "view": "glass",
+  "color": "pastel",
+  "expr": "candid",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small repair kiosk with a cluttered workbench, a low stool, tools hanging on the wall and an open shutter onto the street\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a Greek chiton — a long draped dress pinned at both shoulders with gold brooches, a high side slit, a gold cord crossed under the bust and gold arm cuffs — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/mecha-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "cm": {
+    "era": "now",
+    "place": "repair_kiosk",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "greek_chiton",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "time": "lamplight",
+    "weather": "rain",
+    "light": "low_warm",
+    "depth": "flat",
+    "view": "glass"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "4b0c75f67069decc026e1445226bfd39fd0ad1e6d8681ca4e3c597e3d42d0641",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9afcb92e9a578e063ea8d0f46e5247ea888e52059e6ce650f137ed098e5aefda",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed"
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "9afcb92e9a578e063ea8d0f46e5247ea888e52059e6ce650f137ed098e5aefda",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged."
+  ]
+ }
+}

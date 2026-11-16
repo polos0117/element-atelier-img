@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "compass_hold",
+  "kind": "hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "morning",
+  "spot": "right_third",
+  "color": "vivid",
+  "expr": "amused",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: early morning — low clean light, long soft shadows.\nOutfit: a one-shoulder lounge top and matching soft pants — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a brass compass flat in her palm at chest height; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "cm": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "compass_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "one_shoulder_lounge",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "morning",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "83fbadcfe5288f5dae749abada05d65a9e619c5307b205816181920c41db6f3e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "46cbf3a6a1febfb859e5639efb601ddb471d09206bab42863807412a0d87bcbf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed"
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "46cbf3a6a1febfb859e5639efb601ddb471d09206bab42863807412a0d87bcbf",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged."
+  ]
+ }
+}

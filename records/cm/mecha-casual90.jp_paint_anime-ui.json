@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "a fossil dig of her element's kingdom — a gridded trench in red rock, a half-uncovered skeleton and a canopy tent of field tools",
+  "ownProp": "a soft brush and a small pick",
+  "light": "dappled",
+  "depth": "deep",
+  "expr": "soft_smile",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a field researcher look fitted to her body — a cropped utility vest over a sports-bra top, short cargo shorts, knee pads, hiking boots and a sun visor",
+  "scene": "she is a paleontologist reading the rock layers as she uncovers a fossil",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fossil dig of her element's kingdom — a gridded trench in red rock, a half-uncovered skeleton and a canopy tent of field tools\nTime of day: midday — bright even light.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a field researcher look fitted to her body — a cropped utility vest over a sports-bra top, short cargo shorts, knee pads, hiking boots and a sun visor, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a soft brush and a small pick at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is a paleontologist reading the rock layers as she uncovers a fossil\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "화석 발굴 연구원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "4b0c75f67069decc026e1445226bfd39fd0ad1e6d8681ca4e3c597e3d42d0641",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bcd05b037ae6e3be16adf59418f1d3ea8e6198e83b6b7fd3cc632a4714345734",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "bcd05b037ae6e3be16adf59418f1d3ea8e6198e83b6b7fd3cc632a4714345734",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged."
+  ]
+ }
+}

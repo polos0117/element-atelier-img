@@ -1,0 +1,131 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "depth": "flat",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Abathur",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "half_smile",
+  "preset": "ankles_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nOutfit: a daring adult cosplay of Abathur from StarCraft — the costume's recognisable colours and parts, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "cm": {
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "ankles_sit",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lap",
+    "left": "natural",
+    "legs": "ankles_crossed",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "starcraft",
+     "character": "Abathur",
+     "cut": "idol",
+     "round": 1
+    },
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Abathur",
+   "cut": "idol"
+  },
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "4b0c75f67069decc026e1445226bfd39fd0ad1e6d8681ca4e3c597e3d42d0641",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "799d394cc8d4a425e4dc3dabfd6d40eaaf17290b1b16557437814ff299c2b9a5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed"
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "799d394cc8d4a425e4dc3dabfd6d40eaaf17290b1b16557437814ff299c2b9a5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged."
+  ]
+ }
+}

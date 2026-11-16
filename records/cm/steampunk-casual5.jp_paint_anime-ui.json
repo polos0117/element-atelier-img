@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "cm",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cm_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "subway_car",
+  "ofam": "subculture",
+  "item": "punk_jacket",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "book_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "morning",
+  "light": "back",
+  "denier": "d40",
+  "situ": "strap",
+  "expr": "wistful",
+  "preset": "pocket_look",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cm_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Curium (Cm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the inside of a quiet subway car, bench seats along the windows, overhead straps and a grab pole\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: punk — a studded leather jacket over a ripped plain tee, a tartan mini skirt and combat boots; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is tucked into a pocket.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — curium: a hard, dense silvery synthetic metal first made in 1944 by striking plutonium with alpha particles, and named, as gadolinium above it honours a chemist, for the husband-and-wife pioneers of radioactivity; its existence slipped out on a children's radio quiz show before the official announcement; today its alpha rays, fired from small spectrometers on the arms of Mars rovers and a comet lander, read what distant rocks are made of — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cm/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cm",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "cm": {
+    "era": "now",
+    "place": "subway_car",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "pocket_look",
+    "use": "book_hold",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "pocket",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "punk_jacket",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d40",
+    "situ": "strap",
+    "time": "morning",
+    "light": "back"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "45e7aa3fa2a5df58cdfa8251e210e9c24758f918fd0c82f2cde6f034b2509310",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7110aa94c0200e382940d4e733ccd3f0ae92a61f41a15c136cd9ebd29343abdc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Returned original preserved without regeneration; original PNG not committed"
+ },
+ "execution": "element-curium-a107274",
+ "imported": "2026-11-16",
+ "acceptance": "user_preapproved_main_update; preserve_all_returned_images",
+ "qa": {
+  "reviewer": "element-curium-a107274",
+  "image_sha256": "7110aa94c0200e382940d4e733ccd3f0ae92a61f41a15c136cd9ebd29343abdc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 portrait; one adult woman in focus.",
+   "Face, champagne-blonde to rust-red hair and complexion remain identifiable against the selected reference.",
+   "No extra or detached arm or leg observed; visible hands connect naturally, fingers partly occluded where gripping props.",
+   "Everyday outfit replaces the world armour; source retained unchanged.",
+   "An alpha glyph appears on the necklace despite the no-text constraint."
+  ],
+  "cause": "Generated variation from the listed prompt constraints; original retained under the user instruction."
+ }
+}
