@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "rh",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rh_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "lamplight",
+  "own": "mecha",
+  "placeText": "a rosé wine bar of her element's kingdom — softly pink-lit shelves of bottles, a marble counter and a window on the evening city",
+  "ownProp": "a bottle of rosé wine and a glass",
+  "light": "low_warm",
+  "expr": "candid",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a wine bar owner look fitted to her body — a satin camisole, a short slit skirt, a fine chain necklace and heels",
+  "scene": "she is the bar owner pouring a glass of pale pink rosé for a regular",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rh_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rhodium (Rh) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rosé wine bar of her element's kingdom — softly pink-lit shelves of bottles, a marble counter and a window on the evening city\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a wine bar owner look fitted to her body — a satin camisole, a short slit skirt, a fine chain necklace and heels, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a bottle of rosé wine and a glass in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the bar owner pouring a glass of pale pink rosé for a regular\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rhodium: a hard, brilliant silver-white metal that never tarnishes, found in 1804 in the residue of platinum ore after palladium had been drawn out, and named from the Greek for rose because its salts are rose-red; plated over white gold, mirrors and searchlight reflectors it gives the whitest, most lasting shine; one of the rarest precious metals, it has at times cost more than ten times as much as gold, the most expensive metal of all; most of it works unseen inside car catalytic converters, turning the nitrogen oxides of exhaust back into clean nitrogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "refDesign": "gpt_free",
+ "record": "records/rh/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "로제 와인 바 사장",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "825e3cfc6e91cab1419faad79cccd451e49bd57b0a1e4d94b74c8486c554a2ee",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP committed.",
+  "ref_sha256": "04611f1de04af226354726527fa43c86c7a7ab59eeb3b82934c932296af0bc86",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rhodium-ec5a833",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 4,3,4 and approved commits and normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "GPT element-rhodium-ec5a833",
+  "image_sha256": "825e3cfc6e91cab1419faad79cccd451e49bd57b0a1e4d94b74c8486c554a2ee",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one principal adult woman; painterly anime rendering.",
+   "Reference face, eye colour and skin tone recognizable; reference used for generation.",
+   "Visible arms and hands attach naturally; no obvious extra or detached limb.",
+   "The planned close crop excludes some limbs; unseen hands, feet and finger counts are not asserted."
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "rh",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rh_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "dusk",
+  "own": "fantasy",
+  "placeText": "the royal rose garden of her element's kingdom — arches of climbing roses, a stone bench and a potting table",
+  "ownProp": "a fresh rose cutting bound with raffia",
+  "expr": "half_smile",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a royal gardener look fitted to her body — a short laced bodice over a bandeau, a short skirt under a canvas apron, gauntlet gloves and sandals",
+  "scene": "she is the rose grafter binding a fresh cutting onto an old rose stem",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rh_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rhodium (Rh) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the royal rose garden of her element's kingdom — arches of climbing roses, a stone bench and a potting table\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a royal gardener look fitted to her body — a short laced bodice over a bandeau, a short skirt under a canvas apron, gauntlet gloves and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a fresh rose cutting bound with raffia at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the rose grafter binding a fresh cutting onto an old rose stem\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rhodium: a hard, brilliant silver-white metal that never tarnishes, found in 1804 in the residue of platinum ore after palladium had been drawn out, and named from the Greek for rose because its salts are rose-red; plated over white gold, mirrors and searchlight reflectors it gives the whitest, most lasting shine; one of the rarest precious metals, it has at times cost more than ten times as much as gold, the most expensive metal of all; most of it works unseen inside car catalytic converters, turning the nitrogen oxides of exhaust back into clean nitrogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "refDesign": "gpt_free",
+ "record": "records/rh/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "장미 접붙이기 정원사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1dc99899940777a9214cdc77a77272cd0cf0f5dd6cc4faef8e2662be247db1b0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP committed.",
+  "ref_sha256": "3147160760ee57a8f12668e6ba04c062b5510e841cfaba71285296b921369df2",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rhodium-ec5a833",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 4,3,4 and approved commits and normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "GPT element-rhodium-ec5a833",
+  "image_sha256": "1dc99899940777a9214cdc77a77272cd0cf0f5dd6cc4faef8e2662be247db1b0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one principal adult woman; painterly anime rendering.",
+   "Reference face, eye colour and skin tone recognizable; reference used for generation.",
+   "Visible arms and hands attach naturally; no obvious extra or detached limb.",
+   "The requested plain canvas apron and gardener clothing carry ornamental rose-metal elements from the reference."
+  ],
+  "cause": "Output differs from recorded framing, hair or clothing constraints; preserved without regeneration."
+ }
+}

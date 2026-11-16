@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "rh",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rh_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_darkroom",
+  "ofam": "dongtan",
+  "item": "dongtan_offshoulder",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pastel",
+  "shade": "butter",
+  "expr": "sensual",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rh_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rhodium (Rh) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in soft pastel butter yellow; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rhodium: a hard, brilliant silver-white metal that never tarnishes, found in 1804 in the residue of platinum ore after palladium had been drawn out, and named from the Greek for rose because its salts are rose-red; plated over white gold, mirrors and searchlight reflectors it gives the whitest, most lasting shine; one of the rarest precious metals, it has at times cost more than ten times as much as gold, the most expensive metal of all; most of it works unseen inside car catalytic converters, turning the nitrogen oxides of exhaust back into clean nitrogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/rh/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rh",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "rh": {
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dongtan_offshoulder",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "shade": "butter"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "60c91d04e0d3caeed9a1986d0a45ac88a43d0908822520f105de2a9ef53983f7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved; only WebP committed.",
+  "ref_sha256": "3147160760ee57a8f12668e6ba04c062b5510e841cfaba71285296b921369df2"
+ },
+ "execution": "element-rhodium-ec5a833",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 4,3,4 and approved commits and normal main publication; do not regenerate completed images.",
+ "qa": {
+  "reviewer": "GPT element-rhodium-ec5a833",
+  "image_sha256": "60c91d04e0d3caeed9a1986d0a45ac88a43d0908822520f105de2a9ef53983f7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one principal adult woman; painterly anime rendering.",
+   "Reference face, eye colour and skin tone recognizable; reference used for generation.",
+   "Visible arms and hands attach naturally; no obvious extra or detached limb.",
+   "Reference-like metallic rose ornament remains on the dress.",
+   "The planned close crop excludes some limbs; unseen hands, feet and finger counts are not asserted."
+  ],
+  "cause": "Output differs from recorded framing, hair or clothing constraints; preserved without regeneration."
+ }
+}
