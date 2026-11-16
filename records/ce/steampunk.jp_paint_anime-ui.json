@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "ce",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "square_soft",
+   "eyes": "deep_set",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "wide_smile",
+   "eye_color": "cerium_flint",
+   "age": "mid_20s",
+   "impression": "boyish",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "freckles",
+   "expr": "amused"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "wolf_cut",
+   "hair_color": "cerium_wheat",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "ce_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; light warm-beige skin with a golden undertone; softly squared face with a rounded jaw; medium-sized eyes — deep-set eyes, outer eye corners slightly lifted; thick straight brows; upturned nose; a wide mouth with softly upturned corners; flint-grey eyes flecked with bright spark-gold; a dusting of freckles across nose and cheeks.\nBody and hair: athletic build; a shaggy layered wolf cut with side-swept bangs; ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a small closed-lip smile that reaches the eyes.\nHer element, carried in her design: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1903, an alpine works in Carinthia where a new iron-cerium alloy is cast into slim flint rods: a casting floor of glowing rod moulds, display trays of brass pocket lighters and gas lighters, a test bench where each flint is struck with a steel file and showers bright yellow sparks.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-16",
+ "record": "records/ce/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ce",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "ce|steampunk": {}
+  },
+  "looks": {
+   "ce|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "ce|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: mid-twenties — a clear adult face; no facial lines.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear. Palette: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nWorld (fixed): around 1903, an alpine works in Carinthia where a new iron-cerium alloy is cast into slim flint rods: a casting floor of glowing rod moulds, display trays of brass pocket lighters and gas lighters, a test bench where each flint is struck with a steel file and showers bright yellow sparks. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a heavy leather work apron with rolled sleeves, a tool harness and one big gauntlet glove — a hands-on engineer's shape; 2) a cropped flight jacket, goggles on her head, crossing harness straps and a long scarf streaming in the wind — an airborne shape; 3) a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; 4) a many-pocketed expedition jacket, a wide-brimmed hat, a cross-body satchel and laced boots — a far-travelling explorer's shape; 5) a short naval frock coat with gold braid, a captain's cap and a sash catching the wind — a seafarer's shape; 6) a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape; 7) layered linen with a wide-brimmed hat, a belt of glass specimen jars and vine motifs — a greenhouse botanist's soft shape. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nHair colour (fixed — ours): ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint. Keep exactly this hair colour; only the hairstyle is yours.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nOne figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nFINAL DESIGN FOR THIS IMAGE:\nChoose silhouette 3: long leather coat, bandolier of glass vials, brass goggles at neck, long gloves. Construct the flint-grey coat's overlapping lapels as articulated rectangular ferrocerium striker strips, wheat-gold inner hinges catching yellow-white sparks; cream silk lining. Her face is a soft oval, luminous steel-blue almond eyes, warm ivory skin, restrained rose lip tint and a knowingly gentle smile. Wheat-gold hair with white glints in a thick side braid with loose cheek-length strands. Coat opens over a deeply cut opaque cream blouse and tailored short bottoms, bare thighs above tall laced boots, all intimate parts covered. Her empty gloved hands are fully visible beside her hips; five fingers each. A sunlit glazed inspection gallery at the 1903 Carinthian works, small brass lighters behind glass, flint rod casting floor and alpine mountains outside. Full body, face to viewer, no other people.",
+  "png_sha256": "14f7f247df365a937ff7e905eda40b630c40917e1967a7395a5d85b51240415b",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 3
+ },
+ "execution": "element-ce-27d7605d",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 4,3,4; authorized commit and nonforce main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Full body and both hands visible.",
+   "Selected original preserved without regeneration."
+  ]
+ }
+}

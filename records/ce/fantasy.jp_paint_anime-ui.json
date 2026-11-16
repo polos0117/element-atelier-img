@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "ce",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "almond_wide",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "wide_smile",
+   "eye_color": "cerium_flint",
+   "age": "mid_20s",
+   "impression": "boyish",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "freckles",
+   "expr": "amused"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "braids",
+   "hair_color": "cerium_wheat",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "ce_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; light warm-beige skin with a golden undertone; round face; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; thick straight brows; upturned nose; a wide mouth with softly upturned corners; flint-grey eyes flecked with bright spark-gold; a dusting of freckles across nose and cheeks.\nBody and hair: athletic build; long braids with choppy uneven bangs; ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint.\nExpression: a small closed-lip smile that reaches the eyes.\nHer element, carried in her design: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a granary kingdom of the harvest goddess: a round stone granary temple rising from endless fields of ripening golden barley, stone threshing floors scattered with straw, and an autumn festival where grey flint rods are struck to shower sparks that light the great harvest bonfires.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-16",
+ "record": "records/ce/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ce",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "ce|fantasy": {}
+  },
+  "looks": {
+   "ce|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "ce|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: mid-twenties — a clear adult face; no facial lines.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear. Palette: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nWorld (fixed): a granary kingdom of the harvest goddess: a round stone granary temple rising from endless fields of ripening golden barley, stone threshing floors scattered with straw, and an autumn festival where grey flint rods are struck to shower sparks that light the great harvest bonfires. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 4) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 5) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 6) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nHair colour (fixed — ours): ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint. Keep exactly this hair colour; only the hairstyle is yours.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nOne figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nFINAL DESIGN FOR THIS IMAGE:\nChoose silhouette 6: floor-length priestly vestment with gold-trimmed stoles and a tall head ornament. Construct a divided ceremonial mantle like two nested halves of a round granary, rigid flint-grey crescent ribs framing pale-ceria-cream cloth, with bright yellow-white spark-shaped articulated hems. Do not print a grain motif. Her face is softly heart-shaped, luminous moss-green almond eyes, porcelain-ivory skin, delicate warm makeup, serene closed-lip smile. Wheat-gold hair with tiny white sparks in a short chin-length wavy bob, ears visible. Tall slender wheat-gold headpiece above hairline. Open shoulders, a plunging neckline, a long frontal split revealing one thigh, opaque intimate coverage. She is poised on the temple's threshing floor, three-quarter body with face toward viewer, both empty hands visible and gently open. Round stone temple doorway and barley terraces in clear autumn daylight; no other people.",
+  "png_sha256": "3516bd092ee504dd4d3bcbd6035b937de494227d56e967506b05d78361c39a73",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 4
+ },
+ "execution": "element-ce-27d7605d",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 4,3,4; authorized commit and nonforce main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Full body and both hands visible.",
+   "Selected original preserved without regeneration."
+  ]
+ }
+}

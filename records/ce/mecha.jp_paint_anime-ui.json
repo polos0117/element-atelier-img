@@ -1,0 +1,107 @@
+{
+ "atelier": "element",
+ "card": "ce",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "narrow_upturned",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "wide_smile",
+   "eye_color": "cerium_flint",
+   "age": "mid_20s",
+   "impression": "boyish",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "freckles",
+   "expr": "amused"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "short_crop",
+   "hair_color": "cerium_wheat",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "ce_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; light warm-beige skin with a golden undertone; heart-shaped face; medium-sized eyes — narrow upturned eyes, outer eye corners slightly lifted; thick straight brows; upturned nose; a wide mouth with softly upturned corners; flint-grey eyes flecked with bright spark-gold; a dusting of freckles across nose and cheeks.\nBody and hair: athletic build; short cropped hair with center-parted bangs framing the face; ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint.\nExpression: a small closed-lip smile that reaches the eyes.\nHer element, carried in her design: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Flint-grey and wheat-gold armor with a slender torso and oversized mechanical striker gauntlets and boots, steel striker ridges along the outer forearms that throw bright yellow-white spark showers whenever they meet, pale ceria-cream inner plates, a small spark-gold core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a grain colony on the dwarf planet Ceres: rows of glowing grain domes beside the dazzling white salt spots of a great crater floor, a polishing hall where cerium-oxide slurry buffs giant telescope lenses crystal clear, a small far sun in a black sky.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-16",
+ "record": "records/ce/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ce",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "ce|mecha": {}
+  },
+  "looks": {
+   "ce|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "ce|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Cerium (세륨) itself — the sovereign of the Cerium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Age: mid-twenties — a clear adult face; no facial lines.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour and costume are NOT free: take them from our designs below.\n\nStyle (fixed): A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish.\n\nInspiration only — her element: cerium: a soft, silvery-grey rare-earth metal, the most abundant of the rare earths, named in 1803 for the newly found small world Ceres, goddess of grain and harvest; its shavings catch fire in air when scratched, and alloyed with iron into ferrocerium it becomes the flint of lighters and fire-starters, throwing showers of hot yellow-white sparks when struck; pale cerium oxide powder polishes glass and lenses crystal clear. Palette: ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nWorld (fixed): year 2200, a grain colony on the dwarf planet Ceres: rows of glowing grain domes beside the dazzling white salt spots of a great crater floor, a polishing hall where cerium-oxide slurry buffs giant telescope lenses crystal clear, a small far sun in a black sky. Her costume and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 7) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament; 8) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her element, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like crystals, scales or flames, a hem or sleeve cut into a shape from her element. Build it in this world's materials and our colours below.\n\nCostume colours (ours): ripe wheat gold, flint grey, hot spark yellow-white, pale ceria cream.\n\nHair colour (fixed — ours): ripe wheat-gold hair scattered with tiny bright spark-white glints like struck flint. Keep exactly this hair colour; only the hairstyle is yours.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described above.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape with another signature idea, another pose and setting.\n\nOne figure only, natural hands with five fingers; no text or numbers except her element's own chemical symbol (Ce) and atomic number (58) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\n\nFINAL DESIGN FOR THIS IMAGE:\nChoose silhouette 3: a large back-mounted equipment unit rising above her head, medium body armor. Signature idea: a tall twin-lobed folded parabolic telescope-lens polishing assembly on her back, flint-grey mechanical struts supporting pale ceria ceramic shield segments edged wheat-gold, fine yellow-white spark channels at hinges. The unit folds into two asymmetric functional arcs while the armor itself stays balanced. Her human face is softly heart-shaped, dark emerald almond eyes, golden-beige skin, subtle red-brown eyeliner, warmly self-assured closed smile. Wheat-gold hair with white glints in two compact braided buns and short front tendrils. Solid segmented body armor, broad shoulder mounts, fitted plated waist and fully armored legs, bare upper arms and a deep chest window only, intimate parts covered. Both empty hands open at sides with exactly five articulated fingers each. On a Ceres telescope-polishing hall observation deck, giant mirrored lens below, grain domes visible through a thick window, black sky with small distant sun. Full-body composition, no cloth, no other figures.",
+  "png_sha256": "9c5d84f3a9bcd8d3d29d927cee1e4b49f7cb36d82dd62ccc67a8ae43093973a1",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 4
+ },
+ "execution": "element-ce-27d7605d",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 4,3,4; authorized commit and nonforce main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Full body and both hands visible.",
+   "Selected original preserved without regeneration.",
+   "Hip/thigh openings exceed full-plating instruction; retained as selected."
+  ]
+ }
+}
