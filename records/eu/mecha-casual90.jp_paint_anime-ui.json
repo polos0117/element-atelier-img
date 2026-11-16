@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "eu",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "eu_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "a painting conservation studio of her element's kingdom — an old portrait on an easel, racks of fine brushes and a violet lamp revealing hidden retouches",
+  "ownProp": "a small handheld violet lamp",
+  "view": "glass",
+  "expr": "proud",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a conservator look fitted to her body — an open white lab coat over a cropped knit top and a high-waisted mini skirt, magnifier glasses pushed up on her head",
+  "scene": "she is a conservator checking an old painting under ultraviolet light",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "eu_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Europium (Eu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a painting conservation studio of her element's kingdom — an old portrait on an easel, racks of fine brushes and a violet lamp revealing hidden retouches\nOutfit: a conservator look fitted to her body — an open white lab coat over a cropped knit top and a high-waisted mini skirt, magnifier glasses pushed up on her head, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a small handheld violet lamp up beside her face; it is all she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a conservator checking an old painting under ultraviolet light\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — europium: a soft silvery rare-earth metal, the most reactive of them, that dulls almost at once in air; separated in 1901 by a French chemist and named for the continent of Europe; a trace of it inside a crystal glows vivid red under invisible ultraviolet light, the red of colour television screens and fluorescent lamps, and hidden in banknote inks it shows the true note and exposes the forgery — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/eu/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "미술관 명화 복원가",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dfe50c2f41455be7e48d332422a079638679e8f0f9229a215e596c91b58bc352",
+  "prompt_sha256": "14c91f2572d6df4ebe388fcbe2be1ef3fb6314d4433eb4b086d1000ef59b7a37",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음 — sha256 보존",
+  "ref_sha256": "65e2a6ca66e24492d3ae0a6519d8e2d1e39e1f91ea31e21dfdba17b95c5f483f",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "selected_number": null
+ },
+ "refDesign": "gpt_free",
+ "execution": "element-europium-ce3d62",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "dfe50c2f41455be7e48d332422a079638679e8f0f9229a215e596c91b58bc352",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 세로 2:3, 초점 인물 한 명.",
+   "유리 너머 복원 작업실과 UV 램프, 안경과 가운, 원본의 짧은 머리와 눈 색."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-16 — 선택 3,2,3; 검수 후 일반 main 반영 승인"
+}

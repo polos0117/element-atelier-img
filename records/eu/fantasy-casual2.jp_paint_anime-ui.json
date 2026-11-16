@@ -1,0 +1,80 @@
+{
+ "atelier": "element",
+ "card": "eu",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "eu_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "brush_hair",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "night_snow",
+  "time": "night",
+  "hair": "down",
+  "depth": "flat",
+  "color": "vivid",
+  "expr": "half_smile",
+  "preset": "light_check",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "eu_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Europium (Eu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a soft body-hugging knit dress — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brushes her hair with a hairbrush; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — europium: a soft silvery rare-earth metal, the most reactive of them, that dulls almost at once in air; separated in 1901 by a French chemist and named for the continent of Europe; a trace of it inside a crystal glows vivid red under invisible ultraviolet light, the red of colour television screens and fluorescent lamps, and hidden in banknote inks it shows the true note and exposes the forgery — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/eu/fantasy-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0357bf1dc06132e8a024a576f4fbc44a07cf14a512a8b22903f0cde78d5d9ca5",
+  "prompt_sha256": "f2712b93b0a812710aa81ee5676bea2830fef3713841ab3b1cb7e7ccd0ec65da",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음 — sha256 보존",
+  "ref_sha256": "8f0cba16527f1c3accbd9b634737438dcf2a55c394add5d69d08b77b013fdfff",
+  "selected_number": null
+ },
+ "refDesign": "gpt_free",
+ "execution": "element-europium-ce3d62",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0357bf1dc06132e8a024a576f4fbc44a07cf14a512a8b22903f0cde78d5d9ca5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 세로 2:3, 초점 인물 한 명.",
+   "붉은 니트와 눈 내리는 서재, 빗을 쥔 한 손.",
+   "옆모습 계획보다 얼굴이 3/4 쪽으로 열림."
+  ],
+  "cause": "생성 모델이 일부 구도·장면·소품을 계획과 다르게 표현함. 이미지를 보존함."
+ },
+ "acceptance": "user_approval_2026-11-16 — 선택 3,2,3; 검수 후 일반 main 반영 승인"
+}
