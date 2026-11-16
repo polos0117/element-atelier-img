@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "cd",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cd_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "bath",
+  "item": "robe_over_swim",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "meal_eat",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "time": "lamplight",
+  "light": "top",
+  "color": "vivid",
+  "shade": "kelly",
+  "expr": "nostalgic",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cd_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Cadmium (Cd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a spa robe open over a swimsuit — in bright kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she eats from a bowl of hot food set on the table in front of her — her own right hand lifts a bite with chopsticks or a spoon, her own left hand steadies the bowl.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — cadmium: a soft, bluish-silver metal, zinc's younger sibling in the table, found in 1817 by a German inspector of pharmacies who wondered why a white zinc powder turned yellow when heated, and named from cadmia, an old word for zinc ore that honours Cadmus, founder of Thebes; with sulphur it becomes the blazing cadmium yellow painters love, with selenium the deep cadmium red; behind those sunny colours hides a poison that softens bones; it also swallows neutrons in reactors, and as tiny crystals it glows any colour from yellow to red according to their size alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/cd/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cd",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "cd": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "camera_shot",
+    "use": "meal_eat",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "robe_over_swim",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "kelly",
+    "time": "lamplight",
+    "light": "top"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e6a03c56151750fdfb3abbb179c40ebed91ca0b4edb0820cd03994a8f5de99eb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Cadmium (Cd) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a spa robe open over a swimsuit — in bright kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she eats from a bowl of hot food set on the table in front of her — her own right hand lifts a bite with chopsticks or a spoon, her own left hand steadies the bowl.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — cadmium: a soft, bluish-silver metal, zinc's younger sibling in the table, found in 1817 by a German inspector of pharmacies who wondered why a white zinc powder turned yellow when heated, and named from cadmia, an old word for zinc ore that honours Cadmus, founder of Thebes; with sulphur it becomes the blazing cadmium yellow painters love, with selenium the deep cadmium red; behind those sunny colours hides a poison that softens bones; it also swallows neutrons in reactors, and as tiny crystals it glows any colour from yellow to red according to their size alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "note": "Each result retained without regeneration.",
+  "ref_sha256": "1bbee19f13a07ba31d12136ffbe7b3ced0015e223a8992efbc058a328f50756d"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e6a03c56151750fdfb3abbb179c40ebed91ca0b4edb0820cd03994a8f5de99eb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536, adult woman, painterly Japanese anime finish; visual review completed.",
+   "Green swimsuit and robe, eating with chopsticks and bowl, two hands visible.",
+   "Kitchen rendered with brass and masonry rather than futuristic city design; reference motifs on robe."
+  ],
+  "cause": "Observed composition, costume, world or text deviation; retained per user instruction."
+ },
+ "execution": "element-cd-da695f",
+ "imported": "2026-11-17",
+ "acceptance": "user selected 3,3,4 and authorized main publication without further confirmation"
+}
