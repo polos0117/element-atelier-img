@@ -1,0 +1,123 @@
+{
+ "atelier": "element",
+ "card": "ru",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ru_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "greenhouse",
+  "ofam": "subculture",
+  "item": "grunge",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "weather": "night_snow",
+  "time": "lamplight",
+  "light": "side",
+  "view": "foreground",
+  "situ": "wet",
+  "expr": "serious",
+  "preset": "bench_sit",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ru_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ruthenium (Ru) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a glass greenhouse full of plants with a wooden potting bench\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: grunge — an oversized plaid flannel tied at the waist over a slip dress and combat boots; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a gold fountain-pen nib with a tiny hard silver-white bead fused to its tip at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ruthenium: a hard, brittle silver-white metal of the platinum family, the last of its six sisters to be found, isolated in 1844 at Kazan University from the stubborn residue of Ural platinum ore and named for Ruthenia, the old Latin name of Russia; a little of it makes platinum harder, and with osmium and iridium it forms the tiny hard bead at the tip of a fountain-pen nib that lasts decades of writing; its catalysts swap partners between molecules and join them anew, and its wine-red dyes colour glass that turns sunlight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/ru/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ru",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "ru": {
+    "era": "now",
+    "place": "greenhouse",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "bench_sit",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "grunge",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "time": "lamplight",
+    "weather": "night_snow",
+    "light": "side",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dc7ead1743afb51f93d3a5aa404224141f83d5fbc4670c8577f81597041a0e56",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; only WebP committed.",
+  "ref_sha256": "5fed10f3dc84060a18e66e23cf15ee02d97b5f99775bf93923c44b6a18d5c348"
+ },
+ "execution": "element-ru-83a396",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 1,1,4; approved commits and normal main publication; retain completed images without regeneration.",
+ "qa": {
+  "reviewer": "gpt element-ru-83a396",
+  "image_sha256": "dc7ead1743afb51f93d3a5aa404224141f83d5fbc4670c8577f81597041a0e56",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical output; one principal adult woman; painterly anime rendering.",
+   "The selected reference face, silver-white/wine-tip hair and skin tone are recognizable.",
+   "No extra or detached arms observed; visible hands attach to their forearms."
+  ]
+ }
+}

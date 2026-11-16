@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "ru",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ru_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "drying_terrace",
+  "ofam": "halloween",
+  "item": "hw_spider",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "time": "golden",
+  "hair": "hat",
+  "light": "back",
+  "situ": "sheer_light",
+  "expr": "sensual",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ru_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ruthenium (Ru) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop drying terrace with laundry lines overhead, a low stool, a parapet and the city beyond\nTime of day: golden hour — warm low sun, long shadows.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a black widow costume — a sheer-sleeved black mini dress with a web-patterned lace overlay and a spiked spider-leg collar; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ruthenium: a hard, brittle silver-white metal of the platinum family, the last of its six sisters to be found, isolated in 1844 at Kazan University from the stubborn residue of Ural platinum ore and named for Ruthenia, the old Latin name of Russia; a little of it makes platinum harder, and with osmium and iridium it forms the tiny hard bead at the tip of a fountain-pen nib that lasts decades of writing; its catalysts swap partners between molecules and join them anew, and its wine-red dyes colour glass that turns sunlight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/ru/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ru",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "ru": {
+    "era": "now",
+    "place": "drying_terrace",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "hw_spider",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sheer_light",
+    "time": "golden",
+    "hair": "hat",
+    "light": "back"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e6927504c2aa941b2e7250206d8b02c94983e76c47a8b352246c1916e836777e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; only WebP committed.",
+  "ref_sha256": "55e432bf6d0c3040743fbce0d96b5b5c9ea9445e5eedfe76f9de32b39877f52c"
+ },
+ "execution": "element-ru-83a396",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 1,1,4; approved commits and normal main publication; retain completed images without regeneration.",
+ "qa": {
+  "reviewer": "gpt element-ru-83a396",
+  "image_sha256": "e6927504c2aa941b2e7250206d8b02c94983e76c47a8b352246c1916e836777e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical output; one principal adult woman; painterly anime rendering.",
+   "The selected reference face, silver-white/wine-tip hair and skin tone are recognizable.",
+   "No extra or detached arms observed; visible hands attach to their forearms."
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "ru",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ru_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "linen_lounge",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach_high",
+  "left": "natural",
+  "use": "",
+  "legs": "tiptoe",
+  "gaze": "",
+  "light": "side",
+  "depth": "flat",
+  "color": "denim",
+  "expr": "confident",
+  "preset": "reach_shelf",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ru_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ruthenium (Ru) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a light linen lounge set — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ruthenium: a hard, brittle silver-white metal of the platinum family, the last of its six sisters to be found, isolated in 1844 at Kazan University from the stubborn residue of Ural platinum ore and named for Ruthenia, the old Latin name of Russia; a little of it makes platinum harder, and with osmium and iridium it forms the tiny hard bead at the tip of a fountain-pen nib that lasts decades of writing; its catalysts swap partners between molecules and join them anew, and its wine-red dyes colour glass that turns sunlight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/ru/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ru",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ru": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_shelf",
+    "use": "",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "legs": "tiptoe",
+    "gaze": "",
+    "item": "linen_lounge",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "light": "side",
+    "depth": "flat"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5be0719e8b0304545a7bf1710557296f7ec794335c1e88ddc4ddc53f8e647799",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; only WebP committed.",
+  "ref_sha256": "701ec616f1d9837e13b338829adb4e052e67b266b0b8cec87fdbf9a7d6bb1940"
+ },
+ "execution": "element-ru-83a396",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 1,1,4; approved commits and normal main publication; retain completed images without regeneration.",
+ "qa": {
+  "reviewer": "gpt element-ru-83a396",
+  "image_sha256": "5be0719e8b0304545a7bf1710557296f7ec794335c1e88ddc4ddc53f8e647799",
+  "passed": false,
+  "anatomy": [
+   "foot"
+  ],
+  "observations": [
+   "1024x1536 vertical output; one principal adult woman; painterly anime rendering.",
+   "The selected reference face, silver-white/wine-tip hair and skin tone are recognizable.",
+   "No extra or detached arms observed; visible hands attach to their forearms.",
+   "Only one foot silhouette is clearly separated; overlapping ankles make the second foot difficult to resolve."
+  ],
+  "cause": "Generated output deviates from the recorded scene/framing/costume constraints; original is retained under user approval."
+ }
+}

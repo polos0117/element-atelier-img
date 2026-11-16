@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "ru",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ru_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "own": "fantasy",
+  "placeText": "a monastery scriptorium of her element's kingdom — a slanted writing desk, ink horns, gold leaf and a narrow sunlit window",
+  "ownProp": "a quill pen and a small pot of gold",
+  "light": "top",
+  "depth": "flat",
+  "view": "glass",
+  "expr": "candid",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "a scribe look fitted to her body — a short sleeveless tunic with a low neckline, a short wrap skirt, ink-stained cuffs and sandals",
+  "scene": "she is the illuminating scribe painting a gold vine border around a page",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ru_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ruthenium (Ru) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a monastery scriptorium of her element's kingdom — a slanted writing desk, ink horns, gold leaf and a narrow sunlit window\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a scribe look fitted to her body — a short sleeveless tunic with a low neckline, a short wrap skirt, ink-stained cuffs and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a quill pen and a small pot of gold in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the illuminating scribe painting a gold vine border around a page\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ruthenium: a hard, brittle silver-white metal of the platinum family, the last of its six sisters to be found, isolated in 1844 at Kazan University from the stubborn residue of Ural platinum ore and named for Ruthenia, the old Latin name of Russia; a little of it makes platinum harder, and with osmium and iridium it forms the tiny hard bead at the tip of a fountain-pen nib that lasts decades of writing; its catalysts swap partners between molecules and join them anew, and its wine-red dyes colour glass that turns sunlight into electricity — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/ru/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "필사본 채식 필경사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7bb0060f1bd09093c30ceef46f89e34fde55d1cda28432687fcdba7a30ade76f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained; only WebP committed.",
+  "ref_sha256": "5fed10f3dc84060a18e66e23cf15ee02d97b5f99775bf93923c44b6a18d5c348",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ru-83a396",
+ "imported": "2026-11-16",
+ "acceptance": "User selected 1,1,4; approved commits and normal main publication; retain completed images without regeneration.",
+ "qa": {
+  "reviewer": "gpt element-ru-83a396",
+  "image_sha256": "7bb0060f1bd09093c30ceef46f89e34fde55d1cda28432687fcdba7a30ade76f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 vertical output; one principal adult woman; painterly anime rendering.",
+   "The selected reference face, silver-white/wine-tip hair and skin tone are recognizable.",
+   "No extra or detached arms observed; visible hands attach to their forearms."
+  ]
+ }
+}
