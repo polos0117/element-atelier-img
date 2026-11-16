@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "th",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "th_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "morning",
+  "own": "mecha",
+  "placeText": "the throwing cage of her element's kingdom's stadium — a netted circle, a long green field beyond and a storm sky over the stands",
+  "ownProp": "a steel throwing hammer on its wire",
+  "light": "dappled",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "amused",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a hammer thrower look fitted to her body — a cropped athletic top, high-cut briefs, a lifting belt, wrist tape and throwing shoes",
+  "scene": "she is a hammer thrower walking into the circle before her throw",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "th_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thorium (Th) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the throwing cage of her element's kingdom's stadium — a netted circle, a long green field beyond and a storm sky over the stands\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a hammer thrower look fitted to her body — a cropped athletic top, high-cut briefs, a lifting belt, wrist tape and throwing shoes, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a steel throwing hammer on its wire low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is a hammer thrower walking into the circle before her throw\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thorium: a heavy silvery metal that tarnishes dark grey, found in a black stone from a Norwegian island and named in 1829 for the Norse thunder god; so slowly radioactive that its half-life is about fourteen billion years, as old as the universe; its oxide has the highest melting point of any oxide, and gas-lamp mantles soaked in its salt glowed a brilliant white in the flame; a partner to uranium, it may one day burn as a calm nuclear fuel dissolved in molten salt — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/th/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "해머던지기 선수",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e21e4b1e65db8b636071a4e6c1e432f8e595c9c7fb033eeab91b6732e8c08dd8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않고 sha256만 남김",
+  "ref_sha256": "285361632b78f78f95c94b629a722927e400e9b9da20d9007946368ff607181a",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-thorium-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 3,3,3; user authorized commit and non-force main update",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "e21e4b1e65db8b636071a4e6c1e432f8e595c9c7fb033eeab91b6732e8c08dd8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "투척장 철망 앞에서 해머를 오른손에 내리고 걸어 들어가는 선수, 왼팔 자연스럽게 내려짐.",
+   "1024×1536 확인. 보이는 팔·다리·손의 연결에서 추가·분리된 사지는 보이지 않음."
+  ],
+  "cause": ""
+ }
+}

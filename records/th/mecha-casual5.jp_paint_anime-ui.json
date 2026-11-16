@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "th",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "th_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_pirate_ship",
+  "ofam": "halloween",
+  "item": "hw_witch",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "fog",
+  "time": "morning",
+  "hair": "hat",
+  "light": "side",
+  "depth": "flat",
+  "expr": "relieved",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "th_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thorium (Th) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the deck of a tall wooden sailing ship at sea — rigging, a ship's wheel, coiled ropes, wooden stairs up to the quarterdeck and billowing sails\nWeather / season: a misty morning — soft fog outside.\nTime of day: early morning — low clean light, long soft shadows.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a dark witch costume — a plunging black velvet bodysuit under a sheer black chiffon cape, a crooked wide-brimmed pointed hat and sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small brass gas lantern whose mesh mantle glows brilliant white up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thorium: a heavy silvery metal that tarnishes dark grey, found in a black stone from a Norwegian island and named in 1829 for the Norse thunder god; so slowly radioactive that its half-life is about fourteen billion years, as old as the universe; its oxide has the highest melting point of any oxide, and gas-lamp mantles soaked in its salt glowed a brilliant white in the flame; a partner to uranium, it may one day burn as a calm nuclear fuel dissolved in molten salt — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/th/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "th",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "th": {
+    "era": "fantasy",
+    "place": "fx_pirate_ship",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "lookback_raise",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "hw_witch",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "morning",
+    "weather": "fog",
+    "hair": "hat",
+    "light": "side",
+    "depth": "flat"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e3fe6e74107df407b0168f00d2d449816835bb77f3f4f1b2af90ebe37ec1f92a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않고 sha256만 남김",
+  "ref_sha256": "285361632b78f78f95c94b629a722927e400e9b9da20d9007946368ff607181a"
+ },
+ "execution": "element-thorium-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 3,3,3; user authorized commit and non-force main update",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "e3fe6e74107df407b0168f00d2d449816835bb77f3f4f1b2af90ebe37ec1f92a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "해적선 갑판의 마녀 차림, 얼굴 옆 등불을 든 어깨 너머 근접 구도.",
+   "1024×1536 확인. 보이는 팔·다리·손의 연결에서 추가·분리된 사지는 보이지 않음."
+  ],
+  "cause": ""
+ }
+}

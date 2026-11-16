@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "th",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "th_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_library",
+  "ofam": "resort",
+  "item": "aloha_knot",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "light": "top",
+  "depth": "flat",
+  "expr": "calm",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "th_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thorium (Th) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a vast fantasy library of towering shelves, spiral stairs and floating candles\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a tropical-print shirt knotted at the waist over a bikini-style top with denim cut-offs, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thorium: a heavy silvery metal that tarnishes dark grey, found in a black stone from a Norwegian island and named in 1829 for the Norse thunder god; so slowly radioactive that its half-life is about fourteen billion years, as old as the universe; its oxide has the highest melting point of any oxide, and gas-lamp mantles soaked in its salt glowed a brilliant white in the flame; a partner to uranium, it may one day burn as a calm nuclear fuel dissolved in molten salt — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/th/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "th",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "th": {
+    "era": "fantasy",
+    "place": "fx_library",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "aloha_knot",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "light": "top",
+    "depth": "flat"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "159d175f9b9df32985a00d18d69888e4b058cbfcdd65af0dbde888648bd1e7d2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않고 sha256만 남김",
+  "ref_sha256": "1f5e0772d73ea6c061c4d9d16c4e04f7e160741b6a61955b00a7fdfb76a21088"
+ },
+ "execution": "element-thorium-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 3,3,3; user authorized commit and non-force main update",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "159d175f9b9df32985a00d18d69888e4b058cbfcdd65af0dbde888648bd1e7d2",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "거대한 서고에서 손바닥을 내밀고 다른 손을 가슴 위에 둔 알로하 차림.",
+   "1024×1536 확인. 보이는 팔·다리·손의 연결에서 추가·분리된 사지는 보이지 않음."
+  ],
+  "cause": ""
+ }
+}

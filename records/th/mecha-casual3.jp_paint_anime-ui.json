@@ -1,0 +1,131 @@
+{
+ "atelier": "element",
+ "card": "th",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "th_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_check",
+  "kind": "both",
+  "legs": "",
+  "gaze": "at_prop",
+  "cosplay": {
+   "game": "legend_of_zelda",
+   "character": "Link",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "pensive",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "th_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thorium (Th) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nOutfit: a daring adult cosplay of Link from The Legend of Zelda — Link's outfit — a green belted tunic, a long pointed green cap, brown leather belts and bracers, pale tights and brown boots, cut as a lace bralette and high-waisted briefs with garter straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she checks the photo on the back screen of a camera at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/th/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "th",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "th": {
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_wall_use",
+    "use": "camera_check",
+    "kind": "both",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "gc_lingerie",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "legend_of_zelda",
+     "character": "Link",
+     "cut": "lingerie",
+     "round": 1
+    }
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "cosplay": {
+   "game": "legend_of_zelda",
+   "character": "Link",
+   "cut": "lingerie"
+  },
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8708542dcafd4448e9acb5fa98fbb042ef640ff354b8f5a2a20da381f0d9b37d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않고 sha256만 남김",
+  "ref_sha256": "285361632b78f78f95c94b629a722927e400e9b9da20d9007946368ff607181a"
+ },
+ "execution": "element-thorium-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 3,3,3; user authorized commit and non-force main update",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "8708542dcafd4448e9acb5fa98fbb042ef640ff354b8f5a2a20da381f0d9b37d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "스튜디오 벽에 앉은 링크 코스프레, 양손으로 카메라를 살펴본다.",
+   "1024×1536 확인. 보이는 팔·다리·손의 연결에서 추가·분리된 사지는 보이지 않음."
+  ],
+  "cause": ""
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "th",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "th_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_steam_tavern",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "noon",
+  "own": "steampunk",
+  "placeText": "the orchestra pit of her element's kingdom's opera house — copper kettledrums, music stands with little brass lamps and red velvet seats beyond",
+  "ownProp": "a pair of felt timpani mallets",
+  "light": "dappled",
+  "view": "glass",
+  "expr": "soft_smile",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a timpanist look fitted to her body — an open tailcoat over a satin bustier, a short black skirt, sheer stockings and a white bow tie",
+  "scene": "she is the timpanist, mallets ready for the thunder bar",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "th_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thorium (Th) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the orchestra pit of her element's kingdom's opera house — copper kettledrums, music stands with little brass lamps and red velvet seats beyond\nTime of day: midday — bright even light.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a timpanist look fitted to her body — an open tailcoat over a satin bustier, a short black skirt, sheer stockings and a white bow tie, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a pair of felt timpani mallets in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the timpanist, mallets ready for the thunder bar\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thorium: a heavy silvery metal that tarnishes dark grey, found in a black stone from a Norwegian island and named in 1829 for the Norse thunder god; so slowly radioactive that its half-life is about fourteen billion years, as old as the universe; its oxide has the highest melting point of any oxide, and gas-lamp mantles soaked in its salt glowed a brilliant white in the flame; a partner to uranium, it may one day burn as a calm nuclear fuel dissolved in molten salt — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/th/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "오케스트라 팀파니 주자",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dfc2ded49b9a58259c23e10f47039f71f2e252b90c4c50fadb8a94f993d80bd2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않고 sha256만 남김",
+  "ref_sha256": "1f5e0772d73ea6c061c4d9d16c4e04f7e160741b6a61955b00a7fdfb76a21088",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-thorium-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "user selection 3,3,3; user authorized commit and non-force main update",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "dfc2ded49b9a58259c23e10f47039f71f2e252b90c4c50fadb8a94f993d80bd2",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "팀파니 앞의 연주자, 양손에 말렛을 한 개씩 잡고 악기 위에 놓았다.",
+   "1024×1536 확인. 보이는 팔·다리·손의 연결에서 추가·분리된 사지는 보이지 않음."
+  ],
+  "cause": ""
+ }
+}
