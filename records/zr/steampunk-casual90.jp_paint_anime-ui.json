@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "zr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "zr_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_market",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "morning",
+  "own": "steampunk",
+  "placeText": "a grand department store of her element's kingdom — glass jewellery counters, velvet trays and a gilded mirror",
+  "ownProp": "a velvet tray of sparkling paste brooches",
+  "light": "back",
+  "view": "foreground",
+  "expr": "pensive",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a store clerk look fitted to her body — a cropped fitted jacket over a low-cut blouse, a short skirt, a ribbon choker and ankle boots",
+  "scene": "she is the jewellery counter clerk laying out sparkling paste brooches for a customer",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "zr_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Zirconium (Zr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a grand department store of her element's kingdom — glass jewellery counters, velvet trays and a gilded mirror\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a store clerk look fitted to her body — a cropped fitted jacket over a low-cut blouse, a short skirt, a ribbon choker and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a velvet tray of sparkling paste brooches in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is the jewellery counter clerk laying out sparkling paste brooches for a customer\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — zirconium: a hard, corrosion-proof silver-grey metal named from a Persian word for gold-coloured, after the golden zircon gems of Ceylon in which it was found in 1789; zircon grains lock in uranium but shut out lead as they crystallize, so they keep time, and tiny grains from red Australian hills are about 4.4 billion years old, the oldest memories of the first solid Earth; zircon is also gathered from beach sands; melted zirconia grows into cubic zirconia, a flawless stone that throws even more rainbow fire than the diamond it imitates; the metal lets neutrons pass and so clads reactor fuel, once its near-identical twin hafnium is removed — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/zr/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "백화점 장신구 매장 점원",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-zr-b7a46",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "da244db7bad54782a752b98adec90568583a6df2b336b7351cdd666baa7e5acf",
+  "ref_sha256": "e9dfc68b2f629a6781b8f525cbdbd2e2f39a1bdf5c418732094375f5be1f8c6d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in generated output; only WebP committed; no re-generation.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT image review",
+  "image_sha256": "da244db7bad54782a752b98adec90568583a6df2b336b7351cdd666baa7e5acf",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman in focus; reference face/hair/skin retained; no readable logo or watermark.",
+   "Jewellery counter clerk holding velvet tray of paste brooches, both hands visible.",
+   "Off-shoulder jacket differs from the planned cropped fitted jacket."
+  ],
+  "cause": "Model diverged from some scene, framing, hand assignment or clothing details; original retained per project rules."
+ },
+ "acceptance": "User approved completion, commit and non-force main update; selected worlds 3,2,2."
+}

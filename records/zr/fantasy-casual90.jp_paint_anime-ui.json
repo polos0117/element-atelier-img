@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "zr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "zr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_market",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "own": "fantasy",
+  "placeText": "a market lane of her element's kingdom — a little cart hung with rings and bead strings, striped awnings and a fountain behind",
+  "ownProp": "a ring set with a big glittering clear stone",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a ring peddler look fitted to her body — a short laced bodice over a bandeau, a short layered skirt hung with charms, armfuls of bangles and sandals",
+  "scene": "she is the ring peddler holding up a sparkling stone to catch a passer-by's eye",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "zr_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Zirconium (Zr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a market lane of her element's kingdom — a little cart hung with rings and bead strings, striped awnings and a fountain behind\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a ring peddler look fitted to her body — a short laced bodice over a bandeau, a short layered skirt hung with charms, armfuls of bangles and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a ring set with a big glittering clear stone up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the ring peddler holding up a sparkling stone to catch a passer-by's eye\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — zirconium: a hard, corrosion-proof silver-grey metal named from a Persian word for gold-coloured, after the golden zircon gems of Ceylon in which it was found in 1789; zircon grains lock in uranium but shut out lead as they crystallize, so they keep time, and tiny grains from red Australian hills are about 4.4 billion years old, the oldest memories of the first solid Earth; zircon is also gathered from beach sands; melted zirconia grows into cubic zirconia, a flawless stone that throws even more rainbow fire than the diamond it imitates; the metal lets neutrons pass and so clads reactor fuel, once its near-identical twin hafnium is removed — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "refDesign": "gpt_free",
+ "record": "records/zr/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "장터 반지 행상",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-zr-b7a46",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f716190bbe7f681e01900a69194a667d4095e58e4e13c3db2e00d1b1344c0532",
+  "ref_sha256": "039b93b1020d7b41a16059d26b2e0ab9b5c32eb12f6c3dc2aa26c35a4c8618ed",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained in generated output; only WebP committed; no re-generation.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "GPT image review",
+  "image_sha256": "f716190bbe7f681e01900a69194a667d4095e58e4e13c3db2e00d1b1344c0532",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman in focus; reference face/hair/skin retained; no readable logo or watermark.",
+   "Ring peddler holds ring beside face in market; chest-up framing.",
+   "Raised hand fingers overlap the ring; no extra limb visible."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved completion, commit and non-force main update; selected worlds 3,2,2."
+}
