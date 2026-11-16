@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "fr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "detail",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "mecha",
+  "placeText": "a racing paddock of her element's kingdom — a sleek racing motorcycle on its stand, tyre stacks and a bright start gantry",
+  "ownProp": "a racing helmet",
+  "light": "side",
+  "expr": "calm",
+  "preset": "prop_detail",
+  "prop": "0",
+  "outfit": "a racer look fitted to her body — a racing leather suit unzipped to the waist over a cropped sports top, the sleeves tied at her hips, and racing boots",
+  "scene": "she is the motorcycle racer pulling on her gloves just before the start",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "fr_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Francium (Fr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a racing paddock of her element's kingdom — a sleek racing motorcycle on its stand, tyre stacks and a bright start gantry\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a racer look fitted to her body — a racing leather suit unzipped to the waist over a cropped sports top, the sleeves tied at her hips, and racing boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a detail shot of her hands and what they touch, with readable contact; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a racing helmet at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the motorcycle racer pulling on her gloves just before the start\n\nFraming: a detail shot — only the part of her the scene names fills the frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — francium: the last element ever discovered in nature, found in 1939 in Paris by a former laboratory assistant who traced a rare branch in the decay of actinium, and named for France; the youngest of the alkali metals after caesium and rubidium, so restless that its longest-lived form lasts only twenty-two minutes and only a few dozen grams exist in the whole Earth at any moment, so no one has ever seen a piece of it; it has shown itself only as a tiny glowing cloud of atoms caught where laser beams cross, and like its sisters it would flare and boil in water if it ever stayed long enough — may show in the outfit's details, motifs or small accessories.\n\nFigure: toned athletic-curvy, full-busted with rounded hips — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/fr/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "오토바이 레이서",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-francium-20261116",
+ "imported": "2026-11-17",
+ "acceptance": "user_selected_2,4,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "07d7ec2f66a3e9cf7c09e2929762f1df6fe55475eb3de7b04d5544c884759602",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original preserved; no recreation of generated image",
+  "ref_sha256": "b9c47c4b40573d9bb2135bdc7e68a87a51538cfd2dea26425990b1c64d040e69",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-francium-20261116",
+  "image_sha256": "07d7ec2f66a3e9cf7c09e2929762f1df6fe55475eb3de7b04d5544c884759602",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman in focus.",
+   "Visible limb connections reviewed. Occluded or cropped fingers cannot all be counted.",
+   "Racing paddock with motorcycle, right hand holding helmet, cropped top and racing suit tied at waist. Image shows head-to-hips rather than the planned hand-detail composition; gloves are not being pulled on."
+  ],
+  "cause": "Generated details differ from requested scene or framing; original retained unchanged."
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "fr",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_darkroom",
+  "ofam": "active",
+  "item": "marker_suit",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "at_prop",
+  "view": "foreground",
+  "color": "mono",
+  "situ": "tie_loose",
+  "expr": "wink",
+  "preset": "bench_fix",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "fr_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Francium (Fr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nOutfit: a fitted marker suit dotted with small reflective markers — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — she has pulled her tie or neck scarf loose and let it hang open, the collar unfastened over her collarbones, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera low, near the ground, level with her face as she sits or kneels; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a slim brass stopwatch stopped at twenty-two minutes, a tiny gold spark sealed under its crystal in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — francium: the last element ever discovered in nature, found in 1939 in Paris by a former laboratory assistant who traced a rare branch in the decay of actinium, and named for France; the youngest of the alkali metals after caesium and rubidium, so restless that its longest-lived form lasts only twenty-two minutes and only a few dozen grams exist in the whole Earth at any moment, so no one has ever seen a piece of it; it has shown itself only as a tiny glowing cloud of atoms caught where laser beams cross, and like its sisters it would flare and boil in water if it ever stayed long enough — may show in the outfit's details, motifs or small accessories.\n\nFigure: toned athletic-curvy, full-busted with rounded hips — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/fr/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "fr",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "fr": {
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "bench_fix",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "marker_suit",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "situ": "tie_loose",
+    "view": "foreground"
+   }
+  }
+ },
+ "execution": "element-francium-20261116",
+ "imported": "2026-11-17",
+ "acceptance": "user_selected_2,4,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "402a45dc10cb3fdc4afb5e18a9702ec03c2d225863139575a7e9d5949b1ba972",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original preserved; no recreation of generated image",
+  "ref_sha256": "f4234a4acc4458cde5b35eb8f9856f5d22bed003766279968849398283be8503"
+ },
+ "qa": {
+  "reviewer": "element-francium-20261116",
+  "image_sha256": "402a45dc10cb3fdc4afb5e18a9702ec03c2d225863139575a7e9d5949b1ba972",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman in focus.",
+   "Visible limb connections reviewed. Occluded or cropped fingers cannot all be counted.",
+   "Photographic darkroom, seated motion-capture suit and stopwatch held with both hands. Stopwatch has visible dial numerals contrary to no-text constraint; crop tighter than planned."
+  ],
+  "cause": "Generated details differ from requested scene or framing; original retained unchanged."
+ }
+}

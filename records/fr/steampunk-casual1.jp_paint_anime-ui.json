@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "fr",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fr_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "lodge_terrace",
+  "ofam": "swimwear",
+  "item": "yukata_over",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "time": "morning",
+  "hair": "braid",
+  "depth": "flat",
+  "color": "earth",
+  "expr": "pensive",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "fr_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Francium (Fr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a snowy mountain-lodge terrace with a wooden railing and benches above a winter valley\nTime of day: early morning — low clean light, long soft shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: swimwear with a light yukata worn open over it — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — francium: the last element ever discovered in nature, found in 1939 in Paris by a former laboratory assistant who traced a rare branch in the decay of actinium, and named for France; the youngest of the alkali metals after caesium and rubidium, so restless that its longest-lived form lasts only twenty-two minutes and only a few dozen grams exist in the whole Earth at any moment, so no one has ever seen a piece of it; it has shown itself only as a tiny glowing cloud of atoms caught where laser beams cross, and like its sisters it would flare and boil in water if it ever stayed long enough — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/fr/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "fr",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "fr": {
+    "era": "now",
+    "place": "lodge_terrace",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "phone_selfie",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "yukata_over",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "morning",
+    "hair": "braid",
+    "depth": "flat"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "execution": "element-francium-20261116",
+ "imported": "2026-11-17",
+ "acceptance": "user_selected_2,4,2; preapproved normal main updates",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5ec921209744d530b529c95289f182f34aff4f78a6b444319756b9617ccc4b87",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original preserved; no recreation of generated image",
+  "ref_sha256": "fa7cda22db0b5770858bca330645a6d9674340075d465a29d334778d250e8231"
+ },
+ "qa": {
+  "reviewer": "element-francium-20261116",
+  "image_sha256": "5ec921209744d530b529c95289f182f34aff4f78a6b444319756b9617ccc4b87",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman in focus.",
+   "Visible limb connections reviewed. Occluded or cropped fingers cannot all be counted.",
+   "Winter-lodge selfie crop, swimsuit beneath patterned robe, right arm extended toward camera. Both hands outside image boundary as selfie framing implies."
+  ]
+ }
+}
