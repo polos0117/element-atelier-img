@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "la",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "la_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_dam",
+  "ofam": "workwear",
+  "item": "dungaree_bandeau",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "snow",
+  "time": "morning",
+  "hair": "tied",
+  "light": "dappled",
+  "situ": "wet",
+  "expr": "relieved",
+  "preset": "light_check",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "la_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lanthanum (La) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the crest walkway of a hydroelectric dam, a steel railing, spillway gates and a wide reservoir below\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: early morning — low clean light, long soft shadows.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: short denim dungarees over a bandeau top, one strap unhooked, canvas sneakers; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small clear lanthanum-glass camera lens with a faint violet-green coating glint up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lanthanum: a soft silvery-white metal that dulls in air, found in 1839 hiding inside cerium oxide and named from the Greek for 'to lie hidden'; the first of the fifteen lanthanides, which take their name from it; melted into glass as lanthanum oxide it bends light strongly with little colour fringing, the clear glass of fine camera and telescope lenses; alloyed with nickel it soaks up hydrogen like a metal sponge, filling nickel-metal-hydride batteries — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/la/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "la",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "la": {
+    "era": "site",
+    "place": "site_dam",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "light_check",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "dungaree_bandeau",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "time": "morning",
+    "weather": "snow",
+    "hair": "tied",
+    "light": "dappled"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7fe7c78efd64f7d05e5de988f6e30ba1eaaf2307e0afc4743845b29101786c20",
+  "ref_sha256": "15bc62e3c29e7f36d1ffdfaeeed1a99141ff421a5e7ec55bf97350f91376090d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "선택한 해당 세계 원본만 첨부; 생성 후 재생성 없음"
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "7fe7c78efd64f7d05e5de988f6e30ba1eaaf2307e0afc4743845b29101786c20",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "성인 여성 한 명; 선택한 세계컷의 얼굴·머리색·체형과 화풍을 참조",
+   "보이는 팔·손·다리 연결에 명확한 추가·분리 없음; 가려진 손가락은 판독 범위 제한",
+   "생성 원본 보존, 재생성 없음",
+   "계획의 오른손 대신 화면 오른쪽의 먼쪽 손으로 렌즈를 들어 올린 것으로 보임"
+  ],
+  "cause": "모델의 구도·동작·참조 해석 차이. 결과를 변경하거나 재생성하지 않고 기록한다."
+ },
+ "execution": "element-la-20261117-6d70",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 2,1,3 and authorized main publication"
+}

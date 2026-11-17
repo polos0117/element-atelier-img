@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "la",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "la_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "brush_hair",
+  "legs": "",
+  "gaze": "camera",
+  "hair": "tied",
+  "color": "earth",
+  "shade": "camel",
+  "expr": "wink",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "la_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lanthanum (La) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a loosely tied robe — in warm camel; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brushes her hair with a hairbrush; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lanthanum: a soft silvery-white metal that dulls in air, found in 1839 hiding inside cerium oxide and named from the Greek for 'to lie hidden'; the first of the fifteen lanthanides, which take their name from it; melted into glass as lanthanum oxide it bends light strongly with little colour fringing, the clear glass of fine camera and telescope lenses; alloyed with nickel it soaks up hydrogen like a metal sponge, filling nickel-metal-hydride batteries — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/la/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "la",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "la": {
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "brush_hair",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "robe_morning",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "shade": "camel",
+    "hair": "tied"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "de41d9b28bdb4738ac6b2676ca5ef0ff8cbbbe1b5c157b93409e70f4b66230d5",
+  "ref_sha256": "82a06c13114e3d236e3090d3bbba68b6485927d412dfde475e0f1981febf39b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "선택한 해당 세계 원본만 첨부; 생성 후 재생성 없음"
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "de41d9b28bdb4738ac6b2676ca5ef0ff8cbbbe1b5c157b93409e70f4b66230d5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "성인 여성 한 명; 선택한 세계컷의 얼굴·머리색·체형과 화풍을 참조",
+   "보이는 팔·손·다리 연결에 명확한 추가·분리 없음; 가려진 손가락은 판독 범위 제한",
+   "생성 원본 보존, 재생성 없음"
+  ]
+ },
+ "execution": "element-la-20261117-6d70",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 2,1,3 and authorized main publication"
+}

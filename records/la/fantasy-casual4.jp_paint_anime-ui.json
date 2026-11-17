@@ -1,0 +1,128 @@
+{
+ "atelier": "element",
+ "card": "la",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "la_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_hotel",
+  "ofam": "resort",
+  "item": "aloha_knot",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "dusk",
+  "hair": "braid",
+  "light": "dappled",
+  "spot": "low_small",
+  "depth": "flat",
+  "situ": "strap",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "la_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lanthanum (La) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hotel suite with a city view and an open suitcase\nTime of day: dusk — blue hour, lights coming on.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a tropical-print shirt knotted at the waist over a bikini-style top with denim cut-offs; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is small in the lower part of the frame, the place rising above her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small clear lanthanum-glass camera lens with a faint violet-green coating glint low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lanthanum: a soft silvery-white metal that dulls in air, found in 1839 hiding inside cerium oxide and named from the Greek for 'to lie hidden'; the first of the fifteen lanthanides, which take their name from it; melted into glass as lanthanum oxide it bends light strongly with little colour fringing, the clear glass of fine camera and telescope lenses; alloyed with nickel it soaks up hydrogen like a metal sponge, filling nickel-metal-hydride batteries — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/la/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "la",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "la": {
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "aloha_knot",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "time": "dusk",
+    "hair": "braid",
+    "light": "dappled",
+    "spot": "low_small",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "eccdb35091c112f175625fd5b241ebd34bf1104f3bdcceb9bfdcd4bf3c49166a",
+  "ref_sha256": "82a06c13114e3d236e3090d3bbba68b6485927d412dfde475e0f1981febf39b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "선택한 해당 세계 원본만 첨부; 생성 후 재생성 없음"
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "eccdb35091c112f175625fd5b241ebd34bf1104f3bdcceb9bfdcd4bf3c49166a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "성인 여성 한 명; 선택한 세계컷의 얼굴·머리색·체형과 화풍을 참조",
+   "보이는 팔·손·다리 연결에 명확한 추가·분리 없음; 가려진 손가락은 판독 범위 제한",
+   "생성 원본 보존, 재생성 없음",
+   "계획의 뒤로 멀어지는 걸음 대신 정면으로 걸어오는 모습"
+  ],
+  "cause": "모델의 구도·동작·참조 해석 차이. 결과를 변경하거나 재생성하지 않고 기록한다."
+ },
+ "execution": "element-la-20261117-6d70",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 2,1,3 and authorized main publication"
+}
