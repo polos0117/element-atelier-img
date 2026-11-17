@@ -1,0 +1,123 @@
+{
+ "atelier": "element",
+ "card": "tl",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "satin_pyjamas",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "weather": "autumn",
+  "time": "morning",
+  "light": "dappled",
+  "color": "jewel",
+  "shade": "teal",
+  "expr": "wink",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tl_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thallium (Tl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: satin pyjamas with piped edges — in deep peacock teal; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thallium: a soft grey metal that cuts with a knife, dulls quickly in air and is kept under oil; found in 1861 by a London chemist who saw a single vivid spring-green line in the spectrum of sulfuric-acid works residue and named it from the Greek for a green shoot, and while weighing it in a vacuum he came upon the little sun-spun light mill; its salts dissolve in water with no taste or smell, the poisoner's poison, slipping into the body by passing as potassium and making hair fall out, with Prussian blue as its antidote; that same disguise lets a trace of it map where blood reaches the heart muscle, and mixed with mercury it reads temperatures far below freezing — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/tl/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "tl",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "tl": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "satin_pyjamas",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "teal",
+    "time": "morning",
+    "weather": "autumn",
+    "light": "dappled"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "280460ff26b83922a716c41ce1a7a27edd994fc39c1da9ac10a37ea249b957ba",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록한다. 노출검열 사유 재생성 없음.",
+  "ref_sha256": "c1af15320bfb1d62140fcebb58211d743fbad655f10ac781a5149835b53b6b0a"
+ },
+ "execution": "element-thallium-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "280460ff26b83922a716c41ce1a7a27edd994fc39c1da9ac10a37ea249b957ba",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 확인, 성인 여성 한 명",
+   "자연 관절로 이어진 팔다리와 보이는 손 연결 확인, 추가 팔다리 없음",
+   "읽히는 로고·워터마크·화면 오버레이 없음",
+   "환경 중심 원거리 계획보다 인물이 크게 배치됨; 눈을 감은 휴식 표정"
+  ],
+  "cause": "지시문 구도·의상 제약보다 참조 이미지의 문양·장면 및 모델의 정면 구도 편향이 우선 반영됨. 원본을 보존해 등록한다."
+ },
+ "acceptance": "user_selection_3_1_2_and_main_update_approval"
+}

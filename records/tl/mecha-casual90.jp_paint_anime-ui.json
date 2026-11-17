@@ -1,0 +1,93 @@
+{
+ "atelier": "element",
+ "card": "tl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "mecha",
+  "placeText": "a juice bar of her element's kingdom — a counter of blenders, crates of leafy greens and a bright menu wall",
+  "ownProp": "a tall glass of bright green juice",
+  "light": "low_warm",
+  "spot": "left_third",
+  "expr": "relieved",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "a juice bar look fitted to her body — a cropped tank top under a short green apron, high-waisted shorts and sneakers",
+  "scene": "she is the juice bar owner pouring a bright green juice with a sweet smile",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tl_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thallium (Tl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a juice bar of her element's kingdom — a counter of blenders, crates of leafy greens and a bright menu wall\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a juice bar look fitted to her body — a cropped tank top under a short green apron, high-waisted shorts and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a tall glass of bright green juice at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is the juice bar owner pouring a bright green juice with a sweet smile\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thallium: a soft grey metal that cuts with a knife, dulls quickly in air and is kept under oil; found in 1861 by a London chemist who saw a single vivid spring-green line in the spectrum of sulfuric-acid works residue and named it from the Greek for a green shoot, and while weighing it in a vacuum he came upon the little sun-spun light mill; its salts dissolve in water with no taste or smell, the poisoner's poison, slipping into the body by passing as potassium and making hair fall out, with Prussian blue as its antidote; that same disguise lets a trace of it map where blood reaches the heart muscle, and mixed with mercury it reads temperatures far below freezing — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/tl/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "그린 주스 바 사장",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "82810795cf09b410dec44aa1e1cc4a31a06577d635d79a606d1df50b9deee45e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록한다. 노출검열 사유 재생성 없음.",
+  "ref_sha256": "c1af15320bfb1d62140fcebb58211d743fbad655f10ac781a5149835b53b6b0a",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "delivery_error": {
+   "note": "An earlier missing-file shell error was passed instead of this occupation prompt. Those outputs are preserved separately and excluded from registration. This file was generated from the verified correct occupation prompt."
+  }
+ },
+ "execution": "element-thallium-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "82810795cf09b410dec44aa1e1cc4a31a06577d635d79a606d1df50b9deee45e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 확인, 성인 여성 한 명",
+   "자연 관절로 이어진 팔다리와 보이는 손 연결 확인, 추가 팔다리 없음",
+   "읽히는 로고·워터마크·화면 오버레이 없음",
+   "카운터 주스 직업은 반영됐으나 옆모습 비중이 높음"
+  ],
+  "cause": "지시문 구도·의상 제약보다 참조 이미지의 문양·장면 및 모델의 정면 구도 편향이 우선 반영됨. 원본을 보존해 등록한다."
+ },
+ "acceptance": "user_selection_3_1_2_and_main_update_approval"
+}

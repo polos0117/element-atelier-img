@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "tl",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_darkroom",
+  "ofam": "roleplay",
+  "item": "uniform_inspired",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "light": "low_warm",
+  "color": "pattern",
+  "shade": "stripe",
+  "expr": "candid",
+  "preset": "hip_contra",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tl_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thallium (Tl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a stylised uniform-inspired costume with crisp lapels and decorative epaulettes, no real insignia — in bold navy-and-white stripes; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thallium: a soft grey metal that cuts with a knife, dulls quickly in air and is kept under oil; found in 1861 by a London chemist who saw a single vivid spring-green line in the spectrum of sulfuric-acid works residue and named it from the Greek for a green shoot, and while weighing it in a vacuum he came upon the little sun-spun light mill; its salts dissolve in water with no taste or smell, the poisoner's poison, slipping into the body by passing as potassium and making hair fall out, with Prussian blue as its antidote; that same disguise lets a trace of it map where blood reaches the heart muscle, and mixed with mercury it reads temperatures far below freezing — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/tl/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "tl",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "tl": {
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hip_contra",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "item": "uniform_inspired",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "stripe",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3ba4d63e265eff4e685a6d74c6756582ad2639244d898db08186a2aacccd2368",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록한다. 노출검열 사유 재생성 없음.",
+  "ref_sha256": "c1af15320bfb1d62140fcebb58211d743fbad655f10ac781a5149835b53b6b0a"
+ },
+ "execution": "element-thallium-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3ba4d63e265eff4e685a6d74c6756582ad2639244d898db08186a2aacccd2368",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 확인, 성인 여성 한 명",
+   "자연 관절로 이어진 팔다리와 보이는 손 연결 확인, 추가 팔다리 없음",
+   "읽히는 로고·워터마크·화면 오버레이 없음"
+  ]
+ },
+ "acceptance": "user_selection_3_1_2_and_main_update_approval"
+}

@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "tl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tl_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_market",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "weather": "snow",
+  "time": "dusk",
+  "own": "steampunk",
+  "placeText": "a seed shop of her element's kingdom — drawers of paper seed packets, hanging bundles of dried herbs and sprouting trays in the window",
+  "ownProp": "a wooden tray of green sprouts",
+  "view": "foreground",
+  "expr": "wistful",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a seed shop look fitted to her body — a cropped blouse, a short skirt under a green shop apron and lace-up boots",
+  "scene": "she is the seed shop keeper showing off a tray of new green sprouts",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tl_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Thallium (Tl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a seed shop of her element's kingdom — drawers of paper seed packets, hanging bundles of dried herbs and sprouting trays in the window\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a seed shop look fitted to her body — a cropped blouse, a short skirt under a green shop apron and lace-up boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a wooden tray of green sprouts in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\nScene note: she is the seed shop keeper showing off a tray of new green sprouts\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thallium: a soft grey metal that cuts with a knife, dulls quickly in air and is kept under oil; found in 1861 by a London chemist who saw a single vivid spring-green line in the spectrum of sulfuric-acid works residue and named it from the Greek for a green shoot, and while weighing it in a vacuum he came upon the little sun-spun light mill; its salts dissolve in water with no taste or smell, the poisoner's poison, slipping into the body by passing as potassium and making hair fall out, with Prussian blue as its antidote; that same disguise lets a trace of it map where blood reaches the heart muscle, and mixed with mercury it reads temperatures far below freezing — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/tl/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "씨앗 가게 주인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "85a1393dd2371dba85199037717c6d1265c390c066a257604c573656269328b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록한다. 노출검열 사유 재생성 없음.",
+  "ref_sha256": "76fb5d2191a6292ac546b158f99959ff25dd89aa2b61646b0c05f6340f012435",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "delivery_error": {
+   "note": "An earlier missing-file shell error was passed instead of this occupation prompt. Those outputs are preserved separately and excluded from registration. This file was generated from the verified correct occupation prompt."
+  }
+ },
+ "execution": "element-thallium-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "85a1393dd2371dba85199037717c6d1265c390c066a257604c573656269328b6",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 확인, 성인 여성 한 명",
+   "자연 관절로 이어진 팔다리와 보이는 손 연결 확인, 추가 팔다리 없음",
+   "읽히는 로고·워터마크·화면 오버레이 없음"
+  ]
+ },
+ "acceptance": "user_selection_3_1_2_and_main_update_approval"
+}
