@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "re",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "re_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "dusk",
+  "own": "mecha",
+  "placeText": "a rafting put-in on her element's kingdom's river — rafts on the gravel bank, paddles in a rack and white water beyond",
+  "ownProp": "a rafting paddle",
+  "light": "side",
+  "depth": "flat",
+  "expr": "pensive",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a rafting guide look fitted to her body — a sporty bikini top under an open life vest, quick-dry shorts and river sandals",
+  "scene": "she is the rafting guide raising a paddle to call her crew to the boat",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "re_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rhenium (Re) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rafting put-in on her element's kingdom's river — rafts on the gravel bank, paddles in a rack and white water beyond\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a rafting guide look fitted to her body — a sporty bikini top under an open life vest, quick-dry shorts and river sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a rafting paddle up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is the rafting guide raising a paddle to call her crew to the boat\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rhenium: a dense, silvery-grey metal, the last stable element ever discovered, found in 1925 by X-ray spectroscopy and named for the Rhine; one of the rarest elements in the earth's crust, its first gram was won in 1928 from 660 kilograms of molybdenum ore, and it is still gathered from the flue dust of roasting molybdenum; it melts at 3186 degrees Celsius, after only tungsten and carbon, and a few percent in nickel superalloys keeps jet-engine turbine blades from sagging in the flame; with platinum it refines petrol, with tungsten it measures the hottest furnaces — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/re/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "래프팅 가이드",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "ref_sha256": "11906f7ae981edab8f089d8dc64dec9411fb1406dc8d4b8100c3ba3274da22fe",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bbed61f699b09ecb4f4cbe0671fe6feb0c891ac688d1b80ff693876a2949f5fd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved separately; only WebP is committed."
+ },
+ "execution": "element-re-20261117-773599fb",
+ "imported": "2026-11-17",
+ "acceptance": "User explicitly approved commit and normal main push; no regeneration for exposure review.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bbed61f699b09ecb4f4cbe0671fe6feb0c891ac688d1b80ff693876a2949f5fd",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one adult woman; painterly anime style.",
+   "Rafting guide chest portrait at snowy river base, paddle held in visible hand, life vest over bikini.",
+   "No extra or disconnected limbs observed. Occluded fingers and cropped limbs cannot be fully counted."
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "re",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "re_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "satin_lounge",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "weather": "rain",
+  "time": "dusk",
+  "depth": "flat",
+  "color": "mono",
+  "shade": "jet",
+  "expr": "confident",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "re_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rhenium (Re) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a garden with a pond in her element's kingdom\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a satin lounge set of button shirt and shorts — in solid jet black; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rhenium: a dense, silvery-grey metal, the last stable element ever discovered, found in 1925 by X-ray spectroscopy and named for the Rhine; one of the rarest elements in the earth's crust, its first gram was won in 1928 from 660 kilograms of molybdenum ore, and it is still gathered from the flue dust of roasting molybdenum; it melts at 3186 degrees Celsius, after only tungsten and carbon, and a few percent in nickel superalloys keeps jet-engine turbine blades from sagging in the flame; with platinum it refines petrol, with tungsten it measures the hottest furnaces — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/re/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "re",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "re": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "satin_lounge",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "shade": "jet",
+    "time": "dusk",
+    "weather": "rain",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "ref_sha256": "769e3f57c7de42c136e2495e06f7b1dba93556d437e90958de45b205c52d6fd0",
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c46855f8bfe0ae381980602e2af01325aaf541a02141d9b9fa280373f75d8129",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is preserved separately; only WebP is committed."
+ },
+ "execution": "element-re-20261117-773599fb",
+ "imported": "2026-11-17",
+ "acceptance": "User explicitly approved commit and normal main push; no regeneration for exposure review.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c46855f8bfe0ae381980602e2af01325aaf541a02141d9b9fa280373f75d8129",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536 verified; one adult woman; painterly anime style.",
+   "Black satin lounge outfit in rainy garden; one foot on step and one on paving, two hands visible.",
+   "No extra or disconnected limbs observed. Occluded fingers and cropped limbs cannot be fully counted."
+  ]
+ }
+}
