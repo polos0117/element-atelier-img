@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "at_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_darkroom",
+  "ofam": "dongtan",
+  "item": "dongtan_offshoulder",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "light": "low_warm",
+  "color": "earth",
+  "shade": "olive",
+  "expr": "focused",
+  "preset": "cheek_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "at_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Astatine (At) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in muted olive green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — astatine: the rarest naturally occurring element, less than a gram of it spread through the whole of the Earth's crust at any moment, named from the Greek for unstable; first made in 1940 by firing alpha particles at bismuth in a cyclotron after years of false claims, and found in nature in 1943 in the decay chains of uranium and thorium; even its longest-lived form lasts only hours, and any visible speck would boil away in its own heat, so no one has ever seen a piece of it, only guessed it would be a dark, metallic-looking solid; the heaviest halogen, it seeks the thyroid like iodine and, living about seven hours, is being shaped into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/at/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "at",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "at": {
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cheek_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dongtan_offshoulder",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "shade": "olive",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5dc11792f6ecf3eee50aef5eb96a0524a4d34a7020838a1eb91d949494e43c07",
+  "ref_sha256": "17c709fea5e43d1b4c63c4f52b0bcf64a3f6a293f038d79a4d1ed5c77a928fcc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 보존하며 Git에는 올리지 않음. 생성 후 재생성 없음."
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "5dc11792f6ecf3eee50aef5eb96a0524a4d34a7020838a1eb91d949494e43c07",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "주인공 성인 여성 한 명; 선택한 해당 세계컷을 참조",
+   "보이는 팔·손과 다리의 연결 확인; 명확한 추가·분리 팔다리 없음",
+   "생성된 원본 유지, 재생성 없음"
+  ]
+ },
+ "acceptance": "user selection 1,1,1 and authorized main publication"
+}

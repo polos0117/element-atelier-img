@@ -1,0 +1,137 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "at_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "book_hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "night",
+  "spot": "right_third",
+  "view": "foreground",
+  "cosplay": {
+   "game": "dead_or_alive_5",
+   "character": "Bass Armstrong",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "pensive",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "at_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Astatine (At) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her bedroom, an unmade bed and soft window light\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Bass Armstrong from Dead or Alive 5 — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a book closed against her chest; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/at/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "at",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "at": {
+    "era": "now",
+    "place": "home_bedroom",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "book_hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "dead_or_alive_5",
+     "character": "Bass Armstrong",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "night",
+    "spot": "right_third",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3e326dbd8afb134b85499be1c0d75aca7cc0836b7cc8c8e1e2b8358c2468f6bc",
+  "ref_sha256": "17c709fea5e43d1b4c63c4f52b0bcf64a3f6a293f038d79a4d1ed5c77a928fcc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 보존하며 Git에는 올리지 않음. 생성 후 재생성 없음.",
+  "cosplay": {
+   "game": "dead_or_alive_5",
+   "character": "Bass Armstrong",
+   "cut": "leotard"
+  }
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3e326dbd8afb134b85499be1c0d75aca7cc0836b7cc8c8e1e2b8358c2468f6bc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "주인공 성인 여성 한 명; 선택한 해당 세계컷을 참조",
+   "보이는 팔·손과 다리의 연결 확인; 명확한 추가·분리 팔다리 없음",
+   "생성된 원본 유지, 재생성 없음",
+   "코스프레 레오타드 재단은 반영됐으나 캐릭터 고유 의상 재현은 제한적; 참조보다 머리가 길어짐"
+  ],
+  "cause": "모델의 참조 장식·긴 머리·정면 구도 편향 또는 장면 해석 차이. 결과를 수정하거나 재생성하지 않고 기록한다."
+ },
+ "acceptance": "user selection 1,1,1 and authorized main publication"
+}

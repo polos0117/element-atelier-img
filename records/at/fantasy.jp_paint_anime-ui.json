@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "phoenix",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "eye_color": "obsidian",
+   "age": "mid_20s",
+   "impression": "sharp",
+   "skin_tone": "deep_brown",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "wistful"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair": "windswept_long",
+   "hair_color": "astatine_scatter",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "at_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Astatine (아스타틴) itself — the sovereign of the Astatine Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a sharp, striking, intense look; deep brown skin; diamond-shaped face; smaller, narrower eyes than usual anime proportion — long phoenix eyes with lifted outer corners, outer eye corners slightly lifted; sharp angled brows; aquiline nose; thin long lips; near-black obsidian eyes; smoky dark eye makeup.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; very long hair streaming sideways in the wind with long bangs falling over one eye; jet-black metallic hair with a faint violet sheen, scattered with a few tiny white pinpoints that wink in and out.\nExpression: a faint wistful smile, soft eyes.\nHer element, carried in her design: astatine: the rarest naturally occurring element, less than a gram of it spread through the whole of the Earth's crust at any moment, named from the Greek for unstable; first made in 1940 by firing alpha particles at bismuth in a cyclotron after years of false claims, and found in nature in 1943 in the decay chains of uranium and thorium; even its longest-lived form lasts only hours, and any visible speck would boil away in its own heat, so no one has ever seen a piece of it, only guessed it would be a dark, metallic-looking solid; the heaviest halogen, it seeks the thyroid like iodine and, living about seven hours, is being shaped into an alpha-ray medicine that strikes only cancer cells.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: near-black metallic gunmetal, faint vanishing violet, pinpoint white sparks, cold halogen grey-blue.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a kingdom that never gathers: its whole people are single dark-violet sparks hidden one by one in rock cracks across the continent; only on a glittering plain of black crystal do they gather for a few moments into a citadel of dark metal that begins to boil away in its own heat before it is ever finished, its half-built spires already thinning into faint vapour.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (At) and atomic number (85) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-17",
+ "record": "records/at/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "at",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "at|fantasy": {}
+  },
+  "looks": {
+   "at|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "at|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "df5beca09461426890ace2c558b392619427c5bcb6369a582a5d5eec85d05e27",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "preset",
+  "selected_candidate": 1
+ },
+ "qa": {
+  "anatomy": "ok",
+  "observations": [
+   "single main adult woman; full body and both hands visible; no obvious extra or detached limbs",
+   "original unchanged; no regeneration"
+  ],
+  "passed": true,
+  "reviewer": "GPT",
+  "image_sha256": "df5beca09461426890ace2c558b392619427c5bcb6369a582a5d5eec85d05e27"
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 1,1,1 and authorized publication"
+}

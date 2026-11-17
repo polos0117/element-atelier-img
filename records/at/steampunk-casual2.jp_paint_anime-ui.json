@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "at_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "book_read",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "night_snow",
+  "time": "lamplight",
+  "spot": "right_third",
+  "view": "glass",
+  "color": "pattern",
+  "shade": "leaf",
+  "expr": "soft_smile",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "at_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Astatine (At) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a lace bralette under an open cardigan with soft shorts — in a tropical leaf print in green and sunny yellow; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she reads a book held open in both hands — her own right hand holds the right page, her own left hand holds the left page.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — astatine: the rarest naturally occurring element, less than a gram of it spread through the whole of the Earth's crust at any moment, named from the Greek for unstable; first made in 1940 by firing alpha particles at bismuth in a cyclotron after years of false claims, and found in nature in 1943 in the decay chains of uranium and thorium; even its longest-lived form lasts only hours, and any visible speck would boil away in its own heat, so no one has ever seen a piece of it, only guessed it would be a dark, metallic-looking solid; the heaviest halogen, it seeks the thyroid like iodine and, living about seven hours, is being shaped into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/at/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "at",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "at": {
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_wall_use",
+    "use": "book_read",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "bralette_cardigan",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "leaf",
+    "time": "lamplight",
+    "weather": "night_snow",
+    "spot": "right_third",
+    "view": "glass"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3d63534cf50adbf4a9ecd46e339103c0a09f45512efaa0ac5ddd5610421c5634",
+  "ref_sha256": "024d850a7ea247792ec497438405b0ead60fef12fe9e253e6386aa00a75be7b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 보존하며 Git에는 올리지 않음. 생성 후 재생성 없음."
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3d63534cf50adbf4a9ecd46e339103c0a09f45512efaa0ac5ddd5610421c5634",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "주인공 성인 여성 한 명; 선택한 해당 세계컷을 참조",
+   "보이는 팔·손과 다리의 연결 확인; 명확한 추가·분리 팔다리 없음",
+   "생성된 원본 유지, 재생성 없음",
+   "바닥에 앉는 계획 대신 창가 좌석처럼 보이는 받침에 앉음"
+  ],
+  "cause": "모델의 참조 장식·긴 머리·정면 구도 편향 또는 장면 해석 차이. 결과를 수정하거나 재생성하지 않고 기록한다."
+ },
+ "acceptance": "user selection 1,1,1 and authorized main publication"
+}

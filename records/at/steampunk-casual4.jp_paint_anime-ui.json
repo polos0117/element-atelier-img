@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "at_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "subway_platform",
+  "ofam": "subculture",
+  "item": "romantic_goth",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "",
+  "hair": "down",
+  "light": "top",
+  "situ": "wet",
+  "expr": "proud",
+  "preset": "raise_chest",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "at_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Astatine (At) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underground subway platform, a tiled wall, a bench, platform-edge lights and a train arriving\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: romantic goth — a black velvet dress with a corset belt and lace sleeves; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a small sealed lead-glass capsule where a single faint dark-violet spark flickers and fades up beside her face; it is all she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — astatine: the rarest naturally occurring element, less than a gram of it spread through the whole of the Earth's crust at any moment, named from the Greek for unstable; first made in 1940 by firing alpha particles at bismuth in a cyclotron after years of false claims, and found in nature in 1943 in the decay chains of uranium and thorium; even its longest-lived form lasts only hours, and any visible speck would boil away in its own heat, so no one has ever seen a piece of it, only guessed it would be a dark, metallic-looking solid; the heaviest halogen, it seeks the thyroid like iodine and, living about seven hours, is being shaped into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/at/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "at",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "at": {
+    "era": "now",
+    "place": "subway_platform",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "raise_chest",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "romantic_goth",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "wet",
+    "hair": "down",
+    "light": "top"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8e3cf38df169b7a392b3866d6b178c355e7203bf0e592658d5cd86b38fac869e",
+  "ref_sha256": "024d850a7ea247792ec497438405b0ead60fef12fe9e253e6386aa00a75be7b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 보존하며 Git에는 올리지 않음. 생성 후 재생성 없음."
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "8e3cf38df169b7a392b3866d6b178c355e7203bf0e592658d5cd86b38fac869e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "주인공 성인 여성 한 명; 선택한 해당 세계컷을 참조",
+   "보이는 팔·손과 다리의 연결 확인; 명확한 추가·분리 팔다리 없음",
+   "생성된 원본 유지, 재생성 없음"
+  ]
+ },
+ "acceptance": "user selection 1,1,1 and authorized main publication"
+}

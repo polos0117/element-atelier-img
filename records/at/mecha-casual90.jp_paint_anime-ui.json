@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "at",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "at_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "",
+  "weather": "rain",
+  "time": "morning",
+  "own": "mecha",
+  "placeText": "a pop-up store in a square of her element's kingdom — a dark glass booth open for one day only, a countdown sign and a short rope line",
+  "ownProp": "a single limited-edition box with a violet seal",
+  "light": "side",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a pop-up manager look fitted to her body — a cropped black blazer over a bandeau top, a short leather skirt and ankle boots",
+  "scene": "she is the pop-up store manager opening the booth for its only day",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "at_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Astatine (At) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a pop-up store in a square of her element's kingdom — a dark glass booth open for one day only, a countdown sign and a short rope line\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: early morning — low clean light, long soft shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a pop-up manager look fitted to her body — a cropped black blazer over a bandeau top, a short leather skirt and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a single limited-edition box with a violet seal at chest height; it is all she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the pop-up store manager opening the booth for its only day\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — astatine: the rarest naturally occurring element, less than a gram of it spread through the whole of the Earth's crust at any moment, named from the Greek for unstable; first made in 1940 by firing alpha particles at bismuth in a cyclotron after years of false claims, and found in nature in 1943 in the decay chains of uranium and thorium; even its longest-lived form lasts only hours, and any visible speck would boil away in its own heat, so no one has ever seen a piece of it, only guessed it would be a dark, metallic-looking solid; the heaviest halogen, it seeks the thyroid like iodine and, living about seven hours, is being shaped into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/at/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "팝업 스토어 점장",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "964397271b81e7cd13370c21eef435c9546f11bf18fbfe0400fd1ab9e9f536c8",
+  "ref_sha256": "17c709fea5e43d1b4c63c4f52b0bcf64a3f6a293f038d79a4d1ed5c77a928fcc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 보존하며 Git에는 올리지 않음. 생성 후 재생성 없음.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-astatine-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "964397271b81e7cd13370c21eef435c9546f11bf18fbfe0400fd1ab9e9f536c8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 원본 확인",
+   "주인공 성인 여성 한 명; 선택한 해당 세계컷을 참조",
+   "보이는 팔·손과 다리의 연결 확인; 명확한 추가·분리 팔다리 없음",
+   "생성된 원본 유지, 재생성 없음",
+   "배경 시계에 07:00:00 숫자; 미래 광장보다 고전적인 상점 입구; 참조보다 긴 땋은 머리"
+  ],
+  "cause": "모델의 참조 장식·긴 머리·정면 구도 편향 또는 장면 해석 차이. 결과를 수정하거나 재생성하지 않고 기록한다."
+ },
+ "acceptance": "user selection 1,1,1 and authorized main publication"
+}
