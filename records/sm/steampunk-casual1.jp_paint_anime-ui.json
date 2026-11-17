@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "sm",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sm_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_taxi",
+  "ofam": "roleplay",
+  "item": "uniform_inspired",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "glass_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "lamplight",
+  "hair": "down",
+  "color": "vivid",
+  "shade": "cherry",
+  "expr": "half_smile",
+  "preset": "stride_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sm_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Samarium (Sm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the back seat of a taxi at night, city lights streaking past\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a stylised uniform-inspired costume with crisp lapels and decorative epaulettes, no real insignia — in bright cherry red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a cocktail glass by the stem at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — samarium: a hard silvery metal that slowly yellows in air, found in 1879 in samarskite, a velvety black ore from the Ilmen hills of the Urals that had been named for the Russian mining officer who let scientists study it, which makes samarium the first element named, through its mineral, after a person; alloyed with cobalt it makes magnets that keep their pull where others let go in the heat, driving motors in spacecraft and aircraft, and one of its isotopes eases the pain of cancer in bone — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/sm/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sm",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "sm": {
+    "era": "now",
+    "place": "night_taxi",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stride_prop",
+    "use": "glass_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "item": "uniform_inspired",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "cherry",
+    "time": "lamplight",
+    "hair": "down"
+   }
+  }
+ },
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "2271aa6a328238aa134d60084bd94728800ac122a559356ebe2815bd9c45a717",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference used for face, hair colour and body.",
+   "No extra or detached limbs observed; visible hands naturally connected.",
+   "Standing/walking inside taxi conflicts with ordinary cabin height; inherited from planned place and posture.",
+   "Shoulder epaulettes resemble reference uniform."
+  ]
+ },
+ "generation": {
+  "ref_sha256": "7cf04c21773eb7953d4e00b1972f5cdc610d9c454436123190c644011d6e78d9",
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2271aa6a328238aa134d60084bd94728800ac122a559356ebe2815bd9c45a717",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved locally and in generated-image delivery; only WebP committed"
+ },
+ "execution": "element-sm-303f",
+ "imported": "2026-11-17",
+ "acceptance": "User preauthorized commit and non-force main update; world selection 2,2,4"
+}

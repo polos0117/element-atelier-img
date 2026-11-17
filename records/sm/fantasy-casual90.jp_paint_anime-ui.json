@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "sm",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sm_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_temple",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "dusk",
+  "own": "fantasy",
+  "placeText": "a naming shrine of her element's kingdom — wooden name tablets hanging on red cords, a low altar and drifting incense",
+  "ownProp": "a slim wooden name tablet",
+  "light": "back",
+  "spot": "right_third",
+  "view": "foreground",
+  "expr": "relieved",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "a shrine name-giver look fitted to her body — a short wrap top with open sides, a slit skirt, a red cord sash and sandals",
+  "scene": "she is the name-giver brushing a newborn's chosen name onto a wooden tablet",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sm_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Samarium (Sm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a naming shrine of her element's kingdom — wooden name tablets hanging on red cords, a low altar and drifting incense\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a shrine name-giver look fitted to her body — a short wrap top with open sides, a slit skirt, a red cord sash and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a slim wooden name tablet in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is the name-giver brushing a newborn's chosen name onto a wooden tablet\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — samarium: a hard silvery metal that slowly yellows in air, found in 1879 in samarskite, a velvety black ore from the Ilmen hills of the Urals that had been named for the Russian mining officer who let scientists study it, which makes samarium the first element named, through its mineral, after a person; alloyed with cobalt it makes magnets that keep their pull where others let go in the heat, driving motors in spacecraft and aircraft, and one of its isotopes eases the pain of cancer in bone — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "record": "records/sm/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "작명 무녀",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "ref_sha256": "2815aaeae6477de9d0e1d16dc40093613429bae2fcc3837ae8f70cdf360ee227",
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "897f01428e36f4c1d94e8f536256aadfb672a3d72ad2bd11db4d2f3d7f7f780c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG preserved locally and in generated-image delivery; only WebP committed"
+ },
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "897f01428e36f4c1d94e8f536256aadfb672a3d72ad2bd11db4d2f3d7f7f780c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024x1536; one adult woman; reference used for face, hair colour and body.",
+   "No extra or detached limbs observed; visible hands naturally connected.",
+   "Rendered seated instead of leaning at a table.",
+   "Right hand writes with brush while left supports tablet; hand-use prompt had both hands holding tablet.",
+   "Name-like black glyph on tablet violates no-text rule; retained."
+  ]
+ },
+ "execution": "element-sm-303f",
+ "imported": "2026-11-17",
+ "acceptance": "User preauthorized commit and non-force main update; world selection 2,2,4"
+}
