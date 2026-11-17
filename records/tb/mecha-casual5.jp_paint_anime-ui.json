@@ -1,0 +1,72 @@
+{
+ "atelier": "element",
+ "card": "tb",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_alley",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "color": "vivid",
+  "shade": "fuchsia",
+  "expr": "serious",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tb_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Terbium (Tb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a narrow city alley with hanging signboards and wet pavement\nTime of day: golden hour — warm low sun, long shadows.\nOutfit: a short draped peplos mini dress belted with a fine gold chain, laurel-leaf hair pins and laced gladiator sandals — in bright fuchsia; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — terbium: a soft silvery-grey metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, a name later swapped by mistake with erbium's; its ions glow a brilliant yellow-green under ultraviolet light or electron beams, the green of three-band fluorescent lamps beside europium's red and of X-ray screens; alloyed with iron and dysprosium as Terfenol-D it stretches and shrinks in a magnetic field so strongly that it drives underwater sonar and turns a table or a window into a speaker — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/tb/mecha-casual5.jp_paint_anime-ui.json",
+ "execution": "terbium-f236-20261117",
+ "imported": "2026-11-18",
+ "acceptance": "User selected 3,3,3; commit and non-force main update authorized",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "png_sha256": "c19dcd477fd230bbce9fa67f98184e0381037386ddf4e74ef7d01a099106420e",
+  "ref_sha256": "b6c41ba76004eaca296811a572dfc8f3f333c6e3803bf6dd28a5e3c12cce69e0",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "c19dcd477fd230bbce9fa67f98184e0381037386ddf4e74ef7d01a099106420e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Fuchsia draped outfit in alley; right hand reaches toward viewer with five fingers, left on upper chest; two naturally connected arms, reference face and bob retained."
+  ]
+ }
+}

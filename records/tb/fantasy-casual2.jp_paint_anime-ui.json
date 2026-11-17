@@ -1,0 +1,72 @@
+{
+ "atelier": "element",
+ "card": "tb",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "hoodie_shorts",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "weather": "fog",
+  "color": "vivid",
+  "shade": "cobalt",
+  "expr": "gentle",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tb_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Terbium (Tb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nWeather / season: a misty morning — soft fog outside.\nOutfit: a cropped hoodie and short shorts — in bright cobalt blue; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — terbium: a soft silvery-grey metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, a name later swapped by mistake with erbium's; its ions glow a brilliant yellow-green under ultraviolet light or electron beams, the green of three-band fluorescent lamps beside europium's red and of X-ray screens; alloyed with iron and dysprosium as Terfenol-D it stretches and shrinks in a magnetic field so strongly that it drives underwater sonar and turns a table or a window into a speaker — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/tb/fantasy-casual2.jp_paint_anime-ui.json",
+ "execution": "terbium-f236-20261117",
+ "imported": "2026-11-18",
+ "acceptance": "User selected 3,3,3; commit and non-force main update authorized",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "png_sha256": "92cb51b8461d112eb0784e06c233cd1a81eaa0fb559935292a66e7a6f0bc5b08",
+  "ref_sha256": "466f88b19c08ab86b1bae3700dd005e5e729dab021f9f4e185f33e4fafb092b0",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "92cb51b8461d112eb0784e06c233cd1a81eaa0fb559935292a66e7a6f0bc5b08",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Seated on forest path; right hand supports chin, left hand rests on ground; raised knee and folded leg connect naturally; reference amber eyes retained."
+  ]
+ }
+}

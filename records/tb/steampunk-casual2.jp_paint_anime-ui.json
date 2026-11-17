@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "tb",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tb_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "oversized_shirt",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "hair": "down",
+  "light": "two_tone",
+  "depth": "flat",
+  "color": "mono",
+  "shade": "graphite",
+  "expr": "soft_smile",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tb_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Terbium (Tb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in graphite grey with black trim; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — terbium: a soft silvery-grey metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, a name later swapped by mistake with erbium's; its ions glow a brilliant yellow-green under ultraviolet light or electron beams, the green of three-band fluorescent lamps beside europium's red and of X-ray screens; alloyed with iron and dysprosium as Terfenol-D it stretches and shrinks in a magnetic field so strongly that it drives underwater sonar and turns a table or a window into a speaker — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/tb/steampunk-casual2.jp_paint_anime-ui.json",
+ "execution": "terbium-f236-20261117",
+ "imported": "2026-11-18",
+ "acceptance": "User selected 3,3,3; commit and non-force main update authorized",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "png_sha256": "41dd87406721ec4314fb431549005dfb76f712d59f9ddb5fbe056eaca6f33507",
+  "ref_sha256": "35ffec817d9f659718ca499f4f0fbf1c48ede25cc0a768da31373c3df96b44b1",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "41dd87406721ec4314fb431549005dfb76f712d59f9ddb5fbe056eaca6f33507",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Study scene in graphite oversized shirt; two crossed forearms, one hand visible and other naturally occluded; no detached hand; freckles and reference identity retained."
+  ]
+ }
+}

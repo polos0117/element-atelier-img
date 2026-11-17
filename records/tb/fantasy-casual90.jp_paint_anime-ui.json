@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "tb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "tb_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "fantasy",
+  "placeText": "a lantern-lit tavern of her element's kingdom — a table of tuned water-filled crystal glasses on a little stage and warm wooden beams",
+  "ownProp": "a tuned crystal wine glass half full of water",
+  "light": "side",
+  "expr": "candid",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a tavern musician look fitted to her body — a short laced bodice over a bandeau, a high-slit skirt and soft boots",
+  "scene": "she is the glass-harp player drawing a ringing tone from the wet rim of a crystal glass",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tb_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Terbium (Tb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lantern-lit tavern of her element's kingdom — a table of tuned water-filled crystal glasses on a little stage and warm wooden beams\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a tavern musician look fitted to her body — a short laced bodice over a bandeau, a high-slit skirt and soft boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a tuned crystal wine glass half full of water in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the glass-harp player drawing a ringing tone from the wet rim of a crystal glass\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — terbium: a soft silvery-grey metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, a name later swapped by mistake with erbium's; its ions glow a brilliant yellow-green under ultraviolet light or electron beams, the green of three-band fluorescent lamps beside europium's red and of X-ray screens; alloyed with iron and dysprosium as Terfenol-D it stretches and shrinks in a magnetic field so strongly that it drives underwater sonar and turns a table or a window into a speaker — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/tb/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "유리잔 하프 악사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "png_sha256": "10fa5b253908f691354d0d7e9df76aa26647789dadd41c12fad60e5463e29d00",
+  "ref_sha256": "466f88b19c08ab86b1bae3700dd005e5e729dab021f9f4e185f33e4fafb092b0",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "terbium-f236-20261117",
+ "imported": "2026-11-18",
+ "acceptance": "User selected 3,3,3; commit and non-force main update authorized",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "10fa5b253908f691354d0d7e9df76aa26647789dadd41c12fad60e5463e29d00",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Glass harp musician in tavern; right fingertips touch glass rim while left hand steadies glass; two arms and natural hands, reference face and amber eyes retained."
+  ]
+ }
+}
