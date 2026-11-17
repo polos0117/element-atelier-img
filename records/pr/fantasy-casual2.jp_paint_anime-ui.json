@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "weather": "spring",
+  "time": "golden",
+  "light": "dappled",
+  "color": "pastel",
+  "shade": "baby_blue",
+  "expr": "confident",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nWeather / season: spring — blossom petals drifting outside.\nTime of day: golden hour — warm low sun, long shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a lace bralette under an open cardigan with soft shorts — in soft pastel baby blue; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — praseodymium: a soft silvery metal that grows a green crust in air, split away in 1885 from didymium, an earth long thought to be one element and named for twins, and named from the Greek for leek-green twin because its salts are a fresh leek green while its sister neodymium's are lilac; it tints glass and enamel yellow-green and ceramic glazes a clean bright yellow, and mixed back with neodymium in goggle glass it filters the stinging yellow flare for welders and glassblowers — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/fantasy-casual2.jp_paint_anime-ui.json",
+ "execution": "element-pr-865987",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3d569090331c35925fa44def3943ef85c7f7bc9a63042963781bb58de31af2b0",
+  "ref_sha256": "c8dc226f4244831d6697f104e5919698002081b6dd97ee55428f9181d95b7972",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "fantasy-casual2",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "3d569090331c35925fa44def3943ef85c7f7bc9a63042963781bb58de31af2b0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Hair-touching hand, baby-blue cardigan and bralette visible; left hand outside crop as planned",
+   "Face and violet eyes match selected fantasy identity",
+   "Reference-like green drop earrings retained despite reference wardrobe removal instruction"
+  ],
+  "cause": "Visual differences recorded without regeneration"
+ }
+}

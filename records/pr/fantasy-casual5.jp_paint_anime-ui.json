@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_dam",
+  "ofam": "workwear",
+  "item": "coverall_tied",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "hair": "hat",
+  "spot": "left_third",
+  "color": "pattern",
+  "shade": "leaf",
+  "denier": "d40",
+  "situ": "waist_tied",
+  "expr": "curious",
+  "preset": "squat_prop",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the crest walkway of a hydroelectric dam, a steel railing, spillway gates and a wide reservoir below\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a mechanic's coverall with its top half peeled down and the sleeves tied at the waist over a fitted cropped tank top, work boots — in a tropical leaf print in green and sunny yellow; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — she has slipped her outer layer off and tied it around her waist by its sleeves, leaving only the fitted inner top over her bare shoulders and arms, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a pair of round green-glass welding goggles on a leather strap at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — praseodymium: a soft silvery metal that grows a green crust in air, split away in 1885 from didymium, an earth long thought to be one element and named for twins, and named from the Greek for leek-green twin because its salts are a fresh leek green while its sister neodymium's are lilac; it tints glass and enamel yellow-green and ceramic glazes a clean bright yellow, and mixed back with neodymium in goggle glass it filters the stinging yellow flare for welders and glassblowers — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/fantasy-casual5.jp_paint_anime-ui.json",
+ "execution": "element-pr-865987",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "09faa23c81725e324934016131e4004765c4beb6588078d19faaa56cd61753fa",
+  "ref_sha256": "c8dc226f4244831d6697f104e5919698002081b6dd97ee55428f9181d95b7972",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "fantasy-casual5",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "09faa23c81725e324934016131e4004765c4beb6588078d19faaa56cd61753fa",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Full-body squat with two boots on dam walkway",
+   "Right hand holds green-glass goggles; left hand rests on knee; tied workwear and leaf-pattern colour visible",
+   "Reference-like green drop earrings retained"
+  ],
+  "cause": "Reference accessory carryover and any framing difference retained without regeneration"
+ }
+}

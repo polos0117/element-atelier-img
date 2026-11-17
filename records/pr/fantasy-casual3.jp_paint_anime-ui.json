@@ -1,0 +1,93 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "lap",
+  "use": "glass_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "light": "low_warm",
+  "depth": "flat",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Blue Mary",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "soft_smile",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a daring adult cosplay of Blue Mary from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a cocktail glass by the stem at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Blue Mary",
+   "cut": "lingerie"
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f94ed2703654376f3977bc2ebbd2151e670c0730360da49029311ec777b88004",
+  "ref_sha256": "c8dc226f4244831d6697f104e5919698002081b6dd97ee55428f9181d95b7972",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "fantasy-casual3",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "execution": "element-pr-865987",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "f94ed2703654376f3977bc2ebbd2151e670c0730360da49029311ec777b88004",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Adult Blue Mary cosplay uses recognizable red halter and blue shorts with lingerie styling",
+   "Side-facing seated pose, crossed legs, cocktail glass and arcade background visible",
+   "Reference-like green drop earrings retained"
+  ],
+  "cause": "Visual differences recorded without regeneration"
+ }
+}

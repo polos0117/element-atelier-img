@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_powder",
+  "ofam": "swimwear",
+  "item": "oring_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "spot": "low_small",
+  "color": "mono",
+  "shade": "jet",
+  "expr": "focused",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a club powder room with a lit mirror and neon on the tiles\nOutfit: a bikini joined at the centre and hips by polished metal rings — in solid jet black; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nLEGS: weight even on both legs.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — praseodymium: a soft silvery metal that grows a green crust in air, split away in 1885 from didymium, an earth long thought to be one element and named for twins, and named from the Greek for leek-green twin because its salts are a fresh leek green while its sister neodymium's are lilac; it tints glass and enamel yellow-green and ceramic glazes a clean bright yellow, and mixed back with neodymium in goggle glass it filters the stinging yellow flare for welders and glassblowers — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/mecha-casual1.jp_paint_anime-ui.json",
+ "execution": "element-pr-865987",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1dd1067d2cb01633be7602e759cc8276dcf54d40f0173cb8df0da4bb9c836c19",
+  "ref_sha256": "a138e36d432ec86522e0939df253af7540b08aadb4141527e7ea9534584bbb42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "mecha-casual1",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "1dd1067d2cb01633be7602e759cc8276dcf54d40f0173cb8df0da4bb9c836c19",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Environmental full-body profile in neon-tiled powder room",
+   "Black ring-detail swimwear and cup in both hands match planned outfit and action",
+   "Selected mecha woman retains high ponytail and green-yellow hair; armour and back unit removed",
+   "Two arms and two legs with natural joint connections; both feet inside frame"
+  ]
+ }
+}

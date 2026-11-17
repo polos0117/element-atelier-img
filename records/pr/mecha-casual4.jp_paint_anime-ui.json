@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "subway_car",
+  "ofam": "retro",
+  "item": "disco_halter",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "noon",
+  "hair": "tied",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "neutral",
+  "shade": "stone",
+  "situ": "undone",
+  "expr": "amused",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the inside of a quiet subway car, bench seats along the windows, overhead straps and a grab pole\nTime of day: midday — bright even light.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a 1970s lurex halter jumpsuit with flared legs — in pale stone beige; the outfit colour reads clearly at first glance; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — praseodymium: a soft silvery metal that grows a green crust in air, split away in 1885 from didymium, an earth long thought to be one element and named for twins, and named from the Greek for leek-green twin because its salts are a fresh leek green while its sister neodymium's are lilac; it tints glass and enamel yellow-green and ceramic glazes a clean bright yellow, and mixed back with neodymium in goggle glass it filters the stinging yellow flare for welders and glassblowers — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/mecha-casual4.jp_paint_anime-ui.json",
+ "execution": "element-pr-865987",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f8f959c5edab5b369e040bd386aa7d2028f6e582127dd3162fa669c3ae65d8d3",
+  "ref_sha256": "a138e36d432ec86522e0939df253af7540b08aadb4141527e7ea9534584bbb42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "mecha-casual4",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "f8f959c5edab5b369e040bd386aa7d2028f6e582127dd3162fa669c3ae65d8d3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Front-facing waist-up subway portrait with right thumb raised and left hand on hip",
+   "Stone-beige 1970s disco outfit with partly opened front matches planned situation; intimate areas covered",
+   "High ponytail and amber eyes retained; bust appears more emphasized than in armoured reference"
+  ],
+  "cause": "Visible body emphasis difference retained without regeneration"
+ }
+}

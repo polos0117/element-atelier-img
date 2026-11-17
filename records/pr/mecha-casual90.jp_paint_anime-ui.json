@@ -1,0 +1,95 @@
+{
+ "atelier": "element",
+ "card": "pr",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pr_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "a specialty coffee roastery of her element's kingdom — burlap sacks of green beans, a sorting table under bright light and a drum roaster",
+  "ownProp": "a shallow tray of green coffee beans",
+  "light": "low_warm",
+  "expr": "gentle",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a roastery look fitted to her body — a cropped tee, a short canvas apron over denim shorts and sneakers",
+  "scene": "she is the green-coffee sorter picking out every flawed bean by hand before the roast",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pr_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Praseodymium (Pr) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a specialty coffee roastery of her element's kingdom — burlap sacks of green beans, a sorting table under bright light and a drum roaster\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a roastery look fitted to her body — a cropped tee, a short canvas apron over denim shorts and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a shallow tray of green coffee beans in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the green-coffee sorter picking out every flawed bean by hand before the roast\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — praseodymium: a soft silvery metal that grows a green crust in air, split away in 1885 from didymium, an earth long thought to be one element and named for twins, and named from the Greek for leek-green twin because its salts are a fresh leek green while its sister neodymium's are lilac; it tints glass and enamel yellow-green and ceramic glazes a clean bright yellow, and mixed back with neodymium in goggle glass it filters the stinging yellow flare for welders and glassblowers — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-17",
+ "refDesign": "gpt_free",
+ "record": "records/pr/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "생두 선별사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c0bf3f1c3f33ae2d1fd4a00459fc87ea24da5d2767164b6bd8b2f943819bb281",
+  "ref_sha256": "a138e36d432ec86522e0939df253af7540b08aadb4141527e7ea9534584bbb42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "slot": "mecha-casual90",
+    "try": 1,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "execution": "element-pr-865987",
+ "imported": "2026-11-17",
+ "acceptance": "user selection 4,3,3; commit and non-force main push authorized",
+ "qa": {
+  "reviewer": "element-pr-865987",
+  "image_sha256": "c0bf3f1c3f33ae2d1fd4a00459fc87ea24da5d2767164b6bd8b2f943819bb281",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Coffee-roastery own job represented by green beans, sorting tray and roaster",
+   "Cropped tee, canvas apron and denim shorts match own-cut outfit",
+   "Both hands grip the tray; she is not visibly picking individual defective beans as activity text requests"
+  ],
+  "cause": "Activity interpretation retained without regeneration; own-cut two-hand tray pose conflicts with one-hand sorting action"
+ }
+}
