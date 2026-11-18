@@ -1,0 +1,126 @@
+{
+ "atelier": "element",
+ "card": "dy",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "dy_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_market",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "mecha",
+  "placeText": "a limited-release sneaker shop of her element's kingdom — a lit wall of single display shoes and a long queue outside the glass",
+  "ownProp": "a single rare sneaker",
+  "light": "side",
+  "expr": "curious",
+  "preset": "camera_shot",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "dy_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dysprosium (Dy) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a limited-release sneaker shop of her element's kingdom — a lit wall of single display shoes and a long queue outside the glass\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: everyday clothes that suit the place and activity, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a single rare sneaker in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dysprosium: a bright silvery metal named in 1886 from the Greek for 'hard to get at', after more than thirty patient precipitations were needed to pull it out of holmium oxide, and only isolated as a pure metal decades later; a small share of it inside neodymium magnets keeps their pull when the motors of electric cars and wind turbines run hot; with iron and terbium it makes a metal that sings in a magnetic field, and its lamps give the white light of film and stage — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/dy/mecha-casual90.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "dy",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 90,
+  "scenes": {
+   "dy": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_market",
+    "ofam": "everyday",
+    "prop": "0",
+    "ownProp": "a single rare sneaker",
+    "preset": "camera_shot",
+    "use": "sig_both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "light": "side",
+    "own": "mecha",
+    "placeText": "a limited-release sneaker shop of her element's kingdom — a lit wall of single display shoes and a long queue outside the glass",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "dy-8c970-20261118",
+ "imported": "2026-11-18",
+ "own": {
+  "job_ko": "한정판 운동화 매장 점원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b0aa5fe191212c70304f68293c601cba8ecbfb3841518238201c6c53ef8fd0b9",
+  "ref_sha256": "42eb71c2b6fcdf87483425cc951e5afdf43ac1a6e7c1a9ef69ca31eb704ba0f0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository stores WebP and SHA256.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "b0aa5fe191212c70304f68293c601cba8ecbfb3841518238201c6c53ef8fd0b9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Sneaker shop and single rare sneaker supported with both hands identify the job. Same face, eyes, silver hair and bronze skin.",
+   "The outfit uses a jacket, halter top and shorts rather than the planned cropped tee and pleated skirt."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-18 — proceed without additional confirmation"
+}

@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "dy",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "dy_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "own": "fantasy",
+  "placeText": "a sheer cliff edge of her element's kingdom — a rope ladder, wild bee combs under the overhang and wind over the valley",
+  "ownProp": "a woven basket of wild honeycomb",
+  "depth": "flat",
+  "expr": "serious",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "dy_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dysprosium (Dy) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sheer cliff edge of her element's kingdom — a rope ladder, wild bee combs under the overhang and wind over the valley\nOutfit: everyday clothes that suit the place and activity, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a woven basket of wild honeycomb up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dysprosium: a bright silvery metal named in 1886 from the Greek for 'hard to get at', after more than thirty patient precipitations were needed to pull it out of holmium oxide, and only isolated as a pure metal decades later; a small share of it inside neodymium magnets keeps their pull when the motors of electric cars and wind turbines run hot; with iron and terbium it makes a metal that sings in a magnetic field, and its lamps give the white light of film and stage — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/dy/fantasy-casual90.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "dy",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 90,
+  "scenes": {
+   "dy": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_field",
+    "ofam": "everyday",
+    "prop": "0",
+    "ownProp": "a woven basket of wild honeycomb",
+    "preset": "lookback_raise",
+    "use": "sig_raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "depth": "flat",
+    "own": "fantasy",
+    "placeText": "a sheer cliff edge of her element's kingdom — a rope ladder, wild bee combs under the overhang and wind over the valley",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "dy-8c970-20261118",
+ "imported": "2026-11-18",
+ "own": {
+  "job_ko": "벼랑 석청 채집꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cb539647200d2b1d1ecfde3e2fe90e2f92ce372f3e4bd678905e8678926fb2d0",
+  "ref_sha256": "a78cdc4bdcb5a66dcda92c8e6a06d29c6acdc0371a1282211f135653700e6222",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository stores WebP and SHA256.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "cb539647200d2b1d1ecfde3e2fe90e2f92ce372f3e4bd678905e8678926fb2d0",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Honeycomb basket, cliff, rope ladder and bees identify the honey hunter job. Reference face and hair preserved; one hand holds the basket while the other falls outside the close crop."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-18 — proceed without additional confirmation"
+}

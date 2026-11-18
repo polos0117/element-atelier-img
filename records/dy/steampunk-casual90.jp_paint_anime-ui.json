@@ -1,0 +1,130 @@
+{
+ "atelier": "element",
+ "card": "dy",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "dy_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_greenhouse",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "snow",
+  "own": "steampunk",
+  "placeText": "a glass orchid house of her element's kingdom — hanging baskets of rare orchids, misted air and a potting bench",
+  "ownProp": "a potted rare orchid in bloom",
+  "light": "back",
+  "view": "glass",
+  "expr": "gentle",
+  "preset": "raise_chest",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "dy_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dysprosium (Dy) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a glass orchid house of her element's kingdom — hanging baskets of rare orchids, misted air and a potting bench\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: everyday clothes that suit the place and activity, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a potted rare orchid in bloom up beside her face; it is all she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dysprosium: a bright silvery metal named in 1886 from the Greek for 'hard to get at', after more than thirty patient precipitations were needed to pull it out of holmium oxide, and only isolated as a pure metal decades later; a small share of it inside neodymium magnets keeps their pull when the motors of electric cars and wind turbines run hot; with iron and terbium it makes a metal that sings in a magnetic field, and its lamps give the white light of film and stage — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/dy/steampunk-casual90.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "dy",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 90,
+  "scenes": {
+   "dy": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_greenhouse",
+    "ofam": "everyday",
+    "prop": "0",
+    "ownProp": "a potted rare orchid in bloom",
+    "preset": "raise_chest",
+    "use": "sig_raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "weather": "snow",
+    "light": "back",
+    "view": "glass",
+    "own": "steampunk",
+    "placeText": "a glass orchid house of her element's kingdom — hanging baskets of rare orchids, misted air and a potting bench",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "dy-8c970-20261118",
+ "imported": "2026-11-18",
+ "own": {
+  "job_ko": "희귀 난초 사냥꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5cda793ddd6ab09e7d6ff89aa07efd61cffb6772704c65a5a30614fe5526e7de",
+  "ref_sha256": "4083d27df58c22ce791165d46b0df32f0155e3761811afff32f7bce6422c4a6a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained separately; repository stores WebP and SHA256.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "5cda793ddd6ab09e7d6ff89aa07efd61cffb6772704c65a5a30614fe5526e7de",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Rare orchid in a pot is held clearly in the greenhouse; same woman.",
+   "The generated outfit is an apron and off-shoulder blouse rather than the specified short expedition jacket and bandeau."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-18 — proceed without additional confirmation"
+}
