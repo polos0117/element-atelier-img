@@ -1,0 +1,84 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "item": "gc_crop_set",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "use": "popcorn_eat",
+    "legs": "",
+    "gaze": "camera",
+    "time": "day_indoor",
+    "cosplay": {
+      "game": "starcraft",
+      "character": "Selendis",
+      "cut": "crop_set",
+      "round": 1
+    },
+    "expr": "candid",
+    "preset": "wrap_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_mecha_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a convention photo zone under ring lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a daring adult cosplay of Selendis from StarCraft — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she pops a piece from a striped tub of popcorn into her mouth — her own right hand brings a piece to her lips, her own left hand holds the tub.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/mecha-casual3.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "818a5d479807120076bbba2c8340811d2fe1351161750bc8a670430868c432fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a99e6ffe6bdfd0e51c4be25fb7bd5f6c98294a50436d377747bedfe4e88c1bfb",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "38d22c0c902d99b8f3a9ef7116a52cd670b15e6fcb0cccbba67d335c67a916b7",
+    "note": "Original generated PNG retained; no regeneration after generation.",
+    "cosplay": {
+      "game": "starcraft",
+      "character": "Selendis",
+      "cut": "crop_set"
+    }
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "a99e6ffe6bdfd0e51c4be25fb7bd5f6c98294a50436d377747bedfe4e88c1bfb",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "행사장에서 팝콘을 먹는 손과 통을 든 손 확인. 셀렌디스 모티브 갑옷형 크롭 코스튬이나 기준 메카 장갑과 유사성이 남았다."
+    ],
+    "cause": "구도·자세·의상 지정과의 차이를 위에 기록했다. 생성 결과는 재생성하지 않았다."
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

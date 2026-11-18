@@ -1,0 +1,79 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_open_air",
+    "ofam": "bridal",
+    "item": "flowing_train",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "overcast",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep",
+    "color": "neutral",
+    "shade": "white",
+    "situ": "strap",
+    "expr": "gentle",
+    "preset": "chair_3q_high",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor theatre of tiered seats facing a stage\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a flowing wedding gown with a long train — in crisp white; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/mecha-casual5.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "818a5d479807120076bbba2c8340811d2fe1351161750bc8a670430868c432fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "3e27dda55a85fcf4d91f4b64539513e1dbd983f648ba3ea5bd58c5901bc75055",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "f58f6681638ddb494d3bc4cd939edde7426d3a2c0d70cc87f85cae23627fcb78",
+    "note": "Original generated PNG retained; no regeneration after generation."
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "3e27dda55a85fcf4d91f4b64539513e1dbd983f648ba3ea5bd58c5901bc75055",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "야외 공연장 좌석에서 볼에 손을 댄 모습과 내려간 어깨 장식 확인. 허리 위보다 넓은 구도로 생성됐다."
+    ],
+    "cause": "구도·자세·의상 지정과의 차이를 위에 기록했다. 생성 결과는 재생성하지 않았다."
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

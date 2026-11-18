@@ -1,0 +1,86 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "item": "gc_bikini",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "day_indoor",
+    "depth": "flat",
+    "cosplay": {
+      "game": "bayonetta",
+      "character": "Bayonetta",
+      "cut": "bikini",
+      "round": 1
+    },
+    "expr": "serious",
+    "preset": "chair_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_steampunk_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a daring adult cosplay of Bayonetta from Bayonetta — Bayonetta's look — a skin-tight black catsuit with gold chain and brooch accents, long white gloves, red ribbons at the arms and hair, slim glasses and high heels with small pistols set into the heels, cut as a bikini with a sheer sarong in the costume's colours, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/steampunk-casual3.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "07677fda9ba5ea1e9f34201fcb0f2555f929cf4783df965035b54d8df5ec2907",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4290aa55a26d8b728e877ec94e94b8c7a906d29e00624bf2039a60bfc1f45831",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "43818bd3429413f7a6b0be3b0247969039b88eb436d54d1a8022db351f3842c8",
+    "note": "Original generated PNG retained; no regeneration after generation.",
+    "cosplay": {
+      "game": "bayonetta",
+      "character": "Bayonetta",
+      "cut": "bikini"
+    }
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "4290aa55a26d8b728e877ec94e94b8c7a906d29e00624bf2039a60bfc1f45831",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "화보 스튜디오에서 뒤돌아본 앉은 자세와 안경 코스튬 확인. 계획의 비키니 대신 검정 하이컷 바디수트형으로 생성됐다.",
+      "기준컷의 별·산 모티브가 일상복에도 남았다. 생성기에는 원소 모티브를 의상 세부에 허용하는 문장이 포함돼 있다."
+    ],
+    "cause": "구도·자세·의상 지정과의 차이를 위에 기록했다. 생성 결과는 재생성하지 않았다."
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

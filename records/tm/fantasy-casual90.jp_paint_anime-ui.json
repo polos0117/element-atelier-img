@@ -1,0 +1,89 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "everyday",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "",
+    "weather": "fog",
+    "time": "morning",
+    "own": "fantasy",
+    "placeText": "the northernmost post office of her element's kingdom on the last island — a wooden counter, a red letterbox and sea ice beyond the window",
+    "ownProp": "a wooden postmark stamp",
+    "expr": "candid",
+    "preset": "counter_work",
+    "prop": "0",
+    "outfit": "a postmistress look fitted to her body — a short knit cardigan over a fitted top, a short wool skirt and fur-lined boots",
+    "scene": "she is the postmistress at the end of the world stamping the last letter before the boat leaves",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_fantasy_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the northernmost post office of her element's kingdom on the last island — a wooden counter, a red letterbox and sea ice beyond the window\nWeather / season: a misty morning — soft fog outside.\nTime of day: early morning — low clean light, long soft shadows; morning light slanting through the window across the floor.\nOutfit: a postmistress look fitted to her body — a short knit cardigan over a fitted top, a short wool skirt and fur-lined boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a wooden postmark stamp in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the postmistress at the end of the world stamping the last letter before the boat leaves\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/fantasy-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "세상 끝 우체국장",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "4df82411ac1fa440bc5b88cb7ed519198f1b4a813568bf856d2040dfd44e8053",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a7e83d2bafba918afe5db74c346577ea058e3647f99036aef4d40c3f5f6c37e3",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "454434305fc244af9a4996b523c30117696d521654b504da0f71d9e9f12033d2",
+    "note": "Original generated PNG retained; no regeneration after generation.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "a7e83d2bafba918afe5db74c346577ea058e3647f99036aef4d40c3f5f6c37e3",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "북방 우체국에서 두 손으로 큰 소인을 누르는 장면. 편지와 붉은 우체통 확인.",
+      "기준컷의 별·산 모티브가 일상복에도 남았다. 생성기에는 원소 모티브를 의상 세부에 허용하는 문장이 포함돼 있다."
+    ],
+    "cause": ""
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

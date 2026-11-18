@@ -1,0 +1,79 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "swimwear",
+    "item": "triangle_bikini",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "lantern_light",
+    "kind": "both",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "weather": "rain",
+    "time": "forenoon",
+    "hair": "braid",
+    "light": "dappled",
+    "color": "vivid",
+    "shade": "sunflower",
+    "expr": "candid",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_mecha_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: late morning — clear fresh daylight, soft short shadows; morning light slanting through the window across the floor.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a triangle bikini with slider cups and tie-side bottoms — in bright sunflower yellow; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she lights the wick of a small hand lantern with a long match — her own right hand holds the lit match to the wick, her own left hand steadies the lantern by its base.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/mecha-casual1.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "818a5d479807120076bbba2c8340811d2fe1351161750bc8a670430868c432fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "7a537229eae0966c6b70ac8f57c22429237cc6d894dc7e562fb970205c03ef5f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "3503df1c084f14833beaeae196797f7cbbec14b93f5e00a39685d08fa8241ab0",
+    "note": "Original generated PNG retained; no regeneration after generation."
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "7a537229eae0966c6b70ac8f57c22429237cc6d894dc7e562fb970205c03ef5f",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "수중 궁전의 등불에 성냥을 대는 두 손, 측면 전신과 두 발 확인. 물속 창 밖의 비 지시가 물방울 자국으로 표현됐다."
+    ],
+    "cause": ""
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

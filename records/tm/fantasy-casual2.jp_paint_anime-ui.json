@@ -1,0 +1,81 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_fantasy_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_bath",
+    "ofam": "homewear",
+    "item": "satin_pyjamas",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "lap",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "weather": "summer",
+    "time": "golden",
+    "moment": "foam_crown",
+    "light": "back",
+    "spot": "right_third",
+    "view": "foreground",
+    "color": "mono",
+    "shade": "graphite",
+    "expr": "half_smile",
+    "preset": "sideways_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_fantasy_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor bath, stream or fountain built in the style of her element's kingdom\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: golden hour — warm low sun, long shadows; light glittering off the water, dappling her skin.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a soft crown of bath foam sits on top of her head.\nOutfit: satin pyjamas with piped edges — in graphite grey with black trim; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/fantasy-casual2.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "4df82411ac1fa440bc5b88cb7ed519198f1b4a813568bf856d2040dfd44e8053",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "7a1128f55cd75716ff95a65b67e4eaf94eb03b07c00bcabeba362e4f56ea90b4",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "46f6dd24460123c85ea6ac958d9bd9d3e213f78fbe014dc695ca6bb2e9296f64",
+    "note": "Original generated PNG retained; no regeneration after generation."
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "7a1128f55cd75716ff95a65b67e4eaf94eb03b07c00bcabeba362e4f56ea90b4",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "벤치에 앉은 새틴 잠옷과 두 손 확인. 뒤 3/4 대신 옆 3/4 방향이며 목욕탕 요소를 유지했다.",
+      "기준컷의 별·산 모티브가 일상복에도 남았다. 생성기에는 원소 모티브를 의상 세부에 허용하는 문장이 포함돼 있다."
+    ],
+    "cause": "구도·자세·의상 지정과의 차이를 위에 기록했다. 생성 결과는 재생성하지 않았다."
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

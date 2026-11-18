@@ -1,0 +1,76 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "item": "robe_morning",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "time": "dawn",
+    "moment": "bubbles_float",
+    "color": "pastel",
+    "shade": "peach",
+    "expr": "calm",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_mecha_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a loosely tied robe — in soft pastel peach; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/mecha-casual2.jp_paint_anime-ui.json",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "818a5d479807120076bbba2c8340811d2fe1351161750bc8a670430868c432fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b4e165c92f3461ee2aa3a1f131fe5c0ffa2345d731fc0ffc1f38286cc4643047",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "4f3dec5e471aadbd7dc357f4b3907be06ec21bf1c952de0880adbf6cf24d8f2c",
+    "note": "Original generated PNG retained; no regeneration after generation."
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "b4e165c92f3461ee2aa3a1f131fe5c0ffa2345d731fc0ffc1f38286cc4643047",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "숲길에서 머리를 넘기는 손과 측면 얼굴 확인. 가까운 구도로 다리는 프레임 밖이다."
+    ],
+    "cause": ""
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}

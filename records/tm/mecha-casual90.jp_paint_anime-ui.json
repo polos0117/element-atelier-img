@@ -1,0 +1,88 @@
+{
+  "atelier": "element",
+  "card": "tm",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "tm_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_market",
+    "ofam": "everyday",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "use": "",
+    "legs": "tiptoe",
+    "gaze": "",
+    "time": "overcast",
+    "own": "mecha",
+    "placeText": "a polar outfitter's shop of her element's kingdom — racks of down parkas, ice axes and a wall map of the far north",
+    "ownProp": "an ice axe",
+    "depth": "flat",
+    "expr": "half_smile",
+    "preset": "reach_shelf",
+    "prop": "0",
+    "outfit": "an outfitter look fitted to her body — a cropped fleece top, a short quilted skirt and hiking boots",
+    "scene": "she is the outfitter fitting out the last explorer heading north",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tm_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Thulium (Tm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a polar outfitter's shop of her element's kingdom — racks of down parkas, ice axes and a wall map of the far north\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nOutfit: an outfitter look fitted to her body — a cropped fleece top, a short quilted skirt and hiking boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the outfitter fitting out the last explorer heading north\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — thulium: a soft silver-grey metal named in 1879 for Thule, the land the old maps placed at the northern edge of the world; apart from radioactive promethium it is the rarest of the lanthanides; one of its isotopes powers small portable X-ray sources that need no electricity in remote places, and a trace of it in calcium sulfate crystals makes dosimeters that remember the radiation they received and give it back as light when warmed — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-18",
+  "record": "records/tm/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "극지 탐험 장비점 주인",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "818a5d479807120076bbba2c8340811d2fe1351161750bc8a670430868c432fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "53e65e1d778a7a318b6cd6a04a915884b8081320b1a2430bd5c720bbb823e682",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "6be87e15bd18090c52cbb9474488eddcd9698958c1d459df271d9621d5b696cb",
+    "note": "Original generated PNG retained; no regeneration after generation.",
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "qa": {
+    "reviewer": "element-tm-20261118",
+    "image_sha256": "53e65e1d778a7a318b6cd6a04a915884b8081320b1a2430bd5c720bbb823e682",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536, 성인 여성 1명, 참조의 은발·푸른 눈·밝은 피부 유지.",
+      "극지 장비점 선반에 팔을 뻗는 자세와 반대쪽 내려 둔 손, 두 발 확인. 손에 든 얼음도끼 대신 진열된 도끼가 나왔다."
+    ],
+    "cause": "구도·자세·의상 지정과의 차이를 위에 기록했다. 생성 결과는 재생성하지 않았다."
+  },
+  "execution": "element-tm-20261118",
+  "imported": "2026-11-18",
+  "acceptance": "user_approved_generation_review_and_main_nonforce_2026-11-18"
+}
