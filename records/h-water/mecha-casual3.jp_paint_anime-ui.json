@@ -1,0 +1,81 @@
+{
+ "atelier": "element",
+ "card": "h-water",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-water_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_cap",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "time": "fluorescent",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Sombra",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "focused",
+  "preset": "side_chair_read",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h-water_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Water, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a daring adult cosplay of Sombra from Overwatch — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she pulls the lens cap off a camera — her own right hand pinches the lens cap off, her own left hand holds the camera body.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/h-water/mecha-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9f1fb63266de90c65437eb41a1b46105fe4052158b740a7ccd9937cefda4b202",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록한다.",
+  "ref_sha256": "456446c48bfa255c48fdc329fa558552240ef029cae5aa63321d4d4aba54db95",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Sombra",
+   "cut": "crop_set"
+  }
+ },
+ "execution": "element-h-water-a1bae05",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-h-water-a1bae05",
+  "image_sha256": "9f1fb63266de90c65437eb41a1b46105fe4052158b740a7ccd9937cefda4b202",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "테마 행사장 의자에 옆으로 앉아 카메라 렌즈를 다루는 솜브라 크롭 투피스 코스프레. 두 팔과 다리 연결이 읽힌다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "h-water",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-water_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_one_piece",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "day_indoor",
+  "depth": "flat",
+  "view": "foreground",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Chiori",
+   "cut": "one_piece",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h-water_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Water, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a daring adult cosplay of Chiori from Genshin Impact — the costume's recognisable colours and parts, cut as a high-cut one-piece swimsuit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/h-water/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "25a593d76a97a27dbe4cc837152b16116ed940de7ebe5c9600ae559cad978dce",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록한다.",
+  "ref_sha256": "627cb643cc66bd411631dab9a60b29ba88e9e67c1d564d118f9eeda141a9d29a",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Chiori",
+   "cut": "one_piece"
+  }
+ },
+ "execution": "element-h-water-a1bae05",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-h-water-a1bae05",
+  "image_sha256": "25a593d76a97a27dbe4cc837152b16116ed940de7ebe5c9600ae559cad978dce",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "스튜디오에서 치오리 모티프 원피스 수영복을 입고 오른손을 렌즈 앞으로 내밀었다. 상체와 허벅지 상단이 들어온다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

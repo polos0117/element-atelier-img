@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "h-water",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-water_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "rain",
+  "time": "dusk",
+  "own": "mecha",
+  "placeText": "a weather station on a hilltop of her element's kingdom — a rain gauge, a wind vane, a white instrument box and clouds building far off",
+  "ownProp": "a small rain gauge",
+  "light": "side",
+  "spot": "left_third",
+  "expr": "nostalgic",
+  "preset": "camera_shot",
+  "prop": "0",
+  "outfit": "a weather observer look fitted to her body — a cropped rain jacket open over a bandeau, short shorts and rain boots",
+  "scene": "she is a weather observer standing and reading a small rain gauge",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h-water_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Water, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a weather station on a hilltop of her element's kingdom — a rain gauge, a wind vane, a white instrument box and clouds building far off\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on; the rain-wet ground mirroring the light around her.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a weather observer look fitted to her body — a cropped rain jacket open over a bandeau, short shorts and rain boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small rain gauge in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a weather observer standing and reading a small rain gauge\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/h-water/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "기상 관측관",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ca7786d67114ddaef12aaae2d5cfb42a1dbb6a2ae414be5e3f97387459f45751",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록한다.",
+  "ref_sha256": "456446c48bfa255c48fdc329fa558552240ef029cae5aa63321d4d4aba54db95",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-h-water-a1bae05",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-h-water-a1bae05",
+  "image_sha256": "ca7786d67114ddaef12aaae2d5cfb42a1dbb6a2ae414be5e3f97387459f45751",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "비 오는 기상관측 플랫폼에서 양손으로 관측기를 든다. 메카 참조의 비대칭 파란 앞머리를 유지했다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

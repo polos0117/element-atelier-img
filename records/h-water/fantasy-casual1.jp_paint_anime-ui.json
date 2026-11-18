@@ -1,0 +1,72 @@
+{
+ "atelier": "element",
+ "card": "h-water",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-water_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_bar",
+  "ofam": "swimwear",
+  "item": "asymmetric_swim",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "time": "lamplight",
+  "color": "pattern",
+  "shade": "plaid",
+  "expr": "half_smile",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h-water_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Water, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a neon-lit bar counter with backlit bottles\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: an asymmetric one-shoulder swimsuit with a clean diagonal neckline — in green-and-navy tartan plaid; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters toward the camera; camera low, near the ground, level with her face as she sits or kneels.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a smartphone up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/h-water/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "94bc2f5fb668e22e2b486fc917f9aeeeb6be99e52400fc38ea4a2519bc9a4c99",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록한다.",
+  "ref_sha256": "627cb643cc66bd411631dab9a60b29ba88e9e67c1d564d118f9eeda141a9d29a"
+ },
+ "execution": "element-h-water-a1bae05",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-h-water-a1bae05",
+  "image_sha256": "94bc2f5fb668e22e2b486fc917f9aeeeb6be99e52400fc38ea4a2519bc9a4c99",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "바에서 체크 원숄더 수영복 차림의 셀카 프레이밍. 팔이 카메라로 뻗고 손과 휴대폰은 화면 밖에 있다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

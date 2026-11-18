@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "h-water",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-water_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "steampunk",
+  "placeText": "a weather station on a hilltop of her element's kingdom — a rain gauge, a wind vane, a white instrument box and clouds building far off",
+  "ownProp": "a small brass thermometer",
+  "light": "side",
+  "depth": "flat",
+  "expr": "pensive",
+  "preset": "pocket_look",
+  "prop": "0",
+  "outfit": "a weather observer look fitted to her body — a cropped rain jacket open over a bandeau, short shorts and rain boots",
+  "scene": "she is a weather observer reading a thermometer in her hand",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "h-water_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Water, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a weather station on a hilltop of her element's kingdom — a rain gauge, a wind vane, a white instrument box and clouds building far off\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a weather observer look fitted to her body — a cropped rain jacket open over a bandeau, short shorts and rain boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a small brass thermometer at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is a weather observer reading a thermometer in her hand\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/h-water/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "기상 관측관",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "018e5237e5bc2a67b1261bd166a38b9f90c8a723fdec77af059751902628eb8f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록한다.",
+  "ref_sha256": "105bf902e586ded7981f1215040e23b82eda8c7dc99859cc60d0ae3bded96733",
+  "refDesign": "gpt_free",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-h-water-a1bae05",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-h-water-a1bae05",
+  "image_sha256": "018e5237e5bc2a67b1261bd166a38b9f90c8a723fdec77af059751902628eb8f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "기상 관측 도구를 들어 내려다보는 모습. 바람개비와 관측 설비가 뒤에 보인다. 스팀펑크 참조의 단발과 얼굴을 유지했다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}
