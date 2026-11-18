@@ -1,0 +1,55 @@
+{
+  "card": "dy",
+  "selection": {
+    "fantasy": 1,
+    "steampunk": 2,
+    "mecha": 1
+  },
+  "counts": {
+    "world": 3,
+    "casual": 21,
+    "own": 3,
+    "total": 27
+  },
+  "result_sheet_library_file_id": "libfile_d05a17fbfd408191960078049753a239",
+  "generation": {
+    "tool": "image_gen",
+    "new_calls": 24,
+    "recreations": 0
+  },
+  "verification": {
+    "all_webp_dimensions": [
+      1024,
+      1536
+    ],
+    "all_27_uploaded_blob_hashes_match": true,
+    "casual_plan_check": {
+      "fantasy": "passed",
+      "steampunk": "passed",
+      "mecha": "passed"
+    },
+    "qa_records": 27,
+    "plan_mismatches_recorded": 9,
+    "broad_planner_test": "Cosplay and generated bundles passed; historical-record assertions did not pass with the sparse record set / long free-design scene descriptions. No generator code was changed.",
+    "registered_images": 27,
+    "casual_index_rows": 24
+  },
+  "commits": {
+    "code": "8ce6bbb375411053914e2575f43406341906424d",
+    "records": "e6c787b2cf9f20bc61b8fb57ba88d501d816b2e8",
+    "images": "bd6a310c1bff880d1447a5e47c1ab02c84646f2a",
+    "registration": "5f477c57c41c356de76625ff43b21b779c0b144e"
+  },
+  "registration": "verified",
+  "workflows": {
+    "thumbnails": {
+      "id": 44218650729,
+      "conclusion": "success"
+    },
+    "registration": {
+      "id": 44218804547,
+      "conclusion": "success"
+    }
+  },
+  "status": "done"
+}
