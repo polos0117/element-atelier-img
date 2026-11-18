@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "lu",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "lu_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "spring",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a milliner's studio of her element's kingdom — hat blocks on shelves, spools of ribbon and a tall mirror by a bright window",
+  "ownProp": "a wide-brimmed hat with a slate-blue ribbon",
+  "light": "two_tone",
+  "depth": "flat",
+  "expr": "relieved",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a milliner look fitted to her body — a cropped fitted blouse, a high-waisted short skirt, a measuring tape around her neck and heeled mules",
+  "scene": "she is the milliner trying a newly finished hat in the mirror",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "lu_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lutetium (Lu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a milliner's studio of her element's kingdom — hat blocks on shelves, spools of ribbon and a tall mirror by a bright window\nWeather / season: spring — blossom petals drifting outside.\nTime of day: golden hour — warm low sun, long shadows; low gold light through the window, long warm stripes across the walls.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a milliner look fitted to her body — a cropped fitted blouse, a high-waisted short skirt, a measuring tape around her neck and heeled mules, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a wide-brimmed hat with a slate-blue ribbon up beside her face; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is the milliner trying a newly finished hat in the mirror\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lutetium: a hard, dense silvery-white metal, the last and smallest of the fifteen lanthanides and the hardest and densest of them; found in 1907 by a Paris chemist, also a painter and sculptor, who split the earth called ytterbia once more and named the hidden younger element for Lutetia, the old Latin name of Paris, while a rival in Austria called it cassiopeium; woven with silicon and oxygen into scintillator crystals it throws a tiny flash of blue light each time a gamma ray strikes, the eyes of PET scanners; its slow decay over some thirty-seven billion years dates meteorites and the oldest rocks — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/lu/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "모자 디자이너(밀리너)",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7b86e9bfac47f832281a5466b1a7b21ea71f29e6a81c1bf9afc16c8fca46126c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "7f35b5426a7d16fe3719db4aa32fa9813b99183b8a4a69bebf7a2f391a42f33a",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-lutetium-5ea79f1b2e40",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "7b86e9bfac47f832281a5466b1a7b21ea71f29e6a81c1bf9afc16c8fca46126c",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "모자 공방에서 리본 달린 모자를 얼굴 옆에 든 상반신"
+  ]
+ },
+ "acceptance": "사용자 승인 — 캐릭터 완료 후 커밋 및 main 일반 반영"
+}

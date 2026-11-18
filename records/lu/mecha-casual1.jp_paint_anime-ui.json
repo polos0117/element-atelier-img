@@ -1,0 +1,81 @@
+{
+ "atelier": "element",
+ "card": "lu",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "lu_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_coast",
+  "ofam": "lingerie",
+  "item": "satin_set",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "rail",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "",
+  "gaze": "up",
+  "time": "neon",
+  "moment": "sunscreen_streak",
+  "hair": "tied",
+  "light": "side",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "jewel",
+  "shade": "emerald",
+  "expr": "wistful",
+  "preset": "rail_sky_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "lu_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Lutetium (Lu) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rocky coast path with tide pools\nTime of day: night under neon and signage light, coloured reflections.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: an unblended streak of sunscreen shows on her shoulder.\nOutfit: a satin lingerie set with a smooth bias-cut top and matching bottoms in a single deep colour — in deep emerald green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing.\nLEFT HAND: her own left hand tucks hair behind her ear.\nGAZE: she looks up at the sky.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — lutetium: a hard, dense silvery-white metal, the last and smallest of the fifteen lanthanides and the hardest and densest of them; found in 1907 by a Paris chemist, also a painter and sculptor, who split the earth called ytterbia once more and named the hidden younger element for Lutetia, the old Latin name of Paris, while a rival in Austria called it cassiopeium; woven with silicon and oxygen into scintillator crystals it throws a tiny flash of blue light each time a gamma ray strikes, the eyes of PET scanners; its slow decay over some thirty-seven billion years dates meteorites and the oldest rocks — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/lu/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0be42f0dc82ed2333a7bbd57f478606708a5ef625b55fd93d8b761b34b153213",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "7f35b5426a7d16fe3719db4aa32fa9813b99183b8a4a69bebf7a2f391a42f33a",
+  "plan_revision": {
+   "reason": "세계 간 장면·자세·의상 중복 해소",
+   "seed": 3283683
+  }
+ },
+ "execution": "element-lutetium-5ea79f1b2e40",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "0be42f0dc82ed2333a7bbd57f478606708a5ef625b55fd93d8b761b34b153213",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "해안 난간에 기대 머리를 넘기며 올려다보는 구도. 계획은 새틴 세트였으나 그림은 한 벌의 새틴 슬립처럼 보임"
+  ],
+  "cause": "의상 계획과 일부 다름 — 새틴 세트가 한 벌처럼 보임."
+ },
+ "acceptance": "사용자 승인 — 캐릭터 완료 후 커밋 및 main 일반 반영"
+}
