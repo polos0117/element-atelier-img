@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_forest",
+  "ofam": "swimwear",
+  "item": "burkini_modest",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "behind_head",
+  "left": "natural",
+  "use": "",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "dawn",
+  "depth": "flat",
+  "view": "foreground",
+  "color": "denim",
+  "shade": "chambray",
+  "expr": "serious",
+  "preset": "recline_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a misty enchanted garden of moss, ivy and lanterns\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nOutfit: a modest full-cover swimsuit with long sleeves, full legs and a fitted hood — in pale chambray blue; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/rf/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "b62b39d687e56e89ac9b621d8a2a64bf384b9138336adc3794938c6b26dfae84",
+  "ref_sha256": "3ff6940c499f8d28eb9e38331a4e868e5e9aea9f0a2d6735f4f1efb38e46c6c2"
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "b62b39d687e56e89ac9b621d8a2a64bf384b9138336adc3794938c6b26dfae84",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "정원에서 푸른색 전신 수영복 차림으로 기대 누웠다."
+  ],
+  "cause": "수영복에 기준 세계컷의 금색 궤도 장식이 남았다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

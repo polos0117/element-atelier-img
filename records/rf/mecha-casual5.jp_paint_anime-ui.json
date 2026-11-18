@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "subculture",
+  "item": "gyaru",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cloth_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "time": "day_indoor",
+  "hair": "down",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "earth",
+  "shade": "olive",
+  "expr": "wistful",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: gyaru — a bodycon mini dress, platform heels, long nail art and layered accessories — in muted olive green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a folded cleaning cloth at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/rf/mecha-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "b36b32cf3147f89c0ab2a17ad05d7574fd55b0366f9ba164d6baa6aa9f59782e",
+  "ref_sha256": "3ff6940c499f8d28eb9e38331a4e868e5e9aea9f0a2d6735f4f1efb38e46c6c2"
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "b36b32cf3147f89c0ab2a17ad05d7574fd55b0366f9ba164d6baa6aa9f59782e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "화학 실험실 의자에 앉은 올리브색 갸루 차림과 손에 든 닦는 천이 보인다."
+  ],
+  "cause": "옷에 기준 이미지의 금색 궤도 문양과 금 장식이 남았다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

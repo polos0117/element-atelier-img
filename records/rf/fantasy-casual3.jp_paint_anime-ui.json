@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "camera_strap",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "day_indoor",
+  "depth": "flat",
+  "cosplay": {
+   "game": "castlevania_sotn",
+   "character": "Alucard",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "sensual",
+  "preset": "light_check",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a daring adult cosplay of Alucard from Castlevania: Symphony of the Night — Alucard's look — a long black cape lined in deep crimson with a high stand-up collar, a dark tailored coat with silver filigree and a white cravat, cut as a floor-length gown with a thigh-high slit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she loops the strap of a camera over her head; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/rf/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "78330173351846db0bfec418c15efb1167ab62d3e1001b4be92ed2827238fbf5",
+  "ref_sha256": "8753706cb345e0b67f14caf9fa414ef4090c2e91c230de2196bd2c3d7a66558e",
+  "refDesign": "gpt_free",
+  "cosplay": {
+   "game": "castlevania_sotn",
+   "character": "Alucard",
+   "cut": "slit_gown"
+  }
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "78330173351846db0bfec418c15efb1167ab62d3e1001b4be92ed2827238fbf5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "화보 조명 아래 검정·적색 알루카드 코스프레와 카메라가 보인다."
+  ],
+  "cause": "카메라 끈을 목에 거는 대신 손으로 들어 올렸다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

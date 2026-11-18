@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "rain",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "a glass-walled squash court of her element's kingdom — white walls with red lines, a polished wooden floor and bright overhead lights",
+  "ownProp": "a squash racket",
+  "light": "side",
+  "depth": "flat",
+  "expr": "focused",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a squash player look fitted to her body — a cropped sports top, a short pleated skort, a wristband and court shoes",
+  "scene": "she is the squash player turning to meet the ball as it comes flying straight back off the front wall",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a glass-walled squash court of her element's kingdom — white walls with red lines, a polished wooden floor and bright overhead lights\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: midday — bright even light; the rain-wet ground mirroring the light around her.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a squash player look fitted to her body — a cropped sports top, a short pleated skort, a wristband and court shoes, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a squash racket up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the squash player turning to meet the ball as it comes flying straight back off the front wall\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/rf/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "스쿼시 선수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "4acc6f09ac0216677cbb9548ca17a0263ad9c0eb367dcbe90db4436ec6d1af28",
+  "ref_sha256": "3ff6940c499f8d28eb9e38331a4e868e5e9aea9f0a2d6735f4f1efb38e46c6c2",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "4acc6f09ac0216677cbb9548ca17a0263ad9c0eb367dcbe90db4436ec6d1af28",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "스쿼시 코트에서 라켓을 든 채 어깨 너머로 돌아본다. 트윈 번과 황금빛 눈이 이어진다."
+  ],
+  "cause": "스포츠 상의와 손목 밴드에 기준 이미지의 금색 원자 궤도 문양이 남았다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

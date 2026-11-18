@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "high",
+  "right": "prop",
+  "left": "out",
+  "use": "dryer_blow",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "summer",
+  "time": "forenoon",
+  "light": "two_tone",
+  "depth": "flat",
+  "view": "glass",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Kerrigan, Queen of Blades",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "relieved",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her bedroom, an unmade bed and soft window light\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: late morning — clear fresh daylight, soft short shadows; morning light slanting through the window across the floor.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a daring adult cosplay of Kerrigan, Queen of Blades from StarCraft — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she blow-dries her hair with a hair dryer; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/rf/mecha-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "8f7cbd58b784eed3c7a8d2c7f1d293f081f400958d0e3b9f0dae717cfb0c2fc9",
+  "ref_sha256": "3ff6940c499f8d28eb9e38331a4e868e5e9aea9f0a2d6735f4f1efb38e46c6c2",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Kerrigan, Queen of Blades",
+   "cut": "lingerie"
+  }
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "8f7cbd58b784eed3c7a8d2c7f1d293f081f400958d0e3b9f0dae717cfb0c2fc9",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "드라이어를 들고 돌아보는 모습이다. 케리건을 연상시키는 보라·검정 각진 코스프레 의상이 보인다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

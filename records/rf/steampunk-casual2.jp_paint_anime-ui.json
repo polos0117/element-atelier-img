@@ -1,0 +1,75 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "camisole_wrap",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "squat_heels",
+  "gaze": "down",
+  "time": "forenoon",
+  "spot": "right_third",
+  "color": "jewel",
+  "shade": "sapphire",
+  "denier": "d40",
+  "expr": "wistful",
+  "preset": "squat_side_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in deep sapphire blue; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes are lowered.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/rf/steampunk-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "b167f285fe8ad15da6304b0bb9da3a85e1d4d5c7cf72cd95afac6b30cb1723d8",
+  "ref_sha256": "3229dc6c64cd32d91cfd5c8316f975695fb3b474ffa003fda134232621343ee8",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "b167f285fe8ad15da6304b0bb9da3a85e1d4d5c7cf72cd95afac6b30cb1723d8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "군영 창가에서 사파이어색 라운지웨어로 쪼그려 앉은 전신 옆모습이다."
+  ]
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

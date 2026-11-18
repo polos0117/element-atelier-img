@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "noon",
+  "own": "fantasy",
+  "placeText": "a gold-beater's workshop of her element's kingdom — a heavy stone anvil, stacks of thin parchment booklets and sheets of gold leaf drifting in the light",
+  "ownProp": "a sheet of gold leaf on a soft gilder's brush",
+  "light": "two_tone",
+  "spot": "right_third",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a gold-beater look fitted to her body — a low-cut linen chemise, a short leather apron skirt, a wide belt and bare arms dusted with gold",
+  "scene": "she is the gold-leaf artisan lifting a sheet of gold leaf thinner than a petal on a soft brush",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a gold-beater's workshop of her element's kingdom — a heavy stone anvil, stacks of thin parchment booklets and sheets of gold leaf drifting in the light\nTime of day: midday — bright even light; a bright square of sunlight from the window on the floor.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a gold-beater look fitted to her body — a low-cut linen chemise, a short leather apron skirt, a wide belt and bare arms dusted with gold, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a sheet of gold leaf on a soft gilder's brush in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the gold-leaf artisan lifting a sheet of gold leaf thinner than a petal on a soft brush\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/rf/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "금박 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "acdadbba396703b65e45df7a1c587a5bd23c94525f52b148409a8f632e05b2f4",
+  "ref_sha256": "8753706cb345e0b67f14caf9fa414ef4090c2e91c230de2196bd2c3d7a66558e",
+  "refDesign": "gpt_free",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "acdadbba396703b65e45df7a1c587a5bd23c94525f52b148409a8f632e05b2f4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "금박 장인 작업대에서 양손의 도구로 금박을 들어 올린 모습이다."
+  ],
+  "cause": "앞치마에도 기준 이미지와 닮은 금색 궤도 장식이 들어갔다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

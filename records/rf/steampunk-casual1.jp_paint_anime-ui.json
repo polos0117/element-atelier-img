@@ -1,0 +1,77 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "swimwear",
+  "item": "yukata_over",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "dawn",
+  "moment": "grass_skirt",
+  "light": "back",
+  "depth": "flat",
+  "color": "earth",
+  "shade": "sand",
+  "expr": "focused",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop lookout over a wide valley\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a few blades of grass cling to the hem of her clothes.\nOutfit: swimwear with a light yukata worn open over it — in warm sand beige; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/rf/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "03421ac8487918612c107e5bd5e269d21d7aa61375dc0d323a3a510d7c006e44",
+  "ref_sha256": "3229dc6c64cd32d91cfd5c8316f975695fb3b474ffa003fda134232621343ee8",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "03421ac8487918612c107e5bd5e269d21d7aa61375dc0d323a3a510d7c006e44",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "전망대에 걸터앉아 한 손으로 볼을 받친다. 밝은 베이지 수영복과 겉옷이 보인다."
+  ],
+  "cause": "겉옷에 기준 이미지와 닮은 금색 기하 무늬가 남았다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}

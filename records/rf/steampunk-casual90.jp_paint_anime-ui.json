@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "rf",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rf_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "a billiard saloon of her element's kingdom — a green-baize table under brass lamps, polished ivory-white balls and a rack of cues on the panelled wall",
+  "ownProp": "a polished wooden billiard cue",
+  "light": "low_warm",
+  "depth": "flat",
+  "expr": "serious",
+  "preset": "chair_cross_prop",
+  "prop": "0",
+  "outfit": "a billiard champion look fitted to her body — a cropped satin waistcoat over a sheer blouse, a short pencil skirt, sleeve garters and heeled boots",
+  "scene": "she is the billiard champion resting on a high stool between shots, chalking the tip of her cue",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rf_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rutherfordium (Rf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a billiard saloon of her element's kingdom — a green-baize table under brass lamps, polished ivory-white balls and a rack of cues on the panelled wall\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a billiard champion look fitted to her body — a cropped satin waistcoat over a sheer blouse, a short pencil skirt, sleeve garters and heeled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a polished wooden billiard cue at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is the billiard champion resting on a high stool between shots, chalking the tip of her cue\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — rutherfordium: the first synthetic element past the actinides, sitting below hafnium, claimed first in 1964 by a riverside research town and again in 1969 by a hillside laboratory, and named after a long dispute for the farm-born physicist whose students fired alpha particles at a sheet of gold foil thinner than a petal: almost all passed straight through, a few swerved, and about one in eight thousand bounced straight back, as astonishing as a shell fired at tissue paper returning to hit the gunner, revealing that every atom hides a tiny, heavy nucleus at its heart — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/rf/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "당구 살롱의 당구 고수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "png_sha256": "73920746385906bc867606f0ea53bb9efd374a8cef501eeb5c6b31328fc1c2f9",
+  "ref_sha256": "3229dc6c64cd32d91cfd5c8316f975695fb3b474ffa003fda134232621343ee8",
+  "refDesign": "gpt_free",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-rf-817de01ad7f7",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-rf-817de01ad7f7",
+  "image_sha256": "73920746385906bc867606f0ea53bb9efd374a8cef501eeb5c6b31328fc1c2f9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "당구 살롱 의자에 앉아 큐 끝을 정비한다. 한 손은 큐, 다른 손은 무릎 근처에 있다."
+  ],
+  "cause": "조끼와 치마에 기준 이미지에서 이어진 금색 문양이 있다."
+ },
+ "acceptance": "사용자 선택 세계컷과 이미지·도감 반영 승인"
+}
