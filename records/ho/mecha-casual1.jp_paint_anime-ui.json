@@ -1,0 +1,113 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_control",
+  "ofam": "roleplay",
+  "item": "cabin_crew_retro",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "chin_rail",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "",
+  "color": "jewel",
+  "shade": "wine",
+  "expr": "wink",
+  "preset": "window_chin",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a power-plant control room with a curved console of dials, switches and indicator lamps, a waist-high rail along the glass\nOutfit: a retro cabin crew costume with a fitted jacket, pillbox hat and neck scarf — in deep wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — holmium: a soft silvery metal named for Holmia, the Latin name of Stockholm, after unknown sharp absorption lines first seen in 1878 in Geneva as 'element X'; it has the strongest magnetic moment of any natural element, so pole pieces made with it and iron gather the field of the most powerful magnets into one point; holmium oxide glass, with its sharp dark absorption bands, is the standard every spectrometer is calibrated against, looks pale straw yellow in daylight and turns pink under fluorescent light, and holmium lasers break up kidney stones — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "ho": {
+    "era": "site",
+    "place": "site_control",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "window_chin",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "chin_rail",
+    "left": "rail",
+    "legs": "",
+    "gaze": "",
+    "item": "cabin_crew_retro",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "wine"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ea5d11cef0788da43435bb1df3673916598ed8e634ff3fae5a765e62697d8979",
+  "ref_sha256": "0e4ba7488d91d340d99728c543a9ca866dac9e6ce1be7985386b70cf35a49df8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ea5d11cef0788da43435bb1df3673916598ed8e634ff3fae5a765e62697d8979",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Wine retro cabin-crew costume at control-room rail, right hand supports cheek and left hand rests on rail."
+  ]
+ }
+}

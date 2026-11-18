@@ -1,0 +1,131 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_bodysuit",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "light": "top",
+  "view": "foreground",
+  "cosplay": {
+   "game": "dark_souls",
+   "character": "the Chosen Undead in Elite Knight armour",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of the Chosen Undead in Elite Knight armour from Dark Souls — the Elite Knight armour — a fitted steel breastplate, a short faded rust-red tabard, steel pauldrons, gauntlets and greaves, with a frayed cloth scarf, cut as a high-cut bodysuit with sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ho": {
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_hair",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "gc_bodysuit",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "dark_souls",
+     "character": "the Chosen Undead in Elite Knight armour",
+     "cut": "bodysuit",
+     "round": 1
+    },
+    "light": "top",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5336d2ce0ff7e4b991174e39c79981c80991f0229d5df2d35082d774feea40bc",
+  "ref_sha256": "d27cce5aba994a3ca34ef994c37906cf9b892c15db94c75e540ffbbd325f1604",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1,
+  "cosplay": {
+   "game": "dark_souls",
+   "character": "the Chosen Undead in Elite Knight armour",
+   "cut": "bodysuit"
+  }
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5336d2ce0ff7e4b991174e39c79981c80991f0229d5df2d35082d774feea40bc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Adult Chosen Undead/Elite Knight cosplay in studio, one hand at hair, other cropped; original face retained.",
+   "Costume reads as separate knight armour rather than a clearly continuous bodysuit."
+  ]
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_spa",
+  "ofam": "resort",
+  "item": "linen_shirt_shorts",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "depth": "deep",
+  "color": "vivid",
+  "shade": "cobalt",
+  "situ": "wet",
+  "expr": "amused",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a futuristic spa of white curves and soft light\nOutfit: an oversized linen shirt half-buttoned over a bralette top with linen shorts — in bright cobalt blue; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — holmium: a soft silvery metal named for Holmia, the Latin name of Stockholm, after unknown sharp absorption lines first seen in 1878 in Geneva as 'element X'; it has the strongest magnetic moment of any natural element, so pole pieces made with it and iron gather the field of the most powerful magnets into one point; holmium oxide glass, with its sharp dark absorption bands, is the standard every spectrometer is calibrated against, looks pale straw yellow in daylight and turns pink under fluorescent light, and holmium lasers break up kidney stones — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "ho": {
+    "era": "fantasy",
+    "place": "fx_spa",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "linen_shirt_shorts",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "cobalt",
+    "situ": "wet",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d7f4c7db0417657d129ae4b8ce078ad0b3bbda27279d027840dbfd91ccf33ca3",
+  "ref_sha256": "0e4ba7488d91d340d99728c543a9ca866dac9e6ce1be7985386b70cf35a49df8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d7f4c7db0417657d129ae4b8ce078ad0b3bbda27279d027840dbfd91ccf33ca3",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Two hands tie sneaker laces on raised knee, both legs and shoes visible, wet cobalt shirt and shorts in spa."
+  ]
+ }
+}

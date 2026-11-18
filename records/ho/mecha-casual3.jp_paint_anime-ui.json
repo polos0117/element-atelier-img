@@ -1,0 +1,128 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wave",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "lamplight",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Thoma",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "gentle",
+  "preset": "wave_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nOutfit: a daring adult cosplay of Thoma from Genshin Impact — the costume's recognisable colours and parts, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "ho": {
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wave_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "wave",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Thoma",
+     "cut": "idol",
+     "round": 1
+    },
+    "time": "lamplight"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2dee7c5a9b309e20f05f656d6d7340dfd5297a1d2cb1b42518335746b3e66ba7",
+  "ref_sha256": "0e4ba7488d91d340d99728c543a9ca866dac9e6ce1be7985386b70cf35a49df8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1,
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Thoma",
+   "cut": "idol"
+  }
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2dee7c5a9b309e20f05f656d6d7340dfd5297a1d2cb1b42518335746b3e66ba7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Thoma-inspired idol cosplay at themed event, right hand waves and left touches upper chest; face and ponytail retained."
+  ]
+ }
+}

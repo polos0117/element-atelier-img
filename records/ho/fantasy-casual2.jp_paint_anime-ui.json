@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "hoodie_shorts",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sword_low",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "weather": "autumn",
+  "hair": "tied",
+  "light": "dappled",
+  "spot": "right_third",
+  "depth": "flat",
+  "color": "denim",
+  "shade": "denim_white",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_fantasy_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nWeather / season: autumn — falling leaves and warm low light outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a cropped hoodie and short shorts — in denim blue with crisp white; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a wooden practice sword point-down at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — holmium: a soft silvery metal named for Holmia, the Latin name of Stockholm, after unknown sharp absorption lines first seen in 1878 in Geneva as 'element X'; it has the strongest magnetic moment of any natural element, so pole pieces made with it and iron gather the field of the most powerful magnets into one point; holmium oxide glass, with its sharp dark absorption bands, is the standard every spectrometer is calibrated against, looks pale straw yellow in daylight and turns pink under fluorescent light, and holmium lasers break up kidney stones — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/fantasy-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "ho": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "sword_low",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "hoodie_shorts",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "shade": "denim_white",
+    "weather": "autumn",
+    "hair": "tied",
+    "light": "dappled",
+    "spot": "right_third",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cf82e498936812663598bc8e7dac969d7b51751b28ae7a473646fc5c0a0072e6",
+  "ref_sha256": "d27cce5aba994a3ca34ef994c37906cf9b892c15db94c75e540ffbbd325f1604",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cf82e498936812663598bc8e7dac969d7b51751b28ae7a473646fc5c0a0072e6",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Blue-white cropped hoodie and shorts, camp setting and walking stride are present.",
+   "Facing three-quarters forward instead of the planned back view; practice sword reads as metal rather than wood."
+  ]
+ }
+}

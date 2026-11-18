@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "ho",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ho_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_dam",
+  "ofam": "workwear",
+  "item": "coverall_tied",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_carry",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "snow",
+  "time": "dusk",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "neutral",
+  "shade": "stone",
+  "situ": "strap",
+  "expr": "candid",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ho_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Holmium (Ho) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the crest walkway of a hydroelectric dam, a steel railing, spillway gates and a wide reservoir below\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a mechanic's coverall with its top half peeled down and the sleeves tied at the waist over a fitted cropped tank top, work boots — in pale stone beige; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she carries a small storage box against her waist — her own right hand under the right side of the box, her own left hand under the left side.\nLEGS: weight even on both legs.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — holmium: a soft silvery metal named for Holmia, the Latin name of Stockholm, after unknown sharp absorption lines first seen in 1878 in Geneva as 'element X'; it has the strongest magnetic moment of any natural element, so pole pieces made with it and iron gather the field of the most powerful magnets into one point; holmium oxide glass, with its sharp dark absorption bands, is the standard every spectrometer is calibrated against, looks pale straw yellow in daylight and turns pink under fluorescent light, and holmium lasers break up kidney stones — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ho/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "ho",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "ho": {
+    "era": "site",
+    "place": "site_dam",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "camera_shot",
+    "use": "box_carry",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "coverall_tied",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "shade": "stone",
+    "situ": "strap",
+    "time": "dusk",
+    "weather": "snow",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "298e5cffba41d428b7510a7c5df93979c176ffbe4735685e370cf52472f451ee",
+  "ref_sha256": "057f312505d6481c55db5ca7b87674449f885e6ff9f9f05542d4b305dfc5dc62",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "attempts": 1
+ },
+ "execution": "element-ho-20261118-d1c41ac8",
+ "imported": "2026-11-18",
+ "acceptance": "user_approval_2026-11-18: proceed through completion without additional confirmation",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "298e5cffba41d428b7510a7c5df93979c176ffbe4735685e370cf52472f451ee",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Two hands hold box at waist, beige workwear and displaced shoulder strap at dam walkway."
+  ]
+ }
+}
