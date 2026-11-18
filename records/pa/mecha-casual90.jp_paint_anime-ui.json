@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "pa",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pa_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "weather": "rain",
+  "time": "dusk",
+  "own": "mecha",
+  "placeText": "a bright daycare room of her element's kingdom — low tables, building blocks, cubby shelves and big windows",
+  "ownProp": "a big picture book",
+  "spot": "right_third",
+  "depth": "flat",
+  "expr": "gentle",
+  "preset": "side_chair_read",
+  "prop": "0",
+  "outfit": "a daycare teacher look fitted to her body — a cropped knit cardigan over a fitted tank top, a short skirt and sneakers",
+  "scene": "she is the daycare teacher reading a picture book aloud on a low chair",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pa_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Protactinium (Pa) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bright daycare room of her element's kingdom — low tables, building blocks, cubby shelves and big windows\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on; the first lamps lit inside, blue dusk in the window.\nOutfit: a daycare teacher look fitted to her body — a cropped knit cardigan over a fitted tank top, a short skirt and sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a big picture book in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the daycare teacher reading a picture book aloud on a low chair\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — protactinium: a dense, bright silvery metal hidden in uranium ore at well under a gram per tonne, named the mother of actinium because it decays into actinium; first glimpsed in 1913 as a form lasting about a minute and called brevium, the short one, then found in 1918 in Berlin in a form that lives tens of thousands of years by a pair of researchers, one of whom had begun her work in a converted carpentry workshop; among the rarest and costliest elements, the world's supply for decades was about 125 grams painstakingly recovered from 60 tonnes of uranium waste; its ratio to thorium in deep-sea mud records the paths of ancient ocean currents — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/pa/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "어린이집 선생님",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ed29d78414f30d73a6e0d26eb87dad7b3a6f3512c68834c6e498b2f147a5d6bb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256을 기록한다.",
+  "ref_sha256": "05716d32de2335ed5e49da55a1fb4e27915c9680ac90c9a62761ecf824ce5e8d",
+  "refDesign": "gpt_free",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-pa-09a565ef5f44",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-pa-09a565ef5f44",
+  "image_sha256": "ed29d78414f30d73a6e0d26eb87dad7b3a6f3512c68834c6e498b2f147a5d6bb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "장난감 선반이 있는 실내의 의자에서 성인 인물이 혼자 그림책을 읽는다.",
+   "1024×1536. 주 인물 한 명과 유화풍 애니 렌더링을 확인했다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "사용자 승인 — 확정 세계컷과 일상컷 검수 후 반영"
+}

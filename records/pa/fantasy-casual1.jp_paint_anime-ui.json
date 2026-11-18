@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "pa",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pa_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_oasis",
+  "ofam": "lingerie",
+  "item": "slip_lingerie",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "hair": "tied",
+  "color": "neutral",
+  "shade": "stone",
+  "expr": "confident",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pa_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Protactinium (Pa) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a desert oasis at golden hour — date palms, a still turquoise pool and silk tents on the dunes\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a bias-cut satin slip with narrow straps and a straight hem — in pale stone beige; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — protactinium: a dense, bright silvery metal hidden in uranium ore at well under a gram per tonne, named the mother of actinium because it decays into actinium; first glimpsed in 1913 as a form lasting about a minute and called brevium, the short one, then found in 1918 in Berlin in a form that lives tens of thousands of years by a pair of researchers, one of whom had begun her work in a converted carpentry workshop; among the rarest and costliest elements, the world's supply for decades was about 125 grams painstakingly recovered from 60 tonnes of uranium waste; its ratio to thorium in deep-sea mud records the paths of ancient ocean currents — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/pa/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9c290a809025cff9f84829cdf9255c6d308fd7a3698c9784cfa46215a98d2de6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256을 기록한다.",
+  "ref_sha256": "296c460e69a644bc9730dd0407c06f00ccffe1274ef3b420efc5bce794396763"
+ },
+ "execution": "element-pa-09a565ef5f44",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-pa-09a565ef5f44",
+  "image_sha256": "9c290a809025cff9f84829cdf9255c6d308fd7a3698c9784cfa46215a98d2de6",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "오아시스·실크 슬립·옆으로 눕는 자세. 두 팔과 접은 다리의 연결이 읽힌다.",
+   "1024×1536. 주 인물 한 명과 유화풍 애니 렌더링을 확인했다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "사용자 승인 — 확정 세계컷과 일상컷 검수 후 반영"
+}

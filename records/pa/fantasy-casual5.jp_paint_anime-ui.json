@@ -1,0 +1,75 @@
+{
+ "atelier": "element",
+ "card": "pa",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pa_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_mine",
+  "ofam": "costume",
+  "item": "moon_priestess",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "towel_shake",
+  "legs": "",
+  "gaze": "camera",
+  "time": "fluorescent",
+  "hair": "braid",
+  "depth": "flat",
+  "situ": "wet",
+  "expr": "relieved",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "pa_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Protactinium (Pa) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mine gallery of rough rock walls, timber props, an ore cart on its track and a line of hanging lamps\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a moon priestess costume — a white draped one-shoulder gown with silver bangles and a moonstone circlet; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she shakes a towel out wide in front of her — her own right hand holds the right corner, her own left hand holds the left corner.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — protactinium: a dense, bright silvery metal hidden in uranium ore at well under a gram per tonne, named the mother of actinium because it decays into actinium; first glimpsed in 1913 as a form lasting about a minute and called brevium, the short one, then found in 1918 in Berlin in a form that lives tens of thousands of years by a pair of researchers, one of whom had begun her work in a converted carpentry workshop; among the rarest and costliest elements, the world's supply for decades was about 125 grams painstakingly recovered from 60 tonnes of uranium waste; its ratio to thorium in deep-sea mud records the paths of ancient ocean currents — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/pa/fantasy-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "07b7aaabce000c91a3ca5e0e0bb3e74f401b1904cd7ad9562e017f73e83f892e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256을 기록한다.",
+  "ref_sha256": "296c460e69a644bc9730dd0407c06f00ccffe1274ef3b420efc5bce794396763"
+ },
+ "execution": "element-pa-09a565ef5f44",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "element-pa-09a565ef5f44",
+  "image_sha256": "07b7aaabce000c91a3ca5e0e0bb3e74f401b1904cd7ad9562e017f73e83f892e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "광산 갱도와 물기가 남은 달의 무녀 의상, 두 손으로 수건을 펼친다.",
+   "1024×1536. 주 인물 한 명과 유화풍 애니 렌더링을 확인했다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "사용자 승인 — 확정 세계컷과 일상컷 검수 후 반영"
+}
