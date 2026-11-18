@@ -1,0 +1,120 @@
+{
+ "atelier": "element",
+ "card": "er",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "er_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "site_control",
+  "ofam": "halloween",
+  "item": "hw_ghost_bride",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "depth": "deep",
+  "situ": "strap",
+  "expr": "soft_smile",
+  "preset": "counter_cup",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "er_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a power-plant control room with a curved console of dials, switches and indicator lamps, a waist-high rail along the glass\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small coil of glass optical fibre glowing soft pink at its tip at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/er/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "er",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "er": {
+    "era": "now",
+    "place": "site_control",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_cup",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "hw_ghost_bride",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "depth": "deep"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "436d83bb8579be64fd268423b5b9ad338cd8b4e837aee0c9933ce34d21ef90c8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "ref_sha256": "a1f2e48f1d6b0be4d417f606d8cd12803fca816a82ea9d868cdc173c28adcf2c",
+  "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a power-plant control room with a curved console of dials, switches and indicator lamps, a waist-high rail along the glass\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small coil of glass optical fibre glowing soft pink at its tip at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "execution": "element-er-db2ff2ddf93e",
+ "imported": "2026-11-18",
+ "acceptance": "user approved 2026-11-18; selection fantasy4 steampunk2 mecha1; no regeneration for exposure review",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "436d83bb8579be64fd268423b5b9ad338cd8b4e837aee0c9933ce34d21ef90c8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "성인 여성 중심, 일본 유화 애니 렌더링.",
+   "보이는 팔·손·다리의 연결에 명확한 추가·분리 이상 없음."
+  ],
+  "cause": ""
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "er",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "er_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "dusk",
+  "own": "fantasy",
+  "placeText": "a market square of her element's kingdom — a stone platform by the old cross, banners and wide cobbles",
+  "ownProp": "a brass hand bell",
+  "light": "dappled",
+  "depth": "flat",
+  "expr": "calm",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a town crier look fitted to her body — a short braided coat open over a fitted bodice, a short skirt, a tricorn hat and boots",
+  "scene": "she is the town crier ringing her bell and calling out the day's news",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "er_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a market square of her element's kingdom — a stone platform by the old cross, banners and wide cobbles\nTime of day: dusk — blue hour, lights coming on.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a town crier look fitted to her body — a short braided coat open over a fitted bodice, a short skirt, a tricorn hat and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a brass hand bell up beside her face; it is all she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the town crier ringing her bell and calling out the day's news\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/er/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "광장 포고 낭독관",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "78fe425a1febf3d2c434bdfaecd2c3ec6ebf391cb8df997496382f171de8e81a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "ref_sha256": "a1f2e48f1d6b0be4d417f606d8cd12803fca816a82ea9d868cdc173c28adcf2c",
+  "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a market square of her element's kingdom — a stone platform by the old cross, banners and wide cobbles\nTime of day: dusk — blue hour, lights coming on.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a town crier look fitted to her body — a short braided coat open over a fitted bodice, a short skirt, a tricorn hat and boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a brass hand bell up beside her face; it is all she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the town crier ringing her bell and calling out the day's news\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-er-db2ff2ddf93e",
+ "imported": "2026-11-18",
+ "acceptance": "user approved 2026-11-18; selection fantasy4 steampunk2 mecha1; no regeneration for exposure review",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "78fe425a1febf3d2c434bdfaecd2c3ec6ebf391cb8df997496382f171de8e81a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "성인 여성 중심, 일본 유화 애니 렌더링.",
+   "보이는 팔·손·다리의 연결에 명확한 추가·분리 이상 없음."
+  ],
+  "cause": ""
+ }
+}

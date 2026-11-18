@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "er",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "er_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_mine",
+  "ofam": "everyday",
+  "item": "halter_shorts",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "hair": "braid",
+  "color": "vivid",
+  "shade": "sunflower",
+  "situ": "knot",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "er_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mine gallery of rough rock walls, timber props, an ore cart on its track and a line of hanging lamps\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a halter top and short shorts — in bright sunflower yellow; the outfit colour reads clearly at first glance; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small coil of glass optical fibre glowing soft pink at its tip low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/er/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "er",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "er": {
+    "era": "site",
+    "place": "site_mine",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "halter_shorts",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "sunflower",
+    "situ": "knot",
+    "hair": "braid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2dc4fb6083b12a57179e0dbe2de2d77ba8826c57695edc5f3466975074e71dff",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "ref_sha256": "ccea5ff48d2b19889cadbeeab7483577fec45ac09ae0b6b22865cf5a76630ba9",
+  "actual_prompt": "Use the attached image as the reference: the same woman — the personification of Erbium (Er) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a mine gallery of rough rock walls, timber props, an ore cart on its track and a line of hanging lamps\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a halter top and short shorts — in bright sunflower yellow; the outfit colour reads clearly at first glance; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small coil of glass optical fibre glowing soft pink at its tip low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — erbium: a soft silvery metal named in 1843 for a piece of the name of Ytterby, a Swedish quarry village, its name later swapped by mistake with terbium's; its oxide is rose pink and tints glass and glazes a soft pink; a trace of it inside silica glass fibre makes the amplifiers of undersea cables, which every few dozen kilometres lift the fading light back to full strength and pass it on, so that voices and data cross whole oceans; its lasers gently resurface skin and teeth — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark."
+ },
+ "execution": "element-er-db2ff2ddf93e",
+ "imported": "2026-11-18",
+ "acceptance": "user approved 2026-11-18; selection fantasy4 steampunk2 mecha1; no regeneration for exposure review",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "2dc4fb6083b12a57179e0dbe2de2d77ba8826c57695edc5f3466975074e71dff",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "성인 여성 중심, 일본 유화 애니 렌더링.",
+   "보이는 팔·손·다리의 연결에 명확한 추가·분리 이상 없음.",
+   "계획은 뒤쪽으로 멀어지는 보행이나 결과는 카메라 쪽을 향하는 보행."
+  ],
+  "cause": "생성 모델이 세부 구도·세계·복장을 다르게 해석함. 결과를 유지하고 재생성하지 않음."
+ }
+}
