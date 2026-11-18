@@ -1,0 +1,77 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_jungle_ruins",
+  "ofam": "subculture",
+  "item": "cybergoth",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "fog",
+  "time": "dawn",
+  "light": "dappled",
+  "depth": "deep",
+  "color": "pattern",
+  "shade": "leaf",
+  "situ": "wind",
+  "expr": "calm",
+  "preset": "pocket_look",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: overgrown jungle temple ruins — mossy stone steps, hanging vines and shafts of light through the canopy\nWeather / season: a misty morning — soft fog outside.\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: cybergoth — neon goggles on the forehead, a reflective mini skirt, a cropped top and tall platform boots — in a tropical leaf print in green and sunny yellow; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is tucked into a pocket.\nPROP: with her own right hand she holds a small dark glass vial glowing faint blue from within, set in a silver ray-shaped holder at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/steampunk-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7ee7de802e7227f0b369ad717412003afab7eb05c79819d456184d543c6fb80d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b9f435a0ef3858049f70a11b3e3cca40163f0b664692f8d37ecc4af50a8a5b6a"
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "7ee7de802e7227f0b369ad717412003afab7eb05c79819d456184d543c6fb80d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "정글 유적에서 고글과 열대 잎무늬 차림으로 작은 발광 소품을 든다. 골반까지 넓게 들어왔다."
+  ],
+  "cause": "COMPOSITION: 허리 위 계획보다 아래를 포함한다."
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

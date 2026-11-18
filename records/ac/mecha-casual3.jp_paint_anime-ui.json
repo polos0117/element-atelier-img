@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_living",
+  "ofam": "game_cosplay",
+  "item": "gc_bodysuit",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "book_hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "fluorescent",
+  "light": "top",
+  "spot": "low_small",
+  "view": "foreground",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Moira Thaurissan",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "expr": "half_smile",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Moira Thaurissan from World of Warcraft — the costume's recognisable colours and parts, cut as a high-cut bodysuit with sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is small in the lower part of the frame, the place rising above her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a book closed against her chest; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/mecha-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a9d9c81a48e20d90241f4c55bc28134e39335a78b18e3d4f34c3f739dba2ad83",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "e17a5845af0dd2fb7f56b44e833a27b923ffcf5d75762f9b729ee06bfd316d68",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Moira Thaurissan",
+   "cut": "bodysuit"
+  }
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "a9d9c81a48e20d90241f4c55bc28134e39335a78b18e3d4f34c3f739dba2ad83",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "거실 소파에 긴 은색 머리로 기댄 Moira Thaurissan 코스프레. 검정·금색·진홍색 의상과 먼 구도."
+  ]
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

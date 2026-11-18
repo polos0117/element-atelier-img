@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "retro",
+  "item": "wiggle_skirt",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "lap",
+  "use": "popcorn_hold",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "time": "fluorescent",
+  "spot": "left_third",
+  "color": "neutral",
+  "shade": "oatmeal",
+  "situ": "undone",
+  "expr": "pensive",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a 1950s wiggle skirt and a fitted cropped blouse — in soft oatmeal; the outfit colour reads clearly at first glance; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she hugs a striped tub of popcorn against her side; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/ac/fantasy-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e9e62421f1d5fd59684ba59d8971f7b58a4cea01148cfd7f02f7e6468d4802b7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "637dba5a0d3330eadf22369aafdb29576c887b9489dfb830f0474ba26c6bdd28"
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "e9e62421f1d5fd59684ba59d8971f7b58a4cea01148cfd7f02f7e6468d4802b7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "오락실에서 무릎을 포개고 앉아 팝콘 통을 안았다. 오트밀색 상하의와 은색 단발이 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

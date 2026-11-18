@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_roof",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "forenoon",
+  "own": "fantasy",
+  "placeText": "a hilltop beacon tower of her element's kingdom — a stone platform, a great iron fire basket and the valley far below",
+  "ownProp": "a long lit torch",
+  "light": "back",
+  "expr": "relieved",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a beacon keeper look fitted to her body — a cropped leather jerkin, a short skirt, a heavy cloak and tall boots",
+  "scene": "she is the beacon keeper lighting the signal fire as the day ends",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hilltop beacon tower of her element's kingdom — a stone platform, a great iron fire basket and the valley far below\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a beacon keeper look fitted to her body — a cropped leather jerkin, a short skirt, a heavy cloak and tall boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a long lit torch up beside her face; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is the beacon keeper lighting the signal fire as the day ends\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/ac/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "봉화대 봉화지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9466c9eaf731de26f119e102efa23f0b676515013c832ad28df8bc2751e1e708",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "637dba5a0d3330eadf22369aafdb29576c887b9489dfb830f0474ba26c6bdd28",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "9466c9eaf731de26f119e102efa23f0b676515013c832ad28df8bc2751e1e708",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "은빛 단발을 한 봉화지기가 탑에서 불붙은 횃불을 들었다. 허리까지 들어온다."
+  ],
+  "cause": "COMPOSITION: 가슴 위 구도보다 넓다."
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

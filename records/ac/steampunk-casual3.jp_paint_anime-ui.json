@@ -1,0 +1,82 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "popcorn_hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "day_indoor",
+  "light": "top",
+  "view": "foreground",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Tichiel Juspian",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Tichiel Juspian from TalesWeaver — the costume's recognisable colours and parts, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she hugs a striped tub of popcorn against her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/steampunk-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9846cd60fd38f05a3ee52c04a9765de9040bd78c530cacff6dd4980cfb6b75c1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b9f435a0ef3858049f70a11b3e3cca40163f0b664692f8d37ecc4af50a8a5b6a",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Tichiel Juspian",
+   "cut": "idol"
+  }
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "9846cd60fd38f05a3ee52c04a9765de9040bd78c530cacff6dd4980cfb6b75c1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "행사장에서 팝콘을 안고 전신이 보이게 걷는 Tichiel Juspian의 무대 의상 코스프레."
+  ]
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

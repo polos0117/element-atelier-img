@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stair_landing",
+  "ofam": "bridal",
+  "item": "sweetheart_veil",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "weather": "snow",
+  "time": "dusk",
+  "light": "two_tone",
+  "color": "mono",
+  "shade": "charcoal",
+  "expr": "half_smile",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stairwell landing with a tall window, a handrail and worn stone steps\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on; the first lamps lit inside, blue dusk in the window.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a sweetheart-neckline wedding gown and veil — in charcoal grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/steampunk-casual4.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "047d0613632f5910a912f7b7969a85d2ba10ef1acdd82257cd92e8a0ac7009b9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b9f435a0ef3858049f70a11b3e3cca40163f0b664692f8d37ecc4af50a8a5b6a"
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "047d0613632f5910a912f7b7969a85d2ba10ef1acdd82257cd92e8a0ac7009b9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "계단참에서 차콜색 웨딩 드레스를 입고 옆을 보며 머리카락을 넘긴다. 가슴선까지 보인다."
+  ],
+  "cause": "COMPOSITION: 얼굴 중심 클로즈업보다 넓다."
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

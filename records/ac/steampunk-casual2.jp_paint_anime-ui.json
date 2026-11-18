@@ -1,0 +1,73 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "backless_lounge",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "time": "golden",
+  "light": "back",
+  "depth": "deep",
+  "color": "vivid",
+  "shade": "cherry",
+  "expr": "soft_smile",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a lounge dress with a deeply open back — in bright cherry red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/steampunk-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a860ea967d3cb4bea6147becaf94d066615f936abc7e19f5a55f72b5366af5bc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b9f435a0ef3858049f70a11b3e3cca40163f0b664692f8d37ecc4af50a8a5b6a"
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "a860ea967d3cb4bea6147becaf94d066615f936abc7e19f5a55f72b5366af5bc",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "숲길에서 체리 레드 라운지 드레스를 입고 옆으로 기대 한 손으로 머리를 받친다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

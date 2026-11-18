@@ -1,0 +1,73 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_park",
+  "ofam": "roleplay",
+  "item": "adult_police",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "golden",
+  "light": "dappled",
+  "spot": "right_third",
+  "expr": "relieved",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city park with benches, old trees and a fountain\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a fitted navy police-style party costume with a short-brimmed cap and a short-sleeved button shirt, no real insignia, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "refDesign": "gpt_free",
+ "record": "records/ac/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2a6a3ca19cc245a66cdb513b6ae2032eca01d42e5896fe73af9c8bb7d2927fc0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "637dba5a0d3330eadf22369aafdb29576c887b9489dfb830f0474ba26c6bdd28"
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "2a6a3ca19cc245a66cdb513b6ae2032eca01d42e5896fe73af9c8bb7d2927fc0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "공원에서 남색 경찰복 차림으로 한 손을 내밀고 다른 손을 쇄골에 댔다. 허리 아래까지 보인다."
+  ],
+  "cause": "COMPOSITION: 허리 위 구도보다 아래로 내려갔다."
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}

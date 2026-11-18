@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "ac",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ac_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "weather": "rain",
+  "time": "overcast",
+  "own": "steampunk",
+  "placeText": "a projection booth in her element's kingdom's picture house — a hand-cranked projector, film reels on shelves and a small window onto the screen",
+  "ownProp": "a reel of film",
+  "spot": "right_third",
+  "depth": "layered",
+  "expr": "curious",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a projectionist look fitted to her body — a short-sleeved blouse tied at the waist, a short skirt, braces and ankle boots",
+  "scene": "she is the projectionist threading the film as the beam lights up the screen",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ac_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Actinium (Ac) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a projection booth in her element's kingdom's picture house — a hand-cranked projector, film reels on shelves and a small window onto the screen\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nOutfit: a projectionist look fitted to her body — a short-sleeved blouse tied at the waist, a short skirt, braces and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a reel of film in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the projectionist threading the film as the beam lights up the screen\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — actinium: a soft silvery-white metal named from the Greek for a ray or beam, found in 1899 in the residues of pitchblende ore and again in 1902 by a chemist at a quinine works; its own radiation wakes the surrounding air so that it glows a pale blue in the dark, and gram for gram it is some hundred and fifty times more radioactive than radium; the fifteen elements from actinium to lawrencium, uranium and plutonium among them, are called the actinides after it; born from protactinium, it now and then gives rise to francium, and one short-lived form is being made into an alpha-ray medicine that strikes only cancer cells — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/ac/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "극장 영사 기사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "34c657f74030ab57cf0714127f844808edeb8fb31fc7914368c3bae12dcd0a32",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b9f435a0ef3858049f70a11b3e3cca40163f0b664692f8d37ecc4af50a8a5b6a",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-actinium-495df3d38006",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "34c657f74030ab57cf0714127f844808edeb8fb31fc7914368c3bae12dcd0a32",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "영사실에서 필름 릴을 양손으로 다루는 영사 기사. 영사 빔과 렌즈가 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 악티늄 작업 완료 후 커밋 및 main 일반 반영"
+}
