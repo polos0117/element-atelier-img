@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "yb",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "yb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_corset",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "floor",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "lamplight",
+  "light": "low_warm",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "corset",
+   "round": 1
+  },
+  "expr": "amused",
+  "preset": "chair_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "yb_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ytterbium (Yb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an original arcade plumber costume, an opaque brick-red structured corset vest over a teal work shirt with navy shorts, a plain maroon cap, and bronze tool loops. The wearer is the same adult woman in the reference.\nPOSTURE: seated on a chair.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera low, near the ground, level with her face as she sits or kneels; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: original game-convention costume on the reference woman, distinct from commercial character art, with her original hair and face. No marks, emblems or logos.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/yb/mecha-casual3.jp_paint_anime-ui.json",
+ "execution": "element-yb-20261118",
+ "imported": "2026-11-18",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "073462ca6b13534a23be7faeadb6b4988c8f295165c683b4b2ce86f7b554deb6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "c7f88113fa73e8a56e09bb9251ecb2789e7609a4cae244a530ac38fb60fa672b",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "corset",
+   "interpretation": "Original costume inspired by the planned game. The character field identifies the planned inspiration.",
+   "outfit": "an original arcade plumber costume, an opaque brick-red structured corset vest over a teal work shirt with navy shorts, a plain maroon cap, and bronze tool loops. The wearer is the same adult woman in the reference."
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "073462ca6b13534a23be7faeadb6b4988c8f295165c683b4b2ce86f7b554deb6",
+  "passed": true,
+  "observations": [
+   "앉아서 돌아보는 자세와 독자 의상이 보인다.",
+   "화풍과 인물 외형, 보이는 팔과 손의 연결을 검토했다."
+  ],
+  "anatomy": "ok"
+ }
+}

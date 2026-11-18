@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "yb",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "yb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "weather": "autumn",
+  "time": "noon",
+  "own": "mecha",
+  "placeText": "a spin studio of her element's kingdom — rows of bikes facing a mirror wall, a beat counter glowing yellow on the wall and bright windows",
+  "ownProp": "a slim water bottle",
+  "light": "back",
+  "expr": "serious",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "an instructor look fitted to her body — a cropped sports bra top, high-waisted bike shorts, a slim headset mic and trainers",
+  "scene": "she is the indoor cycling instructor calling the beat into her headset before the class",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "yb_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ytterbium (Yb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a spin studio of her element's kingdom — rows of bikes facing a mirror wall, a beat counter glowing yellow on the wall and bright windows\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: midday — bright even light; hard bright sun, crisp short shadows on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: an instructor look fitted to her body — a cropped sports bra top, high-waisted bike shorts, a slim headset mic and trainers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a slim water bottle at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is the indoor cycling instructor calling the beat into her headset before the class\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ytterbium: a soft, ductile, bright silvery metal named for the Swedish village of Ytterby, separated in 1878 in Geneva from erbia, with its younger sister lutetium still hidden inside it until 1907; held one by one in an egg-crate lattice of light, its atoms tick to a steady yellow laser more than five hundred trillion times a second in optical clocks so exact they would not lose a second over the age of the universe and can feel time run faster when lifted a few centimetres, the likely successor to the caesium second; squeezed hard, its electrical resistance rises, so it gauges the pressure of earthquakes and blasts; inside glass fibre it powers the invisible infrared lasers that cut steel — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/yb/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "실내 사이클 강사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-yb-20261118",
+ "imported": "2026-11-18",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fc0f94097fa0867f587683cdaf95e7b932a0d77830489be3b1ec94fff5bdd4ea",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "c7f88113fa73e8a56e09bb9251ecb2789e7609a4cae244a530ac38fb60fa672b",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "fc0f94097fa0867f587683cdaf95e7b932a0d77830489be3b1ec94fff5bdd4ea",
+  "passed": true,
+  "observations": [
+   "사이클 스튜디오와 운동복을 직업 장면으로 검토했다.",
+   "화풍과 인물 외형, 보이는 팔과 손의 연결을 검토했다."
+  ],
+  "anatomy": "ok"
+ }
+}

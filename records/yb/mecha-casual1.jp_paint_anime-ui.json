@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "yb",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "yb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_fireworks",
+  "ofam": "roleplay",
+  "item": "adult_secretary",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "candy_tear",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "neon",
+  "moment": "bubbles_float",
+  "light": "side",
+  "depth": "deep",
+  "color": "earth",
+  "shade": "camel",
+  "expr": "pensive",
+  "preset": "bench_fix",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "yb_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ytterbium (Yb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a riverside seating area waiting for festival fireworks\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a retro secretary-inspired costume with a fitted blazer, pencil skirt and decorative eyewear — in warm camel; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she pulls a soft wisp off a cloud of pink cotton candy on a stick — her own right hand pulls a wisp off, her own left hand holds the stick.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ytterbium: a soft, ductile, bright silvery metal named for the Swedish village of Ytterby, separated in 1878 in Geneva from erbia, with its younger sister lutetium still hidden inside it until 1907; held one by one in an egg-crate lattice of light, its atoms tick to a steady yellow laser more than five hundred trillion times a second in optical clocks so exact they would not lose a second over the age of the universe and can feel time run faster when lifted a few centimetres, the likely successor to the caesium second; squeezed hard, its electrical resistance rises, so it gauges the pressure of earthquakes and blasts; inside glass fibre it powers the invisible infrared lasers that cut steel — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/yb/mecha-casual1.jp_paint_anime-ui.json",
+ "execution": "element-yb-20261118",
+ "imported": "2026-11-18",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ef58d21b06e76c61c1553dc7ec07e8b2ebf50bd496a149277863cd733d46b969",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "c7f88113fa73e8a56e09bb9251ecb2789e7609a4cae244a530ac38fb60fa672b"
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "ef58d21b06e76c61c1553dc7ec07e8b2ebf50bd496a149277863cd733d46b969",
+  "passed": true,
+  "observations": [
+   "강변에서 솜사탕을 다룬다.",
+   "화풍과 인물 외형, 보이는 팔과 손의 연결을 검토했다."
+  ],
+  "anatomy": "ok"
+ }
+}

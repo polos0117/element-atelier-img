@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "yb",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "yb_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_camp",
+  "ofam": "drape",
+  "item": "egyptian_linen",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "time": "forenoon",
+  "light": "dappled",
+  "color": "pattern",
+  "shade": "floral",
+  "situ": "wind",
+  "expr": "half_smile",
+  "preset": "recline_head",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "yb_mecha_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Ytterbium (Yb) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a quiet campsite with a small tent and a cooking kit\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: an Egyptian-inspired look — a sheer pleated linen sheath over an opaque inner slip dress, a broad jewelled collar and gold arm bands — in a small floral print in coral and cream; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a small soft bright-silver ytterbium bar, gently bent, engraved with a fine lattice of tiny squares at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — ytterbium: a soft, ductile, bright silvery metal named for the Swedish village of Ytterby, separated in 1878 in Geneva from erbia, with its younger sister lutetium still hidden inside it until 1907; held one by one in an egg-crate lattice of light, its atoms tick to a steady yellow laser more than five hundred trillion times a second in optical clocks so exact they would not lose a second over the age of the universe and can feel time run faster when lifted a few centimetres, the likely successor to the caesium second; squeezed hard, its electrical resistance rises, so it gauges the pressure of earthquakes and blasts; inside glass fibre it powers the invisible infrared lasers that cut steel — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-18",
+ "record": "records/yb/mecha-casual4.jp_paint_anime-ui.json",
+ "execution": "element-yb-20261118",
+ "imported": "2026-11-18",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "65aaa19093e9dc7f1ebc2bb4a5395a1405c645b85a2ac676345e98b8c1bf6185",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "c7f88113fa73e8a56e09bb9251ecb2789e7609a4cae244a530ac38fb60fa672b"
+ },
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "65aaa19093e9dc7f1ebc2bb4a5395a1405c645b85a2ac676345e98b8c1bf6185",
+  "passed": true,
+  "observations": [
+   "한 팔로 머리를 받치며 소품을 든 근접컷이다.",
+   "화풍과 인물 외형, 보이는 팔과 손의 연결을 검토했다."
+  ],
+  "anatomy": "ok"
+ }
+}
