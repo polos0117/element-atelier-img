@@ -1,0 +1,134 @@
+{
+ "atelier": "element",
+ "card": "mt",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mt_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "melon_offer",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "dusk",
+  "light": "two_tone",
+  "depth": "flat",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Bennett",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "sensual",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mt_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Meitnerium (Mt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her bedroom, an unmade bed and soft window light\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: dusk — blue hour, lights coming on; the first lamps lit inside, blue dusk in the window.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a daring adult cosplay of Bennett from Genshin Impact — the costume's recognisable colours and parts, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a wedge of watermelon out toward the camera; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/mt/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mt",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "mt": {
+    "era": "now",
+    "place": "home_bedroom",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "melon_offer",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Bennett",
+     "cut": "idol",
+     "round": 1
+    },
+    "time": "dusk",
+    "weather": "snow",
+    "light": "two_tone",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0307acb210cce45cdfd667e495ba7a70585cde135079d273c93b9e5967e0f46d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "1084d3288fb658550a666a5547569d5870266ebd350078003860bb49761573aa",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Bennett",
+   "cut": "idol"
+  }
+ },
+ "execution": "meitnerium-ef3d717",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "meitnerium-ef3d717",
+  "image_sha256": "0307acb210cce45cdfd667e495ba7a70585cde135079d273c93b9e5967e0f46d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "실내 선베드에 기대 수박을 든 아이돌풍 코스프레 전신 구도. 받치는 손은 머리 뒤로 가려짐."
+  ]
+ }
+}

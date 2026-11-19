@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "mt",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mt_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_rooftop",
+  "ofam": "lingerie",
+  "item": "kebaya_lace",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "neon",
+  "light": "side",
+  "depth": "deep",
+  "denier": "d60",
+  "expr": "curious",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mt_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Meitnerium (Mt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a city rooftop party under string lights\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a kebaya-inspired sheer lace top with floral embroidery over a fitted camisole; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — meitnerium: a heavy synthetic metal below iridium, first made in 1982 in a research city as a single atom, and the only element named for one real woman alone: an exiled physicist who, on a snowy winter walk in a forest, sat on a fallen tree trunk and worked out on scraps of paper that a heavy nucleus can stretch like a trembling drop of liquid and split cleanly in two, releasing great energy; the prize for that discovery went to her colleague alone, and she refused all work on the weapon it made possible — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/mt/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mt",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "mt": {
+    "era": "now",
+    "place": "night_rooftop",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_cheek_high",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "edge_brace",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "kebaya_lace",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "denier": "d60",
+    "time": "neon",
+    "light": "side",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "964c656058b3c7c9a52b357cdd97a5f178c63bd15be40860785e9b68170e3839",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "8f3d0c5f66cbc7e1e3ee76d3951d19dacca346ec9a082d970004b7849e8da87c"
+ },
+ "execution": "meitnerium-ef3d717",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "meitnerium-ef3d717",
+  "image_sha256": "964c656058b3c7c9a52b357cdd97a5f178c63bd15be40860785e9b68170e3839",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "야경이 보이는 옥상에서 한 손은 볼, 다른 손은 난간에 올림."
+  ]
+ }
+}

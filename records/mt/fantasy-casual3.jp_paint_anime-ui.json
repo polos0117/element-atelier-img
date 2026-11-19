@@ -1,0 +1,134 @@
+{
+ "atelier": "element",
+ "card": "mt",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mt_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "weather": "night_snow",
+  "time": "night",
+  "light": "side",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Lumine",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "sensual",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mt_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Meitnerium (Mt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Lumine from Genshin Impact — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/mt/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mt",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "mt": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "gc_mini_dress",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Lumine",
+     "cut": "mini_dress",
+     "round": 1
+    },
+    "time": "night",
+    "weather": "night_snow",
+    "light": "side",
+    "spot": "left_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c094475358384432896c28abcdc5b9f5eac9cf25bbae649bd16128840cf9977c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "8f3d0c5f66cbc7e1e3ee76d3951d19dacca346ec9a082d970004b7849e8da87c",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Lumine",
+   "cut": "mini_dress"
+  }
+ },
+ "execution": "meitnerium-ef3d717",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "meitnerium-ef3d717",
+  "image_sha256": "c094475358384432896c28abcdc5b9f5eac9cf25bbae649bd16128840cf9977c",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "별빛 무대와 루미네 의상, 옆으로 앉은 자세 및 양손 확인."
+  ]
+ }
+}

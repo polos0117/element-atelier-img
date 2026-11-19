@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "mt",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mt_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "homewear",
+  "item": "camisole_wrap",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "light": "side",
+  "color": "jewel",
+  "shade": "teal",
+  "denier": "d80",
+  "expr": "serious",
+  "preset": "kneel_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mt_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Meitnerium (Mt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nTime of day: night — the scene lit by lamps, screens or windows, dark outside; lamps lit inside, the window dark with night.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a thin-strap camisole with wrap shorts tied at the hip — in deep peacock teal; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — meitnerium: a heavy synthetic metal below iridium, first made in 1982 in a research city as a single atom, and the only element named for one real woman alone: an exiled physicist who, on a snowy winter walk in a forest, sat on a fallen tree trunk and worked out on scraps of paper that a heavy nucleus can stretch like a trembling drop of liquid and split cleanly in two, releasing great energy; the prize for that discovery went to her colleague alone, and she refused all work on the weapon it made possible — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/mt/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mt",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "mt": {
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_side_low",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "lap",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "camisole_wrap",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "teal",
+    "denier": "d80",
+    "time": "night",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5f34d01d2cc9f5c7ea7f1faa7a4dfa421c14af45493793db8829e95ec070470a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "004886fed10bee5558b47faab28a624085b428728ce5247726f3bbe925d95c93"
+ },
+ "execution": "meitnerium-ef3d717",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "meitnerium-ef3d717",
+  "image_sha256": "5f34d01d2cc9f5c7ea7f1faa7a4dfa421c14af45493793db8829e95ec070470a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "관측소풍 방에서 무릎 꿇은 자세, 딥 틸 홈웨어, 땋은 머리와 양손 확인."
+  ]
+ }
+}

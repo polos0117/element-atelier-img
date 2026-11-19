@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "mt",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mt_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "lingerie",
+  "item": "lace_set",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "golden",
+  "hair": "tied",
+  "light": "back",
+  "spot": "right_third",
+  "expr": "candid",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mt_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Meitnerium (Mt) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an underwater palace hall behind great glass arches, a sweeping coral-stone staircase, rippling blue light and drifting bubbles outside\nTime of day: golden hour — warm low sun, long shadows; low gold light through the window, long warm stripes across the walls.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a black lace lingerie set with a longline top, high-waisted bottoms and geometric lace trim, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground, level with her face as she sits or kneels; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — meitnerium: a heavy synthetic metal below iridium, first made in 1982 in a research city as a single atom, and the only element named for one real woman alone: an exiled physicist who, on a snowy winter walk in a forest, sat on a fallen tree trunk and worked out on scraps of paper that a heavy nucleus can stretch like a trembling drop of liquid and split cleanly in two, releasing great energy; the prize for that discovery went to her colleague alone, and she refused all work on the weapon it made possible — may show in the outfit's details, motifs or small accessories.\n\nFigure: lean and long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/mt/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "mt",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "mt": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "lace_set",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "golden",
+    "hair": "tied",
+    "light": "back",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c2cb2562f6cdaf213dafbca151d7d211a05e92a79f6412b0271ea731b5dd3ec7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "1084d3288fb658550a666a5547569d5870266ebd350078003860bb49761573aa"
+ },
+ "execution": "meitnerium-ef3d717",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "meitnerium-ef3d717",
+  "image_sha256": "c2cb2562f6cdaf213dafbca151d7d211a05e92a79f6412b0271ea731b5dd3ec7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "푸른 빛이 드는 궁전 벤치에 옆으로 앉아 양손으로 구두 끈을 묶는 전신 구성."
+  ]
+ }
+}
