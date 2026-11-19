@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "hs",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hs_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "day_indoor",
+  "own": "fantasy",
+  "placeText": "a forest bakery kitchen of her element's kingdom — a little gingerbread cottage taking shape on the table, trays of spiced biscuits and a warm brick oven",
+  "ownProp": "a small gingerbread house",
+  "light": "low_warm",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a forest baker look fitted to her body — a low-cut laced bodice over a short chemise, a short skirt under a white apron and a headscarf",
+  "scene": "she is the gingerbread maker pressing a candied window onto a little gingerbread house",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hs_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hassium (Hs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest bakery kitchen of her element's kingdom — a little gingerbread cottage taking shape on the table, trays of spiced biscuits and a warm brick oven\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a forest baker look fitted to her body — a low-cut laced bodice over a short chemise, a short skirt under a white apron and a headscarf, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small gingerbread house in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the gingerbread maker pressing a candied window onto a little gingerbread house\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hassium: a heavy synthetic metal below osmium, first made in 1984 by striking lead with iron ions in a research city, and named in Latin for the forested hill state around it, a land of deep beech and oak woods, red sandstone castles on wooded ridges and old fairy tales gathered there by two brothers; in 2001 a few atoms were turned into a volatile oxide gas just as osmium is, proving it a true heavier osmium, and one of its forms sits on a doubly magic shelf of unusual stability — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/hs/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "생강 과자집 과자 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "42771ac34510b4da6ba07df26bf80b8575c633a2b17ae1c995e9f459069ae14a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "1ffbac6a35c4649e00dfffa735bf03b25f79b0bdb61adc9523fc36450dceedb1",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-hs-1ac6d13d59ab",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "element-hs-1ac6d13d59ab",
+  "image_sha256": "42771ac34510b4da6ba07df26bf80b8575c633a2b17ae1c995e9f459069ae14a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "생강 과자집 과자 장인. 화덕 앞 작업대에서 양손으로 작은 과자집을 받친다.",
+   "얼굴과 긴 머리, 두 손 및 직업 장면이 명확하다."
+  ]
+ }
+}

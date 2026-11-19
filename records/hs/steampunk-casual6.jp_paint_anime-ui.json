@@ -1,0 +1,95 @@
+{
+ "atelier": "element",
+ "card": "hs",
+ "tier": "root",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "hs_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "the front row of a fashion show beside a lit runway — hugs a striped tub of popcorn against her side",
+   "a study or library in her element's kingdom — holds a small screwdriver at chest height",
+   "a stage under a painted night sky of crystal stars — standing",
+   "a mint vault of stacked gold bars — holds a cup in both hands",
+   "a riverside cycle path with a parked bicycle — holds a small red sandstone castle-tower charm hung up beside her face"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "hs_steampunk_jp_paint_anime_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Hassium (Hs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the front row of a fashion show beside a lit runway — hugs a striped tub of popcorn against her side; a study or library in her element's kingdom — holds a small screwdriver at chest height; a stage under a painted night sky of crystal stars — standing; a mint vault of stacked gold bars — holds a cup in both hands; a riverside cycle path with a parked bicycle — holds a small red sandstone castle-tower charm hung up beside her face.\nPlace: A covered reservoir embankment promenade just after the sun clears early fog.\nActivity: She listens to the first whistle from the distant steamer while sharing crumbs with a single robin perched on the low stone wall.\nPose: Standing with her face turned toward the viewer, she unfurls her right palm just above the wall and steadies a small paper bread bag in her left hand.\nFraming: Eye-level knee-up three-quarter framing with the face and both hands visible.\nOutfit: an opaque sea-blue pleated culotte jumpsuit with a warm cream knit yoke and polished tan ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hassium: a heavy synthetic metal below osmium, first made in 1984 by striking lead with iron ions in a research city, and named in Latin for the forested hill state around it, a land of deep beech and oak woods, red sandstone castles on wooded ridges and old fairy tales gathered there by two brothers; in 2001 a few atoms were turned into a volatile oxide gas just as osmium is, proving it a true heavier osmium, and one of its forms sits on a doubly magic shelf of unusual stability — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/hs/steampunk-casual6.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "hs",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "hs": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "the front row of a fashion show beside a lit runway — hugs a striped tub of popcorn against her side",
+     "a study or library in her element's kingdom — holds a small screwdriver at chest height",
+     "a stage under a painted night sky of crystal stars — standing",
+     "a mint vault of stacked gold bars — holds a cup in both hands",
+     "a riverside cycle path with a parked bicycle — holds a small red sandstone castle-tower charm hung up beside her face"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "71acf22ea68bc62ddc03c4a238b4bbd81b0740fc1a2c5b4e53cf7c5ede905bf0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "ref_sha256": "de45ae68509e853ca59970bcc81120f1fb896a78493cb418a9f3d31e4e273d3a",
+  "free_prompt": "Use the attached image as the reference: the same woman — the personification of Hassium (Hs) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the front row of a fashion show beside a lit runway — hugs a striped tub of popcorn against her side; a study or library in her element's kingdom — holds a small screwdriver at chest height; a stage under a painted night sky of crystal stars — standing; a mint vault of stacked gold bars — holds a cup in both hands; a riverside cycle path with a parked bicycle — holds a small red sandstone castle-tower charm hung up beside her face.\nPlace: A covered reservoir embankment promenade just after the sun clears early fog.\nActivity: She listens to the first whistle from the distant steamer while sharing crumbs with a single robin perched on the low stone wall.\nPose: Standing with her face turned toward the viewer, she unfurls her right palm just above the wall and steadies a small paper bread bag in her left hand.\nFraming: Eye-level knee-up three-quarter framing with the face and both hands visible.\nOutfit: an opaque sea-blue pleated culotte jumpsuit with a warm cream knit yoke and polished tan ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — hassium: a heavy synthetic metal below osmium, first made in 1984 by striking lead with iron ions in a research city, and named in Latin for the forested hill state around it, a land of deep beech and oak woods, red sandstone castles on wooded ridges and old fairy tales gathered there by two brothers; in 2001 a few atoms were turned into a volatile oxide gas just as osmium is, proving it a true heavier osmium, and one of its forms sits on a doubly magic shelf of unusual stability — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the front row of a fashion show beside a lit runway — hugs a striped tub of popcorn against her side; a study or library in her element's kingdom — holds a small screwdriver at chest height; a stage under a painted night sky of crystal stars — standing; a mint vault of stacked gold bars — holds a cup in both hands; a riverside cycle path with a parked bicycle — holds a small red sandstone castle-tower charm hung up beside her face.\nPlace: A covered reservoir embankment promenade just after the sun clears early fog.\nActivity: She listens to the first whistle from the distant steamer while sharing crumbs with a single robin perched on the low stone wall.\nPose: Standing with her face turned toward the viewer, she unfurls her right palm just above the wall and steadies a small paper bread bag in her left hand.\nFraming: Eye-level knee-up three-quarter framing with the face and both hands visible.\nOutfit: an opaque sea-blue pleated culotte jumpsuit with a warm cream knit yoke and polished tan ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "element-hs-1ac6d13d59ab",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "element-hs-1ac6d13d59ab",
+  "image_sha256": "71acf22ea68bc62ddc03c4a238b4bbd81b0740fc1a2c5b4e53cf7c5ede905bf0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "호숫가 난간에서 로빈에게 빵 부스러기를 내밀고 다른 손으로 봉투를 든다.",
+   "양손과 얼굴이 보인다. 계획은 무릎 위였으나 결과는 전신 구도다."
+  ],
+  "cause": "배경의 산책로를 살리면서 프레임이 넓어졌다."
+ }
+}
