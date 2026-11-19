@@ -1,0 +1,109 @@
+{
+ "atelier": "element",
+ "card": "db",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "almond_wide",
+   "brows": "low_heavy",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "eye_color": "steel_blue",
+   "age": "late_20s",
+   "impression": "stoic",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "expr": "determined"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair": "cloud_updo",
+   "hair_color": "dubnium_river",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "db_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Dubnium (더브늄) itself — the sovereign of the Dubnium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a stoic, unreadable reserve; fair skin; oval face; medium-sized eyes — wide almond eyes, level outer eye corners; low heavy brows; straight narrow nose; thin long lips; steel-blue eyes; a small beauty mark under one eye.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a tall, swept cloud-shaped updo with wispy see-through bangs; steel-blue hair flowing like a wide river current, with pale birch-white streaks where two streams meet.\nExpression: a firm, resolute look with calm, steady eyes.\nHer element, carried in her design: dubnium: a heavy synthetic metal below niobium and tantalum, named for a research town founded in 1956 in pine and oak forest where two great rivers meet, a name said to hide an old word for oak; claimed almost at once by that river town and by a hillside laboratory across the ocean, it passed through several proposed names in a naming quarrel that lasted nearly thirty years before the river town's name was given to it; the town once held the largest particle accelerator on earth, a ring of iron magnets weighing tens of thousands of tonnes in a riverside hall, and its longest-lived form lasts about a day.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. River steel-blue and birch-white armor of medium weight with a large river-sonar unit worn on the back, a tall slender sonar mast and two coiled cable drums rising above her head as the main shape, oak-brown accents and thin pine-green light lines along the seams, a small wave-shaped core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: wide river steel-blue, oak-bark brown, birch white, pine green.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a research city where two great rivers meet: white laboratory towers rising on the point between the waters, research hydrofoils skimming both rivers, and a great domed hall half-sunk in the riverbank with oak forest growing on its terraced roof.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Db) and atomic number (105) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-19",
+ "record": "records/db/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "db",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "db|mecha": {}
+  },
+  "looks": {
+   "db|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "db|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "127bf15df3f82dad95eef7ac00340362bd68c2ba012839f8e228fa6f8e2854c5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "atelier",
+  "selected_number": 2,
+  "source_recovery": {
+   "method": "pixel-exact RGB crop from lossless selection PNG",
+   "library_file_id": "libfile_7c13dc384fc88191b1d8265a11165f76"
+  }
+ },
+ "execution": "element-db-612320d64c5b",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-db-612320d64c5b",
+  "image_sha256": "127bf15df3f82dad95eef7ac00340362bd68c2ba012839f8e228fa6f8e2854c5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "합류점 위 연구 도시와 은백색 경질 장갑이 선명하며 팔과 다리 연결이 자연스럽다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,118 @@
+{
+ "atelier": "element",
+ "card": "db",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "db_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "lodge_terrace",
+  "ofam": "costume",
+  "item": "jazz_leotard",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "light": "back",
+  "depth": "deep",
+  "color": "neutral",
+  "shade": "taupe",
+  "situ": "sheer_light",
+  "expr": "wink",
+  "preset": "lie_front_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "db_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dubnium (Db) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a snowy mountain-lodge terrace with a wooden railing and benches above a winter valley\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a sequined jazz dance leotard with a short flared skirt — in warm taupe; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dubnium: a heavy synthetic metal below niobium and tantalum, named for a research town founded in 1956 in pine and oak forest where two great rivers meet, a name said to hide an old word for oak; claimed almost at once by that river town and by a hillside laboratory across the ocean, it passed through several proposed names in a naming quarrel that lasted nearly thirty years before the river town's name was given to it; the town once held the largest particle accelerator on earth, a ring of iron magnets weighing tens of thousands of tonnes in a riverside hall, and its longest-lived form lasts about a day — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/db/mecha-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "db",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "db": {
+    "era": "now",
+    "place": "lodge_terrace",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_full",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "item": "jazz_leotard",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "shade": "taupe",
+    "situ": "sheer_light",
+    "light": "back",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6a26178150ad6ed9fd9fe0da3c43d580edde581fe1c1f23ba4e07e9aabe6d118",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "127bf15df3f82dad95eef7ac00340362bd68c2ba012839f8e228fa6f8e2854c5"
+ },
+ "execution": "element-db-612320d64c5b",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-db-612320d64c5b",
+  "image_sha256": "6a26178150ad6ed9fd9fe0da3c43d580edde581fe1c1f23ba4e07e9aabe6d118",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "겨울 산장 테라스에서 엎드려 두 손으로 턱을 괴고 두 발을 올렸다. 역광과 토프색 치마가 보인다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

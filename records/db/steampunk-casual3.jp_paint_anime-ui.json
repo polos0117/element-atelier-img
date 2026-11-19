@@ -1,0 +1,127 @@
+{
+ "atelier": "element",
+ "card": "db",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "db_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_pool",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "swim",
+  "support": "water",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "out",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "neon",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Leon",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "amused",
+  "preset": "swim_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "db_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dubnium (Db) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor pool with lounge chairs and clear blue water\nTime of day: night under neon and signage light, coloured reflections.\nOutfit: a daring adult cosplay of Leon from Langrisser II — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: swimming breaststroke, head and shoulders above the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera slightly above, looking down at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand stays outside the frame.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/db/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "db",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "db": {
+    "era": "now",
+    "place": "water_pool",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "swim_close",
+    "use": "",
+    "posture": "swim",
+    "support": "water",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "out",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_bikini",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "langrisser_2",
+     "character": "Leon",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "neon"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e5e777b00d6a0816c3df56493dcf301fbfef30d4643a422249115db660f34b18",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "a735ed1d5d270cea5c96b2419b7ce5680616e5562c50f3699ace711671ab213b",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Leon",
+   "cut": "bikini"
+  }
+ },
+ "execution": "element-db-612320d64c5b",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-db-612320d64c5b",
+  "image_sha256": "e5e777b00d6a0816c3df56493dcf301fbfef30d4643a422249115db660f34b18",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "조명이 켜진 야외 수영장에서 파랑과 금색 코스프레 수영복 차림으로 헤엄치는 정면 구도."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

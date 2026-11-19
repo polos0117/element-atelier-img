@@ -1,0 +1,117 @@
+{
+ "atelier": "element",
+ "card": "db",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "db_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_dunes",
+  "ofam": "resort",
+  "item": "sarong_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "morning",
+  "light": "side",
+  "color": "pastel",
+  "shade": "mint",
+  "expr": "half_smile",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "db_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dubnium (Db) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wind-rippled desert dune trail\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a knotted sarong skirt with a matching halter crop top and a shell anklet — in soft pastel mint green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dubnium: a heavy synthetic metal below niobium and tantalum, named for a research town founded in 1956 in pine and oak forest where two great rivers meet, a name said to hide an old word for oak; claimed almost at once by that river town and by a hillside laboratory across the ocean, it passed through several proposed names in a naming quarrel that lasted nearly thirty years before the river town's name was given to it; the town once held the largest particle accelerator on earth, a ring of iron magnets weighing tens of thousands of tonnes in a riverside hall, and its longest-lived form lasts about a day — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/db/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "db",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "db": {
+    "era": "now",
+    "place": "travel_dunes",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "sarong_set",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "shade": "mint",
+    "time": "morning",
+    "light": "side"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "24676bae5831c96c8f6a86bc1d4cb531a1a23dd09b92c0d0b7756396860a05e8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "a735ed1d5d270cea5c96b2419b7ce5680616e5562c50f3699ace711671ab213b"
+ },
+ "execution": "element-db-612320d64c5b",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-db-612320d64c5b",
+  "image_sha256": "24676bae5831c96c8f6a86bc1d4cb531a1a23dd09b92c0d0b7756396860a05e8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "민트색 홀터 상의와 모래언덕, 머리를 넘기는 옆모습."
+  ],
+  "cause": "쇄골 위로 끊기는 얼굴 클로즈업 대신 상의 상당 부분이 들어왔다."
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

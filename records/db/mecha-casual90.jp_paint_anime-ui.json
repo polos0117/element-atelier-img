@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "db",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "db_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a riverside wakeboard pontoon of her element's kingdom — a floating deck, a towline cable over the water and boards racked by the rail",
+  "light": "dappled",
+  "expr": "wink",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "a wakeboard instructor look fitted to her body — a cropped rash top over a bikini top, short board shorts and a waist leash",
+  "scene": "she is the wakeboard instructor waiting on the pontoon for the next run, her board propped beside her",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "db_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Dubnium (Db) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a riverside wakeboard pontoon of her element's kingdom — a floating deck, a towline cable over the water and boards racked by the rail\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a wakeboard instructor look fitted to her body — a cropped rash top over a bikini top, short board shorts and a waist leash, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the wakeboard instructor waiting on the pontoon for the next run, her board propped beside her\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dubnium: a heavy synthetic metal below niobium and tantalum, named for a research town founded in 1956 in pine and oak forest where two great rivers meet, a name said to hide an old word for oak; claimed almost at once by that river town and by a hillside laboratory across the ocean, it passed through several proposed names in a naming quarrel that lasted nearly thirty years before the river town's name was given to it; the town once held the largest particle accelerator on earth, a ring of iron magnets weighing tens of thousands of tonnes in a riverside hall, and its longest-lived form lasts about a day — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/db/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "웨이크보드 강사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f4753ff3f2202185223d31f89ae94d0c1cf7becb02b3328d06fdff4baf484d24",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "127bf15df3f82dad95eef7ac00340362bd68c2ba012839f8e228fa6f8e2854c5",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-db-612320d64c5b",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-db-612320d64c5b",
+  "image_sha256": "f4753ff3f2202185223d31f89ae94d0c1cf7becb02b3328d06fdff4baf484d24",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "물가에 웨이크보드와 장비가 놓였고, 발판 앞에 선 강사로 그려졌다."
+  ],
+  "cause": "직업 의상에 기준 갑옷의 참나무와 고리 무늬가 남았다."
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}
