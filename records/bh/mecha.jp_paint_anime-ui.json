@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "bh",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "hooded",
+   "brows": "feathered",
+   "nose": "straight_narrow",
+   "lips": "soft_medium",
+   "eye_color": "bohrium_level",
+   "age": "mid_20s",
+   "impression": "soft",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "expr": "pensive"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair": "twin_loops",
+   "hair_color": "bohrium_shell",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "bh_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Bohrium (보륨) itself — the sovereign of the Bohrium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a soft, gentle warmth; porcelain-pale skin; oval face; medium-sized eyes — hooded eyes, level outer eye corners; soft feathered brows; straight narrow nose; soft medium lips; deep blue eyes with thin concentric rings of red and violet light around the pupil, like energy levels; a small beauty mark under one eye.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; two hair loops pinned high on the crown with blunt straight bangs; deep navy-black hair circled by thin separate rings of light in pure red, cyan and violet, like nested orbits.\nExpression: a quiet, thoughtful look, lips lightly closed.\nHer element, carried in her design: bohrium: a heavy synthetic metal below manganese, technetium and rhenium, first made in 1981 in a research city by striking bismuth with chromium ions, and named for the physicist of a harbour city who in 1913 pictured the atom as nested orbits stacked at fixed levels, where an electron may stand only on certain rings and gives off one exact colour of light whenever it leaps from one level down to another, explaining the red, cyan and violet lines of glowing hydrogen; first proposed under his full name, then shortened, though it sounds like boron; its longest-lived forms last only seconds to minutes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. A sleek armored bodysuit of white and deep navy plates, thin and long on the shoulders, arms and legs and following her curves closely, thin concentric rings of light circling the shoulders, hips and knees in separate pure colours, red, cyan and violet, like electron shells, a small verdigris core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: harbour verdigris copper, deep navy, white, spectral red, cyan and violet lines.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a stacked-orbit station: seven concentric orbital rings set only at fixed heights around a planet, lift capsules jumping between them with a flash of one pure colour each time, and the blue planet turning below.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Bh) and atomic number (107) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-19",
+ "record": "records/bh/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bh",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "bh|mecha": {}
+  },
+  "looks": {
+   "bh|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "bh|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0dd85208e631b85302c62a449a1a4f3bb005c812f1530c6bdb98efae7ef810af",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 SHA-256을 기록한다.",
+  "design": "atelier",
+  "selection": 1
+ },
+ "execution": "element-bohrium-982c27431c23",
+ "imported": "2026-11-19",
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update",
+ "qa": {
+  "reviewer": "element-bohrium-982c27431c23",
+  "image_sha256": "0dd85208e631b85302c62a449a1a4f3bb005c812f1530c6bdb98efae7ef810af",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "궤도 정거장·푸른 행성과 분절형 전신 장갑. 빈 두 손과 장갑 부츠가 보인다."
+  ]
+ }
+}
