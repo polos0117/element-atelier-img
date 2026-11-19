@@ -1,0 +1,130 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_knit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "night",
+  "spot": "right_third",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "knit",
+   "round": 1
+  },
+  "expr": "nostalgic",
+  "preset": "reach_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Mario from Super Mario Bros. — Mario's outfit — a red cap with a plain white circle badge, a red top, blue overalls with big yellow buttons, white gloves and brown boots, cut as a cozy off-shoulder knit mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "sg": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_knit",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "super_mario_bros",
+     "character": "Mario",
+     "cut": "knit",
+     "round": 1
+    },
+    "time": "night",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "62ce8bb0e021161402bb3bf64a6b018ab4d621bf64d86aa4c29bff1754058451",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "8ba99ce582d8667922f340dbcf7a1c44d442ff10a5d5d309ea4a939f2b3eee48",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "knit"
+  }
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "62ce8bb0e021161402bb3bf64a6b018ab4d621bf64d86aa4c29bff1754058451",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "별빛 무대에 빨강·파랑 니트 원피스와 빨간 모자를 쓴 마리오 코스프레가 보인다.",
+   "오른손은 카메라 쪽으로 내밀고 왼손은 가슴 근처에 올렸다. 장갑과 손이 팔에 연결돼 있다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "dawn",
+  "own": "fantasy",
+  "placeText": "a new trail being cut through the woods of her element's kingdom — fresh stone steps, a cairn of marker stones and a view opening at the far end",
+  "ownProp": "a flat trail-marker stone",
+  "expr": "sensual",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a trailblazer look fitted to her body — a cropped laced jerkin over a short linen top, short breeches, a tool belt and laced boots",
+  "scene": "she is the trailblazer kneeling to set a new marker stone at the edge of the path",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a new trail being cut through the woods of her element's kingdom — fresh stone steps, a cairn of marker stones and a view opening at the far end\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nOutfit: a trailblazer look fitted to her body — a cropped laced jerkin over a short linen top, short breeches, a tool belt and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a flat trail-marker stone at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the trailblazer kneeling to set a new marker stone at the edge of the path\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "숲길 개척꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f21e3ac039ae3bc9cf9e9f306cee0baef681c82a977240e0e99500d1ed7c79c5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "beb20dd10aeee368108de20570e5d96f5e017bd713a276caf8957c1135b1bd49",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "f21e3ac039ae3bc9cf9e9f306cee0baef681c82a977240e0e99500d1ed7c79c5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "새 돌계단과 돌무더기 옆에서 숲길 개척꾼이 한 무릎을 꿇고 표식돌을 든다.",
+   "오른손은 가슴 앞에서 돌을 잡고 왼손은 땅을 짚는다. 여행용 의상과 끈 부츠가 보인다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_indoor_pool",
+  "ofam": "evening",
+  "item": "silk_robe_slip",
+  "posture": "soak",
+  "support": "water",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "water_trail",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "morning",
+  "depth": "flat",
+  "color": "mono",
+  "shade": "jet",
+  "situ": "strap",
+  "expr": "candid",
+  "preset": "soak_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_steampunk_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an indoor lap pool with lane ropes, a tiled deck, a starting block and tall windows\nTime of day: early morning — low clean light, long soft shadows; morning light slanting through the window across the floor.\nOutfit: a silk robe over an evening slip — in solid jet black; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/steampunk-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "sg": {
+    "era": "now",
+    "place": "water_indoor_pool",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "",
+    "preset": "soak_hair",
+    "use": "",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "silk_robe_slip",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "shade": "jet",
+    "situ": "strap",
+    "time": "morning",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a22935c222aa1014f0ccdfe134b376b459eeac5d57523eb18815746d79a59285",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "52250b5074e3ded6ef9c7ec3a64cc7c6e79fea7d4b4e1bce644dbe76d63f49fe"
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "a22935c222aa1014f0ccdfe134b376b459eeac5d57523eb18815746d79a59285",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "실내 수영장에 허리까지 잠긴 정면 구도에서 오른손은 머리를 넘기고 왼손은 수면에 닿는다.",
+   "검은 슬립과 로브, 내려간 어깨끈이 보이며 온실 대표컷의 모자는 제거됐다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

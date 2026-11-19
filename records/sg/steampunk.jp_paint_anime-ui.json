@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "almond_wide",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "aqua",
+   "age": "early_20s",
+   "impression": "boyish",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair": "long_layered",
+   "hair_color": "seaborgium_row",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sg_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Seaborgium (시보귬) itself — the sovereign of the Seaborgium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; fair skin; oval face; large eyes — wide almond eyes, level outer eye corners; soft rounded brows; small button nose; small bow lips; clear aqua eyes; a bare, makeup-free face.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; long layered hair with curtain bangs; deep fjord-blue hair with one bright band of fresh green running across the ends, like a new row added beneath a chart.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: layered linen with a wide-brimmed hat, a belt of glass specimen jars and vine motifs — a greenhouse botanist's soft shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: explorer's map-parchment cream, new-row green, compass brass, deep fjord blue.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: around 1912, a botanic glasshouse above a northern mining town: flower beds laid out in a grid like a table of the elements, a whole new row of fourteen beds freshly dug and added beneath it, specimen cabinets and brass surveying instruments under the glass roof.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sg) and atomic number (106) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-19",
+ "record": "records/sg/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sg|steampunk": {}
+  },
+  "looks": {
+   "sg|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sg|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "52250b5074e3ded6ef9c7ec3a64cc7c6e79fea7d4b4e1bce644dbe76d63f49fe",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "atelier",
+  "selected_number": 2
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "52250b5074e3ded6ef9c7ec3a64cc7c6e79fea7d4b4e1bce644dbe76d63f49fe",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "유리 온실의 놋쇠 구조와 표본병, 챙 넓은 모자가 스팀펑크 식물학자 의상을 이룬다.",
+   "인물 한 명의 전신이 보인다. 양손을 허리에 올려 손가락 일부는 몸과 겹친다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "day_indoor",
+  "own": "mecha",
+  "placeText": "a bright walk-in closet of her element's kingdom — open shelves, neatly folded clothes and rows of matching storage boxes",
+  "ownProp": "a small woven storage box",
+  "light": "two_tone",
+  "expr": "curious",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a home organizer look fitted to her body — a cropped fitted tee, short denim shorts and white sneakers",
+  "scene": "she is the home organizer crouching to fit a new row of matching storage boxes onto a low shelf",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bright walk-in closet of her element's kingdom — open shelves, neatly folded clothes and rows of matching storage boxes\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a home organizer look fitted to her body — a cropped fitted tee, short denim shorts and white sneakers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small woven storage box at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the home organizer crouching to fit a new row of matching storage boxes onto a low shelf\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "정리 수납 전문가",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "385dde0ce0a1459d8580334bed988adc24f0c4e0962812327931e510b044f0be",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "8ba99ce582d8667922f340dbcf7a1c44d442ff10a5d5d309ea4a939f2b3eee48",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "385dde0ce0a1459d8580334bed988adc24f0c4e0962812327931e510b044f0be",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "워크인 옷장에서 흰색 티와 데님 반바지 차림으로 쪼그려 앉았고 오른손에 수납함을 든다.",
+   "수납함은 낮은 선반에 넣는 중이 아니라 얼굴 높이에서 들어 보이는 자세로 그려졌다."
+  ],
+  "cause": "직업 활동은 선반에 넣기를 지정했고 소품과 자세 지시의 조합은 손에 수납함을 들도록 했다."
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "satin_lounge",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "time": "morning",
+  "moment": "bubbles_float",
+  "light": "two_tone",
+  "color": "vivid",
+  "shade": "cherry",
+  "expr": "focused",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nTime of day: early morning — low clean light, long soft shadows; morning light slanting through the window across the floor.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a satin lounge set of button shirt and shorts — in bright cherry red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on her raised knee, her elbow on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "sg": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "satin_lounge",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "cherry",
+    "time": "morning",
+    "light": "two_tone",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d4821bd491055bed6aa64eedb351056f7a7b849ee4745a6f4f949b2a7d486c49",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "8ba99ce582d8667922f340dbcf7a1c44d442ff10a5d5d309ea4a939f2b3eee48"
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "d4821bd491055bed6aa64eedb351056f7a7b849ee4745a6f4f949b2a7d486c49",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "나라의 서재에서 체리색 새틴 홈웨어를 입고 한쪽 무릎을 세워 앉았다.",
+   "오른손으로 턱을 괴고 왼손으로 바닥을 짚었다. 갑옷은 보이지 않는다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_darkroom",
+  "ofam": "dongtan",
+  "item": "club_mesh",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "moment": "cream_nose",
+  "hair": "braid",
+  "view": "foreground",
+  "color": "jewel",
+  "shade": "topaz",
+  "expr": "proud",
+  "preset": "counter_work",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_fantasy_jp_paint_anime_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a photographic darkroom under red safelight, trays of solution on a wet bench and prints clipped to a line overhead\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: a dab of whipped cream sits on the tip of her nose.\nOutfit: a club outfit — a sheer mesh long-sleeve top over a bandeau and a glossy leather mini skirt, strappy heels — in deep topaz gold; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small brass pocket compass whose lid is engraved with a tiny grid of squares in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/fantasy-casual4.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "sg": {
+    "era": "site",
+    "place": "site_darkroom",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "counter_work",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "club_mesh",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "topaz",
+    "hair": "braid",
+    "view": "foreground",
+    "moment": "cream_nose"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c4d63fdb33f4b4d6fdc4907076da83894082420d03c487c237a77c2b7448bd01",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "beb20dd10aeee368108de20570e5d96f5e017bd713a276caf8957c1135b1bd49"
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "c4d63fdb33f4b4d6fdc4907076da83894082420d03c487c237a77c2b7448bd01",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "붉은 안전등과 인화 사진이 보이는 암실에서 두 손으로 놋쇠 나침반을 편다.",
+   "토파즈색 이너와 메시 상의가 보이고 허리 위 구도를 유지했다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "v_line",
+   "eyes": "peach_blossom",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "aqua",
+   "age": "early_20s",
+   "impression": "boyish",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair": "side_ponytail",
+   "hair_color": "seaborgium_row",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sg_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Seaborgium (시보귬) itself — the sovereign of the Seaborgium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; fair skin; delicate V-line face with a small, soft chin; large eyes — peach-blossom eyes with a soft, curved lower lid, level outer eye corners; soft rounded brows; small button nose; small bow lips; clear aqua eyes; a bare, makeup-free face.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a side ponytail over one shoulder with side-swept bangs; deep fjord-blue hair with one bright band of fresh green running across the ends, like a new row added beneath a chart.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. A sleek armored bodysuit of compass-brass and parchment-cream plates, thin and long on the shoulders, arms and legs and following her curves closely, a fine glowing grid of little squares traced across the plates with one new row lit bright green along the hips, a small fjord-blue compass core at the chest; the plates must read as solid armor, not a gown.\nSilhouette: a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: explorer's map-parchment cream, new-row green, compass brass, deep fjord blue.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a deep-space charting ship: the observation deck of a survey vessel drawing new squares onto unvisited interstellar space, a glowing star catalogue that keeps growing new rows beneath itself, and ten docking rings floating in a line outside, each marking a place she was first to reach.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sg) and atomic number (106) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-19",
+ "record": "records/sg/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sg|mecha": {}
+  },
+  "looks": {
+   "sg|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sg|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8ba99ce582d8667922f340dbcf7a1c44d442ff10a5d5d309ea4a939f2b3eee48",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "atelier",
+  "selected_number": 2
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "8ba99ce582d8667922f340dbcf7a1c44d442ff10a5d5d309ea4a939f2b3eee48",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "우주 측량선과 발광 성도, 관절이 보이는 전신 장갑이 함께 보인다.",
+   "양발과 양팔이 연결되어 있고, Sg 문자는 장갑에 새겨져 있다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

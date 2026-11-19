@@ -1,0 +1,106 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "small_bow",
+   "eye_color": "aqua",
+   "age": "early_20s",
+   "impression": "boyish",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair": "messy_bun",
+   "hair_color": "seaborgium_row",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sg_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Seaborgium (시보귬) itself — the sovereign of the Seaborgium Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a boyish, mischievous tomboy energy; fair skin; heart-shaped face; large eyes — large round eyes, level outer eye corners; soft rounded brows; small button nose; small bow lips; clear aqua eyes; a bare, makeup-free face.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a loose messy bun with fallen strands with wispy see-through bangs; deep fjord-blue hair with one bright band of fresh green running across the ends, like a new row added beneath a chart.\nExpression: one brow slightly raised, attentive eyes.\nHer element, carried in her design: seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: explorer's map-parchment cream, new-row green, compass brass, deep fjord blue.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a prophesied kingdom that does not yet exist: a whole new strip of land added beneath the bottom edge of an oracle's star-chart, a horizon where fourteen new fields open one after another in a row, a stone explorer's tower that keeps pushing out the edge of the map, and a long pilgrim's trail walked into being step by step.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Sg) and atomic number (106) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-19",
+ "record": "records/sg/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "sg|fantasy": {}
+  },
+  "looks": {
+   "sg|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sg|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "beb20dd10aeee368108de20570e5d96f5e017bd713a276caf8957c1135b1bd49",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "atelier",
+  "selected_number": 1
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "beb20dd10aeee368108de20570e5d96f5e017bd713a276caf8957c1135b1bd49",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "별지도 위 순례길과 측량탑이 보이는 판타지 전신컷이며, 옷과 깃발의 Sg 106은 장면 소품에 들어 있다.",
+   "인물 한 명과 양손 및 양발이 화면에 있으며 손에 별도 소품을 들지 않았다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

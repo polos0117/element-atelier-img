@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach_high",
+  "left": "natural",
+  "use": "",
+  "legs": "tiptoe",
+  "gaze": "",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "a natural history museum gallery of her element's kingdom — tall glass cabinets of pressed flowers and minerals, and a new row of empty drawers fitted along the bottom",
+  "spot": "left_third",
+  "depth": "layered",
+  "expr": "amused",
+  "preset": "reach_shelf",
+  "prop": "",
+  "outfit": "a curator look fitted to her body — a sheer blouse with rolled sleeves, a short fitted skirt, a brass-buttoned waistcoat and heeled boots",
+  "scene": "she is the museum curator reaching up on tiptoe to slot a new specimen drawer into a tall cabinet",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a natural history museum gallery of her element's kingdom — tall glass cabinets of pressed flowers and minerals, and a new row of empty drawers fitted along the bottom\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: a curator look fitted to her body — a sheer blouse with rolled sleeves, a short fitted skirt, a brass-buttoned waistcoat and heeled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the museum curator reaching up on tiptoe to slot a new specimen drawer into a tall cabinet\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "박물관 표본 큐레이터",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9e4bad3d1badfcb1ac5297c408804352e17f664e0af28d4fa84708fb8be5cf0e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "52250b5074e3ded6ef9c7ec3a64cc7c6e79fea7d4b4e1bce644dbe76d63f49fe",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "9e4bad3d1badfcb1ac5297c408804352e17f664e0af28d4fa84708fb8be5cf0e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "표본 박물관의 높은 유리 진열장 앞에서 큐레이터 조끼와 짧은 스커트를 입고 발끝을 세웠다.",
+   "오른손이 표본 서랍에 닿고 왼손은 몸 옆에 내려와 있다. 측면 전신 구도에 부츠가 들어온다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}

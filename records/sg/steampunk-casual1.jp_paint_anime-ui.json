@@ -1,0 +1,119 @@
+{
+ "atelier": "element",
+ "card": "sg",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "sg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_lanternriver",
+  "ofam": "lingerie",
+  "item": "night_robe",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "lantern_light",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "night",
+  "hair": "down",
+  "spot": "right_third",
+  "color": "vivid",
+  "shade": "fuchsia",
+  "expr": "nostalgic",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sg_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Seaborgium (Sg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a night river covered with floating paper lanterns, stone steps leading down to the water\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a lingerie set under an open silk night robe with a tied sash — in bright fuchsia; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lights the wick of a small hand lantern with a long match — her own right hand holds the lit match to the wick, her own left hand steadies the lantern by its base.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — seaborgium: a heavy synthetic metal below chromium, molybdenum and tungsten, first made in 1974 at a hillside laboratory by striking californium with oxygen ions, and the first element named after a person still living: a chemist from a northern mining town who helped find ten elements and, against warnings that it would ruin his name, redrew the periodic table by adding a whole new row of fourteen elements beneath it; a tireless diarist and long-distance walker, whose mailing address could be written in element symbols alone — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-19",
+ "record": "records/sg/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "sg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "sg": {
+    "era": "fantasy",
+    "place": "fx_lanternriver",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_wall_use",
+    "use": "lantern_light",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "night_robe",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "shade": "fuchsia",
+    "time": "night",
+    "hair": "down",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1852f88adb6be847111fe7c6469c1c7ebd4d5ab770bebad3d40374f300803872",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "52250b5074e3ded6ef9c7ec3a64cc7c6e79fea7d4b4e1bce644dbe76d63f49fe"
+ },
+ "execution": "element-sg-1c567297121a",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "element-sg-1c567297121a",
+  "image_sha256": "1852f88adb6be847111fe7c6469c1c7ebd4d5ab770bebad3d40374f300803872",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "등불이 뜬 강변의 돌바닥에 앉아 푸크시아색 로브 차림으로 등불 심지를 양손으로 다룬다.",
+   "챙 모자나 대표 의상이 없고, 진청색 머리와 초록색 끝이 보인다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19 — selected world cards and non-forced main update"
+}
