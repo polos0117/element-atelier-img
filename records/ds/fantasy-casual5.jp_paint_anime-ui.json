@@ -1,0 +1,74 @@
+{
+ "atelier": "element",
+ "card": "ds",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ds_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "resort",
+  "item": "palazzo_bandeau",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "time": "day_indoor",
+  "color": "earth",
+  "shade": "olive",
+  "situ": "wet",
+  "expr": "confident",
+  "preset": "walk_lookback",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ds_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Darmstadtium (Ds) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: wide-leg palazzo trousers with a bandeau top and a wide-brimmed straw hat — in muted olive green; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small square golden mosaic tile set in a brick-red frame, one turquoise tessera at its centre low at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — darmstadtium: a heavy synthetic metal below platinum, first made in 1994 by striking lead with nickel ions fired down a long straight accelerator in a research city that found six new elements, and named for that city, where an art-nouveau artists' colony was built on a hill in 1899 around a tall brick tower crowned with five rounded fingers and walls of golden mosaic, and where electrical engineering was first taught as a university subject — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/ds/fantasy-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ca8fd4729d2ece9c35ded356e40eec249fe9491cf92cc110506fca33ec2db17c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "fb30bee4218dc2b34965e12bf0bd8c4b8217f121260d22190e4a5824c71d5e02"
+ },
+ "execution": "element-ds-36de9dc83d39",
+ "imported": "2026-11-22",
+ "acceptance": "선택 세계컷 후 이미지와 도감 등록 승인",
+ "qa": {
+  "reviewer": "element-ds-36de9dc83d39",
+  "image_sha256": "ca8fd4729d2ece9c35ded356e40eec249fe9491cf92cc110506fca33ec2db17c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "오락실에서 뒤 3/4로 돌아보는 동작과 모자이크 타일을 확인했다. 바지에 원소 모자이크 장식이 남았다."
+  ],
+  "cause": "결과가 장면·의상·구도 지시의 일부를 따르지 않았다."
+ }
+}

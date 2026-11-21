@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "ds",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ds_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_powder",
+  "ofam": "resort",
+  "item": "crochet_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "compact_snap",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "lamplight",
+  "hair": "braid",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "neutral",
+  "shade": "soft_grey",
+  "situ": "strap",
+  "expr": "serious",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ds_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Darmstadtium (Ds) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a club powder room with a lit mirror and neon on the tiles\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a fully lined crochet two-piece — a short-sleeved crochet crop top and a matching mini skirt — in soft dove grey; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she snaps a compact mirror shut with one hand; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — darmstadtium: a heavy synthetic metal below platinum, first made in 1994 by striking lead with nickel ions fired down a long straight accelerator in a research city that found six new elements, and named for that city, where an art-nouveau artists' colony was built on a hill in 1899 around a tall brick tower crowned with five rounded fingers and walls of golden mosaic, and where electrical engineering was first taught as a university subject — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/ds/steampunk-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "559f234f2c2a1ae22ea001d56080fcf96ec08541a09871a93840b46ee76b1ad1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "d005a42b0d0d448aaac343434b1c784b5a0684be3c8e045c948bd97123f6a056"
+ },
+ "execution": "element-ds-36de9dc83d39",
+ "imported": "2026-11-22",
+ "acceptance": "선택 세계컷 후 이미지와 도감 등록 승인",
+ "qa": {
+  "reviewer": "element-ds-36de9dc83d39",
+  "image_sha256": "559f234f2c2a1ae22ea001d56080fcf96ec08541a09871a93840b46ee76b1ad1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "파우더룸에서 크로셰 차림으로 걷는다. 측면 전신, 한 손의 소품과 옆으로 내린 다른 손이 보인다."
+  ]
+ }
+}

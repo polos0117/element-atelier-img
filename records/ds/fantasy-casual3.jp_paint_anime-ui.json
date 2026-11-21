@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "ds",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ds_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "floor_brace",
+  "left": "lap",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "night",
+  "light": "side",
+  "spot": "right_third",
+  "depth": "deep",
+  "cosplay": {
+   "game": "witcher_3",
+   "character": "Geralt of Rivia",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "soft_smile",
+  "preset": "floor_low_cam",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ds_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Darmstadtium (Ds) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Geralt of Rivia from The Witcher 3: Wild Hunt — the witcher's look — dark studded leather armour, crossed sword-belt straps for two swords, a silver wolf-head medallion and tall riding boots, cut as a fitted strapless mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is planted on the ground beside her.\nLEFT HAND: her own left hand rests on her knee.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/ds/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7ea64a32c97a546b26f4f6f9dc6672e33b0d6aa28e626ad0ec710af5c3357833",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "fb30bee4218dc2b34965e12bf0bd8c4b8217f121260d22190e4a5824c71d5e02",
+  "cosplay": {
+   "game": "witcher_3",
+   "character": "Geralt of Rivia",
+   "cut": "mini_dress"
+  }
+ },
+ "execution": "element-ds-36de9dc83d39",
+ "imported": "2026-11-22",
+ "acceptance": "선택 세계컷 후 이미지와 도감 등록 승인",
+ "qa": {
+  "reviewer": "element-ds-36de9dc83d39",
+  "image_sha256": "7ea64a32c97a546b26f4f6f9dc6672e33b0d6aa28e626ad0ec710af5c3357833",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "별빛 무대의 게롤트 코스프레 변형이다. 한쪽 무릎을 세운 전신이고 양손이 각각 바닥과 무릎에 닿는다."
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "ds",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ds_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "rain",
+  "time": "morning",
+  "own": "steampunk",
+  "placeText": "a lithographic print shop of her element's kingdom — a heavy press, flat printing stones and fresh prints of flowing floral patterns drying on lines",
+  "ownProp": "a fresh floral print sheet",
+  "spot": "low_small",
+  "view": "foreground",
+  "expr": "gentle",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a lithographer look fitted to her body — a cropped blouse with rolled sleeves, a short ink-stained apron skirt and heeled boots",
+  "scene": "she is the lithographer lifting a fresh floral print from the printing stone",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ds_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Darmstadtium (Ds) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lithographic print shop of her element's kingdom — a heavy press, flat printing stones and fresh prints of flowing floral patterns drying on lines\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: early morning — low clean light, long soft shadows; morning light slanting through the window across the floor.\nOutfit: a lithographer look fitted to her body — a cropped blouse with rolled sleeves, a short ink-stained apron skirt and heeled boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is small in the lower part of the frame, the place rising above her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a fresh floral print sheet in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the lithographer lifting a fresh floral print from the printing stone\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — darmstadtium: a heavy synthetic metal below platinum, first made in 1994 by striking lead with nickel ions fired down a long straight accelerator in a research city that found six new elements, and named for that city, where an art-nouveau artists' colony was built on a hill in 1899 around a tall brick tower crowned with five rounded fingers and walls of golden mosaic, and where electrical engineering was first taught as a university subject — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/ds/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "아르누보 석판 인쇄공",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a719098bbb0708b6d1f3945553a089e41c397f8bafbfe088abdf04de0c130d0a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "d005a42b0d0d448aaac343434b1c784b5a0684be3c8e045c948bd97123f6a056",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-ds-36de9dc83d39",
+ "imported": "2026-11-22",
+ "acceptance": "선택 세계컷 후 이미지와 도감 등록 승인",
+ "qa": {
+  "reviewer": "element-ds-36de9dc83d39",
+  "image_sha256": "a719098bbb0708b6d1f3945553a089e41c397f8bafbfe088abdf04de0c130d0a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "인쇄공이 인쇄물을 두 손에 든 동작은 보인다. 얼굴이 옆을 향하고 차림에 세계컷의 작업복 장식이 남았다."
+  ],
+  "cause": "결과가 장면·의상·구도 지시의 일부를 따르지 않았다."
+ }
+}

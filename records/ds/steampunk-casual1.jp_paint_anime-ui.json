@@ -1,0 +1,76 @@
+{
+ "atelier": "element",
+ "card": "ds",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "ds_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_moonpond",
+  "ofam": "swimwear",
+  "item": "plunge_onepiece",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "night",
+  "moment": "sand_legs",
+  "hair": "tied",
+  "spot": "low_small",
+  "view": "foreground",
+  "color": "denim",
+  "shade": "light_wash",
+  "expr": "gentle",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "ds_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Darmstadtium (Ds) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a moonlit lotus pond with stepping stones and glowing fireflies\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a one-piece swimsuit with a deep plunging V and a secure wide waistband — in light-wash denim blue; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is small in the lower part of the frame, the place rising above her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — darmstadtium: a heavy synthetic metal below platinum, first made in 1994 by striking lead with nickel ions fired down a long straight accelerator in a research city that found six new elements, and named for that city, where an art-nouveau artists' colony was built on a hill in 1899 around a tall brick tower crowned with five rounded fingers and walls of golden mosaic, and where electrical engineering was first taught as a university subject — may show in the outfit's details, motifs or small accessories.\n\nFigure: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/ds/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f074f8e1a20ed226e86e62c40b901b96589c1b29e3895aa1353865f8818c0880",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "d005a42b0d0d448aaac343434b1c784b5a0684be3c8e045c948bd97123f6a056"
+ },
+ "execution": "element-ds-36de9dc83d39",
+ "imported": "2026-11-22",
+ "acceptance": "선택 세계컷 후 이미지와 도감 등록 승인",
+ "qa": {
+  "reviewer": "element-ds-36de9dc83d39",
+  "image_sha256": "f074f8e1a20ed226e86e62c40b901b96589c1b29e3895aa1353865f8818c0880",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "달빛 연못에서 양손으로 턱을 받친 옆모습과 원피스 수영복, 위로 접힌 다리가 보인다."
+  ]
+ }
+}
