@@ -1,0 +1,125 @@
+{
+  "atelier": "element",
+  "card": "ts",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ts_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "item": "backless_lounge",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "use": "",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "overcast",
+    "moment": "grass_skirt",
+    "hair": "hat",
+    "light": "back",
+    "depth": "flat",
+    "color": "denim",
+    "shade": "mid_wash",
+    "expr": "wink",
+    "preset": "edge_brace",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ts_mecha_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tennessine (Ts) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a few blades of grass cling to the hem of her clothes.\nOutfit: a lounge dress with a deeply open back — in mid-wash denim blue; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tennessine: a synthetic superheavy element, the heaviest in the halogen column, first made in 2010 by firing calcium ions at a target of berkelium, twenty-two milligrams of it cooked for about two hundred and fifty days in a research reactor across the ocean; racing the target's own decay, the sealed shipment was turned back at customs twice for missing papers and crossed the ocean five times; named for a land of winding rivers, blue-hazed mountains and string-band music where its makers worked; though its name ends like fluorine, chlorine, bromine, iodine and astatine, it is predicted to grasp least of all its kin, closer to a metal than a true halogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/ts/mecha-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ts",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "ts": {
+        "era": "nation",
+        "place": "nation_forest",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "edge_brace",
+        "use": "",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "three_quarter",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "edge_brace_both",
+        "left": "edge_brace_both",
+        "legs": "knees_together",
+        "gaze": "camera",
+        "item": "backless_lounge",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "denim",
+        "shade": "mid_wash",
+        "time": "overcast",
+        "hair": "hat",
+        "light": "back",
+        "depth": "flat",
+        "turn": "front",
+        "moment": "grass_skirt"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6efa934d6418338bbff1e22247be1ca562f1f70b3ed41a8f435b2e62a2192f04",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 해시로 기록",
+    "ref_sha256": "2eab548eaeda8d845df6522ac2b3c74a84c29086e9759b6ec9de6c02f691ea51"
+  },
+  "execution": "element-ts-fec24206cd96",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "GPT 세션",
+    "image_sha256": "6efa934d6418338bbff1e22247be1ca562f1f70b3ed41a8f435b2e62a2192f04",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "숲길의 돌턱에 앉아 양손을 양옆으로 짚는 정면 구도, 데님 의상"
+    ]
+  },
+  "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

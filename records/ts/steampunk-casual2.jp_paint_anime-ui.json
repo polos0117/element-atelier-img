@@ -1,0 +1,121 @@
+{
+  "atelier": "element",
+  "card": "ts",
+  "tier": "root",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ts_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_kitchen",
+    "ofam": "homewear",
+    "item": "oversized_shirt",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "lamplight",
+    "hair": "braid",
+    "depth": "flat",
+    "color": "earth",
+    "shade": "olive",
+    "expr": "amused",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ts_steampunk_jp_paint_anime_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tennessine (Ts) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a kitchen or galley in her element's kingdom\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in muted olive green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tennessine: a synthetic superheavy element, the heaviest in the halogen column, first made in 2010 by firing calcium ions at a target of berkelium, twenty-two milligrams of it cooked for about two hundred and fifty days in a research reactor across the ocean; racing the target's own decay, the sealed shipment was turned back at customs twice for missing papers and crossed the ocean five times; named for a land of winding rivers, blue-hazed mountains and string-band music where its makers worked; though its name ends like fluorine, chlorine, bromine, iodine and astatine, it is predicted to grasp least of all its kin, closer to a metal than a true halogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/ts/steampunk-casual2.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ts",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "ts": {
+        "era": "nation",
+        "place": "nation_kitchen",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "oversized_shirt",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "shade": "olive",
+        "time": "lamplight",
+        "hair": "braid",
+        "depth": "flat",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "cd7231c485b6f4754d3a0173dcebd348076d6e837413fa490e1a51859f3561fa",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 해시로 기록",
+    "ref_sha256": "3b157dfe050ba80c3654092958892e3587811a36aa5b419e4167773918c60535"
+  },
+  "execution": "element-ts-fec24206cd96",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "GPT 세션",
+    "image_sha256": "cd7231c485b6f4754d3a0173dcebd348076d6e837413fa490e1a51859f3561fa",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "나라 안 부엌 배경, 올리브 셔츠와 팔짱, 얼굴이 카메라에 보임"
+    ]
+  },
+  "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

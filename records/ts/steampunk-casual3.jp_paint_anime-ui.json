@@ -1,0 +1,136 @@
+{
+  "atelier": "element",
+  "card": "ts",
+  "tier": "root",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ts_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "item": "gc_one_piece",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "turn": "left",
+    "time": "day_indoor",
+    "light": "top",
+    "spot": "left_third",
+    "depth": "deep",
+    "cosplay": {
+      "game": "dead_or_alive_5",
+      "character": "Rig",
+      "cut": "one_piece",
+      "round": 1
+    },
+    "expr": "calm",
+    "preset": "lie_front_side",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ts_steampunk_jp_paint_anime_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tennessine (Ts) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Rig from Dead or Alive 5 — the costume's recognisable colours and parts, cut as a high-cut one-piece swimsuit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/ts/steampunk-casual3.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ts",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "ts": {
+        "era": "fantasy",
+        "place": "fx_studio",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_side",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "feet_up",
+        "gaze": "screen_left",
+        "item": "gc_one_piece",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "dead_or_alive_5",
+          "character": "Rig",
+          "cut": "one_piece",
+          "round": 1
+        },
+        "time": "day_indoor",
+        "light": "top",
+        "spot": "left_third",
+        "depth": "deep",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e6c670e0c49913c855b495b5bcc9adee1d14400421f0e50ebe18d55cdeb843b5",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 해시로 기록",
+    "ref_sha256": "3b157dfe050ba80c3654092958892e3587811a36aa5b419e4167773918c60535",
+    "cosplay": {
+      "game": "dead_or_alive_5",
+      "character": "Rig",
+      "cut": "one_piece"
+    }
+  },
+  "execution": "element-ts-fec24206cd96",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "GPT 세션",
+    "image_sha256": "e6c670e0c49913c855b495b5bcc9adee1d14400421f0e50ebe18d55cdeb843b5",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "조명 스튜디오의 넓은 옆모습, 주황 포인트와 어두운 수영복, 양쪽 팔꿈치가 바닥에 놓임"
+    ]
+  },
+  "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

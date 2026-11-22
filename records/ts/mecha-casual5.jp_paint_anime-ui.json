@@ -1,0 +1,121 @@
+{
+  "atelier": "element",
+  "card": "ts",
+  "tier": "root",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "ts_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_castle",
+    "ofam": "retro",
+    "item": "nineties_slip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "turn": "right",
+    "time": "lamplight",
+    "depth": "flat",
+    "color": "pattern",
+    "shade": "gingham",
+    "denier": "d80",
+    "expr": "soft_smile",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "ts_mecha_jp_paint_anime_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Tennessine (Ts) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the grand staircase of an old castle\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: a 1990s minimal satin slip dress under a small cropped cardigan — in red-and-white gingham; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — tennessine: a synthetic superheavy element, the heaviest in the halogen column, first made in 2010 by firing calcium ions at a target of berkelium, twenty-two milligrams of it cooked for about two hundred and fifty days in a research reactor across the ocean; racing the target's own decay, the sealed shipment was turned back at customs twice for missing papers and crossed the ocean five times; named for a land of winding rivers, blue-hazed mountains and string-band music where its makers worked; though its name ends like fluorine, chlorine, bromine, iodine and astatine, it is predicted to grasp least of all its kin, closer to a metal than a true halogen — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite, small-framed — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/ts/mecha-casual5.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ts",
+    "out": "casual",
+    "world": "mecha",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "ts": {
+        "era": "fantasy",
+        "place": "fx_castle",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "nineties_slip",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "shade": "gingham",
+        "denier": "d80",
+        "time": "lamplight",
+        "depth": "flat",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "1e020efbeb558ab6da288a6492f516897616c3b417a858748d1f3e13eb204b41",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 해시로 기록",
+    "ref_sha256": "2eab548eaeda8d845df6522ac2b3c74a84c29086e9759b6ec9de6c02f691ea51"
+  },
+  "execution": "element-ts-fec24206cd96",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "GPT 세션",
+    "image_sha256": "1e020efbeb558ab6da288a6492f516897616c3b417a858748d1f3e13eb204b41",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "계단 옆 얼굴 근접, 머리카락을 넘기는 손, 깅엄 무늬"
+    ]
+  },
+  "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

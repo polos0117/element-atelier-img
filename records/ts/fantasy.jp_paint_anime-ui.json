@@ -1,0 +1,106 @@
+{
+  "atelier": "element",
+  "card": "ts",
+  "tier": "root",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "inverted_triangle",
+      "eyes": "narrow_upturned",
+      "brows": "straight_thin",
+      "nose": "small_button",
+      "lips": "thin_bow",
+      "eye_color": "chartreuse",
+      "age": "early_20s",
+      "impression": "fierce",
+      "skin_tone": "honey_tan",
+      "eye_size": "small",
+      "eye_tilt": "up",
+      "mark": "scar",
+      "expr": "smug"
+    },
+    "silhouette": {
+      "body": "petite",
+      "hair": "triple_tails",
+      "hair_color": "tennessine_ridge",
+      "bangs": "choppy"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "ts_fantasy_jp_paint_anime_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of the element Tennessine (테네신) itself — the sovereign of the Tennessine Nation. A female character who IS the element; her costume, ornaments and colors carry the element’s traits. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a fierce, wild ferocity; light honey-beige skin; softly tapered face narrowing to a small, soft chin; eyes on the smaller side of natural — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; thin straight brows; a nose with a soft, rounded tip, of natural size; thin lips with a defined cupid's bow; yellow-green chartreuse eyes; a thin faint scar through one eyebrow.\nBody and hair: petite, small-framed build; three high ponytails fanning out with choppy uneven bangs; smoky blue hair layered in receding bands like ridge after ridge of hazy mountains, darkening to deep slate at the tips.\nExpression: a faint knowing smile.\nHer element, carried in her design: tennessine: a synthetic superheavy element, the heaviest in the halogen column, first made in 2010 by firing calcium ions at a target of berkelium, twenty-two milligrams of it cooked for about two hundred and fifty days in a research reactor across the ocean; racing the target's own decay, the sealed shipment was turned back at customs twice for missing papers and crossed the ocean five times; named for a land of winding rivers, blue-hazed mountains and string-band music where its makers worked; though its name ends like fluorine, chlorine, bromine, iodine and astatine, it is predicted to grasp least of all its kin, closer to a metal than a true halogen.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: smoky mountain blue, river slate grey, dark halogen violet, warm fiddle-wood amber.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a prophesied kingdom that does not yet exist: ridge after ridge of blue-hazed mountains with a great river winding through their valleys, log villages where fiddle and banjo music rings out from every hollow at night, a long swinging bridge strung over the river, and forests on the ridges where a dark violet mist curls around anything it touches.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Ts) and atomic number (117) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+  "date": "2026-11-22",
+  "record": "records/ts/fantasy.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "ts",
+    "out": "world",
+    "world": "fantasy",
+    "style": "jp_paint_anime",
+    "notes": {
+      "ts|fantasy": {}
+    },
+    "looks": {
+      "ts|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "ts|fantasy": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8a9d4a6a787f35ff1c9b5c9e3797b3c2d2d119827dcb1710e91d664728c4c5a6",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 해시로 기록",
+    "design": "atelier",
+    "selected_variant": 2
+  },
+  "execution": "element-ts-fec24206cd96",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "GPT 세션",
+    "image_sha256": "8a9d4a6a787f35ff1c9b5c9e3797b3c2d2d119827dcb1710e91d664728c4c5a6",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "양 손을 내린 전신 구도, Ts·117 깃발과 산줄기, 연기빛 청발"
+    ]
+  },
+  "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}
