@@ -1,0 +1,121 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_lab",
+  "ofam": "roleplay",
+  "item": "rp_casino_dealer_crop_set",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "left",
+  "time": "dawn",
+  "moment": "cream_nose",
+  "hair": "tied",
+  "expr": "calm",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "np_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a chemistry laboratory with a long worktable of glass flasks, a fume hood and shelves of labelled reagent bottles\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nSmall moment: a dab of whipped cream sits on the tip of her nose.\nOutfit: a casino dealer costume cut as a cropped top with a short skirt or hot pants — a bow tie, white cuffs and card-suit trim, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neptunium: the first element beyond uranium, a silvery metal caught in 1940 by firing neutrons into uranium, and named for the next planet out, the planet of the sea god, just as uranium was named for the planet before it; earlier claims to have found it under other names had all been mistaken; that planet itself was first found on paper, by calculating the pull of something unseen, before any telescope saw it; dissolved in water she changes colour with her state, purple, sea-green and pale pink, she lingers in faint traces in uranium ore, and one of her forms is used to breed the fuel that warms far-flung deep-space probes — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "np",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "np": {
+    "era": "site",
+    "place": "site_lab",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "rp_casino_dealer_crop_set",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn",
+    "hair": "tied",
+    "turn": "left",
+    "moment": "cream_nose"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "9244f170f86481b6b6967628a6d3e019abd3d2007569aa17a128d8f79e7dbd63",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "c9c568bd2b8a643a96c96649622d153a3e724ab3cdae8d9ffae1ef22843f19d3"
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "9244f170f86481b6b6967628a6d3e019abd3d2007569aa17a128d8f79e7dbd63",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "실험실 창가 얼굴 클로즈업. 카드 딜러 차림에 오른손으로 턱을 받치고 창을 봄. 미세한 조명과 참고컷의 청록색 헤어가 유지됨."
+  ]
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

@@ -1,0 +1,129 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "amuse_carousel",
+  "ofam": "roleplay",
+  "item": "rp_retro_racer_crop_set",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "spring",
+  "time": "dawn",
+  "hair": "braid",
+  "spot": "left_third",
+  "expr": "proud",
+  "preset": "half_kneel_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "np_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an amusement-park carousel at rest, painted wooden horses on brass poles under a ring of warm bulb lights\nWeather / season: spring — blossom petals drifting outside.\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a retro racing grid costume cut as a cropped top with a short skirt or hot pants — team colours, racing stripes and boots, no sponsors; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neptunium: the first element beyond uranium, a silvery metal caught in 1940 by firing neutrons into uranium, and named for the next planet out, the planet of the sea god, just as uranium was named for the planet before it; earlier claims to have found it under other names had all been mistaken; that planet itself was first found on paper, by calculating the pull of something unseen, before any telescope saw it; dissolved in water she changes colour with her state, purple, sea-green and pale pink, she lingers in faint traces in uranium ore, and one of her forms is used to breed the fuel that warms far-flung deep-space probes — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "np",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "np": {
+    "era": "now",
+    "place": "amuse_carousel",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_lookback",
+    "use": "",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "rp_retro_racer_crop_set",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn",
+    "weather": "spring",
+    "hair": "braid",
+    "spot": "left_third",
+    "ostyle": {
+     "acc": "bangles"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "f4f0e5aa24725c3524cc76be594932e6971d197e456cef7d055287a2dacfa1e3",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "2a9aaa47f9b91fc56e726e95faaf47492782660811c62b963fcf72821f791007"
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "f4f0e5aa24725c3524cc76be594932e6971d197e456cef7d055287a2dacfa1e3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "회전목마 옆에서 크롭 레이서 복장으로 한쪽 무릎을 꿇음. 양손이 각각 무릎과 허벅지 근처에 보임.",
+   "몸이 뒤 3/4보다 옆을 향하고 의상에 Np 문양이 남음."
+  ],
+  "cause": "몸 방향과 의상 규칙이 첨부 이미지의 인물 및 모티프 보존보다 약하게 반영됨."
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

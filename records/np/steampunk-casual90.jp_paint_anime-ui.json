@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "dawn",
+  "own": "steampunk",
+  "placeText": "the computing room of an observatory of her element's kingdom — long desks of glass star plates and slide rules, a brass orrery and a dome glimpsed through the door",
+  "ownProp": "a slide rule and a pencil",
+  "spot": "right_third",
+  "expr": "confident",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "an observatory computer look fitted to her body — a short fitted waistcoat over a low-cut blouse, a short skirt, sleeve garters on bare arms and ankle boots",
+  "scene": "she is the observatory computer working out the orbit of an unseen world before any telescope finds it",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "np_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the computing room of an observatory of her element's kingdom — long desks of glass star plates and slide rules, a brass orrery and a dome glimpsed through the door\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nOutfit: an observatory computer look fitted to her body — a short fitted waistcoat over a low-cut blouse, a short skirt, sleeve garters on bare arms and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a slide rule and a pencil in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the observatory computer working out the orbit of an unseen world before any telescope finds it\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neptunium: the first element beyond uranium, a silvery metal caught in 1940 by firing neutrons into uranium, and named for the next planet out, the planet of the sea god, just as uranium was named for the planet before it; earlier claims to have found it under other names had all been mistaken; that planet itself was first found on paper, by calculating the pull of something unseen, before any telescope saw it; dissolved in water she changes colour with her state, purple, sea-green and pale pink, she lingers in faint traces in uranium ore, and one of her forms is used to breed the fuel that warms far-flung deep-space probes — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "천문대 계산수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "3966f0ebb26f63fbfb48411a346afc3b98371fa0a97f873631e9b46de1e2ab67",
+  "size": [
+   1254,
+   1254
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "450270c33bd4d8d5aa967e8979e51f6e3689aaa91c4085d8357736497d6a97b9",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "3966f0ebb26f63fbfb48411a346afc3b98371fa0a97f873631e9b46de1e2ab67",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "정사각형. 천문대 계산대에서 왼손에 기록 종이, 오른손에 펜을 들고 바깥을 살핌. 의상에 작은 금속 조각과 자주색 천이 많음.",
+   "작업대에 몸을 기대 서는 자세보다 의자에 앉은 자세로 보임."
+  ],
+  "cause": "작업대와 가까운 자세에서 의자가 추가되고 앉은 구도로 바뀜."
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

@@ -1,0 +1,134 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_karaoke",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "lamplight",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "nostalgic",
+  "preset": "thumbs_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "np_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a private karaoke room with spinning coloured lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Mario from Super Mario Bros. — Mario's outfit — a red cap with a plain white circle badge, a red top, blue overalls with big yellow buttons, white gloves and brown boots, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "np",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "np": {
+    "era": "now",
+    "place": "night_karaoke",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "super_mario_bros",
+     "character": "Mario",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "lamplight",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "40c0c91c8b3d9c43b9561e035ce6d3a707f16319ebb7ddc018d3aad19695e3ed",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "c9c568bd2b8a643a96c96649622d153a3e724ab3cdae8d9ffae1ef22843f19d3",
+  "cosplay": {
+   "game": "super_mario_bros",
+   "character": "Mario",
+   "cut": "leotard"
+  }
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "40c0c91c8b3d9c43b9561e035ce6d3a707f16319ebb7ddc018d3aad19695e3ed",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "노래방의 색조명 아래 빨간 모자와 빨강·파랑 마리오 코스프레. 한 손으로 엄지 척을 하고 반대 손은 계획대로 화면 밖에 있음."
+  ]
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "weather": "night_snow",
+  "time": "night",
+  "own": "fantasy",
+  "placeText": "the bow of a tall sailing ship of her element's kingdom — a coiled sounding line, a rail wet with spray and open blue sea ahead",
+  "ownProp": "a sounding lead weight on a knotted line",
+  "light": "side",
+  "depth": "flat",
+  "expr": "amused",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a leadsman look fitted to her body — a cropped striped sailor top, short rolled canvas breeches, a knotted neckerchief and bare feet",
+  "scene": "she is the ship's leadsman swinging the sounding lead to learn how deep the unknown water runs",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "np_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the bow of a tall sailing ship of her element's kingdom — a coiled sounding line, a rail wet with spray and open blue sea ahead\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a leadsman look fitted to her body — a cropped striped sailor top, short rolled canvas breeches, a knotted neckerchief and bare feet, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a sounding lead weight on a knotted line up beside her face; it is all she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the ship's leadsman swinging the sounding lead to learn how deep the unknown water runs\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neptunium: the first element beyond uranium, a silvery metal caught in 1940 by firing neutrons into uranium, and named for the next planet out, the planet of the sea god, just as uranium was named for the planet before it; earlier claims to have found it under other names had all been mistaken; that planet itself was first found on paper, by calculating the pull of something unseen, before any telescope saw it; dissolved in water she changes colour with her state, purple, sea-green and pale pink, she lingers in faint traces in uranium ore, and one of her forms is used to breed the fuel that warms far-flung deep-space probes — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "뱃머리 측심수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "7dd6cdd42e8d3705e882e75918585276f589fa1f6b08c7194066b0094cdffc2d",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "2a9aaa47f9b91fc56e726e95faaf47492782660811c62b963fcf72821f791007",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "7dd6cdd42e8d3705e882e75918585276f589fa1f6b08c7194066b0094cdffc2d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "밤바다 선상에서 오른손으로 로프를 올려 잡고 그 끝의 측심추를 보여 주는 상반신. Np·93이 도구와 상의 양쪽에 나타남."
+  ],
+  "cause": "직업 소품의 원소 표식이 의상에도 반복됨."
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}

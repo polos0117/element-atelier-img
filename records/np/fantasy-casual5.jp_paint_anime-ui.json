@@ -1,0 +1,129 @@
+{
+ "atelier": "element",
+ "card": "np",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "np_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "studio_art",
+  "ofam": "adventure",
+  "item": "treasure_hunter",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "noon",
+  "hair": "down",
+  "light": "two_tone",
+  "spot": "right_third",
+  "color": "jewel",
+  "shade": "topaz",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "np_fantasy_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Neptunium (Np) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an art or pottery studio of easels, clay and paint-splattered tables\nTime of day: midday — bright even light; a bright square of sunlight from the window on the floor.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a treasure-hunter look — a fitted tank top, a leather strap harness with small pouches, slim cargo pants and fingerless gloves — in deep topaz gold; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a small stoppered glass vial of seawater that shifts from pale violet to sea-green as it is tilted low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — neptunium: the first element beyond uranium, a silvery metal caught in 1940 by firing neutrons into uranium, and named for the next planet out, the planet of the sea god, just as uranium was named for the planet before it; earlier claims to have found it under other names had all been mistaken; that planet itself was first found on paper, by calculating the pull of something unseen, before any telescope saw it; dissolved in water she changes colour with her state, purple, sea-green and pale pink, she lingers in faint traces in uranium ore, and one of her forms is used to breed the fuel that warms far-flung deep-space probes — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/np/fantasy-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "np",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "np": {
+    "era": "now",
+    "place": "studio_art",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "treasure_hunter",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "topaz",
+    "time": "noon",
+    "hair": "down",
+    "light": "two_tone",
+    "spot": "right_third"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "png_sha256": "fc8bd782b3afcc523303278ef9cbfc82d7b833e172607a0f876bb88eab6cb4fb",
+  "size": [
+   1536,
+   1024
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "2a9aaa47f9b91fc56e726e95faaf47492782660811c62b963fcf72821f791007"
+ },
+ "execution": "element-neptunium-1baab91e0d18",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT 세션",
+  "image_sha256": "fc8bd782b3afcc523303278ef9cbfc82d7b833e172607a0f876bb88eab6cb4fb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1536×1024 화실 와이드컷. 오른손에 작은 유리병을 낮게 들고 걷는 전신이 보임.",
+   "멀어지는 뒷모습 지시와 달리 카메라 쪽을 향해 걸음."
+  ],
+  "cause": "걷는 동작의 방향과 몸이 바라보는 방향을 모델이 반대로 표현함."
+ },
+ "acceptance": "사용자 대표컷 2,1,2 선택 및 등록 승인"
+}
