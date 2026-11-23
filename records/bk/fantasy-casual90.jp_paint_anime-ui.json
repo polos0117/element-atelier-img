@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "bk",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bk_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "fantasy",
+  "placeText": "a student lodging house of her element's kingdom — a cosy common room with a long table, a hearth and satchels hung by the door",
+  "ownProp": "a steaming mug of cocoa",
+  "light": "top",
+  "expr": "wink",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "a lodging-house keeper look fitted to her body — a laced bodice over an off-shoulder chemise, a short skirt under a frilled apron and slippers",
+  "scene": "she is the lodging-house keeper pouring hot cocoa for students cramming late",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "bk_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Berkelium (Bk) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a student lodging house of her element's kingdom — a cosy common room with a long table, a hearth and satchels hung by the door\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a lodging-house keeper look fitted to her body — a laced bodice over an off-shoulder chemise, a short skirt under a frilled apron and slippers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a steaming mug of cocoa at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the lodging-house keeper pouring hot cocoa for students cramming late\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — berkelium: a soft silvery synthetic metal first made in late 1949 by striking americium with alpha particles, and named for the university town where she was born, just as terbium above her was named for a small village; the town itself was named for a philosopher who taught that to exist is to be perceived, and at first she existed only as the decay of a few atoms, until more than a decade later a speck large enough to see was gathered; in water she turns yellow and pale green, and in 2009 a few precious milligrams of her, gathered over months in a reactor, were flown across an ocean to another laboratory to become the target that made element 117 — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/bk/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "학생 하숙집 안주인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "d35c6f2444174195cbf13d8bd6554d1ab5da451f6f0605c5ac134c8587a8f5c7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "31d9c098b369cf7a4a9a20f4e0deb24b6f07a4871d7d327a5b6444e97620485d",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-berkelium-3900fd14a68e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-berkelium-3900fd14a68e",
+  "image_sha256": "d35c6f2444174195cbf13d8bd6554d1ab5da451f6f0605c5ac134c8587a8f5c7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "학생 하숙집에서 잔을 들어 향을 맡는 장면. 다른 손은 카운터 위에 있다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}

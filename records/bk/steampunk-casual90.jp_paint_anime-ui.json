@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "bk",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bk_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "an academic tailor's shop of her element's kingdom — black gowns on dress forms, coloured hoods on a rail, a cutting table and a tall window onto the college",
+  "ownProp": "a black gown sleeve and a pin cushion",
+  "depth": "flat",
+  "expr": "calm",
+  "preset": "bench_fix",
+  "prop": "0",
+  "outfit": "an academic tailor look fitted to her body — a short fitted waistcoat over a low-cut blouse, a short skirt, a tape measure round her neck and button boots",
+  "scene": "she is the tailor pinning the sleeve of a graduation gown before commencement day",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "bk_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Berkelium (Bk) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an academic tailor's shop of her element's kingdom — black gowns on dress forms, coloured hoods on a rail, a cutting table and a tall window onto the college\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: an academic tailor look fitted to her body — a short fitted waistcoat over a low-cut blouse, a short skirt, a tape measure round her neck and button boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a black gown sleeve and a pin cushion in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the tailor pinning the sleeve of a graduation gown before commencement day\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — berkelium: a soft silvery synthetic metal first made in late 1949 by striking americium with alpha particles, and named for the university town where she was born, just as terbium above her was named for a small village; the town itself was named for a philosopher who taught that to exist is to be perceived, and at first she existed only as the decay of a few atoms, until more than a decade later a speck large enough to see was gathered; in water she turns yellow and pale green, and in 2009 a few precious milligrams of her, gathered over months in a reactor, were flown across an ocean to another laboratory to become the target that made element 117 — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/bk/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "학위복 재단사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "b2c6818e73c9cab342e8e16cf3370ebc708f8c80f860175b5549e68a0f29e377",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "830e2330e1f880c0b0c265d428ba6a99e24055e29dc5155cfd530b75ac9dcebe",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-berkelium-3900fd14a68e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-berkelium-3900fd14a68e",
+  "image_sha256": "b2c6818e73c9cab342e8e16cf3370ebc708f8c80f860175b5549e68a0f29e377",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "학위복 작업실의 재단사. 자리에 앉아 양손으로 천을 잡고 바느질한다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}

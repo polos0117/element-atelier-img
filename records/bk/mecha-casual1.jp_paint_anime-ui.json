@@ -1,0 +1,122 @@
+{
+ "atelier": "element",
+ "card": "bk",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bk_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_circus",
+  "ofam": "lingerie",
+  "item": "lg_suspender_set",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "day_indoor",
+  "moment": "confetti",
+  "hair": "down",
+  "spot": "right_third",
+  "color": "pattern",
+  "shade": "leaf",
+  "expr": "half_smile",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "bk_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Berkelium (Bk) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a circus tent ring under a striped canopy\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nSmall moment: bits of confetti are stuck in her hair and on her shoulders.\nOutfit: a lingerie set with a wide lace suspender belt and matching briefs — in a tropical leaf print in green and sunny yellow; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — berkelium: a soft silvery synthetic metal first made in late 1949 by striking americium with alpha particles, and named for the university town where she was born, just as terbium above her was named for a small village; the town itself was named for a philosopher who taught that to exist is to be perceived, and at first she existed only as the decay of a few atoms, until more than a decade later a speck large enough to see was gathered; in water she turns yellow and pale green, and in 2009 a few precious milligrams of her, gathered over months in a reactor, were flown across an ocean to another laboratory to become the target that made element 117 — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/bk/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bk",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "bk": {
+    "era": "fantasy",
+    "place": "fx_circus",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_full",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "lg_suspender_set",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "leaf",
+    "time": "day_indoor",
+    "hair": "down",
+    "spot": "right_third",
+    "turn": "front",
+    "moment": "confetti"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "4f2ad05d896e76c64757870932979f1f8bbb2c192a682b8f4295eaf2b2a0e005",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "18abdaac28575fe9897012a6d91fab1355af05ce7408703d0355e242efb4d81e"
+ },
+ "execution": "element-berkelium-3900fd14a68e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-berkelium-3900fd14a68e",
+  "image_sha256": "4f2ad05d896e76c64757870932979f1f8bbb2c192a682b8f4295eaf2b2a0e005",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "서커스 천막에서 옆으로 기대 누운 가로 전신 장면. 양팔의 지지점과 접힌 양다리가 읽힌다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}

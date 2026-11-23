@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "bk",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "bk_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "choker"
+  },
+  "era": "now",
+  "place": "night_club",
+  "ofam": "lingerie",
+  "item": "lg_sheer_mesh_dress",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "strap",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_right",
+  "turn": "left",
+  "time": "lamplight",
+  "light": "top",
+  "color": "mono",
+  "shade": "jet",
+  "expr": "calm",
+  "preset": "strap_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bk_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Berkelium (Bk) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a lingerie set under a fine sheer mesh slip dress, the set fully opaque beneath — in solid jet black; the outfit colour reads clearly at first glance; styled with a thin velvet choker, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right thumb hooks under a shoulder strap.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the right of the frame.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — berkelium: a soft silvery synthetic metal first made in late 1949 by striking americium with alpha particles, and named for the university town where she was born, just as terbium above her was named for a small village; the town itself was named for a philosopher who taught that to exist is to be perceived, and at first she existed only as the decay of a few atoms, until more than a decade later a speck large enough to see was gathered; in water she turns yellow and pale green, and in 2009 a few precious milligrams of her, gathered over months in a reactor, were flown across an ocean to another laboratory to become the target that made element 117 — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/bk/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "bk",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "bk": {
+    "era": "now",
+    "place": "night_club",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "strap",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_right",
+    "item": "lg_sheer_mesh_dress",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "shade": "jet",
+    "time": "lamplight",
+    "light": "top",
+    "turn": "left",
+    "ostyle": {
+     "acc": "choker"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d5d3836493960effb7f69215c5ee617ff229338b756b73a52c76d4b381d6227d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "31d9c098b369cf7a4a9a20f4e0deb24b6f07a4871d7d327a5b6444e97620485d"
+ },
+ "execution": "element-berkelium-3900fd14a68e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-berkelium-3900fd14a68e",
+  "image_sha256": "d5d3836493960effb7f69215c5ee617ff229338b756b73a52c76d4b381d6227d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "클럽 조명 아래 검은 망사 겹 드레스의 상반신. 대표컷의 남색 머리와 눈색이 이어진다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}
