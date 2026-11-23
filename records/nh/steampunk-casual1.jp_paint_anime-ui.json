@@ -1,0 +1,134 @@
+{
+ "atelier": "element",
+ "card": "nh",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "nh_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "layer": "sheer_shirt"
+  },
+  "era": "now",
+  "place": "travel_lake",
+  "ofam": "swimwear",
+  "item": "sw_hw_chain",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "front",
+  "weather": "summer",
+  "time": "golden",
+  "light": "back",
+  "depth": "deep",
+  "color": "neutral",
+  "shade": "oatmeal",
+  "expr": "gentle",
+  "preset": "kneel_clasp",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "nh_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nihonium (Nh) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lakeside of flat rocks and still water\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: golden hour — warm low sun, long shadows; light glittering off the water, dappling her skin.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a one-piece swimsuit with fine metal chain shoulder straps and a chain detail at the hips — in soft oatmeal; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nihonium: a synthetic superheavy element, the first ever discovered and named in the far east of the world, named for the land of the rising sun; a team at an eastern research institute fired zinc ions at a bismuth target day and night for nine years, from 2004 to 2012, and caught only three atoms in all; a century earlier a chemist from the same land had announced a new element under a similar name that was struck from the tables, and what he had really found turned out to be another element, so the name came back after a hundred years; it sits below thallium and is predicted to be a heavy, soft metal, but its atoms last only seconds — may show in the outfit's details, motifs or small accessories.\n\nFigure: statuesque, long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/nh/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "nh",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "nh": {
+    "era": "now",
+    "place": "travel_lake",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_clasp",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "natural",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "sw_hw_chain",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "neutral",
+    "shade": "oatmeal",
+    "time": "golden",
+    "weather": "summer",
+    "light": "back",
+    "depth": "deep",
+    "turn": "front",
+    "ostyle": {
+     "material": "textured_swim",
+     "layer": "sheer_shirt"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "d47ed9eda24c707ca06b9c83b17d3c0bd24e1bccace9398d604b84dc43c23c98",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. SHA-256 보존.",
+  "ref_sha256": "684ad262e374361afd1f7501a2265a096aebfd694cb8109b0338321e3a83e70f"
+ },
+ "execution": "element-nihonium-0a3363057205",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-nihonium-0a3363057205",
+  "image_sha256": "d47ed9eda24c707ca06b9c83b17d3c0bd24e1bccace9398d604b84dc43c23c98",
+  "passed": false,
+  "anatomy": "no visible structural error at review scale",
+  "observations": [
+   "호숫가에서 수영복 차림으로 무릎을 꿇고 한 손을 무릎, 다른 손을 바위에 댄다.",
+   "새벽빛의 긴 웨이브와 눈매가 대표컷과 이어진다.",
+   "일상복에 대표컷에서 가져온 해돋이 또는 꽃 모티브가 남았다."
+  ],
+  "cause": "참조 이미지의 의상 모티브가 색과 무늬에도 일부 전이됨."
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}

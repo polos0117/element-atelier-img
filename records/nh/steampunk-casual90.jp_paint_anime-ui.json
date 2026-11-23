@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "nh",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "nh_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "weather": "fog",
+  "time": "overcast",
+  "own": "steampunk",
+  "placeText": "a morning flower-market lane of her element's kingdom — rows of potted morning glories on little bamboo frames, wooden shelves and dew on the paving stones",
+  "ownProp": "a clay pot of morning glories on a little bamboo frame",
+  "light": "side",
+  "spot": "right_third",
+  "expr": "focused",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a flower seller look fitted to her body — a cropped puff-sleeved blouse, a short flared skirt, a small apron and buttoned ankle boots",
+  "scene": "she is the morning-glory seller crouching to lift a pot just as its flowers open",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "nh_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Nihonium (Nh) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a morning flower-market lane of her element's kingdom — rows of potted morning glories on little bamboo frames, wooden shelves and dew on the paving stones\nWeather / season: a misty morning — soft fog outside.\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a flower seller look fitted to her body — a cropped puff-sleeved blouse, a short flared skirt, a small apron and buttoned ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a clay pot of morning glories on a little bamboo frame at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the morning-glory seller crouching to lift a pot just as its flowers open\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nihonium: a synthetic superheavy element, the first ever discovered and named in the far east of the world, named for the land of the rising sun; a team at an eastern research institute fired zinc ions at a bismuth target day and night for nine years, from 2004 to 2012, and caught only three atoms in all; a century earlier a chemist from the same land had announced a new element under a similar name that was struck from the tables, and what he had really found turned out to be another element, so the name came back after a hundred years; it sits below thallium and is predicted to be a heavy, soft metal, but its atoms last only seconds — may show in the outfit's details, motifs or small accessories.\n\nFigure: statuesque, long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/nh/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "나팔꽃 화분 장수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2a4237d4e230e7e3be6108cea5accaeb291832d2e4f3263594f1289a27ebe2d1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. SHA-256 보존.",
+  "ref_sha256": "684ad262e374361afd1f7501a2265a096aebfd694cb8109b0338321e3a83e70f",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-nihonium-0a3363057205",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-nihonium-0a3363057205",
+  "image_sha256": "2a4237d4e230e7e3be6108cea5accaeb291832d2e4f3263594f1289a27ebe2d1",
+  "passed": false,
+  "anatomy": "no visible structural error at review scale",
+  "observations": [
+   "나팔꽃 화분 장수가 가게 앞에서 나팔꽃 화분을 들어 살핀다.",
+   "화분을 든 손과 무릎 쪽 손, 쪼그린 자세와 부츠가 보인다.",
+   "일상복에 대표컷에서 가져온 해돋이 또는 꽃 모티브가 남았다."
+  ],
+  "cause": "참조 이미지의 의상 모티브가 색과 무늬에도 일부 전이됨."
+ },
+ "acceptance": "사용자 승인에 따른 대표컷 확정 및 검수 후 등록"
+}
