@@ -1,0 +1,61 @@
+{
+ "atelier": "element",
+ "card": "fe",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "file": "fe_fantasy_jp_paint_anime_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of the Iron Nation — the land of the element Iron (Fe) — in a high-fantasy world: environment key art for a game world map, with no people.\n\nThe place: a fantasy kingdom of smiths: a mountain fortress built around a great forge, rivers of molten iron glowing in channels, hammered-iron gates, anvils as altars, iron filings drawn into patterns by magic magnetism, ember sparks in the air.\n\nPlaces to fold into the view: inside the great forge: anvils, hammers hung on the wall, a river of molten iron glowing in a channel; before the hammered-iron fortress gate on the mountainside, ember sparks drifting in the air; a magnetite mine shaft where iron filings hang in the air in magnetic patterns.\n\nThe element's character, as light hints in the land's materials, light and air: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy.\n\nColour key: iron grey, steel silver, rust orange, ember red, black soot.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the land spread across the middle ground, the far distance and sky behind. The whole land reads at a glance as one memorable silhouette. Keep the lower quarter of the picture calm and slightly darker (ground, water or haze without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching a Japanese anime key visual — a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth; luminous, rich colours, crisp focal details and softer painted edges toward the distance.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: modern material, machinery.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/fe/fantasy-vista.jp_paint_anime-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 원소 전경 철 시험)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 427,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 427
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1559
+  },
+  "png_sha256": "4c3dbeb6ce2fddfd007218e15d5b0a85ea2ef49b1ab2bca4c70f82ab7755e89f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "bca63a2a0d0781e7e6bbe3bda409ff4b320dd21518afcf91b21e3351c96497d3"
+  },
+  "attempts": 1,
+  "note": "기준 그림 없이 한 장, 다시 그리지 않음. 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 지시문은 tools/vista-prompt.cjs(lib/prompt-element.js buildVista)가 지금 짓는 글과 글자 하나까지 같다"
+ },
+ "qa": {
+  "reviewer": "claude",
+  "image_sha256": "4c3dbeb6ce2fddfd007218e15d5b0a85ea2ef49b1ab2bca4c70f82ab7755e89f",
+  "passed": true,
+  "observations": [
+   "산성 · 큰 용광로 · 쇳물 수로 · 망치로 두드린 쇠 성문 · 모루 제단 · 자철석 갱도 입구 · 쇳가루 자성 무늬 — 판타지 세계 글 · 곁 장소 셋이 다 보인다",
+   "사람 · 동물 없음, 읽히는 글자 없음(걸린 깃발은 무늬 없는 천)",
+   "아래 1/4 은 안개 낀 골짜기 — 잔잔하고 어둡다"
+  ]
+ },
+ "acceptance": "사용자 2026-11-24 「원소공방도 한 세계 정도 만들어보자」 → 나라 하나 × 세 세계(철)"
+}

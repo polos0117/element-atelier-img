@@ -1,0 +1,61 @@
+{
+ "atelier": "element",
+ "card": "fe",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "file": "fe_steampunk_jp_paint_anime_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of the Iron Nation — the land of the element Iron (Fe) — in a Victorian industrial steampunk world: environment key art for a game world map, with no people.\n\nThe place: the Industrial Revolution around 1860: a cast-iron railway bridge over a river, a steam locomotive with a glowing firebox, blast furnaces and chimneys, riveted iron girders, gauges and valves, coal smoke under a copper sunset.\n\nPlaces to fold into the view: on the cast-iron railway bridge over the river, a locomotive steaming past; at the mouth of a blast furnace, orange heat and soot-black chimneys; a riveting workshop with girders, chains and gas lamps.\n\nThe element's character, as light hints in the land's materials, light and air: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy.\n\nColour key: iron grey, steel silver, rust orange, ember red, black soot.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the land spread across the middle ground, the far distance and sky behind. The whole land reads at a glance as one memorable silhouette. Keep the lower quarter of the picture calm and slightly darker (ground, water or haze without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching a Japanese anime key visual — a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth; luminous, rich colours, crisp focal details and softer painted edges toward the distance.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: modern plastic, sci-fi.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/fe/steampunk-vista.jp_paint_anime-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 원소 전경 철 시험)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 412,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 412
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1544
+  },
+  "png_sha256": "a80645da75fea3d7f9f6b3cab15dd160d44d05c3fa798c67485d8426f992e7d8",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "23266717ae16d8396e1861a915cfc242be32ac6a1b27d3a9cc277640174a3bdc"
+  },
+  "attempts": 1,
+  "note": "기준 그림 없이 한 장, 다시 그리지 않음. 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 지시문은 tools/vista-prompt.cjs(lib/prompt-element.js buildVista)가 지금 짓는 글과 글자 하나까지 같다"
+ },
+ "qa": {
+  "reviewer": "claude",
+  "image_sha256": "a80645da75fea3d7f9f6b3cab15dd160d44d05c3fa798c67485d8426f992e7d8",
+  "passed": true,
+  "observations": [
+   "주철 철교 위 증기 기관차 · 용광로 · 굴뚝 · 리벳 거더 · 계기 · 밸브 · 구리빛 노을 — 스팀펑크 세계 글 · 곁 장소 셋이 다 보인다",
+   "사람 · 동물 없음. 압력계는 눈금만 있고 숫자 · 글자는 없다",
+   "아래 1/4 은 강물과 앞쪽 나무 상자(말굽 자석 · 쇳가루 · 자철석) — 오른쪽 아래는 잔잔한 물"
+  ]
+ },
+ "acceptance": "사용자 2026-11-24 「원소공방도 한 세계 정도 만들어보자」 → 나라 하나 × 세 세계(철)"
+}
