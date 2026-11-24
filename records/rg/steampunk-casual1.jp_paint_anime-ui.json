@@ -1,0 +1,128 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "fantasy",
+  "place": "fx_marble_temple",
+  "ofam": "roleplay",
+  "item": "rp_sailor_stage_jumpsuit",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "bouquet_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "golden",
+  "hair": "tied",
+  "color": "jewel",
+  "shade": "teal",
+  "expr": "half_smile",
+  "preset": "kneel_high_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "rg_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sunlit white marble temple — tall fluted columns and a terrace above a deep blue sea\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a sailor stage costume cut as a fitted jumpsuit — a sailor collar, a neck tie and a small cap — in deep peacock teal; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small bouquet at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — roentgenium: a synthetic superheavy element made only a few atoms at a time, first produced in 1994 at a heavy-ion research laboratory by firing nickel ions at a bismuth target for weeks to catch three atoms, and named for the physicist who discovered X-rays; in 1895, in a darkened laboratory, a screen began to glow yellow-green beyond a glass tube wrapped in black card, and he called the unknown rays by the letter for an unknown; one of the first X-ray photographs showed nothing of a hand but its bones and a ring, and he refused to patent the discovery so that every hospital could use it; it sits at the foot of the copper, silver and gold column and is predicted to be a dense, noble silvery metal heavier than gold, but its longest-lived atoms last only minutes, so no one has ever seen its colour — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/steampunk-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "rg": {
+    "era": "fantasy",
+    "place": "fx_marble_temple",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_high_prop",
+    "use": "bouquet_hold",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "rp_sailor_stage_jumpsuit",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "teal",
+    "time": "golden",
+    "hair": "tied",
+    "turn": "right",
+    "ostyle": {
+     "acc": "bangles"
+    }
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "17e9a4d6d9b4de75ef7c17a68071bbdcf1b85af9a24335b0e64c1e4d6315103d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "e358d8ad5d99a3ecf1fe4b357192731729e36b5f60871fd615bc1bff8b282d12",
+  "ref_sha256": "2ebcde3bdaeb0264f242f14f8c6056ab3affd80310f7a02c63728f353848b258",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "17e9a4d6d9b4de75ef7c17a68071bbdcf1b85af9a24335b0e64c1e4d6315103d",
+  "passed": false,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "대리석 신전에서 무릎을 꿇고 꽃다발을 내려다본다. 딥 틸 선원 무대복과 청회색 포니테일이 보인다."
+  ],
+  "cause": "카메라가 계획한 위쪽 시점보다 낮다."
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}

@@ -1,0 +1,131 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "oversized",
+   "acc": "hair_ribbon"
+  },
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "noon",
+  "moment": "bubbles_float",
+  "light": "side",
+  "color": "denim",
+  "shade": "light_wash",
+  "expr": "soft_smile",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rg_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest path in her element's kingdom\nTime of day: midday — bright even light; hard bright sun, crisp short shadows on the ground.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a loosely tied robe — in light-wash denim blue; the outfit colour reads clearly at first glance; styled with a relaxed oversized fit and a silk ribbon tied in her hair, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — roentgenium: a synthetic superheavy element made only a few atoms at a time, first produced in 1994 at a heavy-ion research laboratory by firing nickel ions at a bismuth target for weeks to catch three atoms, and named for the physicist who discovered X-rays; in 1895, in a darkened laboratory, a screen began to glow yellow-green beyond a glass tube wrapped in black card, and he called the unknown rays by the letter for an unknown; one of the first X-ray photographs showed nothing of a hand but its bones and a ring, and he refused to patent the discovery so that every hospital could use it; it sits at the foot of the copper, silver and gold column and is predicted to be a dense, noble silvery metal heavier than gold, but its longest-lived atoms last only minutes, so no one has ever seen its colour — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rg",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "rg": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "robe_morning",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "shade": "light_wash",
+    "time": "noon",
+    "light": "side",
+    "turn": "front",
+    "ostyle": {
+     "fit": "oversized",
+     "acc": "hair_ribbon"
+    },
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1a9342afacbedaa83ae511d9b9af6572b357cc932283f6165d8f73156c46844e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "a68305a1b9b362a13b9816ed74b3edf8ff43e457675ae3fa08d8ae0ac41aea1b",
+  "ref_sha256": "2ebcde3bdaeb0264f242f14f8c6056ab3affd80310f7a02c63728f353848b258",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "1a9342afacbedaa83ae511d9b9af6572b357cc932283f6165d8f73156c46844e",
+  "passed": true,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "나라의 숲길에 서서 한 손가락을 입술에 댄 근접 컷이다. 청회색 포니테일과 연청 로브가 보인다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}

@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_hangar",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "mecha",
+  "placeText": "a spaceport security checkpoint of her element's kingdom — a glowing scan arch, a luggage conveyor and a big screen showing the bones of everything inside the bags",
+  "ownProp": "a slim handheld scanner wand",
+  "light": "top",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a security screener look fitted to her body — a cropped uniform shirt knotted at the waist over a fitted tank top, a short pencil skirt and ankle boots",
+  "scene": "she is the security screener holding a scanner wand up to the light at the checkpoint",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rg_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a spaceport security checkpoint of her element's kingdom — a glowing scan arch, a luggage conveyor and a big screen showing the bones of everything inside the bags\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a security screener look fitted to her body — a cropped uniform shirt knotted at the waist over a fitted tank top, a short pencil skirt and ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slim handheld scanner wand up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the security screener holding a scanner wand up to the light at the checkpoint\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — roentgenium: a synthetic superheavy element made only a few atoms at a time, first produced in 1994 at a heavy-ion research laboratory by firing nickel ions at a bismuth target for weeks to catch three atoms, and named for the physicist who discovered X-rays; in 1895, in a darkened laboratory, a screen began to glow yellow-green beyond a glass tube wrapped in black card, and he called the unknown rays by the letter for an unknown; one of the first X-ray photographs showed nothing of a hand but its bones and a ring, and he refused to patent the discovery so that every hospital could use it; it sits at the foot of the copper, silver and gold column and is predicted to be a dense, noble silvery metal heavier than gold, but its longest-lived atoms last only minutes, so no one has ever seen its colour — may show in the outfit's details, motifs or small accessories.\n\nFigure: broad-shouldered and strong — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "공항 보안 검색 요원",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "526669aed8ad5364072426000bb7a304225e625697ea635ca3a171eaa4fc1f17",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "966fe634e6f83c26af766c101aee01804ef951467ae4003e3ebee1b0e412236f",
+  "ref_sha256": "ef48a02e153fd66c0b4dca3fd4dc746fccbda1427dab06dc7f382325d26384bc",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "526669aed8ad5364072426000bb7a304225e625697ea635ca3a171eaa4fc1f17",
+  "passed": true,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "공항 보안 검색대에서 휴대용 판독 장치를 들어 확인한다. 청회색 단발과 검색대 소품이 보인다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}

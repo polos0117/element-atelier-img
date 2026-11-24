@@ -1,0 +1,130 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "bath",
+  "item": "bath_yukata",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "summer",
+  "time": "golden",
+  "moment": "bubbles_float",
+  "light": "top",
+  "color": "pattern",
+  "shade": "plaid",
+  "expr": "pensive",
+  "preset": "chair_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "rg_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: high summer — strong sunlight and deep shadows.\nTime of day: golden hour — warm low sun, long shadows; low gold light through the window, long warm stripes across the walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a light cotton bath yukata with a soft sash — in green-and-navy tartan plaid; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — roentgenium: a synthetic superheavy element made only a few atoms at a time, first produced in 1994 at a heavy-ion research laboratory by firing nickel ions at a bismuth target for weeks to catch three atoms, and named for the physicist who discovered X-rays; in 1895, in a darkened laboratory, a screen began to glow yellow-green beyond a glass tube wrapped in black card, and he called the unknown rays by the letter for an unknown; one of the first X-ray photographs showed nothing of a hand but its bones and a ring, and he refused to patent the discovery so that every hospital could use it; it sits at the foot of the copper, silver and gold column and is predicted to be a dense, noble silvery metal heavier than gold, but its longest-lived atoms last only minutes, so no one has ever seen its colour — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rg",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "rg": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_lookback",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "bath_yukata",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "plaid",
+    "time": "golden",
+    "weather": "summer",
+    "light": "top",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "34f0c14aed7463671d88d494b96471595278e0a0b25845312bb1b588ac20c700",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "cf5b7b4d8e34d26399f683eadf2b53932b1ca22836b5fc22124ca83377aa6096",
+  "ref_sha256": "ef48a02e153fd66c0b4dca3fd4dc746fccbda1427dab06dc7f382325d26384bc",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "34f0c14aed7463671d88d494b96471595278e0a0b25845312bb1b588ac20c700",
+  "passed": false,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "서재 의자에서 체크 유카타 차림으로 몸을 돌린다. 청회색 단발과 양손이 보인다."
+  ],
+  "cause": "계획한 뒤 3/4보다 옆과 정면에 가까운 각도다."
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}

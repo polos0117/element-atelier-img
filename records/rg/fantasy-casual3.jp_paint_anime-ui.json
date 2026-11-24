@@ -1,0 +1,134 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "mask_tie",
+  "legs": "knees_together",
+  "gaze": "",
+  "turn": "left",
+  "time": "fluorescent",
+  "light": "top",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Cait Sith",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "gentle",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rg_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a convention photo zone under ring lights\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Cait Sith from Final Fantasy VII — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she ties the ribbons of a masquerade mask on a stick behind her head — her own right hand pulls the right ribbon, her own left hand pulls the left ribbon.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "rg",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "rg": {
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "mask_tie",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "gc_leotard",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "final_fantasy_7",
+     "character": "Cait Sith",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "fluorescent",
+    "light": "top",
+    "turn": "left"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d11ad5c553ba050904cbab679b81b30380177464cc764f169c9e5c245fec7aa5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "6e3e3d6f82805f2cbc3843137a2d15a11ce233d6958cd9807a5ab1229ced3baf",
+  "ref_sha256": "778857320f941c9a784af25fa86453914c7bbaa805d221ff21e92b5126ccd580",
+  "refDesign": "gpt_free",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Cait Sith",
+   "cut": "leotard"
+  }
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "d11ad5c553ba050904cbab679b81b30380177464cc764f169c9e5c245fec7aa5",
+  "passed": true,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "행사장에서 고양이 가면의 끈을 묶고 있다. 마스크로 눈 일부가 가려지며 무대용 의상과 두 손이 보인다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}

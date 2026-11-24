@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "rg",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "rg_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "the great gate of her element's kingdom — a stone archway, a long inspection table and a row of sealed trunks and sacks waiting to pass",
+  "ownProp": "a round crystal lens on a brass handle",
+  "light": "side",
+  "depth": "flat",
+  "expr": "nostalgic",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a gate inspector look fitted to her body — a cropped fitted tabard vest over a bandeau top, a short belted skirt, gauntlet cuffs and tall boots",
+  "scene": "she is the gate inspector peering into a sealed trunk through a round crystal lens that shows what lies inside",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rg_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Roentgenium (Rg) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the great gate of her element's kingdom — a stone archway, a long inspection table and a row of sealed trunks and sacks waiting to pass\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a gate inspector look fitted to her body — a cropped fitted tabard vest over a bandeau top, a short belted skirt, gauntlet cuffs and tall boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a round crystal lens on a brass handle up beside her face; it is all she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the gate inspector peering into a sealed trunk through a round crystal lens that shows what lies inside\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — roentgenium: a synthetic superheavy element made only a few atoms at a time, first produced in 1994 at a heavy-ion research laboratory by firing nickel ions at a bismuth target for weeks to catch three atoms, and named for the physicist who discovered X-rays; in 1895, in a darkened laboratory, a screen began to glow yellow-green beyond a glass tube wrapped in black card, and he called the unknown rays by the letter for an unknown; one of the first X-ray photographs showed nothing of a hand but its bones and a ring, and he refused to patent the discovery so that every hospital could use it; it sits at the foot of the copper, silver and gold column and is predicted to be a dense, noble silvery metal heavier than gold, but its longest-lived atoms last only minutes, so no one has ever seen its colour — may show in the outfit's details, motifs or small accessories.\n\nFigure: broad-shouldered and strong — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rg/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "성문 짐 검사관",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d4765dacfe7e4e7cc55a02fc54aafaefe8c8f594bd8a6e4aa0d7ca6b7d186a4c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "32f00a46369319e2c96043d4a960b5e8e2d39b119fbf488768c11dcaf19c7b69",
+  "ref_sha256": "778857320f941c9a784af25fa86453914c7bbaa805d221ff21e92b5126ccd580",
+  "refDesign": "gpt_free"
+ },
+ "execution": "element-rg-1a9263ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-rg-1a9263ba",
+  "image_sha256": "d4765dacfe7e4e7cc55a02fc54aafaefe8c8f594bd8a6e4aa0d7ca6b7d186a4c",
+  "passed": true,
+  "anatomy": "특이점 없음",
+  "observations": [
+   "유리 성문에서 손잡이 있는 투시 렌즈를 들고 짐을 살핀다. 청회색 올림머리와 검사관 복장이 읽힌다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 3·3·3 선택 및 캐릭터별 완료 후 이미지·도감 반영 승인"
+}
