@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "lv",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "lv_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "day_indoor",
+  "light": "top",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Hazard",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "amused",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "lv_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Livermorium (Lv) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Hazard from Overwatch — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/lv/fantasy-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ec1940288d2bbb5c483d435d2df10ebd3629d47aeacbb094df5186b68b3e9b10",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "prompt_sha256": "dae60e11e41c901022ee5febc3a34c29ef3bd8e14cdde11e5f7335d7102ce3ba",
+  "note": "Original PNG retained in source archive, not committed to image repository.",
+  "ref_sha256": "09761042d5ea1b2296196efc4a456aa2f0fba0e17bfcfbe26801246986422ff3",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Hazard",
+   "cut": "mini_dress"
+  }
+ },
+ "execution": "element-lv-e2ab64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ec1940288d2bbb5c483d435d2df10ebd3629d47aeacbb094df5186b68b3e9b10",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "선택한 해당 세계 원본을 참조한 성인 여성 한 명. 얼굴·머리색·피부톤을 시각 비교함.",
+   "실제 원본 크기와 계획 비율이 일치함.",
+   "눈에 띄는 추가·단절 팔다리는 없음. 손가락 미세 윤곽과 겹침은 완전한 자동 검증 대상이 아니며 시각 검수함.",
+   "일상 의상·배경 곳곳에 포도/잎 장식이 생성되어 원소 모티브를 의상에 쓰지 않는 규칙과 차이 있음. 결과 보존."
+  ],
+  "cause": "Her element 줄은 outfit details/motifs를 허용하지만 공방 일반 규칙은 일상 의상 모티브를 제한함. 해당 차이를 기록하고 이미지는 유지함."
+ },
+ "acceptance": "User approval to commit and fast-forward main; retain generated results."
+}

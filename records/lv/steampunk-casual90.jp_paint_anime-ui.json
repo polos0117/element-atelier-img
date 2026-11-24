@@ -1,0 +1,96 @@
+{
+ "atelier": "element",
+ "card": "lv",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "lv_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "dusk",
+  "own": "steampunk",
+  "placeText": "a vineyard of her element's kingdom at harvest — rows of vines heavy with dark grapes on golden hills, wicker baskets and a wooden cart at the end of the row",
+  "ownProp": "a heavy bunch of dark grapes",
+  "light": "side",
+  "view": "foreground",
+  "expr": "half_smile",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a grape picker look fitted to her body — an off-shoulder peasant blouse, a laced bodice, a short skirt tucked up at one side and a straw hat on her back",
+  "scene": "she is the grape picker kneeling between the vines to cut a heavy bunch",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "lv_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Livermorium (Lv) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a vineyard of her element's kingdom at harvest — rows of vines heavy with dark grapes on golden hills, wicker baskets and a wooden cart at the end of the row\nTime of day: dusk — blue hour, lights coming on; a deep blue sky, the first lights coming on around her.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a grape picker look fitted to her body — an off-shoulder peasant blouse, a laced bodice, a short skirt tucked up at one side and a straw hat on her back, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a heavy bunch of dark grapes at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the grape picker kneeling between the vines to cut a heavy bunch\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — livermorium: a synthetic superheavy element first made in 2000 by firing calcium ions at a curium target, in a joint effort between a northern science town and a laboratory across the ocean, and named for that laboratory and its valley town; the valley has been known for its vineyards since the 1880s, and in 1889 one of its wines won a gold medal at a great world exhibition; today the laboratory houses the largest laser on Earth, a building the size of three playing fields that focuses one hundred and ninety-two beams onto a single point and, in the winter of 2022, first drew more energy from that point than it put in; it sits below oxygen, sulfur, selenium, tellurium and polonium, and its atoms last only tens of milliseconds before decaying into flerovium — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/lv/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "포도밭 수확꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ae247ad1a79ff172a3ece313f164a0960b676cafc69bcac327f20974a07b031c",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "prompt_sha256": "2846b5301590b23eb85d1fcb28503ed5d45ec29249cf101410765e456d00f955",
+  "note": "Original PNG retained in source archive, not committed to image repository.",
+  "ref_sha256": "34dda5c65eeb0df05d8b14287492efa227104308d0c681d190f5021d3b1c2b5c",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-lv-e2ab64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ae247ad1a79ff172a3ece313f164a0960b676cafc69bcac327f20974a07b031c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "선택한 해당 세계 원본을 참조한 성인 여성 한 명. 얼굴·머리색·피부톤을 시각 비교함.",
+   "실제 원본 크기와 계획 비율이 일치함.",
+   "눈에 띄는 추가·단절 팔다리는 없음. 손가락 미세 윤곽과 겹침은 완전한 자동 검증 대상이 아니며 시각 검수함.",
+   "일상 의상·배경 곳곳에 포도/잎 장식이 생성되어 원소 모티브를 의상에 쓰지 않는 규칙과 차이 있음. 결과 보존.",
+   "포도를 따는 중보다 이미 딴 포도를 들어 보이는 순간으로 바뀜."
+  ],
+  "cause": "Her element 줄은 outfit details/motifs를 허용하지만 공방 일반 규칙은 일상 의상 모티브를 제한함. 해당 차이를 기록하고 이미지는 유지함."
+ },
+ "acceptance": "User approval to commit and fast-forward main; retain generated results."
+}

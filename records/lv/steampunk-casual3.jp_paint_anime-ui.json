@@ -1,0 +1,95 @@
+{
+ "atelier": "element",
+ "card": "lv",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "lv_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "top",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "weather": "rain",
+  "time": "night",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "deep",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Durin",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "curious",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "lv_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Livermorium (Lv) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Durin from Genshin Impact — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera directly above her, looking straight down; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/lv/steampunk-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "52a6eb8d2ca04a8ce45e4c38f249dd88b6c170f1291e9ff411beabb807009b87",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "prompt_sha256": "33167a77ee069d22635db7fa46278a37659d4418a5cb9f4fdf98a75cc9fe74cd",
+  "note": "Original PNG retained in source archive, not committed to image repository.",
+  "ref_sha256": "34dda5c65eeb0df05d8b14287492efa227104308d0c681d190f5021d3b1c2b5c",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Durin",
+   "cut": "leotard"
+  }
+ },
+ "execution": "element-lv-e2ab64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "52a6eb8d2ca04a8ce45e4c38f249dd88b6c170f1291e9ff411beabb807009b87",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "선택한 해당 세계 원본을 참조한 성인 여성 한 명. 얼굴·머리색·피부톤을 시각 비교함.",
+   "실제 원본 크기와 계획 비율이 일치함.",
+   "눈에 띄는 추가·단절 팔다리는 없음. 손가락 미세 윤곽과 겹침은 완전한 자동 검증 대상이 아니며 시각 검수함.",
+   "일상 의상·배경 곳곳에 포도/잎 장식이 생성되어 원소 모티브를 의상에 쓰지 않는 규칙과 차이 있음. 결과 보존."
+  ],
+  "cause": "Her element 줄은 outfit details/motifs를 허용하지만 공방 일반 규칙은 일상 의상 모티브를 제한함. 해당 차이를 기록하고 이미지는 유지함."
+ },
+ "acceptance": "User approval to commit and fast-forward main; retain generated results."
+}
