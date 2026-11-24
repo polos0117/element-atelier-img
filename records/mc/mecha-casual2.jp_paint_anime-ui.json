@@ -1,0 +1,82 @@
+{
+ "atelier": "element",
+ "card": "mc",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mc_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_roof",
+  "ofam": "homewear",
+  "item": "fleece_joggers",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "scope_look",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "turn": "right",
+  "time": "forenoon",
+  "moment": "bubbles_float",
+  "hair": "tied",
+  "spot": "left_third",
+  "color": "jewel",
+  "shade": "topaz",
+  "denier": "d60",
+  "expr": "serious",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "mc_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Moscovium (Mc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop or terrace above the town of her element's kingdom\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a soft fleece pullover with relaxed jogger pants — in deep topaz gold; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she looks into a small brass telescope — her own right hand steadies the eyepiece end, her own left hand supports the barrel.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — moscovium: a synthetic superheavy element first made in 2003 at a science town on the upper reaches of a great northern river, by firing calcium ions at an americium target in a joint effort with a laboratory across the ocean, and named for the snowbound region around that town and its red-walled capital; each atom lives less than a second before decaying into nihonium, and it was at the end of its decay chains that nihonium was first glimpsed; it sits below nitrogen, phosphorus, arsenic, antimony and bismuth and is predicted to be a heavy, soft metal — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/mc/mecha-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "7ebbc855efbe75517ee7b1425a2b0387117df092e24bf6d0fbf874a59244013a",
+  "png_sha256": "b1af08defe6253f0a089c14be80cb3b2f9c2f02c5cbeba784f3497ed68773bbd",
+  "size": [
+   1254,
+   1254
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-moscovium-5003",
+  "image_sha256": "b1af08defe6253f0a089c14be80cb3b2f9c2f02c5cbeba784f3497ed68773bbd",
+  "passed": false,
+  "anatomy": "no_extra_limbs_observed",
+  "observations": [
+   "양손으로 망원경을 받친 모습. 참고보다 긴 묶음머리가 추가되었다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-moscovium-5003",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

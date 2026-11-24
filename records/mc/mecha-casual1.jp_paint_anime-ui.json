@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "mc",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mc_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "hair_ribbon"
+  },
+  "era": "fantasy",
+  "place": "fx_spa",
+  "ofam": "lingerie",
+  "item": "garter_set",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "day_indoor",
+  "hair": "braid",
+  "light": "top",
+  "color": "vivid",
+  "shade": "kelly",
+  "expr": "amused",
+  "preset": "edge_brace",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "mc_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Moscovium (Mc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a futuristic spa of white curves and soft light\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a lingerie set with decorative garter straps — in bright kelly green; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — moscovium: a synthetic superheavy element first made in 2003 at a science town on the upper reaches of a great northern river, by firing calcium ions at an americium target in a joint effort with a laboratory across the ocean, and named for the snowbound region around that town and its red-walled capital; each atom lives less than a second before decaying into nihonium, and it was at the end of its decay chains that nihonium was first glimpsed; it sits below nitrogen, phosphorus, arsenic, antimony and bismuth and is predicted to be a heavy, soft metal — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/mc/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "7ebbc855efbe75517ee7b1425a2b0387117df092e24bf6d0fbf874a59244013a",
+  "png_sha256": "32e0e501e1e2f5328df8ff8d7384c0d142de8a4f2c5aefae0031bc039b988d58",
+  "size": [
+   1254,
+   1254
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-moscovium-5003",
+  "image_sha256": "32e0e501e1e2f5328df8ff8d7384c0d142de8a4f2c5aefae0031bc039b988d58",
+  "passed": false,
+  "anatomy": "no_extra_limbs_observed",
+  "observations": [
+   "양손을 가장자리에 짚고 앉아 있다. 참고의 단발보다 긴 옆땋기 머리로 나왔다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-moscovium-5003",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

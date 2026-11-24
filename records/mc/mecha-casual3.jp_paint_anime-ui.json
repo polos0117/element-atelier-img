@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "mc",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mc_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_snack",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "ears_put",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "dusk",
+  "light": "side",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Alleria Windrunner",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "nostalgic",
+  "preset": "side_chair_read",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "mc_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Moscovium (Mc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an amusement-park snack street of striped stalls selling cotton candy, churros and popcorn, little round tables in front\nTime of day: dusk — blue hour, lights coming on; a deep blue sky, the first lights coming on around her.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Alleria Windrunner from World of Warcraft — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she settles a fluffy animal-ear headband onto her head — her own right hand holds the right side of the band, her own left hand holds the left side of the band.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/mc/mecha-casual3.jp_paint_anime-ui.json",
+ "generation": {
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Alleria Windrunner",
+   "cut": "mini_dress"
+  },
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "7ebbc855efbe75517ee7b1425a2b0387117df092e24bf6d0fbf874a59244013a",
+  "png_sha256": "c018384b9fcec98d3d23053e668d5f5b286322d350141fc69a32aad813494060",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-moscovium-5003",
+  "image_sha256": "c018384b9fcec98d3d23053e668d5f5b286322d350141fc69a32aad813494060",
+  "passed": true,
+  "anatomy": "no_extra_limbs_observed",
+  "observations": [
+   "동물 귀 머리띠를 잡은 두 팔과 앉은 두 다리 연결이 보인다."
+  ],
+  "cause": ""
+ },
+ "execution": "element-moscovium-5003",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

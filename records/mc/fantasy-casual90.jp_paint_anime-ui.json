@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "mc",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mc_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "weather": "autumn",
+  "time": "forenoon",
+  "own": "fantasy",
+  "placeText": "a frozen lake of her element's kingdom — a round hole cut in the thick ice, a little wooden sled and red fortress walls on the far shore",
+  "ownProp": "a short ice-fishing rod",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "gentle",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "an ice fisher look fitted to her body — a cropped fur-trimmed jacket open over a fitted knit top, short wool shorts over thick tights and fur boots",
+  "scene": "she is the ice fisher crouching by the hole in the ice with her short rod",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "mc_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Moscovium (Mc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a frozen lake of her element's kingdom — a round hole cut in the thick ice, a little wooden sled and red fortress walls on the far shore\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nOutfit: an ice fisher look fitted to her body — a cropped fur-trimmed jacket open over a fitted knit top, short wool shorts over thick tights and fur boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a short ice-fishing rod at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the ice fisher crouching by the hole in the ice with her short rod\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — moscovium: a synthetic superheavy element first made in 2003 at a science town on the upper reaches of a great northern river, by firing calcium ions at an americium target in a joint effort with a laboratory across the ocean, and named for the snowbound region around that town and its red-walled capital; each atom lives less than a second before decaying into nihonium, and it was at the end of its decay chains that nihonium was first glimpsed; it sits below nitrogen, phosphorus, arsenic, antimony and bismuth and is predicted to be a heavy, soft metal — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/mc/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "얼음 구멍 낚시꾼",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "51da66579b1d521e6b1c050092ca207eb8865ea1f2eacb92c988ac5ba8d18160",
+  "png_sha256": "55eb02614eb5a0258bd75d9d894e2171d2db2d206217469d62d36e39d9083b82",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-moscovium-5003",
+  "image_sha256": "55eb02614eb5a0258bd75d9d894e2171d2db2d206217469d62d36e39d9083b82",
+  "passed": false,
+  "anatomy": "no_extra_limbs_observed",
+  "observations": [
+   "짧은 낚싯대를 들고 얼음 구멍 곁에 쪼그린 모습. 계획의 두꺼운 타이츠보다 얇고 노출된 스타킹으로 나왔다. 가을 날씨와 언 호수는 계획 자체의 조합이다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-moscovium-5003",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

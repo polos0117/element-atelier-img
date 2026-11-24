@@ -1,0 +1,82 @@
+{
+ "atelier": "element",
+ "card": "mc",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "mc_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "boudoir_set",
+  "ofam": "lingerie",
+  "item": "juban_inspired",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "polish_paint",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "noon",
+  "moment": "balloon_string",
+  "light": "top",
+  "color": "mono",
+  "shade": "graphite",
+  "expr": "wistful",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "mc_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Moscovium (Mc) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a boudoir photo set — a satin-draped chaise, a gilt mirror, sheer curtains glowing with window light and a scatter of rose petals\nTime of day: midday — bright even light; a bright square of sunlight from the window on the floor.\nLight direction: a pool of light from above, the surroundings dimmer.\nSmall moment: a balloon string is looped around her wrist, the balloon floating out of frame above.\nOutfit: a juban-inspired silk underlayer with a wrapped front and a narrow sash — in graphite grey with black trim; the outfit colour reads clearly at first glance; styled with a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she paints a nail with the brush from a small bottle of nail polish — her own right hand draws the brush along one nail, her own left hand holds the hand being painted steady.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — moscovium: a synthetic superheavy element first made in 2003 at a science town on the upper reaches of a great northern river, by firing calcium ions at an americium target in a joint effort with a laboratory across the ocean, and named for the snowbound region around that town and its red-walled capital; each atom lives less than a second before decaying into nihonium, and it was at the end of its decay chains that nihonium was first glimpsed; it sits below nitrogen, phosphorus, arsenic, antimony and bismuth and is predicted to be a heavy, soft metal — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/mc/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "51da66579b1d521e6b1c050092ca207eb8865ea1f2eacb92c988ac5ba8d18160",
+  "png_sha256": "17634d8392eed3e997ecd295559cf1b6192f01fdb7ca371ebc9cb86b4ddb79ab",
+  "size": [
+   1254,
+   1254
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-moscovium-5003",
+  "image_sha256": "17634d8392eed3e997ecd295559cf1b6192f01fdb7ca371ebc9cb86b4ddb79ab",
+  "passed": false,
+  "anatomy": "no_extra_limbs_observed",
+  "observations": [
+   "양손으로 매니큐어를 바르며 앉아 있다. 의상에 참조의 성벽 문양과 추가 장식이 생겼다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-moscovium-5003",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}
