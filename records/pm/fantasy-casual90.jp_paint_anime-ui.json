@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "pm",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pm_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "dusk",
+  "own": "fantasy",
+  "placeText": "a dawn village square of her element's kingdom — stone houses with an empty lantern hook at every door and a cold hearth in the middle",
+  "ownProp": "a hollow fennel stalk with a glowing ember at its tip",
+  "spot": "right_third",
+  "depth": "deep",
+  "expr": "wink",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "an ember peddler look fitted to her body — a cropped leather vest over a wrap bandeau, short rolled breeches, a soot-smudged scarf and lace-up sandals",
+  "scene": "she is the ember peddler carrying a live ember from house to house to light the morning hearths",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "pm_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Promethium (Pm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dawn village square of her element's kingdom — stone houses with an empty lantern hook at every door and a cold hearth in the middle\nTime of day: dusk — blue hour, lights coming on; a deep blue sky, the first lights coming on around her.\nOutfit: an ember peddler look fitted to her body — a cropped leather vest over a wrap bandeau, short rolled breeches, a soot-smudged scarf and lace-up sandals, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a hollow fennel stalk with a glowing ember at its tip low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the ember peddler carrying a live ember from house to house to light the morning hearths\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — promethium: the long-missing element 61, a gap in the table foretold for decades and falsely claimed again and again, never truly found in nature because not one of its forms is stable; finally caught in 1945 in the ashes of split uranium inside a wartime reactor laboratory and named for the titan who stole fire from the gods and gave it to people, a reminder of both daring and danger; its pink salts glow on their own a pale blue-green in the dark, so it became the self-luminous paint on watch hands and signs, and the tiny atomic battery that kept early heart pacemakers beating for years without light or fuel — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "refDesign": "gpt_free",
+ "record": "records/pm/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "불씨 행상",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "8fd9e8b37bb6620889f3352930227f64c2a02faa35341820856942e49b44bb60",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cea32867554348c7115fadec4bf27b0bc32ec3ac164c2f559313dfb00924a29d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "bb54349b9b5e90e218aa1204bc43d0154b34ab628e8e992cdacab499bbc21d14",
+  "note": "원본 PNG 보존, 재생성 없음. 선택한 세계컷 원본을 단일 참고로 첨부.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-pm-46d64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cea32867554348c7115fadec4bf27b0bc32ec3ac164c2f559313dfb00924a29d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "회향 줄기 끝 불씨를 오른손에 들고 마을 광장을 걷는 행상.",
+   "원본 생성 결과를 유지. 화풍·동일 인물·해부·프레이밍을 육안 검수."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user authorization; QA issues retained without regeneration"
+}

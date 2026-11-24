@@ -1,0 +1,82 @@
+{
+ "atelier": "element",
+ "card": "pm",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "sheer_shirt"
+  },
+  "era": "fantasy",
+  "place": "fx_cloudpavilion",
+  "ofam": "swimwear",
+  "item": "sw_couture_fringe",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "scope_look",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "right",
+  "moment": "grass_skirt",
+  "light": "dappled",
+  "depth": "flat",
+  "color": "pattern",
+  "shade": "leaf",
+  "expr": "relieved",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "pm_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Promethium (Pm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a few blades of grass cling to the hem of her clothes.\nOutfit: a one-piece swimsuit with a fall of fine fringe from a beaded neckline — in a tropical leaf print in green and sunny yellow; the outfit colour reads clearly at first glance; styled with a sheer button-up shirt worn open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she looks into a small brass telescope — her own right hand steadies the eyepiece end, her own left hand supports the barrel.\nLEGS: weight even on both legs.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — promethium: the long-missing element 61, a gap in the table foretold for decades and falsely claimed again and again, never truly found in nature because not one of its forms is stable; finally caught in 1945 in the ashes of split uranium inside a wartime reactor laboratory and named for the titan who stole fire from the gods and gave it to people, a reminder of both daring and danger; its pink salts glow on their own a pale blue-green in the dark, so it became the self-luminous paint on watch hands and signs, and the tiny atomic battery that kept early heart pacemakers beating for years without light or fuel — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "refDesign": "gpt_free",
+ "record": "records/pm/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bba8be685c5003f6a81e10a9c8387feffd4577a4ef87531856223df1dfc2853c",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "f38821270752b23272b000e9eea1fde2469e7545558b797d3a23fe28ceeec126",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "97f827c714af02ea3e5df6b8eb3c193217d43fbd4ab9d10467d37ab291848a3e",
+  "note": "원본 PNG 보존, 재생성 없음. 선택한 세계컷 원본을 단일 참고로 첨부."
+ },
+ "execution": "element-pm-46d64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f38821270752b23272b000e9eea1fde2469e7545558b797d3a23fe28ceeec126",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "두 손으로 망원경을 받치고 구름 위 정자에서 관측.",
+   "원본 생성 결과를 유지. 화풍·동일 인물·해부·프레이밍을 육안 검수."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user authorization; QA issues retained without regeneration"
+}

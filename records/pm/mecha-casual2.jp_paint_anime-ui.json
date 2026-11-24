@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "pm",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pm_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "oversized"
+  },
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "overcast",
+  "light": "back",
+  "depth": "deep",
+  "color": "denim",
+  "shade": "denim_white",
+  "denier": "d80",
+  "expr": "soft_smile",
+  "preset": "chair_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "pm_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Promethium (Pm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a military camp tent or ready room in her element's kingdom\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a soft body-hugging knit dress — in denim blue with crisp white; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; styled with a relaxed oversized fit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — promethium: the long-missing element 61, a gap in the table foretold for decades and falsely claimed again and again, never truly found in nature because not one of its forms is stable; finally caught in 1945 in the ashes of split uranium inside a wartime reactor laboratory and named for the titan who stole fire from the gods and gave it to people, a reminder of both daring and danger; its pink salts glow on their own a pale blue-green in the dark, so it became the self-luminous paint on watch hands and signs, and the tiny atomic battery that kept early heart pacemakers beating for years without light or fuel — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "refDesign": "gpt_free",
+ "record": "records/pm/mecha-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bba8be685c5003f6a81e10a9c8387feffd4577a4ef87531856223df1dfc2853c",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "f6b9d5d5300fcb44c73c7cb87bfdad1084f2a6fef006064af1897a6e0a191b7e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "c81022af3646e365b1b5b2fdf4926b3683fca39073885bb2df72c4034d6278c0",
+  "note": "원본 PNG 보존, 재생성 없음. 선택한 세계컷 원본을 단일 참고로 첨부."
+ },
+ "execution": "element-pm-46d64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f6b9d5d5300fcb44c73c7cb87bfdad1084f2a6fef006064af1897a6e0a191b7e",
+  "passed": false,
+  "anatomy": [
+   "arm",
+   "hand"
+  ],
+  "observations": [
+   "의자 뒤쪽 손, 오른쪽 팔걸이 손, 아래 무릎 위 손이 함께 보여 총 세 손. 추가 팔·손 오류.",
+   "원본 생성 결과를 유지. 화풍·동일 인물·해부·프레이밍을 육안 검수."
+  ],
+  "cause": "추가 손·팔"
+ },
+ "acceptance": "user authorization; QA issues retained without regeneration"
+}

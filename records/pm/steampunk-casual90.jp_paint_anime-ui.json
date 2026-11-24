@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "pm",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pm_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "time": "forenoon",
+  "own": "steampunk",
+  "placeText": "a porcelain doll workshop of her element's kingdom — shelves of unpainted bisque heads, a small kiln glowing in the corner and jars of fine brushes",
+  "ownProp": "an unpainted porcelain doll head and a fine brush",
+  "light": "side",
+  "spot": "left_third",
+  "depth": "flat",
+  "view": "foreground",
+  "expr": "gentle",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a doll maker look fitted to her body — a short sleeveless smock over a lace camisole, a short skirt, sleeve garters on bare arms and ankle boots",
+  "scene": "she is the doll maker painting a face on a freshly fired porcelain head, shaping people out of clay as the old fire-thief did",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "pm_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Promethium (Pm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a porcelain doll workshop of her element's kingdom — shelves of unpainted bisque heads, a small kiln glowing in the corner and jars of fine brushes\nTime of day: late morning — clear fresh daylight, soft short shadows; morning light slanting through the window across the floor.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a doll maker look fitted to her body — a short sleeveless smock over a lace camisole, a short skirt, sleeve garters on bare arms and ankle boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds an unpainted porcelain doll head and a fine brush in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the doll maker painting a face on a freshly fired porcelain head, shaping people out of clay as the old fire-thief did\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — promethium: the long-missing element 61, a gap in the table foretold for decades and falsely claimed again and again, never truly found in nature because not one of its forms is stable; finally caught in 1945 in the ashes of split uranium inside a wartime reactor laboratory and named for the titan who stole fire from the gods and gave it to people, a reminder of both daring and danger; its pink salts glow on their own a pale blue-green in the dark, so it became the self-luminous paint on watch hands and signs, and the tiny atomic battery that kept early heart pacemakers beating for years without light or fuel — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "refDesign": "gpt_free",
+ "record": "records/pm/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "도자기 인형 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5d0efd028085a153f0ec07b970f1de6869b953f879fa0ebc0444735f45492ef2",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "64b8a545712ab7e702c5b9774d9ee29ef48074c52a8c577c637a3704ce5ebe89",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "d5e69bde03bb453f61c44c7c762ea4cacc07ad897fd288415a5c31c346e621d6",
+  "note": "원본 PNG 보존, 재생성 없음. 선택한 세계컷 원본을 단일 참고로 첨부.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-pm-46d64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "64b8a545712ab7e702c5b9774d9ee29ef48074c52a8c577c637a3704ce5ebe89",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "왼손에 도자기 인형 머리, 오른손에 붓. 팔과 손의 연결 자연스러움.",
+   "원본 생성 결과를 유지. 화풍·동일 인물·해부·프레이밍을 육안 검수."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user authorization; QA issues retained without regeneration"
+}

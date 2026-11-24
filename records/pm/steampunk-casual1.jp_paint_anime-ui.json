@@ -1,0 +1,85 @@
+{
+ "atelier": "element",
+ "card": "pm",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "pm_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "fit": "high_waist"
+  },
+  "era": "now",
+  "place": "sup_cove",
+  "ofam": "swimwear",
+  "item": "sw_couture_crystal",
+  "posture": "board_stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "balance_both",
+  "left": "balance_both",
+  "use": "",
+  "legs": "board_knees",
+  "gaze": "horizon",
+  "turn": "left",
+  "weather": "fog",
+  "time": "overcast",
+  "moment": "sand_legs",
+  "light": "dappled",
+  "view": "foreground",
+  "color": "earth",
+  "shade": "chocolate",
+  "expr": "calm",
+  "preset": "board_ride_far",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "pm_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Promethium (Pm) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a glassy turquoise cove in the morning, a stand-up paddleboard gliding over clear shallow water\nWeather / season: a misty morning — soft fog outside.\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a bikini whose cups and straps are embroidered with clusters of small crystals — in deep chocolate brown; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a high-waisted line, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing balanced on her board, feet set apart across it, knees softly bent, her silhouette steady.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both arms are held out wide for balance.\nLEGS: knees softly bent, feet planted apart across the board.\nGAZE: she looks toward the far distance.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — promethium: the long-missing element 61, a gap in the table foretold for decades and falsely claimed again and again, never truly found in nature because not one of its forms is stable; finally caught in 1945 in the ashes of split uranium inside a wartime reactor laboratory and named for the titan who stole fire from the gods and gave it to people, a reminder of both daring and danger; its pink salts glow on their own a pale blue-green in the dark, so it became the self-luminous paint on watch hands and signs, and the tiny atomic battery that kept early heart pacemakers beating for years without light or fuel — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "refDesign": "gpt_free",
+ "record": "records/pm/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5d0efd028085a153f0ec07b970f1de6869b953f879fa0ebc0444735f45492ef2",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "faae715765474b91966085af66686b98c0d90de72da838e49f186b4f724aeaab",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "3862072b9beed4403c5eda461cf1a5c7d7d3dc2ae9763d7531c810a394427546",
+  "note": "원본 PNG 보존, 재생성 없음. 선택한 세계컷 원본을 단일 참고로 첨부."
+ },
+ "execution": "element-pm-46d64",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "faae715765474b91966085af66686b98c0d90de72da838e49f186b4f724aeaab",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "패들보드 위 두 팔을 벌리고 두 발로 균형을 잡는 가로 풍경 컷.",
+   "원본 생성 결과를 유지. 화풍·동일 인물·해부·프레이밍을 육안 검수."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user authorization; QA issues retained without regeneration"
+}
