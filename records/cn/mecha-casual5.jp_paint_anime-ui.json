@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "cn",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cn_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "matte_tech",
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "car_seat",
+  "ofam": "active",
+  "item": "dance_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "right",
+  "time": "dawn",
+  "light": "back",
+  "color": "denim",
+  "shade": "indigo",
+  "situ": "sheer_light",
+  "expr": "focused",
+  "preset": "camera_shot",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "cn_mecha_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Copernicium (Cn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the driver's seat of a small car parked on a quiet street, the steering wheel in front of her, the windscreen and side window bright\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a leotard with a wrap skirt — in dark indigo denim; the outfit colour reads clearly at first glance; styled with matte, smooth performance fabric and a silk ribbon tied in her hair; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a palm-sized brass orrery with a gold bead sun at the centre and tiny silver planets on fine wire arms in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copernicium: a synthetic superheavy element first made in 1996, a single atom caught by firing zinc ions at a lead target, and named on the birthday of the astronomer who put the sun, not the Earth, at the centre of the heavens, a quiet revolution he held back for decades and printed only in the year he died; its first proposed symbol had to be changed because it had once belonged to another element; it sits below zinc, cadmium and mercury, its outer electrons held so tightly that it was predicted to flow like mercury or drift like a noble gas, and a few atoms showed it to be a volatile metal that clings only lightly to gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/cn/mecha-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "b32582e67b6189072810b521aac9e85e26d44b416f615709067516d2eb53aad5",
+  "png_sha256": "410ed2972fa92ed2e224945c619d5c767fbeb0dc0967505d03852a13a2c3a269",
+  "size": [
+   1254,
+   1254
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-cn-17d921",
+  "image_sha256": "410ed2972fa92ed2e224945c619d5c767fbeb0dc0967505d03852a13a2c3a269",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "운전석 안에 서 있는 비현실적인 높이는 계획의 standing과 place 조합에서 비롯된다. 두 손에 천체 모형을 들고 있다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-cn-17d921",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

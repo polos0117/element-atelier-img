@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "cn",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "the grand hotel entrance of her element's kingdom — a polished brass revolving door, a red carpet, potted palms and a marble lobby beyond the glass",
+  "ownProp": "a doorman's peaked cap with gold braid",
+  "light": "low_warm",
+  "expr": "half_smile",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a doorman uniform fitted to her body — a cropped double-breasted jacket with gold braid over a bandeau top, a short pleated skirt, white gloves and buttoned boots",
+  "scene": "she is the hotel doorman turning the brass revolving door round and lifting her cap in welcome",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "cn_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Copernicium (Cn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the grand hotel entrance of her element's kingdom — a polished brass revolving door, a red carpet, potted palms and a marble lobby beyond the glass\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a doorman uniform fitted to her body — a cropped double-breasted jacket with gold braid over a bandeau top, a short pleated skirt, white gloves and buttoned boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a doorman's peaked cap with gold braid up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the hotel doorman turning the brass revolving door round and lifting her cap in welcome\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copernicium: a synthetic superheavy element first made in 1996, a single atom caught by firing zinc ions at a lead target, and named on the birthday of the astronomer who put the sun, not the Earth, at the centre of the heavens, a quiet revolution he held back for decades and printed only in the year he died; its first proposed symbol had to be changed because it had once belonged to another element; it sits below zinc, cadmium and mercury, its outer electrons held so tightly that it was predicted to flow like mercury or drift like a noble gas, and a few atoms showed it to be a volatile metal that clings only lightly to gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/cn/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "호텔 회전문 도어맨",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bc00424b13b3e25f33062270530d6fb66fc2106d628db45307a65e7b8115393d",
+  "png_sha256": "6513ca7bd17fcb608cff14f987749e7bc5b73c5d8a9feef15e304f26805911d4",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-cn-17d921",
+  "image_sha256": "6513ca7bd17fcb608cff14f987749e7bc5b73c5d8a9feef15e304f26805911d4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "모자를 든 한 손의 연결이 보인다. 다른 팔과 회전문을 미는 동작은 프레임에서 확인되지 않는다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-cn-17d921",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}

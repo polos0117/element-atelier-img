@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "cn",
+ "tier": "root",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cn_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "satin",
+   "wear": "wrap_side",
+   "fit": "high_waist",
+   "acc": "anklet"
+  },
+  "era": "now",
+  "place": "street_cafe",
+  "ofam": "resort",
+  "item": "kaftan_open",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "overcast",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "jewel",
+  "shade": "amethyst",
+  "expr": "nostalgic",
+  "preset": "walk_side_low",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "cn_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Copernicium (Cn) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a neighbourhood café with a counter and window seats\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nOutfit: a long printed kaftan worn open over a bandeau top and tailored shorts, flat sandals — in deep amethyst purple; the outfit colour reads clearly at first glance; styled with a soft glossy satin finish, wrapped and fastened at one side, a high-waisted line and a fine chain anklet, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a palm-sized brass orrery with a gold bead sun at the centre and tiny silver planets on fine wire arms at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — copernicium: a synthetic superheavy element first made in 1996, a single atom caught by firing zinc ions at a lead target, and named on the birthday of the astronomer who put the sun, not the Earth, at the centre of the heavens, a quiet revolution he held back for decades and printed only in the year he died; its first proposed symbol had to be changed because it had once belonged to another element; it sits below zinc, cadmium and mercury, its outer electrons held so tightly that it was predicted to flow like mercury or drift like a noble gas, and a few atoms showed it to be a volatile metal that clings only lightly to gold — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/cn/steampunk-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bc00424b13b3e25f33062270530d6fb66fc2106d628db45307a65e7b8115393d",
+  "png_sha256": "f388afded7998a4eebad978caaeba094c563178540147a495d8a8a385fed0b63",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  }
+ },
+ "qa": {
+  "reviewer": "element-cn-17d921",
+  "image_sha256": "f388afded7998a4eebad978caaeba094c563178540147a495d8a8a385fed0b63",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "양팔 연결과 보행하는 발이 보인다. 카프탄에 궤도 문양이 추가되었다."
+  ],
+  "cause": "계획과 결과의 차이를 기록하고 생성 원본을 그대로 유지함."
+ },
+ "execution": "element-cn-17d921",
+ "imported": "2026-11-24",
+ "acceptance": "user authorized completion and ordinary main publication; no recreation for exposure censorship"
+}
