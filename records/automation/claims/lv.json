@@ -3,10 +3,25 @@
   "runs": [
     {
       "execution": "element-lv-e2ab64",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-24T16:15:22.762Z",
       "date_kst": "2026-11-25",
-      "date_utc": "2026-11-25"
+      "date_utc": "2026-11-25",
+      "done_at": "2026-11-24T17:23:08.165Z",
+      "done_by": "element-lv-e2ab64",
+      "selected": {
+        "fantasy": 1,
+        "steampunk": 2,
+        "mecha": 1
+      },
+      "registered_images": 27,
+      "registered_casual_index_rows": 24,
+      "registration_commit": "bcd07cc951a8fb2e3e4efd8a2e33e4be28e70b11",
+      "artifacts": {
+        "sheet_library_file_id": "libfile_fbbac98fe4088191b0c59747c7ef9f6a",
+        "sources_library_file_id": "libfile_1bd17ac450248191b0e0574d252f46c3"
+      },
+      "qa_note": "mecha casual4 arm connection ambiguous; preserved output and flagged qa.anatomy."
     }
   ]
 }
