@@ -1,6 +1,6 @@
 {
   "card": "lv",
-  "status": "awaiting_world_selection",
+  "status": "complete",
   "execution": "element-lv-e2ab64",
   "style": "jp_paint_anime",
   "world_order": [
@@ -251,5 +251,14 @@
       }
     }
   ],
-  "note": "12 original outputs preserved. Await user choices before representative registration and casual generation. Git CLI push lacked credentials; this checkpoint uses authenticated GitHub file commit."
+  "note": "12 original outputs preserved. Await user choices before representative registration and casual generation. Git CLI push lacked credentials; this checkpoint uses authenticated GitHub file commit.",
+  "selected": {
+    "fantasy": 1,
+    "steampunk": 2,
+    "mecha": 1
+  },
+  "approval": "user 1,2,1",
+  "registration_commit": "bcd07cc951a8fb2e3e4efd8a2e33e4be28e70b11",
+  "completed_sheet_library_file_id": "libfile_fbbac98fe4088191b0c59747c7ef9f6a",
+  "completed_source_library_file_id": "libfile_1bd17ac450248191b0e0574d252f46c3"
 }
