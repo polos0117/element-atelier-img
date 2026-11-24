@@ -1,0 +1,78 @@
+{
+ "atelier": "element",
+ "card": "fl",
+ "tier": "root",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fl_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "earrings"
+  },
+  "era": "now",
+  "place": "amuse_night",
+  "ofam": "roleplay",
+  "item": "rp_bunny_jumpsuit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "neon",
+  "light": "side",
+  "expr": "wink",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "fl_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Flerovium (Fl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an amusement park at night, every ride outlined in thousands of warm bulbs, the light reflected on the paved paths\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a retro casino bunny costume cut as a fitted jumpsuit — a rabbit-ear headband, white cuffs and a bow-tie collar; styled with delicate drop earrings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — flerovium: a synthetic superheavy element sitting at the edge of the island of stability, a theory from the 1960s that nuclei whose protons and neutrons fill certain magic numbers should live far longer than their neighbours; first caught in 1998 by firing calcium ions at a plutonium target, and named for the laboratory that made it; its atoms live for seconds, thousands of times longer than those around it, the first sign that the island is near, though no one has yet reached its centre; it sits below carbon, silicon, germanium, tin and lead, and a few atoms showed it to be the most volatile metal of that column — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "refDesign": "gpt_free",
+ "record": "records/fl/steampunk-casual1.jp_paint_anime-ui.json",
+ "execution": "element-fl-a41ca17",
+ "imported": "2026-11-24",
+ "acceptance": "user_selection_3_3_3_and_approved_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c1566fbfd1867351fc4439d6ff5d2188aaffdd37c14a28626db6cfb55a38ff23",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "71ecd283df7675ac5275ebf6d0eda16094b764b4e8ec38b2b213468c9df454a9",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 보존·업로드는 WebP, 생성 이미지 재생성 없음"
+ },
+ "qa": {
+  "reviewer": "element-fl-a41ca17",
+  "image_sha256": "71ecd283df7675ac5275ebf6d0eda16094b764b4e8ec38b2b213468c9df454a9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "밤 놀이공원·바니 귀·입술에 검지를 댄 근접컷 확인",
+   "의상에 원소 연상 문양이 추가됨"
+  ],
+  "cause": "참조 그림의 문양·장식 전이 또는 계획 자세·의상 표현과의 차이"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "fl",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fl_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a quiet beach of her element's kingdom at low tide — driftwood, shells, tangled rope and a glass float washed up on the white sand",
+  "ownProp": "a sealed glass bottle with a rolled note inside",
+  "light": "back",
+  "depth": "flat",
+  "expr": "gentle",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a beachcomber look fitted to her body — a cropped wrap top, short rolled breeches, a shell necklace and bare feet",
+  "scene": "she is the beachcomber kneeling to pick up a sealed bottle the tide brought from a faraway island",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "fl_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Flerovium (Fl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a quiet beach of her element's kingdom at low tide — driftwood, shells, tangled rope and a glass float washed up on the white sand\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a beachcomber look fitted to her body — a cropped wrap top, short rolled breeches, a shell necklace and bare feet, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a sealed glass bottle with a rolled note inside at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the beachcomber kneeling to pick up a sealed bottle the tide brought from a faraway island\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — flerovium: a synthetic superheavy element sitting at the edge of the island of stability, a theory from the 1960s that nuclei whose protons and neutrons fill certain magic numbers should live far longer than their neighbours; first caught in 1998 by firing calcium ions at a plutonium target, and named for the laboratory that made it; its atoms live for seconds, thousands of times longer than those around it, the first sign that the island is near, though no one has yet reached its centre; it sits below carbon, silicon, germanium, tin and lead, and a few atoms showed it to be the most volatile metal of that column — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "refDesign": "gpt_free",
+ "record": "records/fl/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "해변 표류물 수집가",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-fl-a41ca17",
+ "imported": "2026-11-24",
+ "acceptance": "user_selection_3_3_3_and_approved_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "5b7fb816615aea3d3a2e1d3c852f3c4bbfaa1d3eb3310fe403a6502eed53b63b",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5f39eed9b5555236af46188097c1d23ecc6c6f6681e7f68bf6edfab6fe4cff23",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 보존·업로드는 WebP, 생성 이미지 재생성 없음",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-fl-a41ca17",
+  "image_sha256": "5f39eed9b5555236af46188097c1d23ecc6c6f6681e7f68bf6edfab6fe4cff23",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "해변에서 한쪽 무릎을 꿇고 병을 든 수집가 장면 확인",
+   "오른손 병·왼손 지면 지지·두 다리 연결 확인"
+  ],
+  "cause": ""
+ }
+}

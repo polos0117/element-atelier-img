@@ -1,0 +1,82 @@
+{
+ "atelier": "element",
+ "card": "fl",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fl_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "pearls"
+  },
+  "era": "nation",
+  "place": "nation_bath",
+  "ofam": "homewear",
+  "item": "soft_tank_shorts",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "dawn",
+  "hair": "down",
+  "light": "back",
+  "spot": "left_third",
+  "color": "mono",
+  "shade": "graphite",
+  "expr": "candid",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "fl_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Flerovium (Fl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an outdoor bath, stream or fountain built in the style of her element's kingdom\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; a pale lilac sky, mist low on the ground.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a soft ribbed tank top and short cotton shorts — in graphite grey with black trim; the outfit colour reads clearly at first glance; styled with a single strand of small pearls, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — flerovium: a synthetic superheavy element sitting at the edge of the island of stability, a theory from the 1960s that nuclei whose protons and neutrons fill certain magic numbers should live far longer than their neighbours; first caught in 1998 by firing calcium ions at a plutonium target, and named for the laboratory that made it; its atoms live for seconds, thousands of times longer than those around it, the first sign that the island is near, though no one has yet reached its centre; it sits below carbon, silicon, germanium, tin and lead, and a few atoms showed it to be the most volatile metal of that column — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "refDesign": "gpt_free",
+ "record": "records/fl/mecha-casual2.jp_paint_anime-ui.json",
+ "execution": "element-fl-a41ca17",
+ "imported": "2026-11-24",
+ "acceptance": "user_selection_3_3_3_and_approved_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "75ef68b2cd99731ce465285d7fa66f65d915cd0d1d4a8427c367710496f8d9bb",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "2b70113a6608fd9ea019541ac01620dec78b92b7979046cb18773aa93d18c96b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 보존·업로드는 WebP, 생성 이미지 재생성 없음"
+ },
+ "qa": {
+  "reviewer": "element-fl-a41ca17",
+  "image_sha256": "2b70113a6608fd9ea019541ac01620dec78b92b7979046cb18773aa93d18c96b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "라군 목욕탕 가장자리·그래파이트 탱크톱과 쇼츠·볼에 손 확인",
+   "관절 연결과 양손 확인"
+  ],
+  "cause": ""
+ }
+}

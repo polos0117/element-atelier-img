@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "fl",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fl_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_bodysuit",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "day_indoor",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Sucrose",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "expr": "serious",
+  "preset": "chair_3q_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "fl_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Flerovium (Fl) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a daring adult cosplay of Sucrose from Genshin Impact — the costume's recognisable colours and parts, cut as a high-cut bodysuit with sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "refDesign": "gpt_free",
+ "record": "records/fl/steampunk-casual3.jp_paint_anime-ui.json",
+ "execution": "element-fl-a41ca17",
+ "imported": "2026-11-24",
+ "acceptance": "user_selection_3_3_3_and_approved_main_push",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c1566fbfd1867351fc4439d6ff5d2188aaffdd37c14a28626db6cfb55a38ff23",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6a572faa1cdaed4f4c9bf65f93ea3de8c9576968a5a486a7fe36725bd2185987",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 보존·업로드는 WebP, 생성 이미지 재생성 없음",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Sucrose",
+   "cut": "bodysuit",
+   "round": 1
+  }
+ },
+ "qa": {
+  "reviewer": "element-fl-a41ca17",
+  "image_sha256": "6a572faa1cdaed4f4c9bf65f93ea3de8c9576968a5a486a7fe36725bd2185987",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "수크로스 바디수트 코스프레·안경·볼에 손·의자 확인",
+   "의상 장식이 참조 그림 팔레트의 영향을 강하게 받음"
+  ],
+  "cause": ""
+ }
+}
