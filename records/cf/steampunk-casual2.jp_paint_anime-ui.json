@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "cf",
+ "tier": "root",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cf_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "nation",
+  "place": "nation_roof",
+  "ofam": "bath",
+  "item": "peshtemal",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "noon",
+  "moment": "bubbles_float",
+  "spot": "left_third",
+  "expr": "serious",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "cf_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Californium (Cf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop or terrace above the town of her element's kingdom\nTime of day: midday — bright even light; hard bright sun, crisp short shadows on the ground.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a striped cotton peshtemal wrapped like a dress; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — californium: a silvery synthetic metal first made in 1950 by striking curium with alpha particles, and named for the golden western land and university where she was born, a land itself named after a legendary island of gold at the western edge of the world, ruled by a queen of warrior women armed in gold; one of her forms splits apart on its own, so a single microgram pours out over two million neutrons every second, an invisible spray used to kindle new nuclear reactors, to find hidden veins of gold and silver and pockets of oil deep underground, to spot concealed explosives and to fight cancer, and a single gram of her is worth tens of millions — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/cf/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "cf",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "cf": {
+    "era": "nation",
+    "place": "nation_roof",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_cheek_high",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "edge_brace",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "peshtemal",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "time": "noon",
+    "spot": "left_third",
+    "turn": "left",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "ref_sha256": "fdcb8d103de6fc102b1530ecdc778569f79eaa4ba4f89fc3361edac81d68e9bb",
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "b3a95699fad6dbbd7e955f097080fa708a21889c2de665f02dfa04e11188f8b1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않는다"
+ },
+ "execution": "element-cf-2aabba7ab1a5",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-cf-2aabba7ab1a5",
+  "image_sha256": "b3a95699fad6dbbd7e955f097080fa708a21889c2de665f02dfa04e11188f8b1",
+  "observations": [
+   "페슈테말을 두르고 테라스에 걸터앉아 볼과 가장자리에 각각 손을 댄다. 정사각 구도."
+  ],
+  "passed": true,
+  "anatomy": "ok"
+ },
+ "acceptance": "사용자 선택 2,4,2 및 이미지·도감 main 반영 승인"
+}

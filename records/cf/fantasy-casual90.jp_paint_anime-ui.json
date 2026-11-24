@@ -1,0 +1,87 @@
+{
+ "atelier": "element",
+ "card": "cf",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "cf_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_field",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "night",
+  "own": "fantasy",
+  "placeText": "a sun-baked vineyard terrace of her element's kingdom — rows of vines, golden hills and wooden trays of grapes drying in the sun",
+  "ownProp": "a wooden tray of sun-drying grapes",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "half_smile",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a vineyard worker look fitted to her body — a cropped wrap top, a short tiered skirt, a wide straw hat and sandals",
+  "scene": "she is turning the grapes on the drying trays so the sun can turn them to gold",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "cf_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Californium (Cf) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a sun-baked vineyard terrace of her element's kingdom — rows of vines, golden hills and wooden trays of grapes drying in the sun\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a vineyard worker look fitted to her body — a cropped wrap top, a short tiered skirt, a wide straw hat and sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a wooden tray of sun-drying grapes at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is turning the grapes on the drying trays so the sun can turn them to gold\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — californium: a silvery synthetic metal first made in 1950 by striking curium with alpha particles, and named for the golden western land and university where she was born, a land itself named after a legendary island of gold at the western edge of the world, ruled by a queen of warrior women armed in gold; one of her forms splits apart on its own, so a single microgram pours out over two million neutrons every second, an invisible spray used to kindle new nuclear reactors, to find hidden veins of gold and silver and pockets of oil deep underground, to spot concealed explosives and to fight cancer, and a single gram of her is worth tens of millions — may show in the outfit's details, motifs or small accessories.\n\nFigure: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/cf/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "건포도 말리는 농부",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "ref_sha256": "8c8bc78f0c8b7ba70ec6c57eb9773706e788a67f7fadf73c465f123931a53d0a",
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3bcdfdf99a4665d6aa3be793d2e29d80a9285befb3c57d5f72803d0498cd65de",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않는다"
+ },
+ "execution": "element-cf-2aabba7ab1a5",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-cf-2aabba7ab1a5",
+  "image_sha256": "3bcdfdf99a4665d6aa3be793d2e29d80a9285befb3c57d5f72803d0498cd65de",
+  "observations": [
+   "건포도 건조 채반과 밀짚모자, 쪼그려 앉은 자세가 보인다."
+  ],
+  "cause": "계획의 햇빛이 강한 포도밭 장면이 달이 뜬 야간으로 나왔다.",
+  "passed": false,
+  "anatomy": "ok"
+ },
+ "acceptance": "사용자 선택 2,4,2 및 이미지·도감 main 반영 승인"
+}
