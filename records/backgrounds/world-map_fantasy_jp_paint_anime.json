@@ -1,0 +1,63 @@
+{
+ "atelier": "element",
+ "kind": "world-map",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "file": "backgrounds/maps/world-map_fantasy_jp_paint_anime.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "source": "사용자 2026-11-24 「이대로 진행하고 4번은 세계별로 장소를 따로두는것도 재밌을거 같긴한데. 우선은 보류. 판타지 대륙 지도부터 만들어줘.」 — 원소 공방 지도 보기(index.html?view=map)의 바탕. 배치표 data/world-map.json(대륙 · 지역 자리 map.fantasy 는 이 그림을 보고 정했다)",
+ "processing": "1536×1024 그대로 WebP 90(method 6) — 확대해 보는 그림이라 전경과 같은 품질. 등록 그림이 아니다(img/ · data/img.json 에 넣지 않는다 — 궤도 그림처럼 배경 자리)",
+ "prompt": "A painterly high-fantasy world map: one whole imagined world seen from high above at a slight tilt, like the illustrated world map of a fantasy game — a painted landscape map with real mountains, forests, rivers and coasts in miniature, not a satellite photo and not a flat diagram. Environment key art, no people.\n\nLayout of the world (left/right and top/bottom of the picture):\n- Centre: a broad green central continent. Its west is a vast breathing forest of giant translucent leaves reaching a coral-white western shore; its north is endless wheat plains under curtains of violet aurora; its south rises into a volcanic upland with a sulphur-yellow volcano, yellow crater lakes and blood-red cliffs; along its whole eastern edge runs a smoky iron mountain range of forge-fortresses, glowing orange rivers of molten metal in stone channels.\n- Floating in the sky just above the central continent: a small archipelago of sky islands drifting over a soft sea of cloud, each island tethered to the forest below by long ropes, tiny white fortresses and a lone lighthouse island on them, balloon-lanterns between them. They clearly float above the land, casting soft shadows.\n- East (right side), across a strait: a rugged ore continent of titanic grey mountain ranges, a platinum river glittering white between pale cliffs, golden high plateaus with silver mirror lakes, and warm bronze-coloured plains running down to its southern coast.\n- South-west (lower left), across the sea: a sun-bleached continent of white salt flats and singing dunes, a desert river between red rock hills, pale chalky sea cliffs and purple-tinged harbour lagoons.\n- North (upper centre), across a cool sea: a northern continent of mist-veiled valleys and golden grain fields, lake-strewn birch country with island cities, a coast of four crystal towers on pink-glass cliffs, and frozen red-sun fjords.\n- South-east (lower right): a hushed land of dark mountains and deep valleys where stones glow faint blue and green, red-brick arcades on glowing hillsides, grey cathedral cloisters and a wide tidal shore.\n- In the southern sea between the south-west and south-east lands: a glowing turquoise-and-coral spot under the water — a ring of atolls around a slow luminous whirlpool, the hint of a sunken coral kingdom below the surface.\n- At the south-eastern foot of the iron mountain range, between the central continent and the south-east land: the vast dark mouth of a great mine chasm opening into the earth, faint cobalt-blue and green crystal glow deep inside, the entrance to an underground realm.\n- All around the outer edge of the map: a ring of misty, half-drawn unknown lands — faint coasts, forests and castles fading into dotted coastlines and starry empty space, like an unfinished star chart.\n\nSeas: deep blue-green open water between the continents, lighter shallows along the coasts, gentle painted waves.\n\nComposition: the whole world fits in the frame with sea around each continent so every land reads as a separate shape at a glance. Keep the top tenth of the picture calm (pale haze and open sky-blue sea, no detail) so interface buttons can sit over it.\n\nStyle: painterly environment key art matching a Japanese anime key visual — a richly painted world map with layered painterly colour, subtle visible brushwork, atmospheric perspective and soft cloud shadows; luminous, rich colours, crisp focal details on the lands and softer painted edges toward the rim.\n\nNo text, no letters, no numbers, no labels, no place names, no compass rose or compass letters, no legend, no scale bar, no grid lines, no frame or border, no parchment edge. No people, no characters, no creatures, no ships in focus.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n",
+ "date": "2026-11-24",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 원소 월드맵)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "high",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 807,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 807
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2179
+  },
+  "seconds": 58.515,
+  "png_sha256": "ba8762be07805387695c78296090b7e1c7fdc0628fd729ce2cb4a83b550d89aa",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "03201d981d14869d204cad383eff274b676446723e46dafc2b9cdb934f7b2491"
+  },
+  "attempts": 1,
+  "note": "기준 그림 없이 한 장, 다시 그리지 않음(글자 · 배치 모두 맞음). 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 이 그림 하나만 quality high(사용자 브리프 허락)"
+ },
+ "qa": {
+  "reviewer": "claude",
+  "image_sha256": "ba8762be07805387695c78296090b7e1c7fdc0628fd729ce2cb4a83b550d89aa",
+  "passed": true,
+  "observations": [
+   "가운데 대륙(서쪽 큰 잎 숲 · 북쪽 오로라 밀밭 · 남쪽 유황 화산 · 동쪽 쇳물 산성 산맥) · 동쪽 광맥 대륙(회색 거인 산맥 · 흰 강 · 금빛 고원 거울 호수 · 청동 평야) · 남서 소금 모래(소금 평원 · 사구 · 붉은 바위 강 · 흰 절벽 · 자줏빛 석호) · 북녘(네 수정 탑 · 금빛 들 · 호수 섬 도시 · 붉은 해 협만) · 남동 빛살 땅(푸른 빛 골짜기 · 붉은 벽돌 회랑 · 대성당 · 갯벌) — 지시문의 자리 그대로",
+   "하늘섬은 가운데 대륙 서쪽 숲 위에 밧줄로 매여 떠 있다(그림자 · 풍선 등불 · 등대섬). 남쪽 바다에 산호 환초가 둘러싼 빛 소용돌이(물밑 왕국 자리) · 쇳물 산맥 남동 기슭에 푸르고 초록으로 빛나는 큰 갱도 입구(땅속 나라 자리)",
+   "가장자리에 점선 해안의 흐린 땅 · 성 · 별빛 — 예언의 테두리",
+   "읽히는 글자 · 숫자 · 나침반 · 범례 · 틀 없음(네 조각 확대로 봄). 사람 · 동물 없음. 위 1/10 은 옅은 하늘빛 안개로 잔잔하다"
+  ]
+ },
+ "acceptance": "사용자 2026-11-24 「판타지 대륙 지도부터 만들어줘」"
+}
