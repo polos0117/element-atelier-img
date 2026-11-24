@@ -1,0 +1,81 @@
+{
+ "atelier": "element",
+ "card": "es",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "es_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "rain",
+  "time": "overcast",
+  "own": "steampunk",
+  "placeText": "a clock-tower square of her element's kingdom — an arcade of stone arches, a tram passing and an open violin case on the cobbles",
+  "ownProp": "a violin and bow",
+  "light": "side",
+  "expr": "curious",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a street violinist look fitted to her body — a cropped tailored jacket over a low-cut blouse, a short skirt, sheer stockings and button boots",
+  "scene": "she is the street violinist playing beneath the clock tower as the tram rolls past",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "es_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Einsteinium (Es) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a clock-tower square of her element's kingdom — an arcade of stone arches, a tram passing and an open violin case on the cobbles\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: an overcast day — soft, shadowless grey-white light; the rain-wet ground mirroring the light around her.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a street violinist look fitted to her body — a cropped tailored jacket over a low-cut blouse, a short skirt, sheer stockings and button boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a violin and bow in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the street violinist playing beneath the clock tower as the tram rolls past\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — einsteinium: a soft silvery synthetic metal first found in the fallout of the first hydrogen-bomb test in late 1952 on a Pacific coral atoll, sifted from filter papers flown through the towering cloud and from scraps of the atoll's coral, born when uranium swallowed fifteen neutrons in a single instant; the find was kept secret for years, and she was named for the most famous physicist of the century, the genius of relativity; her best-known form glows a soft blue by its own radioactivity and is so fierce that it slowly shatters its own crystal structure, and only the tiniest amounts of her have ever been gathered — may show in the outfit's details, motifs or small accessories.\n\nFigure: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/es/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "거리 바이올린 악사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "ref_sha256": "e9810b4e6d3ec4dd5b6f4e630c22522c4944f37f8b5eef9b204cab4233f6ee4a",
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "7c4c50314d995319cc7bfefd0f4c23d0389b1d408ce155e169eb285b222bc321",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않는다"
+ },
+ "execution": "element-20261124T202556Z",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "element-20261124T202556Z",
+  "image_sha256": "7c4c50314d995319cc7bfefd0f4c23d0389b1d408ce155e169eb285b222bc321",
+  "observations": [
+   "casual90 장면과 3:2 비율을 확인했으며 손·팔다리 연결에 큰 이상이 없다."
+  ],
+  "passed": true,
+  "anatomy": "ok"
+ },
+ "acceptance": "사용자 선택 2,1,3 및 이미지·도감 main 반영 승인"
+}
