@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "na-salt",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "na-salt_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "layer": "sheer_shirt",
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "kayak_river",
+  "ofam": "swimwear",
+  "item": "sw_couture_crystal",
+  "posture": "float_back",
+  "support": "water",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "swim_arms",
+  "left": "swim_arms",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "forenoon",
+  "moment": "sunscreen_streak",
+  "light": "dappled",
+  "color": "vivid",
+  "shade": "cobalt",
+  "expr": "relieved",
+  "preset": "float_back_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "na-salt_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Salt, of the Sodium Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a calm green river between wooded banks, a bright kayak drifting on the clear water\nTime of day: late morning — clear fresh daylight, soft short shadows; light glittering off the water, dappling her skin.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: an unblended streak of sunscreen shows on her shoulder.\nOutfit: a bikini whose cups and straps are embroidered with clusters of small crystals — in bright cobalt blue; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, a sheer button-up shirt worn open over it and a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: floating on her back in calm water, arms spread loosely, her face to the sky, her body level just at the surface.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: her arms are placed exactly as the posture describes, moving with the water.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — a bright yellow flame that bursts when it touches water, cube-shaped salt crystals, the warm orange of sodium street lamps; soft silvery metal that must be kept under oil — may show in the outfit's details, motifs or small accessories.\n\nFigure: toned athletic-curvy, full-busted with rounded hips — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/na-salt/mecha-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "059d8568267979e0f3c7bd8d9d549b37850a64beaa07ddc4dfd8ac02579a2bde",
+  "source_file": "/workspace/scratch/2e062d96acd5/generated_images/exec-9d08efb4-6550-4304-b42f-c6cf5bd1e151.png",
+  "output_size": [
+   1536,
+   1024
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not published; original SHA256 retained.",
+  "ref_sha256": "2dbc44fc4b5a1e5079fb84b0e464b7681569114316bc2b0b9bb237e212251414"
+ },
+ "execution": "element-na-salt-2e062d",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 1,2,2 and authorized commits and ordinary main publication.",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "059d8568267979e0f3c7bd8d9d549b37850a64beaa07ddc4dfd8ac02579a2bde",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Landscape floating river full-body image, both arms spread and naturally joined, both legs and feet visible; white updo and original face retained. Crystal-decorated coverup and amber earrings added."
+  ],
+  "cause": "Reference accessories and motifs transferred into off-duty clothing."
+ }
+}
