@@ -1,0 +1,84 @@
+{
+ "atelier": "element",
+ "card": "h-star",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-star_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "wave",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "overcast",
+  "own": "steampunk",
+  "placeText": "a planetarium hall of her element's kingdom — a domed ceiling of projected stars, a great projector and rows of reclining seats",
+  "light": "dappled",
+  "expr": "calm",
+  "preset": "wave_chest",
+  "prop": "",
+  "outfit": "a planetarium guide look fitted to her body — a midnight-blue mini dress with a plunging neckline and star pins, sheer tights and heels",
+  "scene": "she is a planetarium guide waving to begin the show",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-star_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Star, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a planetarium hall of her element's kingdom — a domed ceiling of projected stars, a great projector and rows of reclining seats\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a planetarium guide look fitted to her body — a midnight-blue mini dress with a plunging neckline and star pins, sheer tights and heels, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is a planetarium guide waving to begin the show\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-star/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "천체 투영관 해설사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "built-in imagegen",
+  "source_sha256": "96dc3202a67d03516cd474a2ceb58d25d0421127ee3033db68f74977654de3e8",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "webp_quality": 90,
+  "source_file": "/workspace/scratch/a91102585c26/generated_images/exec-67dde8ba-56c7-4c34-96eb-099489e1fa46.png",
+  "execution": "star-house-20261125-a9110258",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "star-house-20261125-a9110258",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized main publication and selected 1,1,1",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "96dc3202a67d03516cd474a2ceb58d25d0421127ee3033db68f74977654de3e8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Single adult woman; identity and painterly finish retained; image inspected."
+  ]
+ }
+}

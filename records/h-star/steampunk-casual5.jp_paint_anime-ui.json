@@ -1,0 +1,80 @@
+{
+ "atelier": "element",
+ "card": "h-star",
+ "tier": "lord",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-star_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "cuffed",
+   "acc": "hair_scarf"
+  },
+  "era": "site",
+  "place": "site_brewery",
+  "ofam": "workwear",
+  "item": "leather_apron_top",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "brush_sweep",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "fluorescent",
+  "hair": "down",
+  "light": "top",
+  "depth": "deep",
+  "color": "jewel",
+  "shade": "wine",
+  "expr": "pensive",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-star_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Star, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a brewery hall of copper kettles, steel tanks, hoses and a mezzanine stair\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a leather work apron over a sleeveless fitted top and slim work trousers, gauntlet gloves tucked in the belt — in deep wine red; the outfit colour reads clearly at first glance; styled with the hems neatly cuffed and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she sweeps the floor beside her with a small hand brush; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-star/steampunk-casual5.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "built-in imagegen",
+  "source_sha256": "3f7a395a5fb62328de8a0a6cd174a5713eca136760377a6d67c094d7644525ad",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "webp_quality": 90,
+  "source_file": "/workspace/scratch/a91102585c26/generated_images/exec-3f07ece5-6278-43cf-a947-d0683ed7f331.png",
+  "execution": "star-house-20261125-a9110258"
+ },
+ "execution": "star-house-20261125-a9110258",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized main publication and selected 1,1,1",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "3f7a395a5fb62328de8a0a6cd174a5713eca136760377a6d67c094d7644525ad",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Single adult woman; identity and painterly finish retained; image inspected."
+  ]
+ }
+}

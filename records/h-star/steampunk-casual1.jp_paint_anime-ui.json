@@ -1,0 +1,78 @@
+{
+ "atelier": "element",
+ "card": "h-star",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-star_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "night_karaoke",
+  "ofam": "lingerie",
+  "item": "garter_set",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "photo_album",
+  "legs": "knees_together",
+  "gaze": "",
+  "turn": "left",
+  "time": "lamplight",
+  "spot": "right_third",
+  "color": "neutral",
+  "shade": "oatmeal",
+  "expr": "pensive",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "h-star_steampunk_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Star, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a private karaoke room with spinning coloured lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: a lingerie set with decorative garter straps — in soft oatmeal; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she slips the corner of a freshly printed instant photo into an album — her own right hand slips the photo in, her own left hand holds the album open.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-star/steampunk-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "built-in imagegen",
+  "source_sha256": "9cb91769fbfeabdd277642e885a563a58eba7cd2dd5c6229bc9709355888d4a6",
+  "source_size": [
+   1254,
+   1254
+  ],
+  "output_size": [
+   1024,
+   1024
+  ],
+  "webp_quality": 90,
+  "source_file": "/workspace/scratch/a91102585c26/generated_images/exec-27e92388-0a87-4abd-aef5-38654a94db84.png",
+  "execution": "star-house-20261125-a9110258"
+ },
+ "execution": "star-house-20261125-a9110258",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized main publication and selected 1,1,1",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "9cb91769fbfeabdd277642e885a563a58eba7cd2dd5c6229bc9709355888d4a6",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Single adult woman; identity and painterly finish retained; image inspected."
+  ]
+ }
+}
