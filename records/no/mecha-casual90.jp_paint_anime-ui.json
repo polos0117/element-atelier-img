@@ -1,0 +1,88 @@
+{
+  "atelier": "element",
+  "card": "no",
+  "tier": "root",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "no_mecha_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "camera",
+    "time": "day_indoor",
+    "own": "mecha",
+    "placeText": "a backstage dressing room of an awards gala in her element's kingdom — a rack of gowns, a lit mirror and a gold-carpeted corridor beyond the door",
+    "ownProp": "a handheld garment steamer",
+    "light": "low_warm",
+    "expr": "focused",
+    "preset": "lookback_raise",
+    "prop": "0",
+    "outfit": "a stylist look fitted to her body — a cropped black blazer over a bandeau top, a short leather skirt, a belt of pins and ankle boots",
+    "scene": "she is the red-carpet stylist glancing back with her garment steamer raised, chasing the last crease out of a gown before the ceremony",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "no_mecha_jp_paint_anime_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Nobelium (No) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a backstage dressing room of an awards gala in her element's kingdom — a rack of gowns, a lit mirror and a gold-carpeted corridor beyond the door\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a stylist look fitted to her body — a cropped black blazer over a bandeau top, a short leather skirt, a belt of pins and ankle boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a handheld garment steamer up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the red-carpet stylist glancing back with her garment steamer raised, chasing the last crease out of a gown before the ceremony\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nobelium: a synthetic metal first claimed in 1957 by a physics institute in a northern capital and named for the inventor of dynamite, who left his fortune to found the world's most famous yearly prizes; that claim could never be repeated, two other laboratories, one across an ocean and one far to the east, each claimed her in turn, and decades later the credit went to the last while the first name stayed, an element announced three times; the fortune behind the prizes was made with blasting powder that carved mountains and tunnels, and it also backed a daring 1897 balloon flight toward the North Pole; unlike her heavy neighbours she is most stable in a calm, low-charged form — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+  "date": "2026-11-25",
+  "record": "records/no/mecha-casual90.jp_paint_anime-ui.json",
+  "own": {
+    "job_ko": "레드카펫 스타일리스트",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "43c0a81bfeb5717c187714957bd69e5fbb8f89bcfe2abb2ecb64af369499ba39",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "68516bdde2310e7a71b92f18adc39343010ba558e40249ac55ffcc27a97772aa",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "sha256": "90332175001d5fd00fbd3d832d425e27f34f83306d408804a45493d2a5db7dc8"
+    },
+    "own": {
+      "level": "bold",
+      "tries": 1,
+      "blocked": []
+    }
+  },
+  "qa": {
+    "reviewer": "element-no-20261125",
+    "image_sha256": "68516bdde2310e7a71b92f18adc39343010ba558e40249ac55ffcc27a97772aa",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Reference face, green-gold hair and adult build maintained.",
+      "Visible arms connect to natural shoulders; no additional or detached limbs observed.",
+      "Steamer and dressing-room setting visible; shoulder garment and gold motifs retain reference styling."
+    ],
+    "cause": "Reference visual motifs carried over despite off-duty prompt; noted composition or clothing deviations preserved without regeneration."
+  },
+  "execution": "element-no-20261125",
+  "imported": "2026-11-25",
+  "acceptance": "User approved 2,1,2 and ordinary main update; no generated image regenerated."
+}

@@ -1,0 +1,116 @@
+{
+  "atelier": "element",
+  "card": "no",
+  "tier": "root",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "styleVersion": "v1",
+  "ref": "no_steampunk_jp_paint_anime_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "site",
+    "place": "site_dam",
+    "ofam": "roleplay",
+    "item": "rp_santa_party_corset",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "",
+    "use": "tool_hold",
+    "legs": "",
+    "gaze": "screen_left",
+    "turn": "right",
+    "time": "dusk",
+    "expr": "soft_smile",
+    "preset": "",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "no_steampunk_jp_paint_anime_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — the personification of Nobelium (No) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the crest walkway of a hydroelectric dam, a steel railing, spillway gates and a wide reservoir below\nTime of day: dusk — blue hour, lights coming on; a deep blue sky, the first lights coming on around her.\nOutfit: a Christmas party costume cut as a laced corset bustier with a short flared skirt — red velvet, white fur trim and a Santa hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a small screwdriver at chest height; it is all she holds.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — nobelium: a synthetic metal first claimed in 1957 by a physics institute in a northern capital and named for the inventor of dynamite, who left his fortune to found the world's most famous yearly prizes; that claim could never be repeated, two other laboratories, one across an ocean and one far to the east, each claimed her in turn, and decades later the credit went to the last while the first name stayed, an element announced three times; the fortune behind the prizes was made with blasting powder that carved mountains and tunnels, and it also backed a daring 1897 balloon flight toward the North Pole; unlike her heavy neighbours she is most stable in a calm, low-charged form — may show in the outfit's details, motifs or small accessories.\n\nFigure: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+  "date": "2026-11-25",
+  "record": "records/no/steampunk-casual1.jp_paint_anime-ui.json",
+  "storage": {
+    "card": "no",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "jp_paint_anime",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "no": {
+        "era": "site",
+        "place": "site_dam",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "",
+        "use": "tool_hold",
+        "posture": "step_up",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "prop",
+        "left": "",
+        "legs": "",
+        "gaze": "screen_left",
+        "item": "rp_santa_party_corset",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "time": "dusk",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "d74f51ca15a92b61a181bfbe61c46b8a171d66d4013577a36d7b25e45296a324",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "91eb58fa63efda9e7ceeffc1053f84d57db6c06bbf2534f41ace7b202b2fb95d",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "sha256": "cb2252c1eff5cc6a2c1c2083eed3a6b02018577de5639f39588da37481e63d32"
+    }
+  },
+  "qa": {
+    "reviewer": "element-no-20261125",
+    "image_sha256": "91eb58fa63efda9e7ceeffc1053f84d57db6c06bbf2534f41ace7b202b2fb95d",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Reference face, green-gold hair and adult build maintained.",
+      "Visible arms connect to natural shoulders; no additional or detached limbs observed.",
+      "Festive outfit and tool present; inherited gold element motifs remain on clothing."
+    ],
+    "cause": "Reference visual motifs carried over despite off-duty prompt; noted composition or clothing deviations preserved without regeneration."
+  },
+  "execution": "element-no-20261125",
+  "imported": "2026-11-25",
+  "acceptance": "User approved 2,1,2 and ordinary main update; no generated image regenerated."
+}
