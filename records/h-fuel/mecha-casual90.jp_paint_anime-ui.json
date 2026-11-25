@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "h-fuel",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-fuel_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a fuelling station of her element's kingdom — white dispensers under a canopy, a coiled hose and a clean forecourt",
+  "ownProp": "a coiled hose",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "deep",
+  "expr": "gentle",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a station attendant look fitted to her body — a cropped attendant jacket open over a tube top, short shorts, a cap and sneakers",
+  "scene": "she is a fuelling-station attendant walking across the forecourt with a hose at her side",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-fuel_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fuel, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fuelling station of her element's kingdom — white dispensers under a canopy, a coiled hose and a clean forecourt\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a station attendant look fitted to her body — a cropped attendant jacket open over a tube top, short shorts, a cap and sneakers, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament, the object held close against her side, not pushed toward the camera.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a coiled hose low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a fuelling-station attendant walking across the forecourt with a hose at her side\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: toned athletic-curvy, full-busted with rounded hips — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-fuel/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "충전소 직원",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-fuel-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user selection 1,2,1; authorized completion and normal main update",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b15f507b2466ffb69d645ae82e9b284d8aced6f8a639bbe8e27ed2d4caffd507",
+  "ref_sha256": "a0cb3abb7460ac410e9d237b967f6c51a7723c01f47e7ae2d7ff3061d622cc3c",
+  "webp": {
+   "quality": 90
+  },
+  "note": "Selected world reference attached; original generated output preserved without regeneration.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "b15f507b2466ffb69d645ae82e9b284d8aced6f8a639bbe8e27ed2d4caffd507",
+  "passed": true,
+  "anatomy": "Two connected arms and two legs, natural hands.",
+  "observations": [
+   "Walking full body at fuelling station; coiled hose held at her side; same face, bangs, eye colour and bound silver tail."
+  ]
+ }
+}
