@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "md",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "md_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "day_indoor",
+  "own": "fantasy",
+  "placeText": "a trunk maker's workshop of her element's kingdom — half-built travel chests, rolls of leather, brass corners and buckles on a long bench",
+  "ownProp": "a leather strap and an awl",
+  "light": "two_tone",
+  "depth": "layered",
+  "expr": "focused",
+  "preset": "bench_fix",
+  "prop": "0",
+  "outfit": "a trunk maker look fitted to her body — a short leather apron over a laced bandeau, short breeches, leather bracers and boots",
+  "scene": "she is the trunk maker stitching the leather strap of a sturdy travelling chest",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "md_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mendelevium (Md) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a trunk maker's workshop of her element's kingdom — half-built travel chests, rolls of leather, brass corners and buckles on a long bench\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a trunk maker look fitted to her body — a short leather apron over a laced bandeau, short breeches, leather bracers and boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a leather strap and an awl in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the trunk maker stitching the leather strap of a sturdy travelling chest\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mendelevium: a synthetic metal first made in 1955 by striking about a billion atoms of einsteinium with alpha particles, the first element created and identified one atom at a time, only seventeen of them in the first experiments, with a building's fire-alarm bell wired to ring each time a single atom split; named, with special permission in the middle of a cold war, for the chemist who in 1869 laid out the elements like cards in a game of patience to build the periodic table, leaving blank squares for elements not yet found and foretelling what they would be like — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/md/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "여행 궤짝 장인",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-md-805532",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized commit and normal main push; selection 1,2,2",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "04de85385bc7774a39d76867677e37ad6d117cbe61c69e5c9167641701fd8899",
+  "ref_sha256": "33c0fff3b8e9a320767425b4e5d283f47d88535e4dbc97d28fafe1114da14580",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "original retained; generated once",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-md-805532",
+  "image_sha256": "04de85385bc7774a39d76867677e37ad6d117cbe61c69e5c9167641701fd8899",
+  "passed": true,
+  "anatomy": "single adult woman; natural connected limbs in visible framing",
+  "observations": [
+   "reference-based rendering preserved",
+   "native aspect verified",
+   "no regeneration performed",
+   "Element motifs appear extensively on clothing and surroundings in model interpretation; original retained."
+  ],
+  "cause": ""
+ }
+}

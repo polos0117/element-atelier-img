@@ -1,0 +1,137 @@
+{
+ "atelier": "element",
+ "card": "md",
+ "tier": "root",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "md_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_corset",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "day_indoor",
+  "light": "top",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Zeri",
+   "cut": "corset",
+   "round": 1
+  },
+  "expr": "proud",
+  "preset": "kneel_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "md_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mendelevium (Md) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Zeri from League of Legends — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/md/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "md",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "md": {
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_side_low",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "lap",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_corset",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "league_of_legends",
+     "character": "Zeri",
+     "cut": "corset",
+     "round": 1
+    },
+    "time": "day_indoor",
+    "light": "top",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "element-md-805532",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized commit and normal main push; selection 1,2,2",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0e4cce6d6bd5cd6ce94cf742973ca8cddc35751caffeaecbadca6cecf18a414f",
+  "ref_sha256": "2143b97cbbcdba65ca977b88134127e7963a1ed51019d1ee304ce93424cf4a35",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "original retained; generated once",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Zeri",
+   "cut": "corset",
+   "round": 1
+  }
+ },
+ "qa": {
+  "reviewer": "element-md-805532",
+  "image_sha256": "0e4cce6d6bd5cd6ce94cf742973ca8cddc35751caffeaecbadca6cecf18a414f",
+  "passed": true,
+  "anatomy": "single adult woman; natural connected limbs in visible framing",
+  "observations": [
+   "reference-based rendering preserved",
+   "native aspect verified",
+   "no regeneration performed",
+   "Element motifs appear extensively on clothing and surroundings in model interpretation; original retained."
+  ],
+  "cause": ""
+ }
+}

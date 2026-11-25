@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "md",
+ "tier": "root",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "md_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "mecha",
+  "placeText": "a bright apartment of her element's kingdom — a wall of open cube shelves being filled, stacks of clear boxes and blank labels laid out on the floor",
+  "ownProp": "a clear storage box",
+  "light": "low_warm",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "confident",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "an organiser look fitted to her body — a cropped knit top, high-waisted shorts and slippers",
+  "scene": "she is the home organiser sorting everything into a neat grid of boxes",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "md_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Mendelevium (Md) — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bright apartment of her element's kingdom — a wall of open cube shelves being filled, stacks of clear boxes and blank labels laid out on the floor\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an organiser look fitted to her body — a cropped knit top, high-waisted shorts and slippers, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a clear storage box at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the home organiser sorting everything into a neat grid of boxes\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — mendelevium: a synthetic metal first made in 1955 by striking about a billion atoms of einsteinium with alpha particles, the first element created and identified one atom at a time, only seventeen of them in the first experiments, with a building's fire-alarm bell wired to ring each time a single atom split; named, with special permission in the middle of a cold war, for the chemist who in 1869 laid out the elements like cards in a game of patience to build the periodic table, leaving blank squares for elements not yet found and foretelling what they would be like — may show in the outfit's details, motifs or small accessories.\n\nFigure: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/md/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "정리 수납 컨설턴트",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "element-md-805532",
+ "imported": "2026-11-25",
+ "acceptance": "user authorized commit and normal main push; selection 1,2,2",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8c13af94c70ef03392ad15f55fb74eacb2fcde44208a19cd7fd44d93259f50f8",
+  "ref_sha256": "fa0ca7cebb1fdfa5ee441216c90dcaed320aeb89d721a1ffe43b5ab4108ab100",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "original retained; generated once",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "element-md-805532",
+  "image_sha256": "8c13af94c70ef03392ad15f55fb74eacb2fcde44208a19cd7fd44d93259f50f8",
+  "passed": true,
+  "anatomy": "single adult woman; natural connected limbs in visible framing",
+  "observations": [
+   "reference-based rendering preserved",
+   "native aspect verified",
+   "no regeneration performed",
+   "Element motifs appear extensively on clothing and surroundings in model interpretation; original retained."
+  ],
+  "cause": ""
+ }
+}
