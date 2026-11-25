@@ -1,0 +1,141 @@
+{
+ "atelier": "element",
+ "card": "h-balloon",
+ "tier": "lord",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-balloon_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "homewear",
+  "item": "glamping_knit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "book_shelf",
+  "legs": "",
+  "gaze": "camera",
+  "weather": "autumn",
+  "time": "overcast",
+  "moment": "cream_nose",
+  "depth": "flat",
+  "color": "pattern",
+  "shade": "floral",
+  "expr": "candid",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-balloon_mecha_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Balloon, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a study or library in her element's kingdom\nWeather / season: autumn — falling leaves and warm low light outside.\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nSmall moment: a dab of whipped cream sits on the tip of her nose.\nOutfit: a chunky knit cardigan over a matching ribbed knit bralette top and soft knit shorts, with wool socks — in a small floral print in coral and cream; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she reaches up to slide a book out from a high shelf; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — airy, pale and luminous, always rising: translucent layers, upward-drifting hair and hems, a faint pale-blue flame (hydrogen burns almost invisibly), star-light and fusion white, water droplets and mist; it is the lightest element, the fuel of stars and half of every drop of water — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-balloon/mecha-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h-balloon",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "h-balloon": {
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "book_shelf",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "glamping_knit",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "floral",
+    "time": "overcast",
+    "weather": "autumn",
+    "depth": "flat",
+    "moment": "cream_nose"
+   }
+  }
+ },
+ "generation": {
+  "tool": "built-in imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9e1f7133c874cfd4d24ab638f95e1eab58b780e5673c6d39f2425f5991f8ee65",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "output_size": [
+   1024,
+   1536
+  ],
+  "source_file": "/workspace/scratch/cbfdb92819b4/generated_images/exec-6fe05273-9d61-4740-b7f0-343d397b2217.png",
+  "selected_world_number": 1,
+  "ref_sha256": "9cd93ebeb6e51327ac08cc244770fc0577f1ea18b3b0e1fe43b195c9a702f18e",
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked_output_no_image"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success_same_prompt"
+   }
+  ]
+ },
+ "execution": "balloon-house-20261125-cbfdb928",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 2,2,1 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "9e1f7133c874cfd4d24ab638f95e1eab58b780e5673c6d39f2425f5991f8ee65",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Book held on upper shelf; other hand outside close crop; cream spot added to nose and house symbols recur.",
+   "No duplicate or disconnected limbs observed; visible hands inspected.",
+   "Image retained without regeneration after successful output."
+  ],
+  "cause": "Reference clothing motifs and accessories influence replacement wardrobe despite leave-behind instruction; pose or wardrobe deviations noted above."
+ }
+}

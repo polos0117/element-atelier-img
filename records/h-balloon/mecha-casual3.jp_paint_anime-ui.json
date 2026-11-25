@@ -1,0 +1,140 @@
+{
+ "atelier": "element",
+ "card": "h-balloon",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-balloon_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "cheek",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "fluorescent",
+  "depth": "deep",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Athena Asamiya",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "candid",
+  "preset": "cheek_hip_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-balloon_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Balloon, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lit dance stage or milonga floor\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a daring adult cosplay of Athena Asamiya from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned so the tip of her nose points toward the right of the frame; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-balloon/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h-balloon",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "h-balloon": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cheek_hip_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "hip",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "gc_mini_dress",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "the_king_of_fighters_2002",
+     "character": "Athena Asamiya",
+     "cut": "mini_dress",
+     "round": 1
+    },
+    "time": "fluorescent",
+    "depth": "deep",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "built-in imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7d64b9e0f10be44f5bdef026b20b3af4b00b03eae7c48b7fd5a5aa689d5489ae",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "output_size": [
+   1024,
+   1536
+  ],
+  "source_file": "/workspace/scratch/cbfdb92819b4/generated_images/exec-c674204b-af9f-45ee-bb46-de5eae8f44fa.png",
+  "selected_world_number": 1,
+  "ref_sha256": "9cd93ebeb6e51327ac08cc244770fc0577f1ea18b3b0e1fe43b195c9a702f18e",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Athena Asamiya",
+   "cut": "mini_dress"
+  }
+ },
+ "execution": "balloon-house-20261125-cbfdb928",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 2,2,1 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "7d64b9e0f10be44f5bdef026b20b3af4b00b03eae7c48b7fd5a5aa689d5489ae",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Athena-inspired red mini-dress, headband and cuffs visible; cheek hand and hip hand connected; inherited house motifs remain.",
+   "No duplicate or disconnected limbs observed; visible hands inspected.",
+   "Image retained without regeneration after successful output."
+  ],
+  "cause": "Reference clothing motifs and accessories influence replacement wardrobe despite leave-behind instruction; pose or wardrobe deviations noted above."
+ }
+}

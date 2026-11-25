@@ -1,0 +1,140 @@
+{
+ "atelier": "element",
+ "card": "h-balloon",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "h-balloon_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "hair_tuck",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "turn": "right",
+  "time": "night",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "bayonetta",
+   "character": "Bayonetta",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "calm",
+  "preset": "hair_hip_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "h-balloon_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Balloon, of the Hydrogen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Bayonetta from Bayonetta — Bayonetta's look — a skin-tight black catsuit with gold chain and brooch accents, long white gloves, red ribbons at the arms and hair, slim glasses and high heels with small pistols set into the heels, cut as a gymnastic leotard with sheer tights, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her hip — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/h-balloon/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "h-balloon",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "h-balloon": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_hip_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "hair_tuck",
+    "left": "hip",
+    "legs": "",
+    "gaze": "down",
+    "item": "gc_leotard",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "bayonetta",
+     "character": "Bayonetta",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "night",
+    "spot": "left_third",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "built-in imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "683e3c422a5ff376b5233f2248242739c4fd4c2f079d1f35b36c6ba6c8adcf10",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "output_size": [
+   1024,
+   1536
+  ],
+  "source_file": "/workspace/scratch/cbfdb92819b4/generated_images/exec-f289eb5f-d743-4c24-b17e-d8b3226aeb0f.png",
+  "selected_world_number": 2,
+  "ref_sha256": "f6d66eb2d6651cf2188fd3933ce42c2f674bd5b7eff09e24a449f37fbcfb59b3",
+  "cosplay": {
+   "game": "bayonetta",
+   "character": "Bayonetta",
+   "cut": "leotard"
+  }
+ },
+ "execution": "balloon-house-20261125-cbfdb928",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 2,2,1 and authorized main publication without further confirmation.",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "683e3c422a5ff376b5233f2248242739c4fd4c2f079d1f35b36c6ba6c8adcf10",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Bayonetta-inspired glasses and black leotard present; one hand in hair and other at hip; reference house emblems recur.",
+   "No duplicate or disconnected limbs observed; visible hands inspected.",
+   "Image retained without regeneration after successful output."
+  ],
+  "cause": "Reference clothing motifs and accessories influence replacement wardrobe despite leave-behind instruction; pose or wardrobe deviations noted above."
+ }
+}
