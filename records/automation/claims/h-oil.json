@@ -34,11 +34,26 @@
   {
    "key": "h-oil",
    "execution": "h-oil-70c607",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T15:15:55.519Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
-   "phase": "world-selection"
+   "phase": "complete",
+   "done_at": "2026-11-25T16:19:53.192Z",
+   "done_by": "h-oil-70c607",
+   "selected": {
+    "fantasy": 1,
+    "steampunk": 2,
+    "mecha": 2
+   },
+   "images": 27,
+   "registration_commit": "4a6337b",
+   "sheet_library_file_id": "libfile_64c8332022b88191b2d75d9369b3a042",
+   "deployment": {
+    "status": "failed",
+    "reason": "GitHub Pages HTTP 500; retry tools returned internal errors",
+    "run_id": 45652088424
+   }
   }
  ]
 }
