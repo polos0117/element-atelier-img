@@ -34,11 +34,11 @@
   {
    "key": "c-graphite",
    "execution": "element-graphite-20261126-735e",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T14:15:16.830Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
-   "phase": "world-selection",
+   "phase": "complete",
    "missing": [
     "fantasy-world",
     "fantasy-casual1",
@@ -64,7 +64,16 @@
     "mecha-casual5",
     "mecha-casual6",
     "mecha-casual7"
-   ]
+   ],
+   "done_at": "2026-11-26T15:16:53.015Z",
+   "done_by": "element-graphite-20261126-735e",
+   "selection": {
+    "fantasy": 2,
+    "steampunk": 1,
+    "mecha": 3
+   },
+   "completed_images": 27,
+   "sheet_library_file_id": "libfile_5e34020e35e881918361215965cc3b03"
   }
  ]
 }
