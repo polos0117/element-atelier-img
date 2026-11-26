@@ -1,0 +1,142 @@
+{
+ "atelier": "element",
+ "card": "o-blood",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-blood_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_corset",
+  "posture": "lean_in",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "weather": "night_snow",
+  "time": "night",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Illidan Stormrage",
+   "cut": "corset",
+   "round": 1
+  },
+  "expr": "gentle",
+  "preset": "lean_in_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-blood_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Blood, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Illidan Stormrage from World of Warcraft — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing and leaning her upper body forward toward the camera from the hips, her back gently arched and her shoulders lowered toward the viewer, as if leaning in close.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-blood/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-blood",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "o-blood": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lean_in_close",
+    "use": "",
+    "posture": "lean_in",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_corset",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "world_of_warcraft",
+     "character": "Illidan Stormrage",
+     "cut": "corset",
+     "round": 1
+    },
+    "time": "night",
+    "weather": "night_snow",
+    "turn": "front"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Illidan Stormrage",
+   "cut": "corset"
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cc80f6c101d8b1c0e6ac73ab44fee26103d5f9971bafb6eddac2ffbc26ec84db",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG preserved locally; only WebP registered.",
+  "ref_sha256": "a993f3dd529a3f074937b6d064b08a9d811d23be2660da262b9d4b64679f9a53"
+ },
+ "casualN": 3,
+ "execution": "element-o-blood-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user approval: 2026-11-26 selected 4,4,3; commit and non-force main update authorized",
+ "qa": {
+  "reviewer": "element-o-blood-20261126",
+  "image_sha256": "cc80f6c101d8b1c0e6ac73ab44fee26103d5f9971bafb6eddac2ffbc26ec84db",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same crimson-haired adult woman and painted anime finish as the selected reference.",
+   "Visible arms and hands connect naturally; no extra detached limbs observed.",
+   "Reference vascular/floral motifs or ornate accessories remain in outfit or scenery.",
+   "Assigned cosplay rendered; costume was adapted, with original character hair colour preserved."
+  ],
+  "cause": "Reference outfit motifs retained despite off-duty wardrobe instruction; some pose or framing details differed from plan. No regeneration performed."
+ }
+}

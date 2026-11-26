@@ -1,0 +1,98 @@
+{
+ "atelier": "element",
+ "card": "o-blood",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-blood_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "weather": "night_snow",
+  "time": "night",
+  "own": "steampunk",
+  "placeText": "a fitness studio of her element's kingdom — a mirror wall, a row of step boards and a pulse chart on the wall",
+  "ownProp": "a step board",
+  "light": "side",
+  "spot": "left_third",
+  "expr": "confident",
+  "preset": "camera_shot",
+  "prop": "0",
+  "outfit": "a cardio instructor look fitted to her body — a red sports bra and tiny training shorts, wrist bands and sneakers",
+  "scene": "she is a cardio instructor standing and setting up a step board for the class",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "o-blood_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Blood, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fitness studio of her element's kingdom — a mirror wall, a row of step boards and a pulse chart on the wall\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a cardio instructor look fitted to her body — a red sports bra and tiny training shorts, wrist bands and sneakers, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a step board in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a cardio instructor standing and setting up a step board for the class\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-blood/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "유산소 운동 강사",
+  "level": "bold",
+  "example": false
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "9fa87f265eef5e47f238dbc3ad175a3041e8f0dd29d3608483a4d4322a0ebc9f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG preserved locally; only WebP registered.",
+  "ref_sha256": "cec95ec9503ca5d0e90a19a2e7a7820d5df00f42aba8e79924fba9e5bcf13abe"
+ },
+ "casualN": 90,
+ "execution": "element-o-blood-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user approval: 2026-11-26 selected 4,4,3; commit and non-force main update authorized",
+ "qa": {
+  "reviewer": "element-o-blood-20261126",
+  "image_sha256": "9fa87f265eef5e47f238dbc3ad175a3041e8f0dd29d3608483a4d4322a0ebc9f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same crimson-haired adult woman and painted anime finish as the selected reference.",
+   "Visible arms and hands connect naturally; no extra detached limbs observed.",
+   "Reference vascular/floral motifs or ornate accessories remain in outfit or scenery.",
+   "Cardio instructor setting and fitted sportswear visible; ornamental motifs exceed plain sportswear plan.",
+   "Square original 1254×1254 reduced proportionally to standard 1024×1024."
+  ],
+  "cause": "Reference outfit motifs retained despite off-duty wardrobe instruction; some pose or framing details differed from plan. No regeneration performed."
+ }
+}
