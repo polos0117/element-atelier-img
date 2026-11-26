@@ -1,0 +1,94 @@
+{
+ "atelier": "element",
+ "card": "o-rust",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-rust_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_training",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "weather": "spring",
+  "time": "noon",
+  "own": "steampunk",
+  "placeText": "a long plaster wall of her element's kingdom — a half-painted mural in red earth colours, a low scaffold and pots of pigment",
+  "ownProp": "a wide brush",
+  "light": "back",
+  "spot": "left_third",
+  "depth": "flat",
+  "expr": "wink",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a mural painter look fitted to her body — a paint-streaked crop top, cut-off shorts, a kerchief and bare feet",
+  "scene": "she is a mural painter kneeling to paint the low edge of the mural with a wide brush",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-rust_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Rust, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a long plaster wall of her element's kingdom — a half-painted mural in red earth colours, a low scaffold and pots of pigment\nWeather / season: spring — blossom petals drifting outside.\nTime of day: midday — bright even light; hard bright sun, crisp short shadows on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a mural painter look fitted to her body — a paint-streaked crop top, cut-off shorts, a kerchief and bare feet, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is planted on the ground beside her — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a wide brush at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is a mural painter kneeling to paint the low edge of the mural with a wide brush\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "refDesign": "gpt_free",
+ "record": "records/o-rust/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "벽화 화가",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "43596da5038c1f6d2776e23a3189a68c9b9e504d7c1f7b7acc64b806185a2b73",
+  "ref_sha256": "6383176ec1b41fa062fda248a10b47f1e0539ff5687d047cfcca868d93786d2e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "a812acf038e00680bc587f53fff09c40ffacb9c8380a523800e1af0db912df45",
+  "note": "Original retained; no regeneration for exposure or QA deviation.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-oxygen-rust-0aea",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "43596da5038c1f6d2776e23a3189a68c9b9e504d7c1f7b7acc64b806185a2b73",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult main figure; reference eye colour, hair colour, face impression and painterly finish recognizable.",
+   "No extra or detached arms or legs observed; visible hands naturally connected.",
+   "Image has planned aspect ratio; same-ratio larger originals reduced with LANCZOS.",
+   "Element insignia, rust patterns and reference decorative motifs recur on everyday clothing more strongly than intended."
+  ],
+  "cause": "Reference costume motifs and setting carried over despite the off-duty replacement instruction."
+ },
+ "acceptance": "User authorized publication after QA; original preserved without regeneration."
+}
