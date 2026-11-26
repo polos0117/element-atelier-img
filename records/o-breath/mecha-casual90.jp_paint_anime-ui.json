@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-breath_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "morning",
+  "own": "mecha",
+  "placeText": "a dive jetty of her element's kingdom — a rack of air tanks, fins and masks on the boards and clear deep water",
+  "ownProp": "a diving mask",
+  "light": "back",
+  "expr": "proud",
+  "preset": "squat_prop",
+  "prop": "0",
+  "outfit": "a diving instructor look fitted to her body — a wetsuit peeled down to the hips over a bikini top, a mask pushed up on her head",
+  "scene": "she is a diving instructor crouching to check the seal of a diving mask",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-breath_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Breath, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a dive jetty of her element's kingdom — a rack of air tanks, fins and masks on the boards and clear deep water\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a diving instructor look fitted to her body — a wetsuit peeled down to the hips over a bikini top, a mask pushed up on her head, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a diving mask at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a diving instructor crouching to check the seal of a diving mask\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-breath/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "잠수 강사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e0664032f5bfa0e8e49ecd0141d3b51caecdd02232b126551a72361c2ed7dad9",
+  "ref_sha256": "6534807abc8aaa8d15379e7bed840f83f557b0993eada13f687779e1c6b60c19",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "8ac474c22b7aa63d4d316e76b8be411563a1808563aefc0e642b5fb1e908b2b3",
+  "note": "Original retained, no regeneration for exposure or QA deviations.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "oxygen-breath-52ac",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "e0664032f5bfa0e8e49ecd0141d3b51caecdd02232b126551a72361c2ed7dad9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Reference face, hair colour, eye colour and painterly style retained.",
+   "Single primary adult woman; visible arms connected naturally; no extra limbs observed.",
+   "Element motifs and decorative costume details are stronger than intended for off-duty clothing."
+  ],
+  "cause": "Reference costume motifs carried over despite off-duty clothing instruction."
+ },
+ "acceptance": "User authorized publication after QA; retain original without regeneration."
+}

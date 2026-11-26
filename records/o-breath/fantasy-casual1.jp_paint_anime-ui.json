@@ -1,0 +1,125 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-breath_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_sauna",
+  "ofam": "lingerie",
+  "item": "lg_out_blazer",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "polish_dry",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "fluorescent",
+  "depth": "deep",
+  "color": "earth",
+  "shade": "rust",
+  "expr": "candid",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "o-breath_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Breath, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a wooden sauna and cold plunge with a cooling lounge\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a satin corset worn as outerwear under a sharply tailored open blazer with matching wide-leg trousers — in burnt rust orange; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own left hand she holds a small bottle of nail polish, capped, while her freshly painted nails dry; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-breath/fantasy-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-breath",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "o-breath": {
+    "era": "now",
+    "place": "spa_sauna",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "polish_dry",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "lg_out_blazer",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "earth",
+    "shade": "rust",
+    "time": "fluorescent",
+    "depth": "deep",
+    "turn": "left"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "003b94ec724ad2d7bb420cf1b698df090589f74228fe645b7bcf8b702c0619cb",
+  "ref_sha256": "83182129bb282f8fa6f484ece6c4d680f4570185753e86b2c83efb7e196c2b08",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "f4b8d38c1a1b7bd1d4f28fbd6c81dc7631171d4b765143f224b7e2ccaf6082d0",
+  "note": "Original retained, no regeneration for exposure or QA deviations."
+ },
+ "execution": "oxygen-breath-52ac",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "003b94ec724ad2d7bb420cf1b698df090589f74228fe645b7bcf8b702c0619cb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Reference face, hair colour, eye colour and painterly style retained.",
+   "Single primary adult woman; visible arms connected naturally; no extra limbs observed.",
+   "Element motifs and decorative costume details are stronger than intended for off-duty clothing.",
+   "Long trouser-like drape replaces the planned lingerie shorts silhouette; reference gauze persists on the chair."
+  ],
+  "cause": "Reference costume motifs carried over despite off-duty clothing instruction."
+ },
+ "acceptance": "User authorized publication after QA; retain original without regeneration."
+}

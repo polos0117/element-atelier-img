@@ -1,0 +1,135 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-breath_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "lean_in",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "night",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Baptiste",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "calm",
+  "preset": "lean_in_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-breath_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Breath, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Baptiste from Overwatch — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing and leaning her upper body forward toward the camera from the hips, her back gently arched and her shoulders lowered toward the viewer, as if leaning in close.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-breath/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-breath",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "o-breath": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lean_in_close",
+    "use": "",
+    "posture": "lean_in",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_crop_set",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "overwatch",
+     "character": "Baptiste",
+     "cut": "crop_set",
+     "round": 1
+    },
+    "time": "night",
+    "turn": "front"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Baptiste",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e526f80ccd7dd7d0482dcb37d574dfece173a0eea09293fa9398808f8494aa48",
+  "ref_sha256": "50d52e2e804a56b5907fe5863f2943771e87f8f978aa1c968674b63ce3bdef47",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "6f9bf54c5e9db56d2b041f51c3a04b20618184fcdd52c27c83bb08e3f747971b",
+  "note": "Original retained, no regeneration for exposure or QA deviations."
+ },
+ "execution": "oxygen-breath-52ac",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "e526f80ccd7dd7d0482dcb37d574dfece173a0eea09293fa9398808f8494aa48",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Reference face, hair colour, eye colour and painterly style retained.",
+   "Single primary adult woman; visible arms connected naturally; no extra limbs observed."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User authorized publication after QA; retain original without regeneration."
+}

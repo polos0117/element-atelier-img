@@ -1,0 +1,131 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-breath_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "earrings"
+  },
+  "era": "fantasy",
+  "place": "fx_retro_home",
+  "ofam": "lingerie",
+  "item": "lg_couture_drape",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "dawn",
+  "moment": "flour_cheek",
+  "depth": "flat",
+  "color": "mono",
+  "shade": "graphite",
+  "expr": "focused",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-breath_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Breath, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro-futurist home of rounded chrome appliances and soft panels\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nSmall moment: a light smudge of flour marks her cheek.\nOutfit: a draped satin bustier gathered into a large knot at the bust over matching briefs — in graphite grey with black trim; the outfit colour reads clearly at first glance; styled with delicate drop earrings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: slender — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-breath/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-breath",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "o-breath": {
+    "era": "fantasy",
+    "place": "fx_retro_home",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "lg_couture_drape",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "shade": "graphite",
+    "time": "dawn",
+    "depth": "flat",
+    "turn": "right",
+    "ostyle": {
+     "acc": "earrings"
+    },
+    "moment": "flour_cheek"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1fc3aaae30ef3d78b1a61de86612cd31ae4a15d6ffc223933190607ad6e8e277",
+  "ref_sha256": "6534807abc8aaa8d15379e7bed840f83f557b0993eada13f687779e1c6b60c19",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "ab969123483a1ee7af2da1800be584b64871c3dccaa21a28b953de71fa706767",
+  "note": "Original retained, no regeneration for exposure or QA deviations."
+ },
+ "execution": "oxygen-breath-52ac",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "1fc3aaae30ef3d78b1a61de86612cd31ae4a15d6ffc223933190607ad6e8e277",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Reference face, hair colour, eye colour and painterly style retained.",
+   "Single primary adult woman; visible arms connected naturally; no extra limbs observed.",
+   "Element motifs and decorative costume details are stronger than intended for off-duty clothing."
+  ],
+  "cause": "Reference costume motifs carried over despite off-duty clothing instruction."
+ },
+ "acceptance": "User authorized publication after QA; retain original without regeneration."
+}

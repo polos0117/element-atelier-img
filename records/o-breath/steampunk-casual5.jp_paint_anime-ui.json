@@ -1,0 +1,129 @@
+{
+ "atelier": "element",
+ "card": "o-breath",
+ "tier": "lord",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-breath_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "velvet"
+  },
+  "era": "now",
+  "place": "travel_airport",
+  "ofam": "subculture",
+  "item": "yami_kawaii",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "melon_bite",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "fluorescent",
+  "light": "top",
+  "depth": "flat",
+  "expr": "sensual",
+  "preset": "bench_fix",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "o-breath_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Breath, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an airport lounge — tall windows onto the runway, sleek seats, a long bench and a departures board\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: yami-kawaii — a pink-and-black sailor-collar mini dress with heart chokers; styled with rich, light-catching velvet, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she bites into a wedge of watermelon held in both hands — her own right hand holds the right end of the rind, her own left hand holds the left end.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-breath/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-breath",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "o-breath": {
+    "era": "now",
+    "place": "travel_airport",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_fix",
+    "use": "melon_bite",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "yami_kawaii",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "time": "fluorescent",
+    "light": "top",
+    "depth": "flat",
+    "turn": "left",
+    "ostyle": {
+     "material": "velvet"
+    }
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "60cbe13d9e3ac71645bde3e8a3bb1b1dd0bf5cdd4bb8eb0b2bf8829ab9719d26",
+  "ref_sha256": "50d52e2e804a56b5907fe5863f2943771e87f8f978aa1c968674b63ce3bdef47",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "116b0f4922a6e28525b4764570a69fcf35834d54a732a19e3f76011e5f6ef887",
+  "note": "Original retained, no regeneration for exposure or QA deviations."
+ },
+ "execution": "oxygen-breath-52ac",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "60cbe13d9e3ac71645bde3e8a3bb1b1dd0bf5cdd4bb8eb0b2bf8829ab9719d26",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Reference face, hair colour, eye colour and painterly style retained.",
+   "Single primary adult woman; visible arms connected naturally; no extra limbs observed.",
+   "Element motifs and decorative costume details are stronger than intended for off-duty clothing.",
+   "Airport departure board includes small pseudo-text; planned text-free background not fully met."
+  ],
+  "cause": "Reference costume motifs carried over despite off-duty clothing instruction."
+ },
+ "acceptance": "User authorized publication after QA; retain original without regeneration."
+}
