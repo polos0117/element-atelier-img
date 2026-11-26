@@ -36,9 +36,9 @@
    "execution": "element-oxygen-forest-20261126",
    "status": "working",
    "claimed_at": "2026-11-26T12:48:52.173Z",
-   "date_kst": "2026-11-27",
+   "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
-   "phase": "awaiting-world-selection",
+   "phase": "awaiting-registration",
    "missing": [
     "o-wood_fantasy_jp_paint_anime_f.webp",
     "o-wood_steampunk_jp_paint_anime_f.webp",
@@ -66,12 +66,23 @@
     "sheet_dimensions": [
      4192,
      5216
-    ]
+    ],
+    "chosen": {
+     "fantasy": 2,
+     "steampunk": 4,
+     "mecha": 2
+    }
    },
    "qa": {
     "original_resolution": true,
     "no_regeneration": true,
     "labels_outside_art": true
+   },
+   "generated_total": 27,
+   "image_commit": "9585d87d343400bba6597a1841f572912b6f7250",
+   "delivery": {
+    "sheet": "libfile_ecddba9ff784819180e3c4c5176fe06a",
+    "archive": "libfile_5c4be7589f808191900bc8beff16153f"
    }
   }
  ]

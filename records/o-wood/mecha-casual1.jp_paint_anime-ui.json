@@ -1,0 +1,129 @@
+{
+ "atelier": "element",
+ "card": "o-wood",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-wood_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_runway",
+  "ofam": "roleplay",
+  "item": "rp_uniform_inspired_cape_layer",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "day_indoor",
+  "hair": "messy_bun",
+  "light": "low_warm",
+  "depth": "deep",
+  "color": "pattern",
+  "shade": "stripe",
+  "expr": "proud",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "o-wood_mecha_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Forest, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fashion runway under white spotlights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nHair: her hair twisted up into a high, loose bun with soft strands falling around her face — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a stylised uniform costume cut as a short fitted dress under a dramatic cape — crisp lapels and decorative epaulettes, no real insignia — in bold navy-and-white stripes; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-wood/mecha-casual1.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-wood",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "o-wood": {
+    "era": "fantasy",
+    "place": "fx_runway",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_side",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "item": "rp_uniform_inspired_cape_layer",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "stripe",
+    "time": "day_indoor",
+    "hair": "messy_bun",
+    "light": "low_warm",
+    "depth": "deep",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "f88991f81dd43d50a28715b73b87d392b62c7e253c92728eb9655f76940bec0e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "Original PNG retained outside git; no successful image was regenerated.",
+  "ref_sha256": "c7fe5a7c1c2f593f91169fab179d05ba06541c04980392cf4d914ffb4573ffa5"
+ },
+ "execution": "element-oxygen-forest-20261126",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex visual review",
+  "image_sha256": "f88991f81dd43d50a28715b73b87d392b62c7e253c92728eb9655f76940bec0e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Requested aspect ratio verified; one main adult woman; no apparent extra or detached visible limbs; visible hands reviewed.",
+   "Leaf, wave and flame ornament from the reference remains prominent on everyday fabric; clothing or crop differs in details from plan."
+  ],
+  "cause": "Reference clothing and decorative motifs influenced the generated everyday outfit; reference-removal and everyday costume instructions competed with the attached highly decorated world image."
+ },
+ "acceptance": "User selected 2,4,2 and authorized commit and normal main update, without replacing existing work."
+}

@@ -1,0 +1,155 @@
+{
+ "atelier": "element",
+ "card": "o-wood",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-wood_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_mini_dress",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "dangle",
+  "gaze": "horizon",
+  "time": "day_indoor",
+  "light": "top",
+  "cosplay": {
+   "game": "dead_or_alive_5",
+   "character": "La Mariposa",
+   "cut": "mini_dress",
+   "round": 1
+  },
+  "expr": "",
+  "preset": "edge_rear",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "moderate"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-wood_fantasy_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Forest, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of La Mariposa from Dead or Alive 5 — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, some exposed shoulders, arms or lower legs, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; back to the camera; camera at her eye level; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs).\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: legs dangling loosely over the edge.\nGAZE: she looks toward the far distance.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-wood/fantasy-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-wood",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "o-wood": {
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_rear",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "dangle",
+    "gaze": "horizon",
+    "item": "gc_mini_dress",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "moderate"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "dead_or_alive_5",
+     "character": "La Mariposa",
+     "cut": "mini_dress",
+     "round": 1
+    },
+    "time": "day_indoor",
+    "light": "top"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7cbda93484652e479326c7f4ee61853d5d8de7f9316fba3dd2994d077efa7fb4",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG retained outside git; no successful image was regenerated.",
+  "ref_sha256": "e583e0e438efaf7fe05373f6c8f332857fc68beb1584aa281c9f0ec464fd02fc",
+  "cosplay": {
+   "game": "dead_or_alive_5",
+   "character": "La Mariposa",
+   "cut": "mini_dress"
+  },
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "0ce35189-999c-4b36-bebb-ece739c87920"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "25499b4f-c742-451f-912e-4cfed52e16fb"
+   },
+   {
+    "attempt": 3,
+    "exposure": "moderate",
+    "result": "generated"
+   }
+  ]
+ },
+ "execution": "element-oxygen-forest-20261126",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex visual review",
+  "image_sha256": "7cbda93484652e479326c7f4ee61853d5d8de7f9316fba3dd2994d077efa7fb4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Requested aspect ratio verified; one main adult woman; no apparent extra or detached visible limbs; visible hands reviewed.",
+   "Generated with moderate exposure after two blocked responses; rear view intentionally hides face."
+  ],
+  "cause": "Reference clothing and decorative motifs influenced the generated everyday outfit; reference-removal and everyday costume instructions competed with the attached highly decorated world image."
+ },
+ "acceptance": "User selected 2,4,2 and authorized commit and normal main update, without replacing existing work."
+}

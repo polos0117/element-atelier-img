@@ -1,0 +1,92 @@
+{
+ "atelier": "element",
+ "card": "o-wood",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-wood_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_stairs",
+  "ofam": "everyday",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "a forest lookout of her element's kingdom — the wooden steps of a watch tower, tall trunks and green light through the leaves",
+  "light": "back",
+  "spot": "right_third",
+  "depth": "flat",
+  "expr": "pensive",
+  "preset": "step_pause",
+  "prop": "",
+  "outfit": "a forest ranger look fitted to her body — a ranger shirt tied under the bust, short ranger shorts, a brimmed hat and hiking boots",
+  "scene": "she is a forest ranger pausing on the tower steps",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-wood_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Forest, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a forest lookout of her element's kingdom — the wooden steps of a watch tower, tall trunks and green light through the leaves\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a forest ranger look fitted to her body — a ranger shirt tied under the bust, short ranger shorts, a brimmed hat and hiking boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head turned to the side; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\nScene note: she is a forest ranger pausing on the tower steps\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-wood/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "산림 감시원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e3fea80971e4c9e5898178bf8828c3c9697156bd82310f8dd6db7d0f0ebb2fe4",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG retained outside git; no successful image was regenerated.",
+  "ref_sha256": "e583e0e438efaf7fe05373f6c8f332857fc68beb1584aa281c9f0ec464fd02fc",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-oxygen-forest-20261126",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "Codex visual review",
+  "image_sha256": "e3fea80971e4c9e5898178bf8828c3c9697156bd82310f8dd6db7d0f0ebb2fe4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Requested aspect ratio verified; one main adult woman; no apparent extra or detached visible limbs; visible hands reviewed.",
+   "Leaf, wave and flame ornament from the reference remains prominent on everyday fabric; clothing or crop differs in details from plan."
+  ],
+  "cause": "Reference clothing and decorative motifs influenced the generated everyday outfit; reference-removal and everyday costume instructions competed with the attached highly decorated world image."
+ },
+ "acceptance": "User selected 2,4,2 and authorized commit and normal main update, without replacing existing work."
+}
