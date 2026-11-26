@@ -38,12 +38,41 @@
    "claimed_at": "2026-11-26T12:48:52.173Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
-   "phase": "world-selection",
+   "phase": "awaiting-world-selection",
    "missing": [
     "o-wood_fantasy_jp_paint_anime_f.webp",
     "o-wood_steampunk_jp_paint_anime_f.webp",
     "o-wood_mecha_jp_paint_anime_f.webp"
-   ]
+   ],
+   "selection": {
+    "sheet": "libfile_10b7917a4fc08191a5a7cd430c21b56b",
+    "checkpoint": "libfile_091e4181c4888191a744594d65973716",
+    "world_order": [
+     "fantasy",
+     "steampunk",
+     "mecha"
+    ],
+    "numbers": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "generated": 12,
+    "dimensions": [
+     1024,
+     1536
+    ],
+    "sheet_dimensions": [
+     4192,
+     5216
+    ]
+   },
+   "qa": {
+    "original_resolution": true,
+    "no_regeneration": true,
+    "labels_outside_art": true
+   }
   }
  ]
 }
