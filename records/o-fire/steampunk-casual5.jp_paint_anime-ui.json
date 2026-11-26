@@ -1,0 +1,124 @@
+{
+ "atelier": "element",
+ "card": "o-fire",
+ "tier": "lord",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-fire_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "site",
+  "place": "site_brewery",
+  "ofam": "workwear",
+  "item": "gardener_set",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "dangle",
+  "gaze": "horizon",
+  "time": "fluorescent",
+  "light": "low_warm",
+  "color": "neutral",
+  "shade": "white",
+  "situ": "sleeves_up",
+  "expr": "candid",
+  "preset": "mg_isle",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "o-fire_steampunk_jp_paint_anime_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fire, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a brewery hall of copper kettles, steel tanks, hoses and a mezzanine stair\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a gardener's look — a knotted linen shirt, high-waisted shorts, a tool belt and rubber boots — in crisp white; the outfit colour reads clearly at first glance; right now — mid-task she has pushed her sleeves up above the elbows and opened one more button at the collar, baring her forearms and collarbones, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; head turned to the side; camera at her eye level; her shoulders, chest and hips turn away from the camera together, no twist at the waist; her chest stays turned away.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nLEGS: legs dangling loosely over the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-fire/steampunk-casual5.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "o-fire",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "o-fire": {
+    "era": "site",
+    "place": "site_brewery",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "mg_isle",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "rear_3q",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "dangle",
+    "gaze": "horizon",
+    "item": "gardener_set",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "shade": "white",
+    "situ": "sleeves_up",
+    "time": "fluorescent",
+    "light": "low_warm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d1c4f2328c7e89529a5c4ae8c92f674377f33c670168876c0a6c37638c86ccab",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG excluded from Git; SHA-256 preserved",
+  "ref_sha256": "0f1ea274953db01094f288fc5f603c82a48541d75e7c7055ab0dbfed731bf830"
+ },
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "d1c4f2328c7e89529a5c4ae8c92f674377f33c670168876c0a6c37638c86ccab",
+  "passed": false,
+  "anatomy": "No extra limb or disconnected joint observed; perspective occlusion noted where relevant.",
+  "observations": [
+   "Body turned more toward front than planned rear three-quarter."
+  ],
+  "cause": "Image model drift from specified crop, garment or setting."
+ },
+ "execution": "oxygen-fire-20261126",
+ "imported": "2026-11-27",
+ "acceptance": "User approved selected worlds 3,2,1 and normal main publication; model deviations documented, sources retained without regeneration."
+}

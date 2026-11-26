@@ -1,0 +1,89 @@
+{
+ "atelier": "element",
+ "card": "o-fire",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "o-fire_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hip",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "weather": "snow",
+  "time": "morning",
+  "own": "fantasy",
+  "placeText": "a fire station yard of her element's kingdom — a polished engine, coiled hoses and a brass bell",
+  "expr": "proud",
+  "preset": "hip_contra",
+  "prop": "",
+  "outfit": "a firefighter look fitted to her body — fire trousers with braces over a cropped tank top, the jacket tied at her waist and heavy boots",
+  "scene": "she is a firefighter back from a call",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "o-fire_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fire, of the Oxygen Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a fire station yard of her element's kingdom — a polished engine, coiled hoses and a brass bell\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nOutfit: a firefighter look fitted to her body — fire trousers with braces over a cropped tank top, the jacket tied at her waist and heavy boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand tucks hair behind her ear — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a firefighter back from a call\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — breath and fire and rust in one: cool clear air as translucent cloth, bright combustion orange as accents, the quiet power to corrode, the deep blue of oceans and the green of forests; it is the element of life and burning — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/o-fire/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "소방관",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "af3973a0a071e654b9bf8643392f5a195a3a00a4221ec2515e20c05622a9ba1c",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG excluded from Git; SHA-256 preserved",
+  "ref_sha256": "ceb0b6e34b3bf536971773117f7a12d5c583251b84d178dbdd7c93750f7b179e",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "af3973a0a071e654b9bf8643392f5a195a3a00a4221ec2515e20c05622a9ba1c",
+  "passed": false,
+  "anatomy": "No extra limb or disconnected joint observed; perspective occlusion noted where relevant.",
+  "observations": [
+   "Fantasy architecture mixed with modern fire engine; firefighter trousers rendered with wide thigh openings."
+  ],
+  "cause": "Image model drift from specified crop, garment or setting."
+ },
+ "execution": "oxygen-fire-20261126",
+ "imported": "2026-11-27",
+ "acceptance": "User approved selected worlds 3,2,1 and normal main publication; model deviations documented, sources retained without regeneration."
+}
