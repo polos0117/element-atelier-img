@@ -1,0 +1,93 @@
+{
+ "atelier": "element",
+ "card": "c-graphite",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-graphite_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "an architect's studio of her element's kingdom — a slanted drawing table, rolled plans and a white model of a tower",
+  "ownProp": "a drafting pencil",
+  "light": "low_warm",
+  "spot": "left_third",
+  "depth": "flat",
+  "view": "foreground",
+  "expr": "wink",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "an architect look fitted to her body — a white shirt unbuttoned low with sleeves rolled, a short pencil skirt, sheer tights and glasses",
+  "scene": "she is an architect leaning on the slanted drawing table, sighting along a line with a drafting pencil held in one hand",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "c-graphite_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Graphite, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an architect's studio of her element's kingdom — a slanted drawing table, rolled plans and a white model of a tower\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an architect look fitted to her body — a white shirt unbuttoned low with sleeves rolled, a short pencil skirt, sheer tights and glasses, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a drafting pencil at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is an architect leaning on the slanted drawing table, sighting along a line with a drafting pencil held in one hand\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/c-graphite/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "건축 설계사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "1e0424d3725bdc7623be8d7a5b20ce9aa5b9d70772e84c2da9e23ff8dc158221",
+  "ref_sha256": "4c48dc7f61bc88520a514270102947f34065085c444389f095bb12529de6d1a5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "One successful generation; no regeneration. Matching larger square originals reduced with LANCZOS.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-graphite-20261126-735e",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "1e0424d3725bdc7623be8d7a5b20ce9aa5b9d70772e84c2da9e23ff8dc158221",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult main woman; face, hair colour and build follow the selected world reference.",
+   "Visible arms remain attached and visible hands show no obvious extra digits.",
+   "No logo, watermark or overlay; C and 6 appear within the scene.",
+   "Correct planned aspect ratio."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved selected worlds 2,1,3 and completion with ordinary main update; preserve generated results."
+}

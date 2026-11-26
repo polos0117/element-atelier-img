@@ -1,0 +1,137 @@
+{
+ "atelier": "element",
+ "card": "c-graphite",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-graphite_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "popcorn_hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "left",
+  "time": "fluorescent",
+  "view": "foreground",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Zagara",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "soft_smile",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "c-graphite_steampunk_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Graphite, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a themed costume event venue with props and a photo wall\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a daring adult cosplay of Zagara from StarCraft — the costume's recognisable colours and parts, cut as a floor-length gown with a thigh-high slit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she hugs a striped tub of popcorn against her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/c-graphite/steampunk-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c-graphite",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "c-graphite": {
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_side_low",
+    "use": "popcorn_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_slit_gown",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "starcraft",
+     "character": "Zagara",
+     "cut": "slit_gown",
+     "round": 1
+    },
+    "time": "fluorescent",
+    "view": "foreground",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2e87ceda978ffdef2838ed99c2cfc27a1ff56ab044140e69a93e37ede5e6a9d8",
+  "ref_sha256": "4c48dc7f61bc88520a514270102947f34065085c444389f095bb12529de6d1a5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "One successful generation; no regeneration. Matching larger square originals reduced with LANCZOS.",
+  "cosplay": {
+   "game": "starcraft",
+   "character": "Zagara",
+   "cut": "slit_gown"
+  }
+ },
+ "execution": "element-graphite-20261126-735e",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "2e87ceda978ffdef2838ed99c2cfc27a1ff56ab044140e69a93e37ede5e6a9d8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult main woman; face, hair colour and build follow the selected world reference.",
+   "Visible arms remain attached and visible hands show no obvious extra digits.",
+   "No logo, watermark or overlay; C and 6 appear within the scene.",
+   "Correct planned aspect ratio."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved selected worlds 2,1,3 and completion with ordinary main update; preserve generated results."
+}

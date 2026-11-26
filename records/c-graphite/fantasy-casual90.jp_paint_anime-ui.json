@@ -1,0 +1,90 @@
+{
+ "atelier": "element",
+ "card": "c-graphite",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-graphite_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "golden",
+  "own": "fantasy",
+  "placeText": "an architect's studio of her element's kingdom — a slanted drawing table, rolled plans and a white model of a tower",
+  "ownProp": "a drafting pencil and a building plan",
+  "depth": "deep",
+  "expr": "relieved",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "outfit": "an architect look fitted to her body — a white shirt unbuttoned low with sleeves rolled, a short pencil skirt, sheer tights and glasses",
+  "scene": "she is an architect drawing a clean line",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "c-graphite_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Graphite, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an architect's studio of her element's kingdom — a slanted drawing table, rolled plans and a white model of a tower\nTime of day: golden hour — warm low sun, long shadows; low gold light through the window, long warm stripes across the walls.\nOutfit: an architect look fitted to her body — a white shirt unbuttoned low with sleeves rolled, a short pencil skirt, sheer tights and glasses, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a drafting pencil and a building plan in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is an architect drawing a clean line\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/c-graphite/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "건축 설계사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "de6c0ccdf2efdddaabefd9eced47a8b07d12069c513552699d14c2fa514469f1",
+  "ref_sha256": "acc5eabbeea40ea6e130bc7f6b1670ec43fdeb6e928c50632cfde2b6b33993a4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "One successful generation; no regeneration. Matching larger square originals reduced with LANCZOS.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-graphite-20261126-735e",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "de6c0ccdf2efdddaabefd9eced47a8b07d12069c513552699d14c2fa514469f1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult main woman; face, hair colour and build follow the selected world reference.",
+   "Visible arms remain attached and visible hands show no obvious extra digits.",
+   "No logo, watermark or overlay; C and 6 appear within the scene.",
+   "Correct planned aspect ratio."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved selected worlds 2,1,3 and completion with ordinary main update; preserve generated results."
+}
