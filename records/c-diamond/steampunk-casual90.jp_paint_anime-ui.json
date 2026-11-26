@@ -1,0 +1,96 @@
+{
+ "atelier": "element",
+ "card": "c-diamond",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-diamond_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_workshop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "steampunk",
+  "placeText": "a gem appraiser's room of her element's kingdom — a velvet tray of stones, a small balance and a bright desk lamp",
+  "ownProp": "a cut diamond held in tweezers",
+  "light": "low_warm",
+  "depth": "flat",
+  "view": "glass",
+  "expr": "nostalgic",
+  "preset": "pocket_look",
+  "prop": "0",
+  "outfit": "a gem appraiser look fitted to her body — a tailored waistcoat worn with nothing beneath, a short tight skirt, sheer stockings and a loupe on a chain",
+  "scene": "she is a gem appraiser looking down at a stone held in tweezers",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "c-diamond_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Diamond, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a gem appraiser's room of her element's kingdom — a velvet tray of stones, a small balance and a bright desk lamp\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a gem appraiser look fitted to her body — a tailored waistcoat worn with nothing beneath, a short tight skirt, sheer stockings and a loupe on a chain, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a cut diamond held in tweezers at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a gem appraiser looking down at a stone held in tweezers\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: statuesque, long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/c-diamond/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "보석 감정사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "93c1b0a45d9082101f605b2bf7852e63461cc0dea1dac0a83352e5895f60657a",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "95f05c6f2e8f80791b380dfba454dd03d464c21b06d2079a7c0348b0c06447ce",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "Generated once; no regeneration. Original PNG retained separately; repository stores WebP only.",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-diamond-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user approved 3,1,2 and publication to main",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "95f05c6f2e8f80791b380dfba454dd03d464c21b06d2079a7c0348b0c06447ce",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Character identity follows the selected world reference; no armor or crown carried into the daily outfit.",
+   "No clearly detached or extra limbs observed.",
+   "Carbon lattice or diamond motifs appear strongly on clothing; the generator allows motif details but IMAGE_RULES asks for accessories and surrounding objects only. Kept without regeneration.",
+   "Gem appraiser role, diamond tool and loupe are visible."
+  ],
+  "cause": "Reference crystal and carbon motifs combined with the generator motif-permission line."
+ }
+}

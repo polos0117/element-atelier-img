@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "c-diamond",
+ "tier": "lord",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-diamond_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "cardigan",
+   "acc": "hair_ribbon"
+  },
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "homewear",
+  "item": "light_slip",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "v_eye",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "weather": "fog",
+  "time": "dawn",
+  "color": "neutral",
+  "shade": "soft_grey",
+  "expr": "soft_smile",
+  "preset": "veye_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "c-diamond_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Diamond, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: her own room in a house of her element's kingdom, its walls and furniture built from the element's materials and colours, a mirror and a window\nWeather / season: a misty morning — soft fog outside.\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nOutfit: a light cotton slip dress — in soft dove grey; the outfit colour reads clearly at first glance; styled with a light fine-knit cardigan layered over it and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand holds a V sign over one eye, that eye peeking out between her two spread fingers — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: statuesque, long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/c-diamond/steampunk-casual2.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "93c1b0a45d9082101f605b2bf7852e63461cc0dea1dac0a83352e5895f60657a",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "21aad7e78101d6ea80bc35afd85484e89f58b6cc899f63f24c18a57c2380b145",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "Generated once; no regeneration. Original PNG retained separately; repository stores WebP only."
+ },
+ "execution": "element-diamond-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user approved 3,1,2 and publication to main",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "21aad7e78101d6ea80bc35afd85484e89f58b6cc899f63f24c18a57c2380b145",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Character identity follows the selected world reference; no armor or crown carried into the daily outfit.",
+   "No clearly detached or extra limbs observed.",
+   "Carbon lattice or diamond motifs appear strongly on clothing; the generator allows motif details but IMAGE_RULES asks for accessories and surrounding objects only. Kept without regeneration."
+  ],
+  "cause": "Reference crystal and carbon motifs combined with the generator motif-permission line."
+ }
+}

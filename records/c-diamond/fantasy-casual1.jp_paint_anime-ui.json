@@ -1,0 +1,83 @@
+{
+ "atelier": "element",
+ "card": "c-diamond",
+ "tier": "lord",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-diamond_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "suite_balcony",
+  "ofam": "lingerie",
+  "item": "lg_out_bralette_suit",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "left",
+  "time": "neon",
+  "light": "side",
+  "color": "pastel",
+  "shade": "peach",
+  "expr": "serious",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "c-diamond_fantasy_jp_paint_anime_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Diamond, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a hotel suite balcony high above the city at night — sheer curtains blowing out of the open glass door, a cushioned lounger and a glass railing\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a lace bralette under an open double-breasted jacket with matching tailored shorts — in soft pastel peach; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "refDesign": "gpt_free",
+ "record": "records/c-diamond/fantasy-casual1.jp_paint_anime-ui.json",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "19073966a5ef024443ff509f0b78b12abec89244f8d4614b71d32046646fc084",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "092d2da762cabeac01aa1079f8d6a500bc34eb5bcfaf506061559a048beac2dc",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "Generated once; no regeneration. Original PNG retained separately; repository stores WebP only."
+ },
+ "execution": "element-diamond-20261126",
+ "imported": "2026-11-26",
+ "acceptance": "user approved 3,1,2 and publication to main",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "092d2da762cabeac01aa1079f8d6a500bc34eb5bcfaf506061559a048beac2dc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Character identity follows the selected world reference; no armor or crown carried into the daily outfit.",
+   "No clearly detached or extra limbs observed.",
+   "Carbon lattice or diamond motifs appear strongly on clothing; the generator allows motif details but IMAGE_RULES asks for accessories and surrounding objects only. Kept without regeneration."
+  ],
+  "cause": "Reference crystal and carbon motifs combined with the generator motif-permission line."
+ }
+}
