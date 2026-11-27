@@ -1,0 +1,88 @@
+{
+ "atelier": "element",
+ "card": "fe-steel",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fe-steel_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "forenoon",
+  "own": "steampunk",
+  "placeText": "a building site of her element's kingdom — a frame of steel girders against the sky, a hanging hook and stacked beams",
+  "ownProp": "a rolled blueprint",
+  "expr": "relieved",
+  "preset": "wrap_close",
+  "prop": "0",
+  "outfit": "a site forewoman look fitted to her body — a cropped work vest over a bandeau top, low-slung work shorts, a tool belt, gloves and heavy boots",
+  "scene": "she is the forewoman of a steel-frame building site holding a rolled plan against her chest",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "fe-steel_steampunk_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Steel, of the Iron Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a building site of her element's kingdom — a frame of steel girders against the sky, a hanging hook and stacked beams\nTime of day: late morning — clear fresh daylight, soft short shadows; fresh low sunlight, long cool shadows.\nOutfit: a site forewoman look fitted to her body — a cropped work vest over a bandeau top, low-slung work shorts, a tool belt, gloves and heavy boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a rolled blueprint in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\nScene note: she is the forewoman of a steel-frame building site holding a rolled plan against her chest\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood — may show in the outfit's details, motifs or small accessories.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "refDesign": "gpt_free",
+ "record": "records/fe-steel/steampunk-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "철골 건설 현장 감독",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "31fe2238010cbf97c8892c026c8a59bca2f449aba8d32931f97d505f398ecc43",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "tries": 1,
+  "note": "원본 PNG는 올리지 않고 SHA256만 기록",
+  "ref_sha256": "189b3634e6073f6379665fae4803c4ad90e70c47910af327af7a4895bde973b7",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "iron-steel-20261128-d1601",
+ "imported": "2026-11-28",
+ "acceptance": "사용자 2,4,2 선택 및 일반 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "31fe2238010cbf97c8892c026c8a59bca2f449aba8d32931f97d505f398ecc43",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "참고 그림의 은빛 머리·얼굴·피부색과 일본 유화 애니 마감 유지",
+   "정해진 의상·장소가 반영되고 추가 팔다리는 보이지 않음"
+  ],
+  "cause": ""
+ }
+}

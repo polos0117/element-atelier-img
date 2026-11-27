@@ -1,0 +1,91 @@
+{
+ "atelier": "element",
+ "card": "fe-steel",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fe-steel_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dusk",
+  "own": "mecha",
+  "placeText": "a building site of her element's kingdom — a frame of steel girders against the sky, a hanging hook and stacked beams",
+  "ownProp": "a measuring tape",
+  "light": "dappled",
+  "expr": "amused",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a site forewoman look fitted to her body — a cropped work vest over a bandeau top, low-slung work shorts, a tool belt, gloves and heavy boots",
+  "scene": "she is the forewoman of a steel-frame building site, glancing back over her shoulder with a measuring tape held beside her face",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "fe-steel_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Steel, of the Iron Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a building site of her element's kingdom — a frame of steel girders against the sky, a hanging hook and stacked beams\nTime of day: dusk — blue hour, lights coming on; a deep blue sky, the first lights coming on around her.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a site forewoman look fitted to her body — a cropped work vest over a bandeau top, low-slung work shorts, a tool belt, gloves and heavy boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a measuring tape up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is the forewoman of a steel-frame building site, glancing back over her shoulder with a measuring tape held beside her face\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood — may show in the outfit's details, motifs or small accessories.\n\nFigure: statuesque, long-legged, with a natural neck length — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/fe-steel/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "철골 건설 현장 감독",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "77b226e5d877ae432fec2c438f7c31f770524745b7f4a397e69af63d5c138157",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "tries": 1,
+  "note": "원본 PNG는 올리지 않고 SHA256만 기록",
+  "ref_sha256": "5ea862b01efb6003cd974b62d7b46b2aac42d7af35f7b2e12961534dee6706eb",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "iron-steel-20261128-d1601",
+ "imported": "2026-11-28",
+ "acceptance": "사용자 2,4,2 선택 및 일반 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "77b226e5d877ae432fec2c438f7c31f770524745b7f4a397e69af63d5c138157",
+  "passed": false,
+  "anatomy": [
+   "hand"
+  ],
+  "observations": [
+   "참고 얼굴·은빛 옆 묶음 머리와 철골 현장 감독 차림 반영",
+   "줄자 주변 맨손 손가락과 장갑 손가락이 겹쳐 손가락 수·연결을 확실히 확인하기 어려움",
+   "손 표현 검토가 필요한 컷으로 표시하며 원본 그대로 보존"
+  ],
+  "cause": "줄자를 얼굴 옆에 들고 장갑을 착용한 손의 겹침에서 손가락 구조가 불명확함"
+ }
+}
