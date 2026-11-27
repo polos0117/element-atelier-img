@@ -1,0 +1,135 @@
+{
+ "atelier": "element",
+ "card": "c-wood",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-wood_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_parade",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "overcast",
+  "light": "back",
+  "depth": "flat",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Isaac Ducastel",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "c-wood_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Wood, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an amusement-park parade street lined with spectators, a bright float and drifting confetti passing in the background\nTime of day: an overcast day — soft, shadowless grey-white light; soft even light, colours calm, no hard shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Isaac Ducastel from TalesWeaver — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly above, looking down at her; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs); a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — on the image's right side, since her back is to the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament, the object held close against her side, not pushed toward the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — on the image's left side, since her back is to the camera.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: keep her exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/c-wood/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c-wood",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "c-wood": {
+    "era": "now",
+    "place": "amuse_parade",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_leotard",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "tales_weaver",
+     "character": "Isaac Ducastel",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "overcast",
+    "light": "back",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "24a0787424806e636e4eb2a29d64be6e026333408edf80e9d9bd09aaaa15cab1",
+  "ref_sha256": "736c9da9a8dcd79aec485d73a7e88b0df9361bce2fbf1531f1295b7cd1f3af4b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 대신 sha256 기록; 생성된 결과는 재생성하지 않음",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Isaac Ducastel",
+   "cut": "leotard"
+  }
+ },
+ "refDesign": "gpt_free",
+ "execution": "element-carbon-wood-20261127-d30b",
+ "imported": "2026-11-27",
+ "acceptance": "user selection 2,4,4 and authorization for ordinary main publication",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "24a0787424806e636e4eb2a29d64be6e026333408edf80e9d9bd09aaaa15cab1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "퍼레이드 길·Isaac Ducastel 코스프레 레오타드·멀어지는 뒷모습",
+   "오른손 옆에 카메라, 왼팔은 몸 옆",
+   "시뇽·피부색 유지, 양팔과 다리 연결 정상; 뒷모습이라 얼굴 검증은 제한됨"
+  ]
+ }
+}
