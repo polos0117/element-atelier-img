@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "fe-rust",
+ "tier": "lord",
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "droopy_soft",
+   "brows": "soft_round",
+   "nose": "broad_soft",
+   "lips": "full_wide",
+   "eye_color": "rust_amber",
+   "age": "early_30s",
+   "impression": "languid",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "freckles",
+   "expr": "half_smile"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair": "tilted_bun",
+   "hair_color": "rust_orange",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "fe-rust_fantasy_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of Rust — the lord of the Rust House of the Iron Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a languid, sleepy-eyed ease; light warm-beige skin with a golden undertone; softly rounded face that still tapers to a small chin; eyes of natural size — soft almond eyes with gently lowered outer corners, outer eye corners drooping downward; soft rounded brows; a nose with a soft, rounded tip and natural width; medium-full lips of natural width; rust-amber eyes; a dusting of freckles across nose and cheeks.\nBody and hair: curvy build; a bun tilted to one side with loose strands with choppy uneven bangs; rust-orange hair.\nExpression: a slight smile, lips closed.\nHer element, carried in her design: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood.\nHer house, carried in her design: flaking orange-brown rust over pitted dark iron, layered patina creeping over metal, worn leather straps, the look of something buried and dug up.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: iron grey, steel silver, rust orange, ember red, black soot.\nHouse colours: rust orange, ochre, dark pitted iron, faded leather brown.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a fantasy kingdom of smiths: a mountain fortress built around a great forge, rivers of molten iron glowing in channels, hammered-iron gates, anvils as altars, iron filings drawn into patterns by magic magnetism, ember sparks in the air.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Fe) and atomic number (26) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+ "date": "2026-11-27",
+ "record": "records/fe-rust/fantasy.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "fe-rust",
+  "out": "world",
+  "world": "fantasy",
+  "style": "jp_paint_anime",
+  "notes": {
+   "fe-rust|fantasy": {}
+  },
+  "looks": {
+   "fe-rust|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "fe-rust|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "SUMMARY: hairstyle a short textured pixie crop with a clean nape; costume a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; design idea Overlapping flaking iron lamellae fan outward from the waist like a cross-section of oxidised metal.; face an elegant, refined presence; expression slight closed-lip smile\n\nA full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of Rust — the lord of the Rust House of the Iron Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: an elegant, refined presence; fair skin; gently long oval face; softly deep-set eyes of natural size; ember-orange eyes; thin straight brows; a nose with a soft, rounded tip, of natural size; lips with a defined cupid's bow, of natural size.\nBody and hair: curvy build; a short textured pixie crop with a clean nape; rust-orange hair.\nExpression: a slight smile, lips closed.\nHer element, carried in her design: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood.\nHer house, carried in her design: flaking orange-brown rust over pitted dark iron, layered patina creeping over metal, worn leather straps, the look of something buried and dug up.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: a high-fantasy royal or warrior costume — plate pauldrons or a gorget, mail or scale over a long tabard or robe, a circlet or crown, a flowing cape; metal ornament and regalia built from the traits above, subtle magical glow along the patterns.\nSilhouette: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: Overlapping flaking iron lamellae fan outward from the waist like a cross-section of oxidised metal.\nColours: iron grey, steel silver, rust orange, ember red, black soot.\nHouse colours: rust orange, ochre, dark pitted iron, faded leather brown.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or robe showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: a fantasy kingdom of smiths: a mountain fortress built around a great forge, rivers of molten iron glowing in channels, hammered-iron gates, anvils as altars, iron filings drawn into patterns by magic magnetism, ember sparks in the air.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: natural daylight or the world's own magical glow.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Fe) and atomic number (26) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, corset, bustle, Victorian tailoring, modern material, machinery.",
+  "summary": "SUMMARY: hairstyle a short textured pixie crop with a clean nape; costume a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; design idea Overlapping flaking iron lamellae fan outward from the waist like a cross-section of oxidised metal.; face an elegant, refined presence; expression slight closed-lip smile",
+  "hair_family": "short",
+  "selected_world_candidate": 3,
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5dc7cfa84c0c544f9ca0100c6f7e703fdbe2db024ddb65d9fc7b8abec6e86efa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "b8d5f634aa8a2c64f9e6910f8525ad672817db32a7f16cc5b2e2162e6dde8ffc",
+  "source_recovery": {
+   "library_file_id": "libfile_453d356605b48191b57f91b194621fd5",
+   "sheet_sha256": "ac5301c2d153745f1ba48216d824dd598a726ef3fe31d2455e11697b43f47e7d",
+   "method": "Exact lossless 1024x1536 pixel extraction from selected column 3; recovered PNG encoding may differ from original generated PNG."
+  }
+ },
+ "execution": "element-fe-rust-20261128",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "5dc7cfa84c0c544f9ca0100c6f7e703fdbe2db024ddb65d9fc7b8abec6e86efa",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "사용자 선택 3번. 원본 1024×1536 픽셀 그대로 복원. 전신·두 사람팔·두 손·두 다리·두 발 확인.",
+   "판타지는 주문의 긴 로브보다 판갑·갈라진 치마 비중이 큼."
+  ],
+  "cause": "선택 원본 보존"
+ },
+ "acceptance": "사용자 3,3,3 선택"
+}

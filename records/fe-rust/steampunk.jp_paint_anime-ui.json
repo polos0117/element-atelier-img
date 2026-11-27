@@ -1,0 +1,116 @@
+{
+ "atelier": "element",
+ "card": "fe-rust",
+ "tier": "lord",
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "monolid_long",
+   "brows": "soft_round",
+   "nose": "broad_soft",
+   "lips": "full_wide",
+   "eye_color": "rust_amber",
+   "age": "early_30s",
+   "impression": "languid",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "freckles",
+   "expr": "half_smile"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair": "giant_braid",
+   "hair_color": "rust_orange",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "fe-rust_steampunk_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of Rust — the lord of the Rust House of the Iron Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a languid, sleepy-eyed ease; light warm-beige skin with a golden undertone; gently long oval face; eyes of natural size — smooth monolid eyes of natural size, outer eye corners drooping downward; soft rounded brows; a nose with a soft, rounded tip and natural width; medium-full lips of natural width; rust-amber eyes; a dusting of freckles across nose and cheeks.\nBody and hair: curvy build; one enormous thick braid down to the knees with side-swept bangs; rust-orange hair.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a slight smile, lips closed.\nHer element, carried in her design: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood.\nHer house, carried in her design: flaking orange-brown rust over pitted dark iron, layered patina creeping over metal, worn leather straps, the look of something buried and dug up.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a sleeveless work vest, thick leather gloves, soot-stained trousers and boots — a furnace stoker's rugged shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nColours: iron grey, steel silver, rust orange, ember red, black soot.\nHouse colours: rust orange, ochre, dark pitted iron, faded leather brown.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: the Industrial Revolution around 1860: a cast-iron railway bridge over a river, a steam locomotive with a glowing firebox, blast furnaces and chimneys, riveted iron girders, gauges and valves, coal smoke under a copper sunset.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Fe) and atomic number (26) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+ "date": "2026-11-27",
+ "record": "records/fe-rust/steampunk.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "fe-rust",
+  "out": "world",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {
+   "fe-rust|steampunk": {}
+  },
+  "looks": {
+   "fe-rust|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "fe-rust|steampunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "SUMMARY: hairstyle a high braided chignon with a clean centre part; costume a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; design idea The long coat opens through layered scalloped leather facings that imitate peeling oxide scales.; face a sharp, striking, intense look; expression slight closed-lip smile\n\nA full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of Rust — the lord of the Rust House of the Iron Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; olive skin; diamond-shaped face with softly defined cheekbones and a tapered chin; phoenix eyes with gracefully lifted outer corners, of natural size; forest-green eyes; straight brows of natural fullness; a nose with a gentle aquiline curve; soft, full lips.\nBody and hair: curvy build; a high braided chignon with a clean centre part; rust-orange hair.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a slight smile, lips closed.\nHer element, carried in her design: dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood.\nHer house, carried in her design: flaking orange-brown rust over pitted dark iron, layered patina creeping over metal, worn leather straps, the look of something buried and dug up.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: late-Victorian industrial dress — a high-necked blouse with a waistcoat or a tailored tail coat, leather gloves, a work apron or utility belt with brass fittings, goggles hung at the neck or a small instrument as ornament; below, a short bustle skirt and laced boots; the traits above as colour accents. No crown unless the opening line says she wears one; steam, pipes and gauges in the scene.\nSilhouette: a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape. Only the overall shape is fixed; design the details freely in the element's materials and palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The long coat opens through layered scalloped leather facings that imitate peeling oxide scales.\nColours: iron grey, steel silver, rust orange, ember red, black soot.\nHouse colours: rust orange, ochre, dark pitted iron, faded leather brown.\nExposure (bold): her outfit opens to show skin — the neckline opened down to the sternum with natural cleavage, bare forearms, and bare legs above the boots or through a high slit where the silhouette allows; pieces stay symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume above, material and palette.\n\n4. SCENE\nWorld: the Industrial Revolution around 1860: a cast-iron railway bridge over a river, a steam locomotive with a glowing firebox, blast furnaces and chimneys, riveted iron girders, gauges and valves, coal smoke under a copper sunset.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: bright warm sunlight with soft sky light bounced from white clouds.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (Fe) and atomic number (26) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish, armor plates, cape, modern plastic, sci-fi.",
+  "summary": "SUMMARY: hairstyle a high braided chignon with a clean centre part; costume a long leather coat with a bandolier of glass vials, brass goggles and long gloves — a mysterious experimenter's shape; design idea The long coat opens through layered scalloped leather facings that imitate peeling oxide scales.; face a sharp, striking, intense look; expression slight closed-lip smile",
+  "hair_family": "updo",
+  "selected_world_candidate": 3,
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5c523fb9d2c2c443837c3b98df36c23a61da2ac7dc20bddd702d0a314779c50b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "b8f850419306234ad3ed0320c557fc28dce90c40f8cece02b68ec097ae09b092",
+  "source_recovery": {
+   "library_file_id": "libfile_453d356605b48191b57f91b194621fd5",
+   "sheet_sha256": "ac5301c2d153745f1ba48216d824dd598a726ef3fe31d2455e11697b43f47e7d",
+   "method": "Exact lossless 1024x1536 pixel extraction from selected column 3; recovered PNG encoding may differ from original generated PNG."
+  }
+ },
+ "execution": "element-fe-rust-20261128",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "5c523fb9d2c2c443837c3b98df36c23a61da2ac7dc20bddd702d0a314779c50b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "사용자 선택 3번. 원본 1024×1536 픽셀 그대로 복원. 전신·두 사람팔·두 손·두 다리·두 발 확인.",
+   "선택 세계와 의상·머리 구조 확인. 메카의 등 보조팔은 기계이며 본인의 팔과 구분됨."
+  ],
+  "cause": "선택 원본 보존"
+ },
+ "acceptance": "사용자 3,3,3 선택"
+}
