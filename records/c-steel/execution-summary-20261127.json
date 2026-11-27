@@ -468,5 +468,36 @@
   }
  ],
  "usage_source": "data/casual-index.json built 2026-11-26T15:16:07.737Z; only compact usage fields, no other character image or historical record copied",
- "status": "images_generated_registration_pending"
+ "status": "complete",
+ "sheet": {
+  "library_file_id": "libfile_58ae763b621c8191951f087c7be1ff47",
+  "filename": "carbon-steel-complete-27-sheet.jpg"
+ },
+ "image_commit": "ae5ad1b5c836d67767821c603080c2c50d452e16",
+ "records_commit": "9898002634c168456e16630fae7a323dfb13623c",
+ "verification": {
+  "images": 27,
+  "worlds": 3,
+  "casual": 21,
+  "own": 3,
+  "remote_blob_hashes_match": 27,
+  "thumbnail_workflow": {
+   "id": 45913895767,
+   "conclusion": "success"
+  },
+  "casual_plan_checks": [
+   "fantasy passed 7",
+   "steampunk passed 7",
+   "mecha passed 7"
+  ],
+  "register_tests": "passed",
+  "image_shard_tests": "passed",
+  "registration_workflow": {
+   "id": 45913952603,
+   "conclusion": "success"
+  },
+  "registered_images": 27,
+  "indexed_casual_and_own": 24,
+  "code_commit": "cc688a1efd18477e66434c47ce7727ee3cefbe70"
+ }
 }
