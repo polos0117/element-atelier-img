@@ -34,16 +34,12 @@
   {
    "key": "c-fire",
    "execution": "carbon-fire-20261127",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T23:27:04.536Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
-   "stage": "awaiting-registration",
-   "missing": [
-    "fantasy",
-    "steampunk",
-    "mecha"
-   ],
+   "stage": "complete",
+   "missing": [],
    "selection": {
     "fantasy": 1,
     "steampunk": 1,
@@ -52,7 +48,11 @@
    "images_commit": "6d8377828cfb1c79038b2a652f216602ad7f579d",
    "records_commit": "082eef14122555b4b991d7dec7ae9f3c942bcfb1",
    "sheet_library_file_id": "libfile_b895d2147490819182fea43c357515fe",
-   "generated_count": 27
+   "generated_count": 27,
+   "done_at": "2026-11-27T02:57:38.534Z",
+   "done_by": "carbon-fire-20261127",
+   "registration_commit": "fb0eacf",
+   "registered_count": 27
   }
  ]
 }
