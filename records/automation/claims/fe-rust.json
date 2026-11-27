@@ -27,12 +27,23 @@
   {
    "key": "fe-rust",
    "execution": "element-fe-rust-20261128",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T19:07:02.423Z",
    "date_kst": "2026-11-28",
    "date_utc": "2026-11-28",
-   "stage": "world-selection",
-   "worktree": "/workspace/scratch/6d2d8326cb06/iron-rust"
+   "stage": "done",
+   "worktree": "/workspace/scratch/6d2d8326cb06/iron-rust",
+   "selection": {
+    "fantasy": 3,
+    "steampunk": 3,
+    "mecha": 3
+   },
+   "completed_images": 27,
+   "done_at": "2026-11-27T23:35:18.693Z",
+   "done_by": "element-fe-rust-20261128",
+   "image_commit": "ce8d3c664fec321edc9a0c960b6e62c22d6a2812",
+   "records_commit": "d2d0f9970dbd32cd3f941554adb44dcded6792d4",
+   "registry_commit": "65730d383352da4a46c36ea9a6356d6d1008637d"
   }
  ]
 }
