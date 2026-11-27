@@ -1,0 +1,128 @@
+{
+ "atelier": "element",
+ "card": "c-oil",
+ "tier": "lord",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-oil_steampunk_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "nation",
+  "place": "nation_roof",
+  "ofam": "homewear",
+  "item": "satin_lounge",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "horizon",
+  "weather": "snow",
+  "time": "noon",
+  "hair": "down",
+  "light": "back",
+  "color": "denim",
+  "shade": "light_wash",
+  "expr": "",
+  "preset": "rail_rear",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "c-oil_steampunk_jp_paint_anime_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Oil, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop or terrace above the town of her element's kingdom\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: midday — bright even light; hard bright sun, crisp short shadows on the ground.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a satin lounge set of button shirt and shorts — in light-wash denim blue; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; back to the camera; camera at her eye level; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs).\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/c-oil/steampunk-casual2.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c-oil",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "c-oil": {
+    "era": "nation",
+    "place": "nation_roof",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "rail_rear",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "item": "satin_lounge",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "denim",
+    "shade": "light_wash",
+    "time": "noon",
+    "weather": "snow",
+    "hair": "down",
+    "light": "back",
+    "ostyle": {
+     "acc": "bangles"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "9fcd3c1376b05dd86e51acc0be5d959131a60df749b2a355f5a479e5a3d74c14",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "ecc426a5c32d7bce7d8b9a43103087c503317944a814f5f86c3cfe5852bc1390",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "element-carbon-oil-9001",
+ "imported": "2026-11-27",
+ "acceptance": "User approved completion, commit and normal main push; no arbitrary regeneration",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "ecc426a5c32d7bce7d8b9a43103087c503317944a814f5f86c3cfe5852bc1390",
+  "passed": true,
+  "observations": [
+   "Reference image attached; original retained without regeneration.",
+   "Matches planned aspect ratio; standard WebP saved.",
+   "Face, eye colour and hair checked against selected reference, subject to pose visibility.",
+   "Planned rear view: face not visible; identity check limited to hair and figure."
+  ],
+  "anatomy": "Visible limbs connected; no obvious duplicated limb; hands inspected at generated resolution."
+ }
+}
