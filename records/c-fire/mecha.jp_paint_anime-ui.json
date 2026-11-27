@@ -1,0 +1,105 @@
+{
+ "atelier": "element",
+ "card": "c-fire",
+ "tier": "lord",
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "almond_wide",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "melancholic",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "expr": "wistful"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair": "windswept_long",
+   "hair_color": "flame_orange",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "c-fire_mecha_jp_paint_anime_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult woman — the personification of Fire — the lord of the Fire House of the Carbon Nation. A female character who IS that substance; her costume, ornaments and colors carry the substance’s traits, within the element’s own palette. Both hands are ordinary human hands and hold nothing.\n\n1. STYLE\nA Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance.\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin; any crown or headpiece sits above her hairline. Her eyes keep the shape and size described below.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a quiet melancholy; light warm-beige skin with a golden undertone; softly rounded face that still tapers to a small chin; eyes of natural size — almond-shaped eyes of natural size, outer eye corners drooping downward; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; amber eyes; a small beauty mark under one eye.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; very long hair streaming sideways in the wind with blunt straight bangs; flame-orange hair.\nExpression: a faint wistful smile, soft eyes.\nHer element, carried in her design: two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life.\nHer house, carried in her design: combustion as the fuel giving itself up: split firewood, black coal glowing from within, embers and drifting ash, smoke curling upward; charred black and ash grey cracked with deep orange glow; the burning, self-giving side of carbon.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — MECHA\nCostume: she is a female mecha personification — plates, joints, binders and glow lines carry the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; a back unit may carry the motif. Matte carbon-fibre weave armor with hexagonal lattice panels, diamond-clear visor and joint crystals, graphite-grey plates, a thin hexagonal halo.\nSilhouette: minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette. Only the overall shape is fixed; design the details freely in the element's materials and palette.\nColours: charcoal black, graphite grey, diamond white, a single living green.\nHouse colours: ember orange, coal black, ash grey, smoke white.\nExposure (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2200, a city of graphene towers: hexagonal lattice facades, carbon-fibre weave surfaces, diamond-glass bridges.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: the scene's own light, rendered the way this style renders light and skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text or numbers except her element's own chemical symbol (C) and atomic number (6) — and those only as part of the scene: engraved, embroidered or glowing on her costume, a banner, a sign or a machine, never as a floating label, corner badge, periodic-table tile, caption or overlay on the picture; no logo or watermark.\nAvoid: flat single-tone cel shading, photographic appearance, semi-realistic face, plastic 3D-render finish.",
+ "date": "2026-11-27",
+ "record": "records/c-fire/mecha.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c-fire",
+  "out": "world",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {
+   "c-fire|mecha": {}
+  },
+  "looks": {
+   "c-fire|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "c-fire|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "32ff86a0164718fb18bd2b7ea869bd0630728ce3da14d0855aa67d055b16a035",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Selected world image extracted losslessly from original-resolution selection sheet."
+ },
+ "execution": "carbon-fire-20261127",
+ "imported": "2026-11-27",
+ "acceptance": "User selected fantasy1,steampunk1,mecha2; authorized commit and ordinary main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": true,
+  "anatomy": "ok",
+  "image_sha256": "32ff86a0164718fb18bd2b7ea869bd0630728ce3da14d0855aa67d055b16a035",
+  "observations": [
+   "One adult woman; face, flame-orange hair, amber eyes and voluptuous build correspond to selected world reference.",
+   "No extra or disconnected limb visible."
+  ]
+ }
+}

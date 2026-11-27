@@ -1,0 +1,86 @@
+{
+ "atelier": "element",
+ "card": "c-fire",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-fire_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "time": "golden",
+  "own": "mecha",
+  "placeText": "a rooftop among chimney pots of her element's kingdom — a ladder, coiled brushes and thin smoke over the town",
+  "ownProp": "a long chimney brush",
+  "expr": "amused",
+  "preset": "camera_shot",
+  "prop": "0",
+  "outfit": "a chimney sweep look fitted to her body — a soot-smudged short jacket open over a bandeau, tiny patched shorts, striped stockings and a flat cap",
+  "scene": "she is a chimney sweep pushing a brush into a chimney pot with both hands",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "c-fire_mecha_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fire, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a rooftop among chimney pots of her element's kingdom — a ladder, coiled brushes and thin smoke over the town\nTime of day: golden hour — warm low sun, long shadows; the warm low sun rim-lighting her hair.\nOutfit: a chimney sweep look fitted to her body — a soot-smudged short jacket open over a bandeau, tiny patched shorts, striped stockings and a flat cap, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a long chimney brush in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is a chimney sweep pushing a brush into a chimney pot with both hands\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — two faces of one element: black soot and clear diamond; hexagonal lattices (graphite, graphene) as patterns, pencil-graphite grey, carbon-fibre weave; it bonds with everything and is the frame of all life — may show in the outfit's details, motifs or small accessories.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/c-fire/mecha-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "굴뚝 청소부",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "bff3fc335fc0bd1308bab7d63bfacd6de123def7a018ff696b4186faf17f16f0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original image preserved; no post-generation redraw.",
+  "ref_sha256": "32ff86a0164718fb18bd2b7ea869bd0630728ce3da14d0855aa67d055b16a035",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "carbon-fire-20261127",
+ "imported": "2026-11-27",
+ "acceptance": "User selected fantasy1,steampunk1,mecha2; authorized commit and ordinary main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": false,
+  "anatomy": "ok",
+  "image_sha256": "bff3fc335fc0bd1308bab7d63bfacd6de123def7a018ff696b4186faf17f16f0",
+  "observations": [
+   "One adult woman; face, flame-orange hair, amber eyes and voluptuous build correspond to selected world reference.",
+   "No extra or disconnected limb visible.",
+   "Lattice ornaments and C/6 decorations are stronger than the requested small everyday accents."
+  ]
+ }
+}

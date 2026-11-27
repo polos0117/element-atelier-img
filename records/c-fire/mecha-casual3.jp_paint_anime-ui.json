@@ -1,0 +1,135 @@
+{
+ "atelier": "element",
+ "card": "c-fire",
+ "tier": "lord",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "c-fire_mecha_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_starstage",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "turn": "left",
+  "time": "night",
+  "spot": "right_third",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Navia",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "wink",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "c-fire_mecha_jp_paint_anime_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Fire, of the Carbon Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a stage under a painted night sky of crystal stars\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nOutfit: a daring adult cosplay of Navia from Genshin Impact — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nFigure: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/c-fire/mecha-casual3.jp_paint_anime-ui.json",
+ "storage": {
+  "card": "c-fire",
+  "out": "casual",
+  "world": "mecha",
+  "style": "jp_paint_anime",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "c-fire": {
+    "era": "fantasy",
+    "place": "fx_starstage",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "gc_bikini",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Navia",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "night",
+    "spot": "right_third",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7ca0bb0630f2ce3273007b8c31e709e6773daed76f3f8d704eae04d68fa0293d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original image preserved; no post-generation redraw.",
+  "ref_sha256": "32ff86a0164718fb18bd2b7ea869bd0630728ce3da14d0855aa67d055b16a035",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Navia",
+   "cut": "bikini",
+   "round": 1
+  }
+ },
+ "execution": "carbon-fire-20261127",
+ "imported": "2026-11-27",
+ "acceptance": "User selected fantasy1,steampunk1,mecha2; authorized commit and ordinary main update",
+ "qa": {
+  "reviewer": "Codex",
+  "passed": false,
+  "anatomy": "ok",
+  "image_sha256": "7ca0bb0630f2ce3273007b8c31e709e6773daed76f3f8d704eae04d68fa0293d",
+  "observations": [
+   "One adult woman; face, flame-orange hair, amber eyes and voluptuous build correspond to selected world reference.",
+   "No extra or disconnected limb visible.",
+   "Lattice ornaments and C/6 decorations are stronger than the requested small everyday accents."
+  ]
+ }
+}
