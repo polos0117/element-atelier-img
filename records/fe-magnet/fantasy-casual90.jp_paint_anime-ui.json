@@ -1,0 +1,94 @@
+{
+ "atelier": "element",
+ "card": "fe-magnet",
+ "tier": "lord",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "jp_paint_anime",
+ "styleVersion": "v1",
+ "ref": "fe-magnet_fantasy_jp_paint_anime_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
+  "own": "fantasy",
+  "placeText": "a lost-property office of her element's kingdom — shelves of tagged umbrellas, hats and cases behind a counter",
+  "ownProp": "a single lost glove",
+  "spot": "right_third",
+  "depth": "flat",
+  "view": "foreground",
+  "expr": "curious",
+  "preset": "counter_cup",
+  "prop": "0",
+  "outfit": "a lost-property clerk look fitted to her body — a fitted waistcoat over a sheer sleeveless blouse open at the neck, a short skirt and stockings",
+  "scene": "she is a lost-property clerk waiting for an owner",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "fe-magnet_fantasy_jp_paint_anime_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same woman — the personification of Magnet, of the Iron Nation — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: A Japanese anime key visual with a painterly finish: an anime-style character with an elegant adult anime face, large expressive eyes, a small nose and mouth, fine coloured linework and soft cel-to-painted shading with painted highlights in the hair and fabric. Behind her, a richly painted background with layered painterly colour, subtle visible brushwork, atmospheric perspective and cinematic depth. Luminous, rich colours; crisp focal details on the face and costume, softer painted edges toward the distance. No flat single-tone cel shading, photographic appearance, semi-realistic face or plastic 3D-render finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a lost-property office of her element's kingdom — shelves of tagged umbrellas, hats and cases behind a counter\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nOutfit: a lost-property clerk look fitted to her body — a fitted waistcoat over a sheer sleeveless blouse open at the neck, a short skirt and stockings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a single lost glove at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is a lost-property clerk waiting for an owner\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nHer element — dark grey iron with bright steel highlights, orange-brown rust and glowing forge-orange heat, magnetism (iron filings, lodestone), hardness and weight, the smell of a smithy; it is the element of tools, weapons, bridges, machines and blood — may show in the outfit's details, motifs or small accessories.\n\nFigure: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text or numbers other than her element's own symbol and atomic number, no logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/fe-magnet/fantasy-casual90.jp_paint_anime-ui.json",
+ "own": {
+  "job_ko": "분실물 센터 직원",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "bfb7ef2181265a8799e91dc0b87a77128b7a6546deaa22b2135391e6c1919ad7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG hash retained; no regenerated completed image.",
+  "actual_prompt_sha256": "6dc03a17c6b10713048e90cb0a4530bdee710a27c10f9c2ccd60ee1cceb048e2",
+  "ref_sha256": "afb2802e539f55125e550da156c4aec54340815b821ed0f657ca4d16db410bed",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "element-magnet-20261128-2054",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bfb7ef2181265a8799e91dc0b87a77128b7a6546deaa22b2135391e6c1919ad7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "분실물센터에서 장갑을 들고 카운터에 다른 손을 얹음. 허리 위 계획보다 허벅지까지 프레임 확장.",
+   "이미지를 그대로 보존. 팔다리 추가·분리 이상은 관찰하지 못함; 가려진 부분의 손가락은 판정 범위 밖."
+  ],
+  "cause": "생성 모델의 의상·장면·프레이밍 세부 변주"
+ },
+ "acceptance": "User approved 2,2,4 and completion/publishing; no force push, deletion, or regeneration of completed images."
+}
